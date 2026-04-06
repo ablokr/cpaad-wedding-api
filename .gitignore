@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+
+# Data and Artifacts (Stored in separate branches via GitHub Actions)
+data/
+data/captures/
+*.png
+*.json
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
