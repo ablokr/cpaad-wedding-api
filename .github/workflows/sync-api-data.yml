@@ -1,0 +1,45 @@
+name: Sync Data to api-data Branch
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'data/**' # data/ 디렉토리 내 파일 변경 시에만 실행
+  workflow_dispatch: # 수동 실행 기능 추가
+
+permissions:
+  contents: write
+
+jobs:
+  sync_data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0 # 모든 브랜치 정보를 가져오기 위함
+
+      - name: Git identity configuration
+        run: |
+          git config --global user.name "ablo-bot"
+          git config --global user.email "ablo.dot.kr@gmail.com"
+
+      - name: Sync data to api-data branch
+        run: |
+          # 1. api-data 브랜치가 존재하는지 확인하고 체크아웃
+          git checkout -B api-data origin/api-data || git checkout -b api-data
+          
+          # 2. main 브랜치의 data/ 폴더 내용만 덮어쓰기
+          git checkout main -- data/
+          
+          # 3. 변경사항 여부 확인 및 푸시
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "Update wedding data [skip ci] $(date '+%Y%m%d%H%M%S')"
+            git push origin api-data --force
+            echo "[✔] api-data 브랜치 동기화 완료"
+          else
+            echo "[*] 데이터 변경 사항이 없습니다."
+          fi

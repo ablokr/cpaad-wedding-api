@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.env.local
+.venv
+env/
+venv/
+ENV/
+
+# Data and Artifacts
+# data/  <-- 분석 데이터 추적을 위해 이그노어 해제 (JSON 전용)
+data/captures/
+*.png
+
+# Standard JSON metadata like lib/ should NOT be ignored
+# [수정] 아래 패턴을 구체화하여 data 폴더 내의 json만 무시하고 lib은 포함시킵니다.
+data/**/*.json
+
+# Next.js / Node.js
+node_modules/
+.next/
+out/
+build/
+.DS_Store
+
+
+sample_ad_json.json
+ad_json_date.php.json
+# Temporary items
+/tmp/
+*.txt
+*.log

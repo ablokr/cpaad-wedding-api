@@ -1,0 +1,314 @@
+import json
+from typing import List, Optional
+from pydantic import BaseModel, Field, ValidationError
+from google.genai import types
+
+from config import config
+
+# ==========================================
+# [Pydantic 스키마 — AI 전용]
+#
+# AI의 역할: 이미지에서 정보를 추출하고, 그 정보를 바탕으로
+# 검색엔진 최적화(SEO)에 강력한 콘텐츠를 "생성"합니다.
+# (단순 복사-붙여넣기가 아닌 풍부하고 설득력 있는 문장으로 재창조)
+#
+# 위치/날짜: 전처리 모듈 담당 → AI 스키마에서 제외 (토큰 절약)
+# ==========================================
+
+class SeoMetadata(BaseModel):
+    """
+    검색엔진 최적화를 위한 메타데이터.
+    단순 정보 나열이 아닌, 검색 의도를 정확히 반영한 문구여야 합니다.
+    """
+    # 클릭률을 높이는 제목: 행사명 + 지역 + 핵심 혜택 포함 (50~60자 이내)
+    title: str = Field(
+        ...,
+        description="검색 노출 최적화 제목. '브랜드명 + [지역] + 핵심혜택' 구조. 예: '이니웨딩 박람회 | 서울 상담 시 100만원 상품권 증정'"
+    )
+    # 클릭을 유도하는 설명: 구체적인 혜택과 희소성 어필 (120~160자)
+    meta_description: str = Field(
+        ...,
+        description="클릭률을 높이는 검색 결과 설명문. 구체적 혜택(수치), 일시, 희소성(선착순/한정)을 포함한 120~160자 설득 문구."
+    )
+    # 롱테일 키워드 10개 이상: 지역+행사, 혜택 중심 검색어
+    keywords: List[str] = Field(
+        default_factory=list,
+        description="검색 유입을 위한 롱테일 키워드 목록 10개 이상. 예: ['서울 웨딩박람회', '신혼부부 웨딩 혜택', '2026 결혼 준비 박람회']"
+    )
+
+class MarketingHooks(BaseModel):
+    """
+    방문자의 즉각적인 관심을 사로잡는 마케팅 문구.
+    감성과 혜택을 동시에 자극해야 합니다.
+    """
+    # 핵심 가치 제안을 담은 강렬한 한 문장
+    primary_headline: str = Field(
+        ...,
+        description="단 1초 만에 관심을 끄는 주 헤드라인. 숫자나 강력한 혜택 포함. 예: '지금 등록하면 최대 현금 100만원 환급'"
+    )
+    # 주 헤드라인을 보완하는 구체적 설명
+    secondary_headline: str = Field(
+        ...,
+        description="주 헤드라인을 뒷받침하는 보조 문구. 대상(신혼부부), 특징, 차별점 중심."
+    )
+    urgency_text: str = Field(
+        "",
+        description="행동을 즉시 유도하는 희소성/긴박감 문구. 예: '선착순 100쌍 한정', '이번 주말까지만'"
+    )
+    call_to_action_text: str = Field(
+        ...,
+        description="클릭을 유발하는 CTA 버튼 문구. 구체적이고 행동 지향적으로. 예: '지금 무료 상담 신청하기'"
+    )
+
+class Benefits(BaseModel):
+    """
+    방문/계약 혜택 목록. 구체적인 수치와 조건을 포함해야 합니다.
+    """
+    # 방문만 해도 받는 혜택
+    visit_gifts: List[str] = Field(
+        default_factory=list,
+        description="방문 시 증정 혜택 목록. 수치 포함. 예: ['현장 방문 시 스타벅스 쿠폰', '선착순 50쌍 경품 추첨']"
+    )
+    # 계약 체결 시 혜택
+    contract_benefits: List[str] = Field(
+        default_factory=list,
+        description="계약/상담 체결 시 혜택 목록. 예: ['계약 축하금 최대 50만원', '허니문 여행권 증정']"
+    )
+    # 특별 이벤트
+    special_events: List[str] = Field(
+        default_factory=list,
+        description="현장 특별 이벤트 목록. 예: ['포토존 운영', '웨딩 드레스 피팅 체험']"
+    )
+
+class ConversionAndTrust(BaseModel):
+    """
+    신뢰도를 높이고 전환율을 극대화하는 요소들.
+    """
+    required_form_fields: List[str] = Field(
+        default_factory=list,
+        description="신청 폼에 필요한 정보 목록. 예: ['이름', '연락처', '예식 예정일']"
+    )
+    gift_conditions: str = Field(
+        "",
+        description="경품/혜택 수령 조건 전문. 예: '현장 상담 완료 후 QR코드 스캔 시 증정'"
+    )
+    trust_indicators: List[str] = Field(
+        default_factory=list,
+        description="신뢰도를 높이는 요소 목록. 예: ['업체 30개 이상 입점', '누적 방문객 10만 명', '1:1 전문 상담']"
+    )
+
+class DetailedContent(BaseModel):
+    """
+    페이지 내 상세 콘텐츠. SEO를 위해 검색 의도를 반영하여 풍부하게 작성합니다.
+    """
+    # 방문자가 첫눈에 보는 핵심 인트로 (검색엔진이 중시하는 상단 콘텐츠)
+    intro_text: str = Field(
+        ...,
+        description=(
+            "페이지 상단 인트로 문단. 2~3문장, 150자 이상. "
+            "행사의 가치, 대상, 핵심 혜택을 녹여 '왜 이 박람회여야 하는가'를 설득하세요. "
+            "예: '결혼을 앞둔 커플이라면 놓칠 수 없는 기회입니다. "
+            "2026년 봄 웨딩 시즌을 맞아 서울 최대 규모의 웨딩 박람회가 열립니다...'"
+        )
+    )
+    # 혜택을 설명하는 본문 (방문자의 이득을 구체적으로 서술)
+    benefits_description: str = Field(
+        ...,
+        description=(
+            "혜택 상세 설명 문단. 3~5문장, 200자 이상. "
+            "방문 시 받을 수 있는 혜택을 구체적 수치와 함께 풍부하게 설명하세요. "
+            "단순 나열이 아닌, 신혼부부의 감정에 공감하는 문체로 작성하세요."
+        )
+    )
+    # 검색엔진 인덱싱에 유리한 추가 정보
+    summary_for_search: str = Field(
+        ...,
+        description=(
+            "검색 결과 스니펫으로 활용될 요약문. 200자 이내. "
+            "행사명, 일시, 장소, 핵심 혜택이 자연스럽게 포함된 문장. "
+            "검색어 '웨딩박람회 서울', '결혼 준비 박람회' 등에 노출되도록 최적화하세요."
+        )
+    )
+
+
+class AiAnalysisOutput(BaseModel):
+    """
+    AI가 생성해야 하는 최종 출력 스키마.
+
+    [AI 역할 정의]
+    단순 데이터 추출이 아닌 SEO 콘텐츠 생성자:
+    - 이미지에서 정보를 정확히 추출
+    - 추출한 정보를 검색엔진 최적화(SEO)에 유리한 풍부한 문장으로 재창조
+    - 검색 의도(신혼부부, 웨딩 준비, 결혼 박람회)를 반영한 자연스러운 키워드 배치
+    - 위치/날짜는 별도 처리됨 → 포함 불필요
+    """
+    seo_metadata: SeoMetadata
+    detailed_content: DetailedContent
+    marketing_hooks: MarketingHooks
+    benefits: Benefits
+    venue: str = Field("", description="개최 장소명 (이미지에서 확인)")
+    parking_info: Optional[str] = Field(None, description="주차 정보 (이미지에서 확인)")
+    conversion_and_trust: ConversionAndTrust
+
+
+# ==========================================
+# [데이터 처리 클래스]
+# ==========================================
+
+class WeddingDataProcessor:
+    def __init__(self, api_client):
+        self.client = api_client
+
+        # 시스템 지시: AI의 역할을 "SEO 콘텐츠 생성자"로 명확히 정의
+        self.system_instruction = (
+            "당신은 웨딩 박람회 전문 SEO 콘텐츠 라이터입니다. "
+            "웨딩 박람회 랜딩페이지 이미지를 분석하여 두 가지 임무를 수행합니다.\n"
+            "\n"
+            "[임무 1 - 정보 추출] 이미지에서 다음을 정확히 파악합니다:\n"
+            "  - 제공하는 방문 혜택, 계약 혜택, 특별 이벤트\n"
+            "  - 개최 장소명, 주차 정보\n"
+            "  - 신뢰를 높이는 요소(참여 업체 수, 방문객 수 등)\n"
+            "  - CTA 버튼 문구, 마케팅 헤드라인\n"
+            "\n"
+            "[임무 2 - SEO 콘텐츠 생성] 추출한 정보를 바탕으로:\n"
+            "  - 검색엔진 상위 노출에 유리한 제목(50~60자)과 메타 디스크립션(120~160자)을 작성합니다\n"
+            "  - '웨딩박람회', '결혼준비', '신혼부부 혜택' 등 검색 의도를 반영한 키워드를 자연스럽게 포함시킵니다\n"
+            "  - 단순 정보 나열이 아닌, 방문자의 공감을 얻고 클릭/방문을 유도하는 설득력 있는 문장을 작성합니다\n"
+            "  - 구체적인 수치(금액, 인원, 업체 수)가 있으면 반드시 포함합니다\n"
+            "\n"
+            "위치(시도/시군구)와 날짜 정보는 이미 별도로 확보되었으므로 분석에서 제외합니다. "
+            "값이 이미지에서 확인되지 않으면 null 또는 빈 문자열로 처리합니다."
+        )
+
+    def get_ai_schema(self):
+        """AI 전용 스키마 반환"""
+        return AiAnalysisOutput.model_json_schema()
+
+    def analyze_image(self, image_path: str, api_basic_data: dict, preprocessed: dict = None):
+        """
+        Gemini API로 이미지를 분석하고 SEO 최적화 콘텐츠를 생성합니다.
+
+        [전략]
+        - 광고명 + 전처리된 위치/날짜를 컨텍스트로 제공 → AI가 더 정확한 SEO 문구 생성 가능
+        - 추출 정보를 SEO 콘텐츠로 재창조하도록 명시적 지시
+        """
+        print(f"[*] [Processor] Gemini API 이미지 분석 + SEO 콘텐츠 생성...")
+        uploaded_file = self.client.files.upload(file=image_path)
+
+        ad_name = api_basic_data.get("gather_name", "")
+        schema = self.get_ai_schema()
+
+        # 전처리된 위치/날짜/장소명을 컨텍스트로 제공 (AI가 더 정확한 SEO 문구 작성 가능)
+        context_parts = [f"광고명: {ad_name}"]
+        if preprocessed:
+            loc = preprocessed.get("location", {})
+            dates = preprocessed.get("dates", {})
+            if loc.get("sido"):
+                context_parts.append(f"지역: {loc.get('sido')} {loc.get('sigungu', '')}")
+            if loc.get("venue"):
+                context_parts.append(f"추정 장소명: {loc.get('venue')}")
+            if dates.get("display_date"):
+                context_parts.append(f"행사 일시: {dates.get('display_date')}")
+
+        context_str = "\n".join(context_parts)
+
+        prompt = (
+            f"[행사 기본 정보] (SEO 콘텐츠 작성 시 참고)\n"
+            f"{context_str}\n\n"
+            f"위 이미지는 웨딩 박람회 랜딩페이지입니다.\n"
+            f"이미지에서 혜택, 마케팅 문구, 장소, 신뢰 요소 등을 추출하고, "
+            f"검색엔진 상위 노출에 유리한 SEO 콘텐츠를 생성하여 아래 JSON 형식으로 반환하세요.\n"
+            f"Schema: {json.dumps(schema, ensure_ascii=False)}"
+        )
+
+        try:
+            # 설정된 AI 모델 사용 (config.json 또는 환경변수)
+            model_name = config.ai_model
+            response = self.client.models.generate_content(
+                model=model_name,
+                contents=[prompt, uploaded_file],
+                config=types.GenerateContentConfig(
+                    response_mime_type="application/json",
+                    system_instruction=self.system_instruction,
+                ),
+            )
+
+            raw_json = json.loads(response.text)
+
+            validated = AiAnalysisOutput(**raw_json)
+            print(f"[✔] [Processor] AI 데이터 검증 통과")
+            return validated.model_dump(mode="json")
+
+        except ValidationError as ve:
+            print(f"[!] [Processor] 데이터 검증 실패: {ve}")
+            raise ValueError(f"AI 생성 데이터 유효성 검증 실패: {ve.errors()}")
+        except Exception as e:
+            print(f"[✘] [Processor] analyze_image 도중 오류: {e}")
+            raise e
+        finally:
+            try:
+                self.client.files.delete(name=uploaded_file.name)
+            except:
+                pass
+
+    def smart_merge(self, ai_data: dict, api_basic_data: dict, campaign_id: str, preprocessed: dict):
+        """
+        전처리 데이터(위치/날짜) + AI 생성 데이터(SEO/마케팅) + API 원본(에셋)을 결합합니다.
+
+        데이터 출처별 역할:
+        - preprocessed: 위치(sido/sigungu/영문), 날짜(start/end_date) — 정확도 보장
+        - ai_data: SEO 메타, 상세 콘텐츠, 마케팅 문구, 혜택, 신뢰 요소 — AI 창작
+        - api_basic_data: gather_name, 에셋(메인비주얼/썸네일 URL) — API 원본
+        """
+        loc_pre = preprocessed["location"]
+        dates_pre = preprocessed["dates"]
+
+        result = {
+            "campaign_id": campaign_id,
+            "gather_name": api_basic_data.get("gather_name", ""),
+
+            # SEO 메타데이터 (AI 생성)
+            "seo_metadata": ai_data.get("seo_metadata", {}),
+
+            # 풍부한 상세 콘텐츠 (AI 생성 — SEO 최적화 문단)
+            "detailed_content": ai_data.get("detailed_content", {}),
+
+            # 마케팅 문구 (AI 생성)
+            "marketing_hooks": ai_data.get("marketing_hooks", {}),
+
+            # 혜택 정보 (AI 추출)
+            "benefits": ai_data.get("benefits", {}),
+
+            # 행사 상세 (위치: 전처리, 날짜: 전처리, 장소/주차: AI 추출)
+            "event_details": {
+                "event": {
+                    "start_date": dates_pre.get("start_date"),
+                    "end_date": dates_pre.get("end_date"),
+                    "display_date": dates_pre.get("display_date", ""),
+                    "original_display_date": api_basic_data.get("ad_date", ""),
+                },
+                "location": {
+                    "sido": loc_pre.get("sido", ""),
+                    "sido_en": loc_pre.get("sido_en", "etc"),
+                    "sigungu": loc_pre.get("sigungu", ""),
+                    "sigungu_en": loc_pre.get("sigungu_en", ""),
+                    "address": loc_pre.get("address", ""),  # 전처리된 주소 추가
+                    "venue": loc_pre.get("venue") if loc_pre.get("venue") else ai_data.get("venue", ""),
+                    "parking_info": ai_data.get("parking_info") or "대중교통 이용 권장 또는 현장 문의",
+                    "region_code": api_basic_data.get("region", ""),
+                },
+            },
+
+            # 전환/신뢰 요소 (AI 생성)
+            "conversion_and_trust": ai_data.get("conversion_and_trust", {}),
+
+            # 에셋 (API 원본)
+            "campaign_assets": {
+                "target_url": api_basic_data.get("ad_url"),
+                "mainvisual": api_basic_data.get("ad_mainvisual"),
+                "thumbnail": api_basic_data.get("ad_thumbnail"),
+                "thumbnail2": api_basic_data.get("ad_thumbnail2"),
+            },
+        }
+
+        return result

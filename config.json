@@ -1,0 +1,22 @@
+{
+  "api": {
+    "_comment": "CPAAD 웨딩 API 설정",
+    "url": "https://cpaad.co.kr/api/ad_json_date.php",
+    "timeout": 30.0
+  },
+  "ai": {
+    "_comment": "중요: AI 모델명은 이 비즈니스 로직에 최적화되어 있으므로 임의로 수정 금지!!",
+    "model": "gemini-3.1-flash-lite-preview"
+  },
+  "pipeline": {
+    "_comment": "작업 병렬성 및 재시도 정책. max_workers는 동시 실행 스레드 수입니다.",
+    "max_workers": 6,
+    "max_retries": 3,
+    "retry_delay_seconds": 2
+  },
+  "storage": {
+    "_comment": "데이터 저장 경로 설정",
+    "data_dir": "data/campaigns",
+    "raw_dir": "data/dailyRaw"
+  }
+}

@@ -1,0 +1,148 @@
+import os
+import json
+import time
+
+class WeddingDataStorage:
+    def __init__(self, base_dir="data", mapping_path="lib/regionMapping.json"):
+        self.base_dir = base_dir
+        self.mapping = self._load_mapping(mapping_path)
+        # 필수 디렉토리 구성
+        for sub in ["campaigns", "regions", "captures"]:
+            os.makedirs(os.path.join(self.base_dir, sub), exist_ok=True)
+
+    def _load_mapping(self, path):
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return {}
+
+    def get_region_en(self, sido_ko):
+        """시도(KO) 이름을 영어 코드로 변환 (lib/regionMapping.json 참조)"""
+        if not sido_ko: return "etc"
+        if sido_ko in self.mapping:
+            return self.mapping[sido_ko].get("en", "etc").lower()
+        for key, info in self.mapping.items():
+            if sido_ko in info.get("aliases", []) or key in sido_ko:
+                return info.get("en", "etc").lower()
+        return "etc"
+
+    def get_district_en(self, sido_ko, sigungu_ko):
+        """시군구(KO) 이름을 영어 이름으로 변환 (regionMapping.json의 cities 키 사용)"""
+        if not sido_ko or not sigungu_ko: return sigungu_ko
+        
+        # 시도 정보 조회 (직접 매칭 → aliases 퍼지 매칭)
+        region_info = self.mapping.get(sido_ko)
+        if not region_info:
+            for key, info in self.mapping.items():
+                if sido_ko in info.get("aliases", []) or key in sido_ko:
+                    region_info = info
+                    break
+        
+        # [수정] "districts" → "cities" : regionMapping.json의 실제 키와 일치시킴
+        if region_info and "cities" in region_info:
+            cities = region_info["cities"]
+            
+            # 1. 정확 일치 (예: "강남구" → "Gangnam")
+            if sigungu_ko in cities:
+                return cities[sigungu_ko].lower()
+            
+            # 2. 퍼지 매칭 (예: "안산시 상록구" → "안산시" 포함 → "Ansan")
+            for city_ko, city_en in cities.items():
+                if city_ko in sigungu_ko or sigungu_ko in city_ko:
+                    return city_en.lower()
+        
+        return sigungu_ko.lower()
+
+    def read_json(self, path):
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        return {}
+
+    def read_json_list(self, path):
+        if os.path.exists(path):
+            with open(path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+                return data if isinstance(data, list) else []
+        return []
+
+    def write_json(self, path, data):
+        os.makedirs(os.path.dirname(path), exist_ok=True)
+        with open(path, 'w', encoding='utf-8') as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+
+    def _update_list(self, list_data, new_item):
+        if not isinstance(list_data, list): return [new_item]
+        cid = new_item.get("campaign_id")
+        updated = False
+        for i, item in enumerate(list_data):
+            if item.get("campaign_id") == cid:
+                list_data[i] = new_item
+                updated = True
+                break
+        if not updated:
+            list_data.append(new_item)
+        return list_data
+
+    def save_final_results(self, full_data: dict):
+        """최종 분석 데이터를 개별 캠페인 파일, 지역별 색인, 전체 색인에 저장합니다."""
+        cid = full_data.get("campaign_id")
+        sido_ko = full_data.get("event_details", {}).get("location", {}).get("sido", "기타")
+        region_en = self.get_region_en(sido_ko)
+
+        # 1. 개별 캠페인 상세 저장
+        campaign_path = os.path.join(self.base_dir, "campaigns", f"{cid}.json")
+        self.write_json(campaign_path, full_data)
+
+        # 2. 요약 정보 생성 (색인용)
+        summary = {
+            "campaign_id": cid,
+            "gather_name": full_data.get("gather_name"),
+            "display_date": full_data.get("event_details", {}).get("event", {}).get("display_date"),
+            "venue": full_data.get("event_details", {}).get("location", {}).get("venue"),
+            "sido": sido_ko,
+            "region_en": region_en,
+            "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
+            "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+        }
+
+        # 3. 지역별 색인 업데이트
+        for suffix, data in [("_index", summary), ("", full_data)]:
+            path = os.path.join(self.base_dir, "regions", f"{region_en}{suffix}.json")
+            current_list = self.read_json_list(path)
+            self.write_json(path, self._update_list(current_list, data))
+
+        # 4. 전체 색인 업데이트
+        for filename, data in [("all_index.json", summary), ("all.json", full_data)]:
+            path = os.path.join(self.base_dir, filename)
+            current_list = self.read_json_list(path)
+            self.write_json(path, self._update_list(current_list, data))
+
+        print(f"[✔] [Storage] 데이터 저장 완료: {cid} (Region: {region_en})")
+
+    def get_capture_path(self, campaign_id: str):
+        """해당 캠페인의 스크린샷 저장 경로 반환"""
+        return os.path.join(self.base_dir, "captures", f"{campaign_id}_capture.png")
+
+    def is_campaign_exists(self, campaign_id: str):
+        """해당 캠페인의 최종 결과 파일(JSON)이 이미 존재하는지 확인"""
+        campaign_path = os.path.join(self.base_dir, "campaigns", f"{campaign_id}.json")
+        return os.path.exists(campaign_path)
+
+    def update_api_cache(self, cid, data):
+        """단일 캠페인 수집 성공 시 api_cache.json 파일을 실시간으로 업데이트합니다."""
+        cache_path = os.path.join(self.base_dir, "api_cache.json")
+        
+        # 최신 파일 읽기
+        if not os.path.exists(cache_path):
+            current_cache = {}
+        else:
+            try:
+                with open(cache_path, 'r', encoding='utf-8') as f:
+                    current_cache = json.load(f)
+            except:
+                current_cache = {}
+        
+        # 해당 캠페인만 업데이트 후 즉시 저장
+        current_cache[cid] = data
+        self.write_json(cache_path, current_cache)
