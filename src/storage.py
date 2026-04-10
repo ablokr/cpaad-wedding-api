@@ -146,3 +146,51 @@ class WeddingDataStorage:
         # 해당 캠페인만 업데이트 후 즉시 저장
         current_cache[cid] = data
         self.write_json(cache_path, current_cache)
+
+    def delete_campaign_data(self, cid):
+        """특정 캠페인 관련 데이터(JSON, 이미지, 검색 색인 등)를 모두 삭제합니다."""
+        # 1. 개별 캠페인 파일 삭제 시도 및 지역 정보 파악
+        campaign_path = os.path.join(self.base_dir, "campaigns", f"{cid}.json")
+        region_en = None
+        if os.path.exists(campaign_path):
+            try:
+                with open(campaign_path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    sido_ko = data.get("event_details", {}).get("location", {}).get("sido")
+                    region_en = self.get_region_en(sido_ko)
+                os.remove(campaign_path)
+            except:
+                pass
+
+        # 2. 캡처 이미지 삭제
+        capture_path = self.get_capture_path(cid)
+        if os.path.exists(capture_path):
+            try:
+                os.remove(capture_path)
+            except:
+                pass
+
+        # 3. 색인 파일 업데이트 (all.json, all_index.json, region.json, region_index.json)
+        def _remove_from_list(list_data, target_cid):
+            return [item for item in list_data if item.get("campaign_id") != target_cid]
+
+        # 3-1. 전체 색인에서 제거
+        for filename in ["all.json", "all_index.json"]:
+            path = os.path.join(self.base_dir, filename)
+            if os.path.exists(path):
+                current_list = self.read_json_list(path)
+                new_list = _remove_from_list(current_list, cid)
+                if len(current_list) != len(new_list):
+                    self.write_json(path, new_list)
+
+        # 3-2. 지역 색인에서 제거
+        if region_en:
+            for suffix in ["", "_index"]:
+                path = os.path.join(self.base_dir, "regions", f"{region_en}{suffix}.json")
+                if os.path.exists(path):
+                    current_list = self.read_json_list(path)
+                    new_list = _remove_from_list(current_list, cid)
+                    if len(current_list) != len(new_list):
+                        self.write_json(path, new_list)
+        
+        print(f"[!] [Storage] 데이터 삭제 완료: {cid}")

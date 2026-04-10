@@ -138,6 +138,17 @@ async def main_optimized():
         new_ads_dict = await WeddingApiLoader.fetch_all_ads()
         cached_ads_dict = storage.read_json(cache_path)
 
+        # 1-2. 종료된 캠페인 정리 (Cleanup defunct campaigns)
+        removed_count = 0
+        for cached_cid in list(cached_ads_dict.keys()):
+            if cached_cid not in new_ads_dict:
+                print(f"[*] [{cached_cid}] 종료된 캠페인 감지. 관련 데이터를 삭제합니다.")
+                storage.delete_campaign_data(cached_cid)
+                removed_count += 1
+        
+        if removed_count > 0:
+            print(f"[*] 총 {removed_count}건의 종료된 캠페인을 정리했습니다.")
+
         # 2. 변경대상 선별 (Incremental Update)
         target_ads = []
         skip_count = 0
