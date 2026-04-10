@@ -40,7 +40,7 @@ fi
 echo "[*] 소스 코드 최신 버전 가져오는 중 (main)..."
 # 실행 권한 변경 등으로 인한 미세 충돌 무시를 위해 강제 전환
 git checkout -f main
-git pull origin main
+git pull origin main || echo "[!] git  데이터 수집을 계속 진행합니다."
 
 # 4. 분석 파이프라인 실행
 echo "[*] 데이터 수집 및 AI 분석 파이프라인 실행 중..."
