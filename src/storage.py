@@ -73,11 +73,34 @@ class WeddingDataStorage:
 
     def _wrap_with_stats(self, items):
         """리스트를 받아 통계 정보가 포함된 표준 구조 객체로 변환"""
-        region_count = len(set(item.get("region_en") for item in items if item.get("region_en")))
+        regions = set()
+        districts = set()
+
+        for item in items:
+            # 1. region_en 추출 (최상위 또는 event_details 내)
+            r_en = item.get("region_en")
+            if not r_en:
+                # all.json 같은 전체 데이터 구조 대응
+                sido_ko = item.get("event_details", {}).get("location", {}).get("sido")
+                if sido_ko:
+                    r_en = self.get_region_en(sido_ko)
+            
+            if r_en:
+                regions.add(r_en)
+
+            # 2. sigungu/district 추출
+            sigungu = item.get("sigungu")
+            if not sigungu:
+                sigungu = item.get("event_details", {}).get("location", {}).get("sigungu")
+            
+            if sigungu:
+                districts.add(sigungu)
+
         return {
             "stats": {
                 "total_count": len(items),
-                "region_count": region_count,
+                "region_count": len(regions),
+                "district_count": len(districts),
                 "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
             },
             "items": items
