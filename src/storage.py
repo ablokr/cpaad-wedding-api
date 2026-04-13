@@ -77,24 +77,17 @@ class WeddingDataStorage:
         districts = set()
 
         for item in items:
-            # 1. region_en 추출 (최상위 또는 event_details 내)
+            # 1. 시도(Region) 추출
             r_en = item.get("region_en")
             if not r_en:
-                # all.json 같은 전체 데이터 구조 대응
-                sido_ko = item.get("event_details", {}).get("location", {}).get("sido")
+                sido_ko = item.get("sido") or item.get("event_details", {}).get("location", {}).get("sido")
                 if sido_ko:
                     r_en = self.get_region_en(sido_ko)
-            
-            if r_en:
-                regions.add(r_en)
+            if r_en: regions.add(r_en)
 
-            # 2. sigungu/district 추출
-            sigungu = item.get("sigungu")
-            if not sigungu:
-                sigungu = item.get("event_details", {}).get("location", {}).get("sigungu")
-            
-            if sigungu:
-                districts.add(sigungu)
+            # 2. 시군구(District) 추출
+            sigungu = item.get("sigungu") or item.get("event_details", {}).get("location", {}).get("sigungu")
+            if sigungu: districts.add(sigungu)
 
         return {
             "stats": {
@@ -141,6 +134,7 @@ class WeddingDataStorage:
             "display_date": full_data.get("event_details", {}).get("event", {}).get("display_date"),
             "venue": full_data.get("event_details", {}).get("location", {}).get("venue"),
             "sido": sido_ko,
+            "sigungu": full_data.get("event_details", {}).get("location", {}).get("sigungu"),
             "region_en": region_en,
             "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
             "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
