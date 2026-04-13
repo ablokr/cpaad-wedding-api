@@ -135,7 +135,10 @@ async def main_optimized():
         storage = WeddingDataStorage(base_dir=base_data_dir)
 
         # 1. API 데이터 로딩
-        new_ads_dict = await WeddingApiLoader.fetch_all_ads()
+        full_response = await WeddingApiLoader.fetch_all_ads()
+        storage.save_raw_api_data(full_response)  # 원본 전체 데이터 백업
+        
+        new_ads_dict = full_response.get("advertisements", {})
         cached_ads_dict = storage.read_json(cache_path)
 
         # 1-2. 종료된 캠페인 정리 (Cleanup defunct campaigns)

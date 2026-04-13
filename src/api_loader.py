@@ -13,5 +13,4 @@ class WeddingApiLoader:
         async with httpx.AsyncClient(timeout=config.get("api", "timeout", 30.0)) as http_client:
             response = await http_client.get(api_url)
             response.raise_for_status()
-            data = response.json()
-            return data.get("advertisements", {})
+            return response.json()

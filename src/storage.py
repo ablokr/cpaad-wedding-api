@@ -7,7 +7,7 @@ class WeddingDataStorage:
         self.base_dir = base_dir
         self.mapping = self._load_mapping(mapping_path)
         # 필수 디렉토리 구성
-        for sub in ["campaigns", "regions", "captures"]:
+        for sub in ["campaigns", "regions", "captures", "cpaad"]:
             os.makedirs(os.path.join(self.base_dir, sub), exist_ok=True)
 
     def _load_mapping(self, path):
@@ -182,6 +182,12 @@ class WeddingDataStorage:
         # 해당 캠페인만 업데이트 후 즉시 저장
         current_cache[cid] = data
         self.write_json(cache_path, current_cache)
+
+    def save_raw_api_data(self, data):
+        """API 원본 응답 데이터를 data/cpaad/ad_json_date.json에 저장합니다."""
+        path = os.path.join(self.base_dir, "cpaad", "ad_json_date.json")
+        self.write_json(path, data)
+        print(f"[✔] [Storage] API 원본 백업 완료: {path}")
 
     def delete_campaign_data(self, cid):
         """특정 캠페인 관련 데이터(JSON, 이미지, 검색 색인 등)를 모두 삭제합니다."""
