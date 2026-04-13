@@ -60,11 +60,28 @@ class WeddingDataStorage:
         return {}
 
     def read_json_list(self, path):
+        """배열 형태 [] 또는 통계 포함 객체 {"items": []} 형태 모두 지원하도록 확장"""
         if os.path.exists(path):
             with open(path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                return data if isinstance(data, list) else []
+                if isinstance(data, list):
+                    return data
+                if isinstance(data, dict) and "items" in data:
+                    return data["items"]
+                return []
         return []
+
+    def _wrap_with_stats(self, items):
+        """리스트를 받아 통계 정보가 포함된 표준 구조 객체로 변환"""
+        region_count = len(set(item.get("region_en") for item in items if item.get("region_en")))
+        return {
+            "stats": {
+                "total_count": len(items),
+                "region_count": region_count,
+                "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+            },
+            "items": items
+        }
 
     def write_json(self, path, data):
         os.makedirs(os.path.dirname(path), exist_ok=True)
@@ -112,11 +129,13 @@ class WeddingDataStorage:
             current_list = self.read_json_list(path)
             self.write_json(path, self._update_list(current_list, data))
 
-        # 4. 전체 색인 업데이트
+        # 4. 전체 색인 업데이트 (통계 포함 객체 구조)
         for filename, data in [("all_index.json", summary), ("all.json", full_data)]:
             path = os.path.join(self.base_dir, filename)
             current_list = self.read_json_list(path)
-            self.write_json(path, self._update_list(current_list, data))
+            updated_list = self._update_list(current_list, data)
+            # 전체 데이터는 항상 통계와 함께 래핑하여 저장
+            self.write_json(path, self._wrap_with_stats(updated_list))
 
         print(f"[✔] [Storage] 데이터 저장 완료: {cid} (Region: {region_en})")
 
@@ -181,7 +200,8 @@ class WeddingDataStorage:
                 current_list = self.read_json_list(path)
                 new_list = _remove_from_list(current_list, cid)
                 if len(current_list) != len(new_list):
-                    self.write_json(path, new_list)
+                    # 삭제 후에도 통계 갱신하여 저장
+                    self.write_json(path, self._wrap_with_stats(new_list))
 
         # 3-2. 지역 색인에서 제거
         if region_en:
