@@ -24,7 +24,7 @@ jobs:
       - name: Git identity configuration
         run: |
           git config --global user.name "ablo-bot"
-          git config --global user.email "ablo.dot.kr@gmail.com"
+          git config --global user.email "bot@ablo.dot.kr"
 
       - name: Sync data to api-data branch
         run: |
@@ -37,7 +37,7 @@ jobs:
           # 3. 변경사항 여부 확인 및 푸시
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "Update wedding data [skip ci] $(date '+%Y%m%d%H%M%S')"
+            git commit -m "chore: $(date '+%Y-%m-%d %H:%M:%S') 데이터 자동 업데이트 [skip ci]"
             git push origin api-data --force
             echo "[✔] api-data 브랜치 동기화 완료"
           else
