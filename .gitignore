@@ -18,7 +18,11 @@ data/captures/
 
 # Standard JSON metadata like lib/ should NOT be ignored
 # [수정] 아래 패턴을 구체화하여 data 폴더 내의 json만 무시하고 lib은 포함시킵니다.
-data/**/*.json
+# data/**/*.json  <-- 분석 데이터 추적을 위해 이그노어 해제
+!data/weddinggo/
+!data/weddinggo*/
+
+
 
 # Next.js / Node.js
 node_modules/
