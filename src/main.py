@@ -124,7 +124,9 @@ async def main_optimized():
     print(f"[*] 웨딩 CPA 데이터 파이프라인 시작 (Model: {config.ai_model})")
     print("=" * 40)
 
-    base_data_dir = "data"
+    # 데이터 디렉토리 설정 (환경 변수 우선)
+    base_data_dir = os.getenv("DATA_DIR", "data/weddinggo")
+    capture_dir = os.getenv("CAPTURE_DIR", "data/captures")
     cache_path = os.path.join(base_data_dir, "api_cache.json")
 
     try:
@@ -132,7 +134,7 @@ async def main_optimized():
         collector = WeddingDataCollector()
         processor = WeddingDataProcessor(client)
         preprocessor = DataPreprocessor()
-        storage = WeddingDataStorage(base_dir=base_data_dir)
+        storage = WeddingDataStorage(base_dir=base_data_dir, capture_dir=capture_dir)
 
         # 1. API 데이터 로딩
         full_response = await WeddingApiLoader.fetch_all_ads()

@@ -3,12 +3,17 @@ import json
 import time
 
 class WeddingDataStorage:
-    def __init__(self, base_dir="data", mapping_path="lib/regionMapping.json"):
+    def __init__(self, base_dir="data/weddinggo", capture_dir="data/captures", mapping_path="lib/regionMapping.json"):
         self.base_dir = base_dir
+        self.capture_dir = capture_dir
         self.mapping = self._load_mapping(mapping_path)
-        # 필수 디렉토리 구성
-        for sub in ["campaigns", "regions", "captures", "cpaad"]:
+        
+        # 1. 필수 데이터 디렉토리 구성 (base_dir 하위)
+        for sub in ["campaigns", "regions", "cpaad"]:
             os.makedirs(os.path.join(self.base_dir, sub), exist_ok=True)
+            
+        # 2. 캡처 디렉토리 구성 (별도 관리)
+        os.makedirs(self.capture_dir, exist_ok=True)
 
     def _load_mapping(self, path):
         if os.path.exists(path):
@@ -157,8 +162,8 @@ class WeddingDataStorage:
         print(f"[✔] [Storage] 데이터 저장 완료: {cid} (Region: {region_en})")
 
     def get_capture_path(self, campaign_id: str):
-        """해당 캠페인의 스크린샷 저장 경로 반환"""
-        return os.path.join(self.base_dir, "captures", f"{campaign_id}_capture.png")
+        """해당 캠페인의 스크린샷 저장 경로 반환 (shared capture_dir 사용)"""
+        return os.path.join(self.capture_dir, f"{campaign_id}_capture.png")
 
     def is_campaign_exists(self, campaign_id: str):
         """해당 캠페인의 최종 결과 파일(JSON)이 이미 존재하는지 확인"""
