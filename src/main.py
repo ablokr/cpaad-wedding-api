@@ -88,7 +88,10 @@ async def run_single_campaign(api_basic_data: dict, collector, processor, prepro
 
                 # 2. 캡처 (Collector)
                 screenshot_path = storage.get_capture_path(campaign_id)
-                await collector.capture_full_page_mobile(target_url, screenshot_path)
+                if not os.path.exists(screenshot_path):
+                    await collector.capture_full_page_mobile(target_url, screenshot_path)
+                else:
+                    print(f"[-] [Collector] 기존 캡처 이미지 사용 (캡처 스킵): {screenshot_path}")
 
                 # 3. AI 분석 (Processor)
                 raw_ai_data = processor.analyze_image(screenshot_path, api_basic_data, preprocessed)
