@@ -72,6 +72,14 @@ class AppConfig:
         # 폴백: 공통 키 (GOOGLE_API_KEY 또는 GEMINI_API_KEY)
         return os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY", "")
 
+    @property
+    def dataset_name(self) -> str:
+        """현재 활성 데이터셋 이름 반환. DATA_DIR 환경변수 기준.
+        예: data/weddingExpo → 'weddingExpo' / data/weddinggo → 'weddinggo'
+        """
+        data_dir = os.getenv("DATA_DIR", "data/weddinggo")
+        return os.path.basename(data_dir)
+
     def get(self, section: str, key: str, default: Any = None) -> Any:
         """기타 설정값 조회"""
         return self._config.get(section, {}).get(key, default)
