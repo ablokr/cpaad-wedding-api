@@ -60,8 +60,13 @@ class WeddingDataStorage:
 
     def read_json(self, path):
         if os.path.exists(path):
-            with open(path, 'r', encoding='utf-8') as f:
-                return json.load(f)
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except (json.JSONDecodeError, ValueError):
+                # 빈 파일이거나 손상된 경우 빈 딕셔너리로 복구
+                print(f"[!] [Storage] {path} 파싱 실패 (빈 파일 또는 손상). 빈 캐시로 초기화합니다.")
+                return {}
         return {}
 
     def read_json_list(self, path):
