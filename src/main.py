@@ -152,6 +152,9 @@ async def main_optimized():
                 removed_count += 1
         
         if removed_count > 0:
+            # 종료된 캠페인을 캐시 파일에서도 제거
+            cleaned_cache = {k: v for k, v in cached_ads_dict.items() if k in new_ads_dict}
+            storage.write_json(cache_path, cleaned_cache)
             print(f"[*] 총 {removed_count}건의 종료된 캠페인을 정리했습니다.")
 
         # 2. 변경대상 선별 (Incremental Update)
@@ -202,9 +205,8 @@ async def main_optimized():
         ]
         await asyncio.gather(*tasks)
 
-        # 4. 마무리
-        storage.write_json(cache_path, new_ads_dict)
-        print("\n[*] API 캐시 업데이트 및 작업 완료.")
+        # 4. 마무리 (캐시는 개별 캠페인 성공 시 update_api_cache로 갱신됨)
+        print("\n[*] 작업 완료.")
 
     except Exception as e:
         print(f"[✘] 메인 로직 오류: {e}")
