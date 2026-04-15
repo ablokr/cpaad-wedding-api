@@ -10,6 +10,13 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+# 환경 변수 동시성 설정 (배포 중복 방지)
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   sync_data:
@@ -43,3 +50,36 @@ jobs:
           else
             echo "[*] 데이터 변경 사항이 없습니다."
           fi
+
+  deploy_and_trigger:
+    needs: sync_data
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout api-data branch
+        uses: actions/checkout@v4
+        with:
+          ref: api-data
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # api-data 브랜치 전체를 배포 (api.swedding.kr/data/... 로 접근 가능)
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Trigger Frontend Revalidation (wedding-html)
+        if: success()
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
+          repository: ablokr/wedding-html
+          event-type: api_data_updated
