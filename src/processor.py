@@ -101,7 +101,6 @@ class DetailedContent(BaseModel):
     """
     페이지 내 상세 콘텐츠. SEO를 위해 검색 의도를 반영하여 풍부하게 작성합니다.
     """
-    # 방문자가 첫눈에 보는 핵심 인트로 (검색엔진이 중시하는 상단 콘텐츠)
     intro_text: str = Field(
         ...,
         description=(
@@ -111,7 +110,6 @@ class DetailedContent(BaseModel):
             "2026년 봄 웨딩 시즌을 맞아 서울 최대 규모의 웨딩 박람회가 열립니다...'"
         )
     )
-    # 혜택을 설명하는 본문 (방문자의 이득을 구체적으로 서술)
     benefits_description: str = Field(
         ...,
         description=(
@@ -120,13 +118,124 @@ class DetailedContent(BaseModel):
             "단순 나열이 아닌, 신혼부부의 감정에 공감하는 문체로 작성하세요."
         )
     )
-    # 검색엔진 인덱싱에 유리한 추가 정보
     summary_for_search: str = Field(
         ...,
         description=(
             "검색 결과 스니펫으로 활용될 요약문. 200자 이내. "
             "행사명, 일시, 장소, 핵심 혜택이 자연스럽게 포함된 문장. "
             "검색어 '웨딩박람회 서울', '결혼 준비 박람회' 등에 노출되도록 최적화하세요."
+        )
+    )
+
+
+class StructuredData(BaseModel):
+    """
+    Google 리치 스니펫(Rich Snippet) 적격 조건을 충족하는 Schema.org 구조화 데이터.
+    검색 결과에 날짜·장소·가격 정보가 직접 노출되어 클릭률 20~30% 향상 효과.
+    """
+    event_schema: dict = Field(
+        ...,
+        description=(
+            "Schema.org Event 형식의 JSON-LD 객체. "
+            "name, startDate(ISO8601), endDate(ISO8601), "
+            "location(name+address.streetAddress+addressLocality+addressCountry), "
+            "organizer(name), offers(price/priceCurrency/availability), "
+            "eventStatus('https://schema.org/EventScheduled') 포함. "
+            "Google 리치 결과 적격 조건 완전 충족 필수."
+        )
+    )
+    faq_schema: List[dict] = Field(
+        default_factory=list,
+        description=(
+            "FAQ 리치 스니펫용 Q&A 목록 5개 이상. "
+            "형식: [{'question': '주차 가능한가요?', 'answer': '...'}] "
+            "실제 방문자 궁금증(교통/주차/혜택조건/참여업체/복장) 중심. "
+            "검색 결과 FAQ 영역 점유 목적."
+        )
+    )
+
+
+class ContentDepth(BaseModel):
+    """
+    Google E-E-A-T(경험·전문성·권위·신뢰성) 기준 대응 콘텐츠 깊이 강화.
+    정보성 쿼리 유입과 토픽 권위도 향상에 기여합니다.
+    """
+    target_audience_description: str = Field(
+        ...,
+        description=(
+            "방문 대상자 상세 설명. 200자 이상. "
+            "'예비부부', '결혼 6개월 이내 준비 커플', '스드메 비용 비교 중인 신혼부부' 등 "
+            "구체적 페르소나 묘사. '결혼 준비 어떻게 시작하나요' 등 정보성 쿼리 대응."
+        )
+    )
+    exhibitor_highlights: List[str] = Field(
+        default_factory=list,
+        description=(
+            "주요 입점 업체 카테고리 또는 브랜드 목록. "
+            "예: ['드레스샵 15개', '스드메 패키지 업체', '허니문 여행사', '예물·예복 브랜드'] "
+            "'웨딩홀 추천', '스드메 박람회' 등 카테고리 검색 유입 목적."
+        )
+    )
+    comparison_hooks: List[str] = Field(
+        default_factory=list,
+        description=(
+            "타 박람회 대비 차별점 문구 3개 이상. "
+            "예: '현장 즉시 계약 할인 제공', '국내 최다 50개 업체 입점', '1:1 전문 상담 보장' "
+            "'웨딩박람회 비교', '어떤 박람회 가야 하나' 쿼리 대응."
+        )
+    )
+
+
+class SearchCluster(BaseModel):
+    """
+    단일 페이지 SEO를 넘어 사이트 전체 토픽 권위도와 내부 링크 구조를 강화합니다.
+    """
+    related_queries: List[str] = Field(
+        default_factory=list,
+        description=(
+            "연관 검색어 클러스터 10개 이상. People Also Ask·자동완성 기반 예상 쿼리. "
+            "예: ['웨딩박람회 준비물', '웨딩박람회 뭐 받나요', '결혼 박람회 사기 주의', "
+            "'웨딩박람회 예약 방법', '스드메 박람회 차이'] "
+            "하단 콘텐츠 섹션 또는 FAQ 생성에 활용."
+        )
+    )
+    internal_link_anchors: List[dict] = Field(
+        default_factory=list,
+        description=(
+            "내부 링크용 앵커 텍스트 + 연결 카테고리 목록. "
+            "형식: [{'anchor': '서울 웨딩박람회 전체 일정', 'category': 'seoul_events'}] "
+            "사이트 내 관련 페이지로 링크 주스 전달 목적."
+        )
+    )
+    semantic_keywords: List[str] = Field(
+        default_factory=list,
+        description=(
+            "LSI(잠재 의미 색인) 키워드 목록. 주 키워드와 의미적으로 연관된 단어들. "
+            "예: ['스드메', '혼수', '예식장', '웨딩홀', '부케', '혼수가전', '신혼여행'] "
+            "본문에 자연스럽게 배치하여 토픽 권위도 향상."
+        )
+    )
+
+
+class SocialMeta(BaseModel):
+    """
+    카카오·인스타그램 등 SNS 공유 시 노출되는 메타 정보.
+    소셜 공유 → 백링크 증가 → 도메인 권위도 상승으로 이어지는 간접 SEO 효과.
+    """
+    og_title: str = Field(
+        ...,
+        description="Open Graph 제목. 카카오/인스타 공유 시 노출. 40자 이내 임팩트 문구. 핵심 혜택 포함."
+    )
+    og_description: str = Field(
+        ...,
+        description="OG 설명문. 2~3줄 분량. 공유 시 클릭을 유도하는 혜택·희소성 중심 문구."
+    )
+    hashtags: List[str] = Field(
+        default_factory=list,
+        description=(
+            "SNS 해시태그 10개 이상. 인스타/카카오 검색 유입용. "
+            "예: ['#웨딩박람회', '#결혼준비', '#신혼부부혜택', '#서울웨딩', '#스드메'] "
+            "# 기호 포함하여 작성."
         )
     )
 
@@ -149,6 +258,10 @@ class AiAnalysisOutput(BaseModel):
     venue: str = Field("", description="개최 장소명 (이미지에서 확인)")
     parking_info: Optional[str] = Field(None, description="주차 정보 (이미지에서 확인)")
     conversion_and_trust: ConversionAndTrust
+    structured_data: StructuredData
+    content_depth: ContentDepth
+    search_cluster: SearchCluster
+    social_meta: SocialMeta
 
 
 # ==========================================
@@ -162,7 +275,7 @@ class WeddingDataProcessor:
         # 시스템 지시: AI의 역할을 "SEO 콘텐츠 생성자"로 명확히 정의
         self.system_instruction = (
             "당신은 웨딩 박람회 전문 SEO 콘텐츠 라이터입니다. "
-            "웨딩 박람회 랜딩페이지 이미지를 분석하여 두 가지 임무를 수행합니다.\n"
+            "웨딩 박람회 랜딩페이지 이미지를 분석하여 다음 임무를 수행합니다.\n"
             "\n"
             "[임무 1 - 정보 추출] 이미지에서 다음을 정확히 파악합니다:\n"
             "  - 제공하는 방문 혜택, 계약 혜택, 특별 이벤트\n"
@@ -175,6 +288,27 @@ class WeddingDataProcessor:
             "  - '웨딩박람회', '결혼준비', '신혼부부 혜택' 등 검색 의도를 반영한 키워드를 자연스럽게 포함시킵니다\n"
             "  - 단순 정보 나열이 아닌, 방문자의 공감을 얻고 클릭/방문을 유도하는 설득력 있는 문장을 작성합니다\n"
             "  - 구체적인 수치(금액, 인원, 업체 수)가 있으면 반드시 포함합니다\n"
+            "\n"
+            "[임무 3 - 구조화 데이터 생성 (structured_data)]:\n"
+            "  - Schema.org Event JSON-LD 객체를 생성합니다 (event_schema). "
+            "startDate/endDate는 ISO8601(YYYY-MM-DD), location은 name+address 포함, "
+            "eventStatus는 'https://schema.org/EventScheduled', "
+            "offers.price는 무료 입장이면 '0', priceCurrency는 'KRW'로 작성합니다\n"
+            "  - 실제 방문자 궁금증 기반 FAQ 5개 이상을 생성합니다 (faq_schema)\n"
+            "\n"
+            "[임무 4 - E-E-A-T 콘텐츠 깊이 보강 (content_depth)]:\n"
+            "  - 구체적 페르소나 기반 방문 대상자 설명(200자 이상)을 작성합니다\n"
+            "  - 이미지에서 확인되는 입점 업체 카테고리 목록을 추출합니다\n"
+            "  - 타 박람회 대비 차별점 문구 3개 이상을 생성합니다\n"
+            "\n"
+            "[임무 5 - 검색 클러스터 생성 (search_cluster)]:\n"
+            "  - People Also Ask 기반 연관 쿼리 10개 이상을 생성합니다\n"
+            "  - 내부 링크용 앵커 텍스트 + 카테고리 목록을 생성합니다\n"
+            "  - LSI 키워드(스드메·혼수·예식장 등) 목록을 생성합니다\n"
+            "\n"
+            "[임무 6 - 소셜 메타 생성 (social_meta)]:\n"
+            "  - 카카오/인스타 공유 최적화 OG 제목(40자 이내)과 설명을 작성합니다\n"
+            "  - SNS 해시태그 10개 이상을 생성합니다 (# 기호 포함)\n"
             "\n"
             "위치(시도/시군구)와 날짜 정보는 이미 별도로 확보되었으므로 분석에서 제외합니다. "
             "값이 이미지에서 확인되지 않으면 null 또는 빈 문자열로 처리합니다."
@@ -301,6 +435,18 @@ class WeddingDataProcessor:
 
             # 전환/신뢰 요소 (AI 생성)
             "conversion_and_trust": ai_data.get("conversion_and_trust", {}),
+
+            # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
+            "structured_data": ai_data.get("structured_data", {}),
+
+            # E-E-A-T 콘텐츠 깊이 — 대상자/입점업체/차별점 (AI 생성)
+            "content_depth": ai_data.get("content_depth", {}),
+
+            # 검색 클러스터 — 연관쿼리/내부링크/LSI 키워드 (AI 생성)
+            "search_cluster": ai_data.get("search_cluster", {}),
+
+            # 소셜 메타 — OG 태그/해시태그 (AI 생성)
+            "social_meta": ai_data.get("social_meta", {}),
 
             # 에셋 (API 원본)
             "campaign_assets": {
