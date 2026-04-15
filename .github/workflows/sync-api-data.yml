@@ -4,8 +4,6 @@ on:
   push:
     branches:
       - main
-    paths:
-      - 'data/**' # data/ 디렉토리 내 파일 변경 시에만 실행
   workflow_dispatch: # 수동 실행 기능 추가
 
 permissions:
