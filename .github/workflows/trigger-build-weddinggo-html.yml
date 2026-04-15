@@ -2,7 +2,7 @@ name: Trigger weddd Data Build
 on:
   push:
     branches:
-      - api-data
+      - main
     paths:
       - 'data/weddinggo/all.json'
 jobs:

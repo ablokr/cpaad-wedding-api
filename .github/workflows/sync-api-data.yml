@@ -43,10 +43,3 @@ jobs:
           else
             echo "[*] 데이터 변경 사항이 없습니다."
           fi
-
-      - name: Trigger weddd Data Build
-        uses: peter-evans/repository-dispatch@v3
-        with:
-          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
-          repository: ablokr/wedding-html
-          event-type: api_data_updated
