@@ -418,6 +418,10 @@ class WeddingDataProcessor:
                 ),
             )
 
+            if response.text is None:
+                # 텍스트가 None인 경우는 보통 안전 정책(Safety Filter)에 걸렸거나 응답 생성이 차단된 경우입니다.
+                raise ValueError(f"AI 응답이 비어 있습니다. (안전 정책 차단 등) - {response.model_dump()}")
+                
             raw_json = json.loads(response.text)
 
             validated = AiAnalysisOutput(**raw_json)
