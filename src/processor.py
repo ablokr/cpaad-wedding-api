@@ -258,10 +258,11 @@ class AiAnalysisOutput(BaseModel):
     venue: str = Field("", description="개최 장소명 (이미지에서 확인)")
     parking_info: Optional[str] = Field(None, description="주차 정보 (이미지에서 확인)")
     conversion_and_trust: ConversionAndTrust
-    structured_data: StructuredData
-    content_depth: ContentDepth
-    search_cluster: SearchCluster
-    social_meta: SocialMeta
+    # ==== 503 에러로 인한 토큰 최적화 (임시 주석 처리) ====
+    # structured_data: StructuredData
+    # content_depth: ContentDepth
+    # search_cluster: SearchCluster
+    # social_meta: SocialMeta
 
 
 # ==========================================
@@ -272,27 +273,27 @@ class AiAnalysisOutput(BaseModel):
 # ==========================================
 
 _COMMON_TASKS = (
-    "\n"
-    "[임무 3 - 구조화 데이터 (structured_data)]:\n"
-    "  - Schema.org Event JSON-LD 객체 생성 (event_schema). "
-    "startDate/endDate ISO8601, location name+address, "
-    "eventStatus 'https://schema.org/EventScheduled', "
-    "offers.price 무료 입장이면 '0', priceCurrency 'KRW'\n"
-    "  - 실제 방문자 궁금증 기반 FAQ 5개 이상 (faq_schema)\n"
-    "\n"
-    "[임무 4 - E-E-A-T 콘텐츠 (content_depth)]:\n"
-    "  - 구체적 페르소나 기반 방문 대상자 설명 200자 이상\n"
-    "  - 이미지에서 확인되는 입점 업체 카테고리 목록 추출\n"
-    "  - 타 박람회 대비 차별점 문구 3개 이상\n"
-    "\n"
-    "[임무 5 - 검색 클러스터 (search_cluster)]:\n"
-    "  - People Also Ask 기반 연관 쿼리 10개 이상\n"
-    "  - 내부 링크용 앵커 텍스트 + 카테고리 목록\n"
-    "  - LSI 키워드(스드메·혼수·예식장 등) 목록\n"
-    "\n"
-    "[임무 6 - 소셜 메타 (social_meta)]:\n"
-    "  - 카카오/인스타 공유 최적화 OG 제목(40자 이내)과 설명\n"
-    "  - SNS 해시태그 10개 이상 (# 기호 포함)\n"
+    # "\n"
+    # "[임무 3 - 구조화 데이터 (structured_data)]:\n"
+    # "  - Schema.org Event JSON-LD 객체 생성 (event_schema). "
+    # "startDate/endDate ISO8601, location name+address, "
+    # "eventStatus 'https://schema.org/EventScheduled', "
+    # "offers.price 무료 입장이면 '0', priceCurrency 'KRW'\n"
+    # "  - 실제 방문자 궁금증 기반 FAQ 5개 이상 (faq_schema)\n"
+    # "\n"
+    # "[임무 4 - E-E-A-T 콘텐츠 (content_depth)]:\n"
+    # "  - 구체적 페르소나 기반 방문 대상자 설명 200자 이상\n"
+    # "  - 이미지에서 확인되는 입점 업체 카테고리 목록 추출\n"
+    # "  - 타 박람회 대비 차별점 문구 3개 이상\n"
+    # "\n"
+    # "[임무 5 - 검색 클러스터 (search_cluster)]:\n"
+    # "  - People Also Ask 기반 연관 쿼리 10개 이상\n"
+    # "  - 내부 링크용 앵커 텍스트 + 카테고리 목록\n"
+    # "  - LSI 키워드(스드메·혼수·예식장 등) 목록\n"
+    # "\n"
+    # "[임무 6 - 소셜 메타 (social_meta)]:\n"
+    # "  - 카카오/인스타 공유 최적화 OG 제목(40자 이내)과 설명\n"
+    # "  - SNS 해시태그 10개 이상 (# 기호 포함)\n"
     "\n"
     "위치(시도/시군구)와 날짜 정보는 이미 별도로 확보되었으므로 분석에서 제외합니다. "
     "값이 이미지에서 확인되지 않으면 null 또는 빈 문자열로 처리합니다."
@@ -487,16 +488,16 @@ class WeddingDataProcessor:
             "conversion_and_trust": ai_data.get("conversion_and_trust", {}),
 
             # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
-            "structured_data": ai_data.get("structured_data", {}),
+            # "structured_data": ai_data.get("structured_data", {}),
 
             # E-E-A-T 콘텐츠 깊이 — 대상자/입점업체/차별점 (AI 생성)
-            "content_depth": ai_data.get("content_depth", {}),
+            # "content_depth": ai_data.get("content_depth", {}),
 
             # 검색 클러스터 — 연관쿼리/내부링크/LSI 키워드 (AI 생성)
-            "search_cluster": ai_data.get("search_cluster", {}),
+            # "search_cluster": ai_data.get("search_cluster", {}),
 
             # 소셜 메타 — OG 태그/해시태그 (AI 생성)
-            "social_meta": ai_data.get("social_meta", {}),
+            # "social_meta": ai_data.get("social_meta", {}),
 
             # 에셋 (API 원본)
             "campaign_assets": {
