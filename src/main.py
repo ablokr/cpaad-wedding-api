@@ -143,6 +143,15 @@ async def main_optimized():
         full_response = await WeddingApiLoader.fetch_all_ads()
         storage.save_raw_api_data(full_response)  # 원본 전체 데이터 백업
         
+        # [신규] 원본 데이터를 순회하며 전처리(위치/날짜 파싱) 결과를 병합하여 별도 저장
+        preprocessed_full = copy.deepcopy(full_response)
+        new_ads_dict = preprocessed_full.get("advertisements", {})
+        for cid, ad_data in new_ads_dict.items():
+            preprocessed_result = preprocessor.preprocess(ad_data)
+            ad_data["preprocessed"] = preprocessed_result
+        storage.save_preprocessed_api_data(preprocessed_full)
+
+        # 이후 비교를 위한 신규 딕셔너리 할당 (원본 객체에서 가져옴)
         new_ads_dict = full_response.get("advertisements", {})
         cached_ads_dict = storage.read_json(cache_path)
 

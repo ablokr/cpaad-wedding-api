@@ -194,10 +194,16 @@ class WeddingDataStorage:
         self.write_json(cache_path, current_cache)
 
     def save_raw_api_data(self, data):
-        """API 원본 응답 데이터를 data/cpaad/ad_json_date.json에 저장합니다."""
+        """API 원본 응답 데이터를 data/.../cpaad/ad_json_date.json에 저장합니다."""
         path = os.path.join(self.base_dir, "cpaad", "ad_json_date.json")
         self.write_json(path, data)
         print(f"[✔] [Storage] API 원본 백업 완료: {path}")
+
+    def save_preprocessed_api_data(self, data):
+        """API 응답 데이터를 전처리하여 data/.../cpaad/pre_ad_json_date.json에 저장합니다."""
+        path = os.path.join(self.base_dir, "cpaad", "pre_ad_json_date.json")
+        self.write_json(path, data)
+        print(f"[✔] [Storage] API 대상 전처리 백업 완료: {path}")
 
     def delete_campaign_data(self, cid):
         """특정 캠페인 관련 데이터(JSON, 이미지, 검색 색인 등)를 모두 삭제합니다."""
