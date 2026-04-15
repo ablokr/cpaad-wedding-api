@@ -148,7 +148,24 @@ async def main_optimized():
         new_ads_dict = preprocessed_full.get("advertisements", {})
         for cid, ad_data in new_ads_dict.items():
             preprocessed_result = preprocessor.preprocess(ad_data)
-            ad_data["preprocessed"] = preprocessed_result
+            
+            # 기존 응답과 중복되는 정보 제거 로직
+            filtered_preprocessed = {}
+            for category, cat_dict in preprocessed_result.items():
+                filtered_cat = {}
+                for key, value in cat_dict.items():
+                    # 원본 응답에 동일한 키와 동일한 값이 있으면 제외
+                    if key in ad_data and ad_data[key] == value:
+                        continue
+                    # 전처리의 display_date가 원본의 ad_date와 같으면 제외
+                    if key == "display_date" and ad_data.get("ad_date") == value:
+                        continue
+                    filtered_cat[key] = value
+                
+                if filtered_cat:
+                    filtered_preprocessed[category] = filtered_cat
+            
+            ad_data["preprocessed"] = filtered_preprocessed
         storage.save_preprocessed_api_data(preprocessed_full)
 
         # 이후 비교를 위한 신규 딕셔너리 할당 (원본 객체에서 가져옴)
