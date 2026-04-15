@@ -211,6 +211,23 @@ DATA_DIR=data/honeymoon CAPTURE_DIR=data/captures python3 src/main.py
 DATA_DIR=data/honeymoon . update_data.sh
 ```
 
+
+data/weddingExpo 에 데이터를 저장하면서 파이프라인을 실행하려면 터미널에서 아래와 같이 실행하시면 됩니다.
+
+방법 1: 직접 실행 (테스트 용도)
+
+bash
+DATA_DIR=data/weddingExpo python3 src/main.py
+방법 2: 전체 자동화 스크립트로 실행 (커밋 & 푸시까지)
+
+bash
+DATA_DIR=data/weddingExpo . update_data.sh
+이렇게 하면 config.py와 processor.py에서 DATA_DIR 환경 변수를 읽어 다음과 같이 동작합니다:
+
+GEMINI_API_KEY_WEDDINGEXPO 로 설정한 API 키를 우선적으로 사용합니다. (없을 경우 기본키 사용)
+processor.py에 작성한 20대/30대 경어체 커뮤니티 페르소나(weddingExpo)를 자동으로 적용하여 AI 콘텐츠를 생성합니다.
+생성된 데이터 결과물(all.json, campaigns/, regions/ 등)을 data/weddingExpo/ 경로 내에 저장합니다.
+
 ---
 
 ## 🤖 Gemini API 설정
