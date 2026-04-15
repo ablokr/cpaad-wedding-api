@@ -20,6 +20,7 @@ jobs:
         with:
           ref: main
           fetch-depth: 0 # 모든 브랜치 정보를 가져오기 위함
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }} # 푸시 이벤트로 다른 워크플로우를 트리거하기 위해 PAT 사용
 
       - name: Git identity configuration
         run: |
@@ -37,7 +38,7 @@ jobs:
           # 3. 변경사항 여부 확인 및 푸시
           git add data/
           if ! git diff --cached --quiet; then
-            git commit -m "chore: $(date '+%Y-%m-%d %H:%M:%S') 데이터 자동 업데이트 [skip ci]"
+            git commit -m "chore: $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M:%S') 데이터 자동 업데이트"
             git push origin api-data --force
             echo "[✔] api-data 브랜치 동기화 완료"
           else
