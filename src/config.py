@@ -60,7 +60,16 @@ class AppConfig:
 
     @property
     def google_api_key(self) -> str:
-        # GOOGLE_API_KEY와 GEMINI_API_KEY 둘 다 지원 (폴백 포함)
+        # DATA_DIR 기반 데이터셋별 전용 키 우선 조회
+        # 예: DATA_DIR=data/weddingExpo → GEMINI_API_KEY_WEDDINGEXPO
+        data_dir = os.getenv("DATA_DIR", "")
+        if data_dir:
+            # data/weddingExpo → WEDDINGEXPO
+            dataset_name = os.path.basename(data_dir).upper()
+            dataset_key = os.getenv(f"GEMINI_API_KEY_{dataset_name}")
+            if dataset_key:
+                return dataset_key
+        # 폴백: 공통 키 (GOOGLE_API_KEY 또는 GEMINI_API_KEY)
         return os.getenv("GOOGLE_API_KEY") or os.getenv("GEMINI_API_KEY", "")
 
     def get(self, section: str, key: str, default: Any = None) -> Any:
