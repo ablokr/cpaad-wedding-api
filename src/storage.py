@@ -1,6 +1,7 @@
 import os
 import json
 import time
+import re
 
 class WeddingDataStorage:
     def __init__(self, base_dir="data/weddinggo", capture_dir="data/captures", mapping_path="lib/regionMapping.json"):
@@ -287,8 +288,10 @@ class WeddingDataStorage:
             if campaign_id in all_mapped_campaigns:
                 continue
 
-            # 끝의 숫자 제거하여 organizer_id 생성 (예: iniwedding05 -> iniwedding)
-            candidate_id = campaign_id.rstrip('0123456789')
+            # [수정] organizer_id 추출: 첫 번째 숫자가 나타나는 지점 앞까지 취함
+            # 예: revewedding01tw -> revewedding, weddingdc04A -> weddingdc
+            match = re.search(r'\d', campaign_id)
+            candidate_id = campaign_id[:match.start()] if match else campaign_id
             
             # [신규] 에일리언스(Alias) 해결 로직
             # 해당 ID가 이미 존재하고 다른 ID를 가리키고 있다면(alias_of), 대상 ID를 변경
