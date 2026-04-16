@@ -1,0 +1,198 @@
+{
+  "campaign_id": "wwedding13",
+  "gather_name": "김해 웨딩박람회",
+  "seo_metadata": {
+    "title": "김해 웨딩박람회 | 삼성스토어 김해점 혜택 및 스드메 비교",
+    "meta_description": "김해 웨딩박람회 방문 후기! 삼성스토어 김해점에서 열리는 이번 박람회는 스드메부터 가전, 예물까지 한자리에서 비교 가능해요. 선착순 사은품과 계약 혜택까지 알차게 챙겨가세요!",
+    "keywords": [
+      "김해웨딩박람회",
+      "김해결혼준비",
+      "김해웨딩홀",
+      "김해스드메",
+      "삼성스토어김해점",
+      "경남웨딩박람회",
+      "김해예물",
+      "김해혼수",
+      "부산경남웨딩",
+      "웨딩박람회혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 삼성스토어 김해점에서 열리는 김해 웨딩박람회에 다녀왔어요~ 결혼 준비 시작하면서 막막했는데, 여기 한곳에서 웨딩홀부터 스드메, 혼수까지 다 해결할 수 있어서 정말 편하더라고요! 혹시 결혼 앞두고 고민 많으신 예비 신부님들 계신다면 꼭 한번 들러보세요.",
+    "benefits_description": "이번 박람회 혜택 진짜 쏠쏠해요! 현장 상담만 받아도 주는 선물부터, 계약 시 제공되는 축하금이랑 혼수 가전 추가 포인트 혜택까지 있거든요. 특히 삼성스토어 가전 혜택이 커서 혼수 준비하시는 분들은 비용 절약 많이 되실 것 같아요. 드레스샵도 종류가 엄청 많아서 현장에서 직접 투어하는 기분으로 꼼꼼히 비교해보고 왔답니다!",
+    "summary_for_search": "삼성스토어 김해점에서 열리는 김해 웨딩박람회! 4월 25일~26일 양일간 진행되며, 스드메 패키지 할인과 혼수 가전 특별 혜택을 제공합니다. 결혼 준비를 앞둔 예비부부라면 지금 바로 무료 사전 등록하고 상담 받아보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "김해 웨딩박람회, 삼성스토어 혜택으로 결혼 준비 비용 절감!",
+    "secondary_headline": "스드메부터 가전·혼수까지 한자리에서! 부산·경남 최대 웨딩 브랜드 총집합",
+    "urgency_text": "이번 주말 딱 이틀간! 사전 예약자 한정 혜택을 놓치지 마세요.",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 스타벅스 쿠폰 증정",
+      "선착순 경품 추첨 기회 제공"
+    ],
+    "contract_benefits": [
+      "혼수 가전 최대 460만원 할인 및 포인트 혜택",
+      "계약 축하금 지원 및 업체별 특별 할인",
+      "예물/예복/한복 계약 시 특별 사은품 및 추가 할인"
+    ],
+    "special_events": [
+      "드레스 디자인 직접 비교 및 피팅 상담",
+      "웨딩홀 1:1 맞춤 추천 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-26",
+      "display_date": "04월 25일(토) ~ 04월 26일(일)",
+      "original_display_date": "04월 25일(토) ~ 04월 26일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "김해시",
+      "sigungu_en": "gimhae",
+      "address": "경남 김해시 김해대로 2312",
+      "venue": "삼성스토어 김해점",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 제공 (상세 내용은 현장 확인)",
+    "trust_indicators": [
+      "25년 전통 김해 테마벨리스 등 인기 업체 입점",
+      "삼성스토어 주관 대형 가전 혜택",
+      "부산·경남 지역 웨딩홀 제휴 네트워크 보유"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "김해 웨딩박람회",
+      "startDate": "2025-04-25T11:00",
+      "endDate": "2025-04-26T19:00",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 김해점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "김해시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "네, 사전 예약을 하셔야 현장 상담 혜택과 경품 증정 기회를 놓치지 않으실 수 있습니다."
+      },
+      {
+        "question": "스드메 비용은 어느 정도 예상하면 될까요?",
+        "answer": "박람회 현장에서 개인별 예산에 맞는 맞춤 패키지를 구성해 드리고 있으며, 상담을 통해 할인된 금액으로 확인 가능합니다."
+      },
+      {
+        "question": "혼수 가전도 한곳에서 상담이 가능한가요?",
+        "answer": "네, 삼성스토어 내에서 진행되어 가전 상담과 혼수 패키지 혜택을 동시에 챙기실 수 있습니다."
+      },
+      {
+        "question": "주차장이 마련되어 있나요?",
+        "answer": "행사 장소인 삼성스토어 김해점에 주차장이 마련되어 있으나, 주말 혼잡이 예상되니 가급적 대중교통 이용을 권장합니다."
+      },
+      {
+        "question": "박람회 상담 시간은 얼마나 걸리나요?",
+        "answer": "관심 있는 업체 수에 따라 다르지만 보통 1~2시간 정도 여유 있게 생각하시는 것이 좋습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부, 특히 김해와 경남 지역에서 웨딩홀 예약부터 스드메, 가전까지 한 번에 준비하고 싶은 커플들에게 추천합니다. 결혼 준비를 어디서부터 시작해야 할지 모르는 신랑 신부님, 합리적인 스드메 패키지를 찾고 있는 커플, 가전 혼수 비용을 줄이고 싶은 분들에게 최적화된 정보와 혜택을 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 컨설팅",
+      "스드메 토털 패키지",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 대여 및 맞춤",
+      "혼수 가전(삼성스토어)"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 할인 및 추가 캐시백 혜택 제공",
+      "삼성스토어와 협업한 가전/혼수 원스톱 서비스",
+      "검증된 지역 인기 웨딩홀 및 스튜디오 1:1 맞춤 추천"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "김해 웨딩박람회 후기",
+      "결혼 준비 체크리스트",
+      "스드메 비용 비교",
+      "김해 웨딩홀 추천",
+      "웨딩박람회 사은품",
+      "삼성스토어 가전 혜택",
+      "김해 예복 맞춤",
+      "신혼여행 준비물",
+      "웨딩 드레스 투어 꿀팁",
+      "결혼식 비용 절약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 투어 체크리스트",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 구성 확인하기",
+        "category": "service_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "혼수가전",
+      "결혼준비",
+      "웨딩패키지",
+      "예복",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "김해 웨딩박람회 혜택 정리! 결혼 준비 시작해요",
+    "og_description": "삼성스토어 김해점에서 열리는 웨딩박람회! 지금 사전 예약하고 현장 상담 혜택 다 받아가세요~",
+    "hashtags": [
+      "#김해웨딩박람회",
+      "#결혼준비",
+      "#김해결혼준비",
+      "#웨딩박람회",
+      "#스드메",
+      "#김해웨딩홀",
+      "#예비부부",
+      "#혼수가전",
+      "#삼성스토어",
+      "#웨딩꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding13/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_OeSEZ6vEyAuIPBm.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_K9XpbPpNKgM1tsfJ.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_NiU2PJ4C1dGqr1.jpg"
+  }
+}
