@@ -194,14 +194,13 @@
     "name": "더베스트 웨딩페어",
     "campaigns": [
       "theBW01",
-      "theBW07"
+      "theBW07",
+      "theBWSF01"
     ]
   },
   "theBWSF": {
     "name": "더베스트 웨딩페어",
-    "campaigns": [
-      "theBWSF01"
-    ]
+    "alias_of": "theBW"
   },
   "theshirleywedding": {
     "name": "더셜리",
