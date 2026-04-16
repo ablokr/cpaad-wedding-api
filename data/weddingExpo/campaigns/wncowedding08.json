@@ -1,0 +1,197 @@
+{
+  "campaign_id": "wncowedding08",
+  "gather_name": "평택웨딩박람회",
+  "seo_metadata": {
+    "title": "평택웨딩박람회 | 삼성스토어 AK평택 방문 혜택 총정리",
+    "meta_description": "이번 평택웨딩박람회 다녀왔어요! 삼성스토어 AK평택에서 열리는 이번 행사, 방문만 해도 드리는 선물부터 스드메 계약 혜택까지 알차게 정리했으니 결혼 준비 중이라면 꼭 확인해보세요!",
+    "keywords": [
+      "평택웨딩박람회",
+      "삼성스토어AK평택",
+      "평택결혼준비",
+      "평택스드메",
+      "평택웨딩홀",
+      "결혼박람회후기",
+      "예비부부준비물",
+      "평택혼수",
+      "평택예물",
+      "평택웨딩드레스"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 평택웨딩박람회 다녀온 후기 공유해요~ 결혼 준비 이제 막 시작해서 막막했는데, 이번에 다녀오니 스드메부터 혼수까지 한 번에 볼 수 있어서 정말 알차더라고요. 평택에서 예식 준비하시는 예신님들께 정말 추천하는 행사라 꼼꼼하게 정리해봤어요!",
+    "benefits_description": "방문만 해도 챙겨주는 선물이 진짜 대박이에요! 선착순으로 미니캐리어도 주고, 웨딩 다이어리 같은 필수템도 꼭 챙겨가세요. 특히 스드메 계약 시 최고급 웨딩액자 증정이나 드레스 무료 피팅 같은 혜택은 현장에서 직접 상담받으니까 설명도 자세해서 좋더라고요. 허니문이나 예물, 가전까지 브랜드별로 프로모션이 다 달라서 비교해보고 혜택 최대로 챙기는 게 꿀팁이에요!",
+    "summary_for_search": "평택웨딩박람회가 삼성스토어 AK평택에서 개최됩니다. 방문 시 증정되는 다양한 선물과 스드메 패키지 할인, 혼수 가전 혜택을 한자리에서 확인하고 알뜰하게 결혼 준비를 시작해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "평택 최대 규모 평택웨딩박람회, 방문만 해도 쏟아지는 경품!",
+    "secondary_headline": "스드메부터 가전, 혼수까지 한자리에서 끝내는 결혼 준비의 시작",
+    "urgency_text": "선착순 방문객 한정 선물 증정, 이번 주말 혜택 놓치지 마세요!",
+    "call_to_action_text": "지금 무료 사전 참가신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 웨딩 다이어리 증정",
+      "선착순 20쌍 미니캐리어 증정",
+      "상담 완료 시 롯데상품권 및 경품 추첨"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최고급 웨딩액자 증정",
+      "최대 60만 삼성전자 포인트 증정 (혼수가전)",
+      "예물 계약 시 14K 가이드링 및 티아라 세트 증정",
+      "맞춤 정장 계약 시 10만원 기프트권 증정"
+    ],
+    "special_events": [
+      "웨딩 드레스 무료 피팅 체험",
+      "스튜디오 현장 투어",
+      "1:1 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-26",
+      "display_date": "04월 25일(토) ~ 04월 26일(일)",
+      "original_display_date": "04월 25일(토) ~ 04월 26일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "평택시",
+      "sigungu_en": "pyeongtaek",
+      "address": "경기 평택시 평택로 51 6층",
+      "venue": "삼성스토어 AK평택",
+      "parking_info": "매장 내 주차 정보 안내",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 이벤트 참여 시 수령 가능",
+    "trust_indicators": [
+      "평택 최대 규모 웨딩 박람회",
+      "검증된 업체 1:1 전문 상담",
+      "삼성스토어 연계 혼수가전 특별 혜택"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "평택웨딩박람회",
+      "startDate": "2025-04-25",
+      "endDate": "2025-04-26",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 AK평택",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 평택시",
+          "addressLocality": "평택시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 방문 상담 시 웨딩 다이어리 및 선착순 경품 등 다양한 혜택이 준비되어 있습니다."
+      },
+      {
+        "question": "스드메 패키지 계약 혜택이 궁금해요.",
+        "answer": "스드메 계약 시 최고급 웨딩액자 증정, 드레스 무료 피팅, 보정 사진 원본 무료 증정 등의 혜택이 제공됩니다."
+      },
+      {
+        "question": "혼수가전 혜택도 같이 받을 수 있나요?",
+        "answer": "네, 삼성스토어 연계 박람회로 혼수가전 구매 금액별로 최대 80만 포인트까지 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "사전 신청은 필수인가요?",
+        "answer": "원활한 상담과 선착순 경품 수령을 위해 사전 신청을 권장합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 평택 지역 예비부부들을 위한 맞춤형 박람회입니다. 스드메 업체 선정부터 결혼 준비 순서가 고민인 커플, 합리적인 비용으로 고품질의 웨딩 서비스를 받고 싶은 2030 신혼부부에게 최적입니다. 특히 혼수가전과 예물, 한복 등을 한자리에서 비교하고 싶어 하는 분들에게 전문적인 1:1 상담 기회를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지",
+      "수입/국내 웨딩 드레스샵",
+      "웨딩 전문 스튜디오",
+      "혼수 가전(삼성스토어)",
+      "예물 및 명품 주얼리",
+      "결혼 한복 및 맞춤 정장",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "평택 최대 규모로 엄선된 브랜드만 참여",
+      "스드메 현장 즉시 계약 시 추가 프리미엄 혜택 제공",
+      "혼수가전부터 예복까지 원스톱 비교 상담 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "평택 결혼 준비",
+      "평택 웨딩홀 추천",
+      "평택 스드메 비용",
+      "결혼 박람회 방문 후기",
+      "평택 예물샵 추천",
+      "평택 한복 대여",
+      "신혼 가전 견적 비교",
+      "웨딩박람회 준비물",
+      "스드메 패키지 구성",
+      "평택 예복 맞춤"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 지역 웨딩박람회 일정",
+        "category": "local_wedding_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "예물",
+      "결혼한복",
+      "웨딩액자",
+      "삼성가전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "평택웨딩박람회 방문하고 혜택 다 챙기세요!",
+    "og_description": "삼성스토어 AK평택에서 열리는 평택 최대 웨딩박람회! 스드메, 혼수 혜택까지 알차게 준비했으니 꼭 구경해보세요.",
+    "hashtags": [
+      "#평택웨딩박람회",
+      "#결혼준비",
+      "#평택결혼",
+      "#스드메",
+      "#웨딩박람회",
+      "#예신",
+      "#예랑",
+      "#평택웨딩",
+      "#결혼준비시작",
+      "#삼성스토어AK평택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding08/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_gKei3gPTvWIFIA5y91J.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_Fe7gXHZCih7bbQpcqjPlRC.jpg"
+  }
+}

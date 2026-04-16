@@ -1,0 +1,199 @@
+{
+  "campaign_id": "planon52",
+  "gather_name": "세텍 웨딩 페어",
+  "seo_metadata": {
+    "title": "세텍 웨딩 페어 | 서울 웨딩박람회 일정 및 스드메 패키지 혜택 공유",
+    "meta_description": "안녕하세요! 이번 주말 세텍(SETEC) 웨딩 페어 다녀온 후기예요. 스드메 업체부터 혼수까지 한자리에서 비교하고, 상담 시 경품 혜택까지 알차게 챙기세요! 결혼 준비 중인 예비부부라면 필수 코스랍니다.",
+    "keywords": [
+      "세텍 웨딩 페어",
+      "서울 웨딩박람회",
+      "결혼 준비 박람회",
+      "스드메 패키지",
+      "웨딩박람회 후기",
+      "SETEC 웨딩박람회",
+      "신혼부부 혼수",
+      "웨딩드레스 피팅",
+      "결혼 준비 비용",
+      "강남 웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 다녀온 세텍 웨딩 페어 후기 공유해요~ 결혼 준비 이제 막 시작해서 막막했는데, 생각보다 너무 알차게 구성되어 있어서 놀랐어요! 스드메부터 혼수 가전까지 한 곳에서 꼼꼼히 비교할 수 있어서 예비부부님들께 진짜 추천드리고 싶네요.",
+    "benefits_description": "이번 박람회는 혜택이 정말 많더라고요! 특히 현장에서 직접 드레스를 입어볼 수 있는 피팅 체험이 인상 깊었어요. 상담만 받아도 주는 사은품이 쏠쏠하니까 꼭 챙기시고요! 예복 맞춤 시 20% 할인에, 혼수 가전 구매 시 금액대별로 상품권까지 챙겨주니 예산 절감에 큰 도움이 됩니다. 상담 부스마다 전문가분들이 1:1로 설명해 주셔서 궁금했던 점 다 물어보고 왔어요!",
+    "summary_for_search": "5월 서울 SETEC에서 열리는 세텍 웨딩 페어! 스드메 패키지부터 혼수까지 최대 혜택으로 만나는 기회입니다. 상담 완료 후 풍성한 사은품과 드레스 피팅 체험까지, 결혼 준비의 모든 것을 해결하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 세텍 웨딩 페어 최대 혜택 받기",
+    "secondary_headline": "스드메부터 혼수까지 서울 최대 규모, 지금 무료 초대장 신청하세요",
+    "urgency_text": "이번 주말까지만 진행되는 단독 프로모션, 지금 바로 확인하세요!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 증정되는 행운 경품",
+      "웨딩드레스 무료 피팅 체험 기회"
+    ],
+    "contract_benefits": [
+      "예복 맞춤 시 최대 50% 할인 및 촬영 대여 서비스",
+      "혼수 가전 구매 시 최대 600만~2,000만 원대 사은품 및 멤버십 포인트",
+      "한복 맞춤 시 액세서리 업그레이드 및 정계약 혜택"
+    ],
+    "special_events": [
+      "웨딩드레스 현장 피팅 체험",
+      "전문 웨딩 플래너 1:1 맞춤 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 남부순환로 3104",
+      "venue": "SETEC 2층 전시실",
+      "parking_info": "현장 주차장 이용 가능 (유료/상황에 따라 상이)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 시 증정",
+    "trust_indicators": [
+      "전국 매장 1위 가전 브랜드 입점",
+      "웨딩 전문가 그룹 플랜웨딩과 함께하는 행사",
+      "검증된 수많은 스드메 브랜드 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "세텍 웨딩 페어",
+      "startDate": "2025-05-16T10:00",
+      "endDate": "2025-05-17T18:00",
+      "location": {
+        "@type": "Place",
+        "name": "SETEC",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "남부순환로 3104",
+          "addressLocality": "서울 강남구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "무료 초대장을 미리 신청하고 방문하시면 대기 없이 상담받으실 수 있어 예약을 권장 드립니다."
+      },
+      {
+        "question": "스드메 패키지 계약 시 혜택은 무엇인가요?",
+        "answer": "계약 업체에 따라 축하금이나 사은품, 추가 서비스가 제공되며 상담 부스에서 상세히 안내받으실 수 있습니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "현장 이벤트로 준비되어 있으나 인기가 많으니 방문 시 서둘러 신청하시는 것이 좋습니다."
+      },
+      {
+        "question": "혼수 가전 혜택은 어떻게 되나요?",
+        "answer": "LG전자 플래그십 D5 브랜드 전시관에서 구매 금액대별로 사은품과 포인트 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "업체별 상담은 보통 30분~1시간 정도 소요되며 전체적으로 2~3시간 정도 여유 있게 둘러보시는 것을 추천합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 이제 막 준비를 시작한 20대 후반에서 30대 초반의 예비부부들을 위한 맞춤형 박람회입니다. 결혼 준비를 어떻게 시작해야 할지 막막한 분들, 합리적인 스드메 비용을 비교하고 싶은 분들, 혹은 혼수 가전부터 예물까지 한 번에 상담받고 사은품 혜택을 챙기고 싶은 커플들에게 최고의 선택지입니다. 웨딩홀 계약 후 무엇을 해야 할지 고민 중인 커플들에게 전문가의 1:1 컨설팅을 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오",
+      "웨딩 드레스",
+      "헤어&메이크업",
+      "본식&스냅",
+      "예물/예복",
+      "혼수 가전",
+      "한복/신혼여행"
+    ],
+    "comparison_hooks": [
+      "수십 개의 브랜드가 한곳에 모여 실시간 가격 비교 가능",
+      "현장 즉시 계약 시 제공되는 특별 할인 및 추가 사은품",
+      "웨딩 플래너와 함께하는 개인 맞춤형 스타일링 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 업체 비교",
+      "웨딩박람회 사은품",
+      "결혼 박람회 예약 방법",
+      "웨딩드레스 피팅 비용",
+      "혼수 가전 할인 행사",
+      "웨딩 플래너 상담 후기",
+      "서울 웨딩홀 견적 비교",
+      "예복 맞춤 가격",
+      "웨딩 스냅 업체 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "웨딩 준비 체크리스트",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "스냅촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "세텍 웨딩 페어 후기! 스드메 혜택 챙기세요",
+    "og_description": "결혼 준비 필수 코스! 상담만 받아도 사은품 증정, 지금 세텍 웨딩 페어 무료 초대장 신청하고 혜택받아가세요.",
+    "hashtags": [
+      "#세텍웨딩페어",
+      "#웨딩박람회",
+      "#결혼준비",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#신혼부부",
+      "#웨딩드레스피팅",
+      "#결혼준비꿀팁",
+      "#혼수",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon52/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_bpQGpEaJjdzF.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_jJ3qn9L5p.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_YFDHrFeL.jpg"
+  }
+}

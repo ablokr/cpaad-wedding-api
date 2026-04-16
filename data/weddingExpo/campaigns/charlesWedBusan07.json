@@ -1,0 +1,200 @@
+{
+  "campaign_id": "charlesWedBusan07",
+  "gather_name": "롯데백화점 부산본점 웨딩엑스포",
+  "seo_metadata": {
+    "title": "롯데백화점 부산본점 웨딩박람회 | 스드메 최대 100만원 페이백 혜택",
+    "meta_description": "부산 결혼 준비의 모든 것! 롯데백화점 부산본점 웨딩박람회에서 스드메 최저가 보장, 최대 100만원 페이백, 혼수 가전 혜택까지 모두 만나보세요. 이번 주말, 예비부부를 위한 특별한 혜택을 놓치지 마세요!",
+    "keywords": [
+      "부산웨딩박람회",
+      "롯데백화점부산본점웨딩엑스포",
+      "부산결혼준비",
+      "부산스드메",
+      "부산웨딩홀",
+      "웨딩박람회혜택",
+      "신혼여행박람회",
+      "부산혼수",
+      "웨딩페이백",
+      "결혼박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비하시는 예비 신랑신부님들, 고민 많으시죠? 저도 이번에 롯데백화점 부산본점 웨딩박람회에 다녀왔는데 생각보다 훨씬 알차서 꼭 공유해 드리고 싶었어요! 백화점 내에서 진행되니 동선도 깔끔하고 스드메부터 혼수까지 한눈에 비교할 수 있어서 정말 좋더라고요.",
+    "benefits_description": "이번 박람회는 혜택이 진짜 대박이었어요! 무엇보다 상담만 받아도 스타벅스 쿠폰을 챙겨주는데, 계약하면 최대 100만원 페이백 혜택까지 있더라고요. 현장에서 스드메 패키지 가격도 투명하게 공개되어 있어서 예산 잡기가 정말 편했어요. 특히 드레스 디자인이 다양해서 피팅해보고 싶었던 샵들을 직접 볼 수 있다는 게 가장 큰 장점이었습니다!",
+    "summary_for_search": "롯데백화점 부산본점에서 열리는 웨딩박람회! 스드메 최저가 보장 및 최대 100만원 페이백, 혼수 가전 혜택을 한 번에 확인하세요. 결혼 준비의 첫걸음, 지금 무료 초대권 신청하고 알뜰하게 준비 시작하세요!"
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 롯데백화점 부산본점에서 최대 100만원 페이백 받으세요!",
+    "secondary_headline": "스드메 최저가 보장 & 전국 1위 브랜드가 모인 부산 최대 웨딩 엑스포",
+    "urgency_text": "이번 주말 딱 이틀간만 진행되는 특별한 혜택, 지금 바로 무료 초대권 신청하세요!",
+    "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 완료 시 스타벅스 기프트 카드 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 100만원 페이백",
+      "혼수 가전 계약 시 최대 105만원 혜택",
+      "예물 계약 시 15% 추가 할인",
+      "한복/예복 계약 시 할인 및 증정 혜택"
+    ],
+    "special_events": [
+      "웨딩 드레스 특별전 (최신 트렌드 피팅)",
+      "1:1 맞춤 웨딩홀 전문 상담",
+      "고객 감사 페이백 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-19",
+      "display_date": "04월 18일(토) ~ 04월 19일(일)",
+      "original_display_date": "04월 18일(토) ~ 04월 19일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "부산진구",
+      "sigungu_en": "busanjin",
+      "address": "부산 부산진구 가야대로 772",
+      "venue": "롯데백화점 부산 본점 10층",
+      "parking_info": "백화점 주차장 이용 가능",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문하여 웨딩 컨설팅 상담 완료 시 증정",
+    "trust_indicators": [
+      "전국 웨딩컨설팅 부문 소비자평가 브랜드 1위 수상",
+      "업체 수수료 제로 투명한 가격 정책",
+      "검증된 프리미엄 웨딩 제휴 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "롯데백화점 부산본점 웨딩엑스포",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-19",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 부산본점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "부산진구 가야대로 772",
+          "addressLocality": "부산",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "해당 웨딩박람회는 무료 초청장 신청을 통해 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데백화점 부산본점 주차장을 이용하실 수 있으며, 박람회 상담 시 주차 지원 혜택을 확인해 보세요."
+      },
+      {
+        "question": "상담만 받아도 경품을 주나요?",
+        "answer": "네, 현장에서 웨딩 상담을 완료하신 분들께 스타벅스 기프트 카드를 드리는 방문 혜택이 마련되어 있습니다."
+      },
+      {
+        "question": "스드메 비용이 정말 저렴한가요?",
+        "answer": "업체 수수료를 없애고 최저가 보장제를 실시하여 타 박람회 대비 합리적인 가격으로 준비하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "부산 지역 유명 웨딩홀, 드레스샵, 스튜디오뿐만 아니라 예물, 예복, 한복, 혼수 가전 등 결혼 준비의 전 품목 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막한 부산 지역의 예비부부를 위한 행사입니다. 특히 웨딩홀, 스드메, 예물, 혼수 등 결혼 준비 리스트를 한 번에 해결하고 싶은 커플이나, 합리적인 비용으로 퀄리티 높은 결혼식을 올리고 싶은 알뜰한 신혼부부에게 추천합니다. 정보 수집부터 계약까지 전문가의 1:1 상담을 통해 나만의 맞춤 웨딩을 기획할 수 있습니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 제휴 리스트 (부산 주요 홀)",
+      "드레스샵 브랜드 15개 이상",
+      "스튜디오 촬영 업체",
+      "예물 및 명품 주얼리",
+      "맞춤 정장 및 한복 전문점",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "업체 수수료 제로! 소비자에게 합리적인 최저가 가격 제공",
+      "전국 1위 브랜드가 보장하는 프리미엄 웨딩 서비스",
+      "현장 계약 시 최대 100만원까지 돌려받는 강력한 페이백 시스템"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 웨딩박람회 추천",
+      "부산 스드메 패키지 가격",
+      "웨딩박람회 준비물",
+      "결혼 준비 순서 체크리스트",
+      "부산 웨딩홀 견적 비교",
+      "혼수 가전 저렴하게 사는 법",
+      "박람회 방문 혜택",
+      "부산 예물 추천",
+      "부산 한복 대여 가격",
+      "결혼식 예산 짜기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩홀 랭킹 바로가기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 견적 알아보기",
+        "category": "service_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 예비부부 주목! 웨딩박람회 100만원 페이백",
+    "og_description": "롯데백화점 부산본점 웨딩엑스포! 상담만 받아도 스타벅스 쿠폰 증정, 지금 바로 신청하세요!",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#롯데백화점부산본점",
+      "#부산결혼준비",
+      "#부산스드메",
+      "#예비부부",
+      "#결혼준비",
+      "#웨딩박람회혜택",
+      "#부산웨딩홀",
+      "#부산예물",
+      "#부산예복"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/charlesWedBusan07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_hbuFRa1y7U3FMvJZVLu7pzSfVacECWO.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_rGzwGsLAsKDBLwKy2LDTN8YHZQyjXT.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_MLYZWjj7B.jpg"
+  }
+}

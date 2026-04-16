@@ -1,0 +1,201 @@
+{
+  "campaign_id": "objetWed01",
+  "gather_name": "천안아산 웨딩드레스 페어",
+  "seo_metadata": {
+    "title": "천안아산 웨딩박람회 후기 | 드레스 피팅 혜택 & 스드메 견적 꿀팁",
+    "meta_description": "천안아산 웨딩드레스 페어 다녀온 생생 후기! 드레스 무료 피팅부터 스드메 추가금 제로 혜택까지, 예비부부를 위한 결혼 준비 알짜 정보와 계약 꿀팁을 확인하세요.",
+    "keywords": [
+      "천안웨딩박람회",
+      "아산웨딩박람회",
+      "천안결혼준비",
+      "천안스드메",
+      "웨딩드레스피팅",
+      "천안웨딩홀추천",
+      "결혼준비박람회",
+      "웨딩박람회후기",
+      "스드메견적",
+      "천안오브제"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 천안아산 웨딩드레스 페어 다녀왔는데, 생각보다 너무 알차서 후기 공유해요~ 결혼 준비 이제 막 시작하시는 분들이라면 꼭 들러봐야 할 곳인 것 같아요!",
+    "benefits_description": "이번 박람회는 진짜 드레스 혜택이 대박이었어요! 무엇보다 웨딩드레스 추가금이 제로라는 점이 예비신부로서 제일 솔깃하더라고요. 현장에서 직접 드레스 피팅도 해보고 메이크업 스타일링까지 받아볼 수 있어서 내가 어떤 분위기가 어울리는지 바로 체크 가능해요. 계약 시 가전 제품 지원이나 웨딩 촬영 수정본 무료 제공 같은 실속 있는 혜택이 많으니 상담할 때 꼭 꼼꼼히 물어보세요! 소소하지만 방문만 해도 주는 사은품도 꽤 쏠쏠하니까 주말 데이트 겸 다녀오시는 거 강력 추천드립니다.",
+    "summary_for_search": "천안 오브제에서 열리는 천안아산 웨딩드레스 페어 후기입니다. 드레스 무료 피팅, 스드메 추가금 제로 등 파격적인 혜택과 업체별 비교 정보를 정리했습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "천안아산 웨딩드레스 셀렉 1위, 지금 등록 시 스드메 추가금 ZERO!",
+    "secondary_headline": "현장 무료 드레스 피팅과 메이크업 체험으로 생애 가장 아름다운 순간을 완성하세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 구성, 선착순 혜택을 놓치지 마세요!",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 사은품 증정",
+      "웨딩드레스 무료 피팅 체험",
+      "전문가 1:1 메이크업 스타일링 체험"
+    ],
+    "contract_benefits": [
+      "스드메 추가금 제로",
+      "가전제품 교환권 지원",
+      "웨딩촬영 수정본 무료 제공",
+      "예물/한복/예복 계약 시 추가 할인 및 서비스"
+    ],
+    "special_events": [
+      "신상 드레스 전시 및 체험",
+      "인기 스튜디오 샘플 관람",
+      "1:1 웨딩 전문가 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-19",
+      "display_date": "04월 18일(토) ~ 04월 19일(일)",
+      "original_display_date": "04월 18일(토) ~ 04월 19일(일)"
+    },
+    "location": {
+      "sido": "충남",
+      "sido_en": "chungnam",
+      "sigungu": "천안시",
+      "sigungu_en": "cheonan",
+      "address": "충청남도 천안시 서북구 백석로 206",
+      "venue": "천안 오브제 특별행사장",
+      "parking_info": "행사장 내 주차 가능 (상세 정보는 초대권 신청 후 안내)",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 완료 후 현장에서 제공되는 QR코드 스캔 및 상담 확인 완료 시 증정",
+    "trust_indicators": [
+      "천안/아산 지역 웨딩드레스 셀렉 1위",
+      "거품 없는 정찰제 운영",
+      "100% 예약제로 프라이빗한 상담 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "천안아산 웨딩드레스 페어",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-19",
+      "location": {
+        "@type": "Place",
+        "name": "천안 오브제",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충남 천안시 서북구 백석로 206",
+          "addressLocality": "천안",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 예약은 필수인가요?",
+        "answer": "네, 1:1 집중 상담과 드레스 피팅 서비스를 위해 사전 예약제를 운영하고 있습니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "네, 현장에서 드레스 피팅 체험 이벤트를 진행 중이며, 전문가의 도움을 받아 나에게 어울리는 디자인을 찾을 수 있습니다."
+      },
+      {
+        "question": "추가 비용이 발생하나요?",
+        "answer": "정찰제 박람회로, 계약 시 명시된 금액 외에 강요된 추가 비용은 발생하지 않습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "개인별 차이가 있으나, 보통 1시간에서 1시간 30분 정도 소요됩니다."
+      },
+      {
+        "question": "무료 주차가 가능한가요?",
+        "answer": "행사장 내 주차가 지원되며, 상세한 주차 안내는 초대장 신청 후 안내받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작하여 무엇부터 해야 할지 막막한 예비부부, 스드메 패키지 비용을 효율적으로 비교하고 싶은 분, 나에게 딱 맞는 웨딩홀과 스타일을 찾고 싶은 커플을 위한 행사입니다. 웨딩 준비 과정 전반에 걸친 1:1 전문 상담을 통해 예산에 맞는 합리적인 선택을 할 수 있도록 돕습니다.",
+    "exhibitor_highlights": [
+      "웨딩드레스 샵 10여 곳",
+      "웨딩 스튜디오",
+      "웨딩 메이크업",
+      "예물 및 예복 브랜드",
+      "한복 및 혼수 업체",
+      "천안/아산 지역 인기 웨딩홀"
+    ],
+    "comparison_hooks": [
+      "웨딩드레스 추가금 제로 정책",
+      "전문가 1:1 매칭 시스템으로 개인 맞춤 상담",
+      "지역 내 최대 규모 드레스 셀렉션 보유"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "천안 웨딩박람회 사기 방지",
+      "스드메 업체 비교",
+      "결혼 준비 체크리스트",
+      "웨딩드레스 투어 꿀팁",
+      "천안 웨딩홀 견적 비교",
+      "박람회 계약 시 주의사항",
+      "예물 브랜드 추천",
+      "웨딩 촬영 스튜디오 후기",
+      "결혼 비용 절약 방법",
+      "천안 메이크업 샵 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "천안 예식장 정보 모아보기",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "스드메 패키지 상담 신청",
+        "category": "package_consulting"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "본식 메이크업",
+      "웨딩 촬영",
+      "예복",
+      "가전",
+      "부케",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "천안아산 웨딩박람회 혜택 총정리!",
+    "og_description": "드레스 피팅부터 가전 지원까지, 예비신부가 직접 다녀온 꿀팁 가득한 박람회 후기 확인하세요!",
+    "hashtags": [
+      "#천안웨딩박람회",
+      "#아산웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#천안예식장",
+      "#웨딩드레스",
+      "#예신",
+      "#결혼준비체크리스트",
+      "#웨딩박람회후기",
+      "#천안웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/objetWed01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_96UqxOBElPzGPhCYjg1gOfghfR.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cvv9hCPAbfX5nbgKxrRbUXCvTd.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_8pv8cFyHZB6NMFfCfrv82.jpg"
+  }
+}

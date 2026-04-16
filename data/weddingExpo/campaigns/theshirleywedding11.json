@@ -1,0 +1,201 @@
+{
+  "campaign_id": "theshirleywedding11",
+  "gather_name": "화성(동탄) 더셜리 웨딩박람회",
+  "seo_metadata": {
+    "title": "화성 더셜리 웨딩박람회 | 동탄 결혼 준비 스드메 최대 30% 할인",
+    "meta_description": "화성 동탄에서 열리는 더셜리 웨딩박람회! 5월 2일~3일, LG전자베스트샵 롯데동탄점에서 스드메 최대 30% 할인과 건강검진 혜택까지 모두 챙겨가세요. 지금 사전예약하고 선물 받으세요!",
+    "keywords": [
+      "화성 웨딩박람회",
+      "동탄 웨딩박람회",
+      "더셜리 웨딩박람회",
+      "결혼 준비",
+      "스드메 할인",
+      "동탄 결혼 준비",
+      "웨딩박람회 혜택",
+      "예식장 견적",
+      "신혼가전",
+      "웨딩 드레스 투어"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말 결혼 준비로 고민 중인 예신님들을 위해 동탄에서 열리는 '더셜리 웨딩박람회' 후기 겸 정보를 정리해 왔어요. 막상 결혼 준비 시작하려니 막막했는데, 이번 박람회 혜택이 정말 알차더라고요!",
+    "benefits_description": "가장 눈에 띄는 건 역시 스드메 패키지 최대 30% 할인이에요! 250만 원 상당 패키지를 175만 원에 만날 수 있다니 정말 대박이죠? 게다가 양가 부모님 포함 6인 건강검진권 증정 혜택은 결혼 준비로 지친 예비부부에게 딱 필요한 꿀혜택인 것 같아요. 단순히 상담만 받아도 선물을 주니까, 동탄 근처라면 가볍게 데이트 삼아 다녀오시는 걸 추천드려요!",
+    "summary_for_search": "5월 2일~3일, 화성 LG전자베스트샵 롯데동탄점에서 열리는 더셜리 웨딩박람회! 스드메 최대 30% 할인과 양가 건강검진권, 방문 선물까지 알찬 혜택을 확인해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 모르면 손해! 스드메 패키지 최대 30% 즉시 할인",
+    "secondary_headline": "동탄 더셜리 웨딩박람회에서 준비하는 알뜰한 결혼식의 시작",
+    "urgency_text": "사전 예약 시 특별 선물 증정, 조기 마감 주의!",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문만 해도 특별 선물 증정(TOYASALT 프리미엄 세트 등)"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 30% 할인 (250만원->175만원)",
+      "양가 부모님 포함 6인 건강검진권 증정",
+      "웨딩홀 대관료 무료 및 식대 할인",
+      "혼수 최대 40% 할인",
+      "블랙라벨 드레스 무료 업그레이드"
+    ],
+    "special_events": [
+      "메이크업 시연 이벤트",
+      "웨딩 스타일링 체험",
+      "1:1 컨셉 맞춤 웨딩 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-03",
+      "display_date": "05월 02일(토) ~ 05월 03일(일)",
+      "original_display_date": "05월 02일(토) ~ 05월 03일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "화성시",
+      "sigungu_en": "hwaseong",
+      "address": "경기 화성시 동탄역로 160 롯데백화점 동탄점 6층",
+      "venue": "LG전자베스트샵 롯데동탄점",
+      "parking_info": "롯데동탄점 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "방문 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 현장 방문 시 증정, 신랑신부 동반 방문 필수",
+    "trust_indicators": [
+      "전국 12개 검진센터 연계",
+      "유명 드레스 브랜드 15곳 입점",
+      "전문가와 함께하는 웨딩 비용 1:1 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "화성 더셜리 웨딩박람회",
+      "startDate": "2026-05-02",
+      "endDate": "2026-05-03",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 롯데동탄점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "동탄대로 160",
+          "addressLocality": "화성시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회는 꼭 예비부부가 같이 가야 하나요?",
+        "answer": "네, 더셜리 웨딩박람회는 신랑신부님 동반 방문 시에만 입장 및 혜택 수령이 가능합니다."
+      },
+      {
+        "question": "사전 예약을 안 하고 방문해도 되나요?",
+        "answer": "사전 예약 시 특별 선물과 더 많은 혜택이 준비되어 있으니 가급적 온라인으로 미리 신청하고 가시는 것을 권장합니다."
+      },
+      {
+        "question": "스드메 패키지 가격은 어느 정도인가요?",
+        "answer": "박람회 기간 중 최대 30% 할인이 적용되어 175만 원부터 패키지 구성이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "유명 드레스샵, 웨딩홀, 예물, 예복, 허니문 여행사 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+      },
+      {
+        "question": "박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "방문만 하셔도 프리미엄 소금 세트 등의 증정품을 받으실 수 있으며, 상담 체결 시 건강검진권 등 추가 혜택이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜를 잡고 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 2030 세대, 혼수 가전부터 웨딩홀까지 한 번에 정보를 얻고 싶은 커플을 대상으로 합니다. 특히 화성/동탄 인근에서 예식을 준비 중인 분들에게 최적화된 맞춤형 웨딩 정보와 전문가의 1:1 컨설팅을 제공합니다.",
+    "exhibitor_highlights": [
+      "프리미엄 웨딩 드레스샵 15곳",
+      "스드메 패키지 전문 업체",
+      "웨딩홀 및 식대 할인 업체",
+      "예물 및 예복 브랜드",
+      "허니문 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "전문 웨딩 플래너가 분석해주는 100만 원 절약 노하우",
+      "타 박람회 대비 양가 부모님 건강검진권 등 차별화된 실속 혜택",
+      "현장 즉시 계약 시 블랙라벨 드레스 무료 업그레이드 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "결혼 준비 순서",
+      "스드메 패키지 가격",
+      "동탄 웨딩홀 추천",
+      "웨딩박람회 후기",
+      "신혼여행 준비물",
+      "결혼 가전 견적",
+      "예물 예복 트렌드",
+      "웨딩 드레스 투어 꿀팁",
+      "결혼 비용 절약법",
+      "웨딩박람회 방문 선물"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "화성 웨딩홀 인기 순위",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "신혼부부 가전 구매 가이드",
+        "category": "home_appliances"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩 촬영",
+      "신혼여행",
+      "예복",
+      "예물",
+      "결혼 준비 비용",
+      "웨딩 플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "화성(동탄) 더셜리 웨딩박람회 정보",
+    "og_description": "지금 사전 예약하고 스드메 30% 할인과 건강검진권 챙기세요!",
+    "hashtags": [
+      "#웨딩박람회",
+      "#동탄웨딩박람회",
+      "#화성웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예신스타그램",
+      "#결혼준비시작",
+      "#웨딩드레스",
+      "#신혼여행",
+      "#더셜리웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleywedding11/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_tffoNlJdZihAY.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_BS22Fe7izjJGNbaPY37vA1nCxZ.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_skO3HkJQim6yFzD.jpg"
+  }
+}

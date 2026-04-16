@@ -1,0 +1,189 @@
+{
+  "campaign_id": "whw04",
+  "gather_name": "전주웨딩드레스",
+  "seo_metadata": {
+    "title": "전주 웨딩박람회 | 엘리자베스 드레스 무료 피팅 및 스드메 혜택",
+    "meta_description": "전주 웨딩스퀘어에서 열리는 특별한 웨딩박람회! 엘리자베스 그룹의 명품 드레스 무료 피팅 기회와 함께 스드메 패키지, 웨딩홀 할인까지 한자리에서 확인하세요. 선착순 혜택을 놓치지 마세요!",
+    "keywords": [
+      "전주웨딩박람회",
+      "전주웨딩드레스",
+      "엘리자베스그룹",
+      "전주웨딩스퀘어",
+      "결혼준비",
+      "스드메패키지",
+      "전주웨딩홀",
+      "웨딩드레스피팅",
+      "전주결혼준비",
+      "예신"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 드레스 투어 고민 많으시죠? 저번 주에 전주 웨딩스퀘어에서 열린 엘리자베스 그룹 박람회에 다녀왔는데, 진짜 기대 이상이었어요! 평소 꿈꾸던 하이엔드 드레스를 직접 눈으로 보고 피팅까지 해볼 수 있는 흔치 않은 기회라 예신님들께 꼭 공유하고 싶더라고요.",
+    "benefits_description": "이번 박람회는 혜택이 정말 알차요! 예약만 해도 100% 선물 증정은 기본이고, 가장 유용했던 건 단연 '드레스 무료 피팅'이에요. 현장에서 전문가 조언 받으며 입어보니까 나한테 어울리는 라인을 정확히 찾을 수 있었거든요. 사전 예약 시 20만 원 상당의 VVIP 피팅권도 챙길 수 있어서, 드레스 투어 비용 아끼고 싶은 분들은 꼭 미리 신청하시는 걸 추천드려요!",
+    "summary_for_search": "전주 웨딩스퀘어에서 열리는 엘리자베스 그룹 웨딩박람회! 명품 드레스 무료 피팅 및 상담 혜택을 제공합니다. 전주 예비 부부를 위한 최적의 결혼 준비 정보를 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "전주에서 만나는 엘리자베스 그룹 명품 드레스 무료 피팅!",
+    "secondary_headline": "하이엔드 스드메 패키지부터 웨딩홀 할인까지, 결혼 준비의 모든 것을 한 번에!",
+    "urgency_text": "선착순 사전 예약 시 20만 원 상당 VVIP 피팅권 증정!",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "예약만 해도 100% 방문 선물 증정",
+      "20만 원 상당 VVIP 피팅권 (사전 예약 시)"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 특별 할인",
+      "웨딩홀 대관료 및 식대 할인 혜택",
+      "엘리자베스 그룹 드레스 가격 절감 혜택"
+    ],
+    "special_events": [
+      "엘리자베스 드레스 현장 무료 피팅 체험",
+      "신상 드레스 컬렉션 참여 기회"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2022-02-22",
+      "end_date": "2035-03-11",
+      "display_date": "엘리자베스 그룹의 드레스를 만나보세요! 무료피팅 제공!",
+      "original_display_date": "엘리자베스 그룹의 드레스를 만나보세요! 무료피팅 제공!"
+    },
+    "location": {
+      "sido": "전북",
+      "sido_en": "jeonbuk",
+      "sigungu": "전주시",
+      "sigungu_en": "jeonju",
+      "address": "전주 웨딩스퀘어",
+      "venue": "전주 웨딩스퀘어",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "etc"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 현장 상담 완료 시 혜택 제공",
+    "trust_indicators": [
+      "엘리자베스 그룹 공식 파트너",
+      "상위 1% 명품 드레스 라인업",
+      "전문 웨딩 플래너 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "전주 웨딩박람회 - 엘리자베스 그룹",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "전주 웨딩스퀘어",
+        "address": "전북 전주시"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장은 무료인가요?",
+        "answer": "네, 사전 신청 시 무료 초대권이 발송되어 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "사전 예약을 통해 피팅권을 받으신 분들에 한해 명품 드레스 무료 피팅 기회가 제공됩니다."
+      },
+      {
+        "question": "스드메 상담은 어떻게 진행되나요?",
+        "answer": "전문 웨딩 플래너가 1:1로 배정되어 예산과 취향에 맞는 맞춤형 컨설팅을 진행합니다."
+      },
+      {
+        "question": "웨딩홀 예약도 가능한가요?",
+        "answer": "네, 박람회에 입점한 다양한 전주 지역 웨딩홀과 연계하여 대관료 및 식대 할인 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "사전 예약을 완료하고 현장에서 상담을 진행하신 분들께 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 전주 지역 예비 부부를 대상으로 합니다. 특히 남들과는 다른 특별하고 고급스러운 드레스를 선호하며, 스드메 패키지 비용을 합리적으로 비교하고 싶은 분들에게 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비 부부에게는 전문가의 체계적인 플랜을 제공하며, 시간과 비용을 절약하고 싶은 커플들에게 최고의 선택지가 될 것입니다.",
+    "exhibitor_highlights": [
+      "엘리자베스 그룹(럭스, 베르타, 더 화이트)",
+      "전주 지역 유명 웨딩홀",
+      "스드메 패키지 제휴 업체",
+      "신혼여행/예물/예복 업체"
+    ],
+    "comparison_hooks": [
+      "국내 1% 하이엔드 드레스 직접 피팅 가능",
+      "전주 웨딩스퀘어 단독 제휴 파격 할인",
+      "사전 예약 시 VVIP 피팅권 및 100% 선물 증정"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "전주 웨딩드레스 추천",
+      "전주 스드메 가격",
+      "웨딩박람회 방문 꿀팁",
+      "결혼 준비 체크리스트",
+      "엘리자베스 드레스 라인별 특징",
+      "전주 결혼식장 비교",
+      "웨딩 플래너 상담 비용",
+      "스드메 패키지 구성",
+      "결혼 준비 순서",
+      "예신 다이어트 박람회"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "전주 웨딩박람회 전체 일정",
+        "category": "jeonju_wedding"
+      },
+      {
+        "anchor": "스드메 패키지 가이드",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "드레스피팅",
+      "결혼준비",
+      "플래너",
+      "본식드레스",
+      "웨딩촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "전주 예신 필독! 명품 드레스 무료 피팅 박람회",
+    "og_description": "엘리자베스 드레스를 전주에서 직접 입어볼 기회! 지금 사전 예약하고 VVIP 혜택까지 모두 챙기세요.",
+    "hashtags": [
+      "#전주웨딩박람회",
+      "#전주웨딩드레스",
+      "#결혼준비",
+      "#예신",
+      "#스드메",
+      "#웨딩드레스피팅",
+      "#전주결혼준비",
+      "#엘리자베스그룹",
+      "#전주웨딩스퀘어",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/whw04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_u4vN96ZqSgznvEhNXeISA4hUW8eg5WPp.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_1sxZiLQOYea9QovVVRRDNyV7.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_qsjiVuTy5fYTBc78eTG.jpg"
+  }
+}
