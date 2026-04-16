@@ -53,6 +53,7 @@ python3 src/main.py
 # 5. 데이터 커밋 및 푸시 (Main 브랜치 직접 반영)
 echo "[*] 생성된 최신 데이터를 메인 저장소(main)에 반영 중..."
 git add data/
+git add lib/organizerMapping.json
 
 # 스테이징된 파일 수 및 Ahead 커밋 수 확인
 STAGED_COUNT=$(git status --porcelain | grep '^[AM]' | wc -l)
