@@ -384,3 +384,36 @@ class WeddingDataStorage:
         
         return updated
 
+    def update_organizer_name(self, campaign_id: str, brand_name: str):
+        """특정 캠페인의 주관사 이름을 실시간으로 업데이트합니다 (이름이 없는 경우에만)."""
+        mapping_path = os.path.join("lib", "organizerMapping.json")
+        if not os.path.exists(mapping_path): return
+
+        try:
+            with open(mapping_path, 'r', encoding='utf-8') as f:
+                mapping = json.load(f)
+
+            # 1. 주관사 ID 도출 (첫 번째 숫자 기준)
+            match = re.search(r'\d', campaign_id)
+            candidate_id = campaign_id[:match.start()] if match else campaign_id
+            
+            # 2. 에일리언스(Alias) 해결
+            target_id = candidate_id
+            safety_limit = 5
+            while "alias_of" in mapping.get(target_id, {}) and safety_limit > 0:
+                target_id = mapping[target_id]["alias_of"]
+                safety_limit -= 1
+
+            # 3. 이름 업데이트 (비어있거나 유효하지 않은 경우만)
+            if target_id in mapping:
+                current_name = mapping[target_id].get("name", "")
+                if not current_name or len(current_name) <= 1:
+                    mapping[target_id]["name"] = brand_name
+                    with open(mapping_path, 'w', encoding='utf-8') as f:
+                        # 정렬하여 정돈된 상태로 저장
+                        sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
+                        json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
+                    print(f"[✔] [Storage] 주관사 이름 실시간 업데이트 완료: {target_id} -> {brand_name}")
+        except Exception as e:
+            print(f"[!] [Storage] 주관사 이름 업데이트 중 오류: {e}")
+

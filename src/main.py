@@ -89,7 +89,11 @@ async def run_single_campaign(api_basic_data: dict, collector, processor, prepro
                 # 2. 캡처 (Collector)
                 screenshot_path = storage.get_capture_path(campaign_id)
                 if not os.path.exists(screenshot_path):
-                    await collector.capture_full_page_mobile(target_url, screenshot_path)
+                    extracted_name = await collector.capture_full_page_mobile(target_url, screenshot_path)
+                    
+                    # [추가] 실시간 주관사 이름 업데이트
+                    if extracted_name:
+                        storage.update_organizer_name(campaign_id, extracted_name)
                 else:
                     print(f"[-] [Collector] 기존 캡처 이미지 사용 (캡처 스킵): {screenshot_path}")
 

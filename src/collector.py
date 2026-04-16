@@ -1,4 +1,5 @@
 import os
+import re
 import platform
 from playwright.async_api import async_playwright
 
@@ -81,6 +82,41 @@ class WeddingDataCollector:
             # 애니메이션 중지 및 전체 페이지 캡처
             await page.screenshot(path=output_path, full_page=True, animations="disabled", timeout=120000)
             print(f"[+] [Collector] 캡처 완료: {output_path}")
+
+            # [추가] 주관사 실시간 이름 추출
+            extracted_name = await self.extract_organizer_name(page)
+            if extracted_name:
+                print(f"[*] [Collector] 주관사 이름 추출 성공: {extracted_name}")
+            
+            return extracted_name
         finally:
             await page.close()
             await context.close()
+
+    async def extract_organizer_name(self, page):
+        """페이지 본문에서 주최사 이름을 추출합니다."""
+        try:
+            text_content = await page.evaluate("document.body.innerText")
+            
+            # 1. 메인 패턴: 개인정보의 수집/이용 문구 주변
+            pattern = r"개인정보의?\s*수집\s*/?\s*이용\s*[:：\s]\s*(?:\(주\))?([\s\w가-힣]+)"
+            match = re.search(pattern, text_content)
+            
+            extracted_name = ""
+            if match:
+                extracted_name = match.group(1).strip()
+                # 줄바꿈이나 긴 공백에서 자르기
+                extracted_name = re.split(r'[\n\r\t]|\s{2,}', extracted_name)[0].strip()
+                # 불필요 관용구 제거
+                extracted_name = re.sub(r'\(.*?\)|개인정보.*', '', extracted_name).strip()
+            
+            # 2. 폴백 패턴: (주)명칭 직접 찾기
+            if not extracted_name or len(extracted_name) <= 1:
+                alt_pattern = r"(?:\(주\))\s*([가-힣\w]+(?:웨딩|컨설팅|여행사|투어|페어|네트웍스)?)"
+                alt_match = re.search(alt_pattern, text_content)
+                if alt_match:
+                    extracted_name = alt_match.group(1).strip()
+            
+            return extracted_name if extracted_name and len(extracted_name) > 1 else None
+        except Exception:
+            return None
