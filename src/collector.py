@@ -63,7 +63,9 @@ class WeddingDataCollector:
         
         try:
             print(f"[-] [Collector] [{url}] 페이지 로딩 중...")
-            await page.goto(url, wait_until="networkidle", timeout=60000)
+            # 'networkidle' 대신 'load'를 사용하여 외부 리소스 지연으로 인한 타임아웃 방지
+            await page.goto(url, wait_until="load", timeout=60000)
+            await page.wait_for_timeout(2000) # 기본 렌더링 대기
             
             # 무한 스크롤 대비 점진적 스크롤 (레이지 로딩 이미지 활성화를 위해)
             current_pos = 0
