@@ -288,22 +288,37 @@ class WeddingDataStorage:
                 continue
 
             # 끝의 숫자 제거하여 organizer_id 생성 (예: iniwedding05 -> iniwedding)
-            organizer_id = campaign_id.rstrip('0123456789')
+            candidate_id = campaign_id.rstrip('0123456789')
             
+            # [신규] 에일리언스(Alias) 해결 로직
+            # 해당 ID가 이미 존재하고 다른 ID를 가리키고 있다면(alias_of), 대상 ID를 변경
+            target_id = candidate_id
+            if candidate_id in mapping and "alias_of" in mapping[candidate_id]:
+                target_id = mapping[candidate_id]["alias_of"]
+                print(f"[*] [Storage] 에일리언스 해결: {candidate_id} -> {target_id}")
+
             # 주최사 자체가 새로 감지된 경우
-            if organizer_id not in mapping:
-                mapping[organizer_id] = {
+            if target_id not in mapping:
+                mapping[target_id] = {
                     "name": "",
                     "campaigns": []
                 }
                 updated = True
-                print(f"[*] [Storage] 신규 주최사 감지: {organizer_id}")
+                print(f"[*] [Storage] 신규 주최사 감지: {target_id}")
             
+            # 대상 주최사가 다른 ID를 가리키는 에일리언스인 경우 (재귀적으로 해결)
+            # (매핑 파일 구조상 한 단계만 있는 것을 권장하지만, 안전을 위해 루프 방지 처리하며 확인)
+            safety_limit = 5
+            while "alias_of" in mapping[target_id] and safety_limit > 0:
+                target_id = mapping[target_id]["alias_of"]
+                safety_limit -= 1
+
             # 해당 캠페인 ID 추가 (위에서 중복 체크를 했으므로 여기서는 안전하게 추가 가능)
-            mapping[organizer_id]["campaigns"].append(campaign_id)
-            all_mapped_campaigns.add(campaign_id)
-            updated = True
-            print(f"[*] [Storage] 신규 캠페인 매핑 추가: {organizer_id} -> {campaign_id}")
+            if campaign_id not in mapping[target_id]["campaigns"]:
+                mapping[target_id]["campaigns"].append(campaign_id)
+                all_mapped_campaigns.add(campaign_id)
+                updated = True
+                print(f"[*] [Storage] 신규 캠페인 매핑 추가: {target_id} -> {campaign_id}")
 
         # 3. 변경 사항이 있을 때만 저장
         if updated:
