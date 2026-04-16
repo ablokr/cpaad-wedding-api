@@ -253,3 +253,67 @@ class WeddingDataStorage:
                         self.write_json(path, new_list)
         
         print(f"[!] [Storage] 데이터 삭제 완료: {cid}")
+
+    def update_organizer_mapping(self, advertisements: dict):
+        """
+        새로운 캠페인과 주최사를 lib/organizerMapping.json에 증분(Incremental) 방식으로 추가합니다.
+        기존에 존재하던 주최사 명칭(name)은 절대 덮어쓰지 않습니다.
+        """
+        # 프로젝트 루트 경로 계산 (src/storage.py 기준 한 단계 위)
+        root_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        mapping_dir = os.path.join(root_dir, "lib")
+        mapping_path = os.path.join(mapping_dir, "organizerMapping.json")
+        
+        # 1. 기존 매핑 파일 로드
+        mapping = {}
+        if os.path.exists(mapping_path):
+            try:
+                with open(mapping_path, 'r', encoding='utf-8') as f:
+                    mapping = json.load(f)
+            except Exception as e:
+                print(f"[!] [Storage] 매핑 파일 로드 실패 (새로 생성 가능성): {e}")
+                mapping = {}
+        
+        updated = False
+        
+        # 1.5 전체 매핑에서 이미 할당된 캠페인 ID 세트 생성 (중복 할당 방지 및 수동 이동 존중)
+        all_mapped_campaigns = set()
+        for org_info in mapping.values():
+            all_mapped_campaigns.update(org_info.get("campaigns", []))
+
+        # 2. 신규 광고 순회하며 매핑 데이터 조립
+        for campaign_id in advertisements.keys():
+            # 이미 어딘가에 할당되어 있다면 (사용자가 수동으로 옮긴 경우 포함) 건너뜀
+            if campaign_id in all_mapped_campaigns:
+                continue
+
+            # 끝의 숫자 제거하여 organizer_id 생성 (예: iniwedding05 -> iniwedding)
+            organizer_id = campaign_id.rstrip('0123456789')
+            
+            # 주최사 자체가 새로 감지된 경우
+            if organizer_id not in mapping:
+                mapping[organizer_id] = {
+                    "name": "",
+                    "campaigns": []
+                }
+                updated = True
+                print(f"[*] [Storage] 신규 주최사 감지: {organizer_id}")
+            
+            # 해당 캠페인 ID 추가 (위에서 중복 체크를 했으므로 여기서는 안전하게 추가 가능)
+            mapping[organizer_id]["campaigns"].append(campaign_id)
+            all_mapped_campaigns.add(campaign_id)
+            updated = True
+            print(f"[*] [Storage] 신규 캠페인 매핑 추가: {organizer_id} -> {campaign_id}")
+
+        # 3. 변경 사항이 있을 때만 저장
+        if updated:
+
+            # 주최사 ID 기준으로 정렬하여 가독성 유지
+            sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
+            os.makedirs(mapping_dir, exist_ok=True)
+            with open(mapping_path, 'w', encoding='utf-8') as f:
+                json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
+            print(f"[✔] [Storage] organizerMapping.json 업데이트 완료.")
+        else:
+            print("[*] [Storage] organizerMapping.json 변경 사항 없음.")
+
