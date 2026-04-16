@@ -409,11 +409,15 @@ class WeddingDataStorage:
                 current_name = mapping[target_id].get("name", "")
                 if not current_name or len(current_name) <= 1:
                     mapping[target_id]["name"] = brand_name
+                    
+                    # [추가] 이름 업데이트 즉시 자동 통합 수행
+                    self._merge_organizers_by_name(mapping)
+                    
                     with open(mapping_path, 'w', encoding='utf-8') as f:
                         # 정렬하여 정돈된 상태로 저장
                         sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
                         json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
-                    print(f"[✔] [Storage] 주관사 이름 실시간 업데이트 완료: {target_id} -> {brand_name}")
+                    print(f"[✔] [Storage] 주관사 이름 실시간 업데이트 및 자동 통합 완료: {target_id} -> {brand_name}")
         except Exception as e:
             print(f"[!] [Storage] 주관사 이름 업데이트 중 오류: {e}")
 
