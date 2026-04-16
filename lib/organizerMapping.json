@@ -8,14 +8,12 @@
   "banhana": {
     "name": "반하나웨딩 컨설팅",
     "campaigns": [
-      "banhana13"
+      "banhana13",
+      "banhanaH06"
     ]
   },
   "banhanaH": {
-    "name": "반하나웨딩 컨설팅",
-    "campaigns": [
-      "banhanaH06"
-    ]
+    "alias_of": "banhana"
   },
   "bwithk": {
     "name": "제주MBC 웨딩페어",
@@ -183,16 +181,14 @@
       "revewedding05",
       "revewedding25",
       "revewedding27",
-      "revewedding28"
-    ]
-  },
-  "reveweddingE": {
-    "name": "주식회사 레브웨딩",
-    "campaigns": [
+      "revewedding28",
       "reveweddingE25",
       "reveweddingE27",
       "reveweddingE28"
     ]
+  },
+  "reveweddingE": {
+    "alias_of": "revewedding"
   },
   "theBW": {
     "name": "더베스트 웨딩페어",

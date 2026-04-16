@@ -325,6 +325,9 @@ class WeddingDataStorage:
 
         # 3. 변경 사항이 있을 때만 저장
         if updated:
+            # [추가] 이름 중복 기반 자동 통합 (reveweddingE -> revewedding 등)
+            name_merged = self._merge_organizers_by_name(mapping)
+            if name_merged: updated = True
 
             # 주최사 ID 기준으로 정렬하여 가독성 유지
             sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
@@ -334,4 +337,50 @@ class WeddingDataStorage:
             print(f"[✔] [Storage] organizerMapping.json 업데이트 완료.")
         else:
             print("[*] [Storage] organizerMapping.json 변경 사항 없음.")
+
+    def _merge_organizers_by_name(self, mapping: dict) -> bool:
+        """
+        동일한 주관사 이름(name)을 가진 항목들을 가장 짧은 키(Original)로 통합합니다.
+        병합된 항목들은 alias_of로 변경됩니다.
+        """
+        name_groups = {}
+        
+        # 1. 이름별로 그룹화 (alias가 아닌 실제 데이터가 있는 것들만)
+        for oid, info in mapping.items():
+            name = info.get("name")
+            if name and "alias_of" not in info:
+                if name not in name_groups:
+                    name_groups[name] = []
+                name_groups[name].append(oid)
+        
+        updated = False
+        for name, oids in name_groups.items():
+            if len(oids) <= 1:
+                continue
+            
+            # 2. 대표 키(가장 짧은 키) 선정
+            primary_id = min(oids, key=len)
+            
+            for oid in oids:
+                if oid == primary_id:
+                    continue
+                
+                # 3. 캠페인 리스트 통합
+                extra_campaigns = mapping[oid].get("campaigns", [])
+                if "campaigns" not in mapping[primary_id]:
+                    mapping[primary_id]["campaigns"] = []
+                
+                for cid in extra_campaigns:
+                    if cid not in mapping[primary_id]["campaigns"]:
+                        mapping[primary_id]["campaigns"].append(cid)
+                        updated = True
+                
+                # 4. 병합된 키를 에일리언스로 전환
+                mapping[oid] = {
+                    "alias_of": primary_id
+                }
+                updated = True
+                print(f"[*] [Storage] 이름 중복 통합: {oid} -> {primary_id} ({name})")
+        
+        return updated
 
