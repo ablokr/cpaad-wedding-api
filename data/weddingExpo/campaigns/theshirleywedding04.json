@@ -1,0 +1,201 @@
+{
+  "campaign_id": "theshirleywedding04",
+  "gather_name": "의정부 더셜리 웨딩박람회",
+  "seo_metadata": {
+    "title": "의정부 더셜리 웨딩박람회 | 스드메 특가 및 혼수 할인 혜택",
+    "meta_description": "안녕하세요! 의정부 웨딩박람회 다녀온 후기 남겨요. 스드메 최대 30% 할인부터 혼수, 허니문 혜택까지! 방문만 해도 선물 증정하니 결혼 준비 중인 분들 꼭 다녀오세요 :)",
+    "keywords": [
+      "의정부 웨딩박람회",
+      "결혼 준비",
+      "스드메 패키지",
+      "의정부 웨딩홀",
+      "혼수 가전 할인",
+      "웨딩박람회 후기",
+      "예물 예복 할인",
+      "신혼여행 특가",
+      "더셜리 웨딩박람회",
+      "결혼 준비 체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주말에 의정부 더셜리 웨딩박람회 다녀온 생생 후기 공유해요~ 결혼 준비 막막했는데 여기서 한 번에 상담받으니까 속이 다 시원하더라고요! 특히 스드메부터 혼수까지 퀄리티가 정말 좋아서 깜짝 놀랐어요.",
+    "benefits_description": "이번 박람회 혜택 진짜 알차요! 저는 드레스 피팅 혜택이랑 스드메 특가 175만 원 이벤트가 제일 좋았는데, 웨딩홀 대관료 할인이나 허니문 특전도 쏠쏠하더라고요. 방문만 해도 사은품 챙겨주시니까 데이트 겸 다녀오기 딱이에요. 상담받으면서 웨딩 전문가한테 모르는 거 다 물어볼 수 있어서 정보 얻기에도 최고예요!",
+    "summary_for_search": "의정부 더셜리 웨딩박람회 방문 후기입니다. 스드메 30% 할인, 웨딩홀 대관료 식대 할인, 혼수 최대 40% 할인 혜택을 확인하고 무료 참가 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 모르면 100만 원 손해! 지금 상담 예약하세요",
+    "secondary_headline": "의정부 웨딩박람회, 스드메 최대 30% 특가 및 혼수 40% 할인 혜택",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 지금 선착순 무료 초대권 받으세요!",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 사은품 증정",
+      "양가 부모님 포함 6인 프리미엄 건강검진권"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 30% 할인 (175만 원 특가)",
+      "혼수/예물/예복 최대 40% 할인",
+      "웨딩홀 대관료 및 식대 최대 할인",
+      "블랙라벨 드레스 업그레이드 지원"
+    ],
+    "special_events": [
+      "웨딩 스타일링 체험",
+      "1:1 웨딩 전문가 맞춤 상담",
+      "허니문 리조트 업그레이드 및 혜택"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "의정부시",
+      "sigungu_en": "uijeongbu",
+      "address": "경기 의정부시 평화로 525",
+      "venue": "LG전자베스트샵 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "방문 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 현장 방문 시 사은품 증정 및 상담 완료 시 혜택 적용",
+    "trust_indicators": [
+      "전국 12개 검진센터 연계 건강검진",
+      "유명 드레스 브랜드 다수 입점",
+      "1:1 전문 웨딩 플래너 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "의정부 더셜리 웨딩박람회",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 의정부시 평화로 525",
+          "addressLocality": "의정부시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 얼마인가요?",
+        "answer": "박람회는 무료로 참가 가능하며, 사전에 온라인으로 신청 후 초대권을 받아 방문하시면 됩니다."
+      },
+      {
+        "question": "방문만 해도 혜택이 있나요?",
+        "answer": "네, 방문하시는 모든 분들께 소정의 사은품을 드리며, 양가 부모님을 포함한 프리미엄 건강검진권 혜택도 제공됩니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 도움이 될까요?",
+        "answer": "네, 웨딩 전문가가 1:1로 맞춤 상담을 진행하여 복잡한 결혼 준비 비용과 일정을 체계적으로 정리해 드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메 패키지, 웨딩홀, 혼수, 예물, 예복, 허니문 여행사 등 결혼 준비에 필요한 전 분야의 우수 업체들이 참가합니다."
+      },
+      {
+        "question": "계약 시 혜택은 무엇인가요?",
+        "answer": "스드메 패키지 최대 30% 할인, 혼수 최대 40% 할인 등 현장에서만 제공되는 특별 할인과 블랙라벨 업그레이드 등 다양한 혜택이 마련되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼을 앞두고 어디서부터 어떻게 준비해야 할지 막막한 예비 신랑 신부를 위한 최적의 행사입니다. 결혼 6개월 이내의 예비 부부라면 스드메 비용을 비교하고, 웨딩홀 예약부터 허니문 여행까지 한곳에서 효율적으로 상담받을 수 있습니다. 혼수 가전 및 예물 등 알뜰하고 꼼꼼하게 결혼 예산을 계획하고 싶은 분들에게 전문가의 맞춤형 가이드를 제공하여 합리적인 결혼 준비를 돕습니다.",
+    "exhibitor_highlights": [
+      "유명 웨딩 드레스샵 15곳",
+      "스드메(스튜디오·드레스·메이크업) 전문 업체",
+      "허니문 전문 여행사",
+      "예물/예복 전문 브랜드",
+      "혼수 가전 특별관"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최대 40% 할인 혜택 제공",
+      "1:1 전문가 맞춤 상담으로 투명한 비용 관리",
+      "방문만 해도 양가 건강검진권 등 푸짐한 선물 증정"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "스드메 평균 비용",
+      "웨딩박람회 사은품",
+      "혼수 가전 할인 방법",
+      "신혼여행 예약 팁",
+      "의정부 웨딩홀 추천",
+      "웨딩박람회 방문 꿀팁",
+      "스드메 업체 비교",
+      "결혼식 예산 세우기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 지역 웨딩박람회 전체 일정",
+        "category": "kyeonggi_wedding"
+      },
+      {
+        "anchor": "스드메 견적 비교하기",
+        "category": "wedding_price"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "웨딩플래너",
+      "웨딩촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "의정부 웨딩박람회 | 스드메/혼수 최대 혜택",
+    "og_description": "의정부 더셜리 웨딩박람회에서 결혼 준비 끝! 상담 예약하고 스드메 특가와 방문 사은품 꼭 챙겨가세요~",
+    "hashtags": [
+      "#의정부웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#결혼준비시작",
+      "#예비부부",
+      "#웨딩박람회후기",
+      "#웨딩드레스",
+      "#혼수",
+      "#신혼여행",
+      "#의정부웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleywedding04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GyA19Pr42K.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_7aycxiBU9nQILc7O2YjedQ.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fTTUBSZfyjjmjU.jpg"
+  }
+}

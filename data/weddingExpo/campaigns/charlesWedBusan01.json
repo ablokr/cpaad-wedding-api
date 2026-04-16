@@ -1,0 +1,199 @@
+{
+  "campaign_id": "charlesWedBusan01",
+  "gather_name": "부산 찰스 웨딩박람회",
+  "seo_metadata": {
+    "title": "부산 찰스 웨딩박람회 | 스드메 최대 100만원 페이백 및 방문 사은품 증정",
+    "meta_description": "부산 결혼 준비 필수 코스! 찰스 웨딩박람회 방문하고 스타벅스 기프티콘과 스드메 최대 100만원 페이백 혜택받으세요. 예비부부를 위한 실속 있는 웨딩박람회 후기와 꿀팁을 확인하세요.",
+    "keywords": [
+      "부산웨딩박람회",
+      "부산결혼준비",
+      "찰스웨딩박람회",
+      "부산스드메",
+      "부산웨딩홀",
+      "부산예물",
+      "부산예복",
+      "부산한복",
+      "부산신혼여행",
+      "결혼박람회후기"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 저번 주에 부산 찰스 웨딩박람회 다녀와서 너무 도움 많이 받았어요. 생각보다 혜택이 알차서 예비부부라면 꼭 한번 방문해 보시길 추천드려요!",
+    "benefits_description": "현장 방문만 해도 스타벅스 기프티콘을 주는데, 이건 기본이고 계약 시 최대 100만원 페이백 혜택이 정말 매력적이에요! 저는 드레스 쪽을 꼼꼼히 봤는데, 브랜드별 스타일이 다양해서 비교하기 너무 좋더라고요. 특히 예물이나 예복 상담받을 때 할인 폭도 커서 알뜰하게 준비하고 싶은 분들께 딱입니다.",
+    "summary_for_search": "부산 한라시그마타워에서 열리는 찰스 웨딩박람회! 방문객 전원 스타벅스 증정과 스드메 계약 시 최대 100만원 페이백 혜택을 놓치지 마세요. 부산 예비부부의 완벽한 결혼 준비를 위한 원스톱 솔루션을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 스드메 최대 100만원 페이백!",
+    "secondary_headline": "부산 결혼 준비, 찰스 웨딩박람회에서 합리적으로 해결하세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션!",
+    "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 기프티콘 증정"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최대 100만원 페이백",
+      "웨딩홀 대관료 및 식대 최대 할인",
+      "제휴 업체별 특별 할인 및 사은품 증정"
+    ],
+    "special_events": [
+      "웨딩드레스 컬렉션 전시",
+      "웨딩 트렌드 스튜디오 상담",
+      "혼수 특별전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-19",
+      "display_date": "04월 18일(토) ~ 04월 19일(일)",
+      "original_display_date": "04월 18일(토) ~ 04월 19일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "부산진구",
+      "sigungu_en": "busanjin",
+      "address": "부산 부산진구 황령대로 13",
+      "venue": "한라시그마타워 1층",
+      "parking_info": "별도 안내 없음(현장 문의 권장)",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 시 스타벅스 기프티콘 증정 (상담 진행 시)",
+    "trust_indicators": [
+      "소비자 평가 브랜드 1위 수상",
+      "전국 웨딩 컨설팅 전문 찰스웨딩",
+      "투명한 다이렉트 가격 정찰제"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "부산 찰스 웨딩박람회",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-19",
+      "location": {
+        "@type": "Place",
+        "name": "한라시그마타워",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1층",
+          "addressLocality": "부산 부산진구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문하면 무엇을 주나요?",
+        "answer": "방문하시는 모든 커플께 스타벅스 기프티콘을 드립니다."
+      },
+      {
+        "question": "스드메 계약 혜택은 무엇인가요?",
+        "answer": "스드메 계약 시 최대 100만원 페이백 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "박람회 위치가 어디인가요?",
+        "answer": "부산진구 한라시그마타워 1층에서 진행됩니다."
+      },
+      {
+        "question": "사전 신청은 필수인가요?",
+        "answer": "원활한 상담과 사은품 수령을 위해 홈페이지를 통한 사전 신청을 권장합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 부산 지역 예비부부로서, 효율적이고 합리적인 결혼 준비를 원하는 2030 세대를 대상으로 합니다. 스드메 패키지 가격 비교에 어려움을 겪거나, 예식장 대관료 할인 등 실제적인 비용 절감 혜택을 찾는 커플들에게 최적화된 정보입니다. 1:1 맞춤 상담을 통해 결혼 준비의 첫 단계부터 마지막 예단/예물까지 한 번에 정리하고 싶은 예비 부부라면 반드시 방문해야 할 필수 코스입니다.",
+    "exhibitor_highlights": [
+      "웨딩드레스 샵",
+      "웨딩 스튜디오",
+      "허니문 여행사",
+      "예물 및 주얼리",
+      "맞춤 정장 및 예복",
+      "한복 대여/맞춤",
+      "웨딩홀 정보 업체"
+    ],
+    "comparison_hooks": [
+      "소비자 평가 브랜드 1위의 검증된 웨딩 컨설팅",
+      "중간 유통 마진 없는 투명한 다이렉트 정찰제",
+      "업계 최대 규모의 100만원 페이백 현장 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 웨딩박람회 추천",
+      "부산 스드메 비용",
+      "결혼 준비 체크리스트",
+      "부산 웨딩홀 대관료",
+      "웨딩박람회 방문 꿀팁",
+      "찰스웨딩박람회 후기",
+      "부산 예물샵 추천",
+      "결혼 박람회 계약 시 주의사항",
+      "스드메 업체 비교",
+      "신혼여행 패키지 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩홀 실시간 견적 보기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 가격 확인",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "결혼준비",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "신혼여행",
+      "상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 찰스 웨딩박람회 혜택 총정리!",
+    "og_description": "방문만 해도 스타벅스! 스드메 최대 100만원 페이백 받고 알뜰하게 결혼 준비하세요.",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#부산결혼준비",
+      "#찰스웨딩",
+      "#부산스드메",
+      "#부산웨딩홀",
+      "#예비부부",
+      "#결혼준비",
+      "#스드메",
+      "#웨딩박람회후기",
+      "#부산예물"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/charlesWedBusan01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_8LNk15uwYi.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_gCVigwOBo1erfu54IqKL6dPDf.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_ghVuRpRPAR.jpg"
+  }
+}

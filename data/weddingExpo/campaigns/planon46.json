@@ -1,0 +1,200 @@
+{
+  "campaign_id": "planon46",
+  "gather_name": "서울 신혼여행 박람회",
+  "seo_metadata": {
+    "title": "서울 신혼여행 박람회 | 예비부부 맞춤 스드메·혼수 할인 혜택",
+    "meta_description": "결혼 준비 어디서부터 시작할지 고민이라면? 서울 강남 섬유센터에서 열리는 신혼여행 박람회 방문하세요. 스드메 패키지, 혼수 가전, 허니문 특전까지 최대 혜택 받고 알뜰하게 결혼 준비 끝내세요!",
+    "keywords": [
+      "서울 웨딩박람회",
+      "신혼여행 박람회",
+      "스드메 패키지",
+      "결혼 준비 비용",
+      "강남 웨딩박람회",
+      "혼수 가전 할인",
+      "예물 예복 할인",
+      "2026 결혼 준비",
+      "웨딩 드레스 피팅",
+      "허니문 특전"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말 서울 강남에서 열리는 신혼여행 박람회 정보 공유해요~ 결혼 준비 시작하면서 스드메부터 신혼여행까지 고민 많으실 텐데, 이번 박람회는 진짜 혜택이 알차더라고요. 예비부부님들 시간 내서 다녀오시면 도움 많이 되실 거예요!",
+    "benefits_description": "이번 박람회는 단순히 구경만 하는 게 아니라 실속 있는 혜택이 정말 많았어요. 우선 현장 계약 시 최대 100만 원 상당의 지원금 혜택이 있고, 허니문 지역별로 스냅 촬영권이나 객실 업그레이드 같은 특전이 포함되어 있어서 깜짝 놀랐네요! 특히 드레스 피팅이나 예복, 예물 상담 시에도 현장 할인율이 높아서 여기서 한 번에 해결하면 예산 절감에 아주 큰 도움이 될 것 같아요. 소소하지만 방문만 해도 증정하는 사은품도 있으니 꼭 미리 신청하고 가세요!",
+    "summary_for_search": "서울 강남 섬유센터에서 진행되는 서울 신혼여행 박람회! 스드메 패키지, 혼수 가전, 해외 허니문 특전까지 한자리에서 만나보세요. 방문 및 계약 시 드리는 풍성한 경품과 현장 할인 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 현금 최대 100만 원 환급 혜택!",
+    "secondary_headline": "스드메부터 혼수, 허니문까지 서울 최대 규모 웨딩 박람회",
+    "urgency_text": "이번 주말까지만 진행되는 단독 특가 패키지",
+    "call_to_action_text": "무료 초대장 지금 바로 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 소정의 사은품 증정",
+      "예복 상담 시 추가 사은품",
+      "웨딩 드레스 무료 피팅 체험"
+    ],
+    "contract_benefits": [
+      "계약 시 현금 최대 100만 원 지원",
+      "허니문 지역별 객실/스냅/스위트룸 업그레이드",
+      "혼수 가전 금액대별 최대 150만 포인트 증정"
+    ],
+    "special_events": [
+      "드레스 무료 피팅 체험",
+      "허니문지 맞춤 1:1 상담",
+      "혼수 가전 브랜드 할인전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-18",
+      "end_date": "2026-04-19",
+      "display_date": "04월 18일(토) ~ 04월 19일(일)",
+      "original_display_date": "04월 18일(토) ~ 04월 19일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 테헤란로 518",
+      "venue": "섬유센터 이벤트홀",
+      "parking_info": "이미지에 별도 명시 없음",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 이벤트 참여 시 증정",
+    "trust_indicators": [
+      "서울 강남 최대 규모 개최",
+      "브랜드별 즉시 할인 보장",
+      "전문 웨딩 컨설턴트 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 신혼여행 박람회",
+      "startDate": "2025-04-18",
+      "endDate": "2025-04-19",
+      "location": {
+        "@type": "Place",
+        "name": "섬유센터 이벤트홀",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강남구 테헤란로",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "입장료가 있나요?",
+        "answer": "아니요, 박람회 신청 페이지를 통해 사전 등록하시면 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "섬유센터 건물 내 주차장을 이용할 수 있으며, 박람회 방문객을 위한 안내가 현장에 마련되어 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "스드메, 허니문, 예물 등 관심 분야에 따라 다르지만 보통 품목당 30분~1시간 정도 소요됩니다."
+      },
+      {
+        "question": "박람회 현장에서 바로 계약해야 하나요?",
+        "answer": "아니요, 충분히 상담을 받아보시고 혜택을 비교하신 후 신중하게 결정하시길 권장합니다."
+      },
+      {
+        "question": "사전 예약은 꼭 해야 하나요?",
+        "answer": "현장 혼잡을 피하고 사전 방문 사은품을 받으시려면 미리 온라인으로 초대장을 신청하고 오시는 것이 좋습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부들을 위한 맞춤형 박람회입니다. 특히 결혼 준비를 어디서부터 시작할지 막막한 예신·예랑님, 스드메 패키지 비용 비교가 힘든 커플, 신혼여행지를 어디로 할지 고민 중인 분들에게 추천합니다. 또한 가전, 가구, 예물 등 혼수 준비를 한 번에 끝내고 싶어 하는 바쁜 현대인들에게 최적의 장소입니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스샵 및 스튜디오",
+      "허니문 여행사",
+      "혼수 가전(삼성스토어 등)",
+      "예물 및 예복 브랜드",
+      "한복 및 에스테틱 전문점"
+    ],
+    "comparison_hooks": [
+      "현장에서만 제공되는 즉시 계약 할인 혜택",
+      "서울 강남 접근성 최상인 섬유센터 개최",
+      "전 품목 1:1 맞춤 상담 서비스 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "강남 웨딩박람회 후기",
+      "스드메 박람회 가격대",
+      "신혼여행 박람회 특전",
+      "웨딩 박람회 사은품",
+      "혼수 가전 가구 혜택",
+      "결혼식 비용 절약 방법",
+      "서울 박람회 무료 초대권",
+      "웨딩 드레스 피팅 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "event_schedule"
+      },
+      {
+        "anchor": "결혼 준비 비용 절약 꿀팁",
+        "category": "tips"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "예물",
+      "예복",
+      "허니문",
+      "결혼준비",
+      "웨딩박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 신혼여행 박람회 | 예비부부 필수템",
+    "og_description": "계약 시 최대 100만 원 지원! 이번 주말 서울 강남에서 열리는 웨딩 박람회에서 결혼 준비 끝내세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#신혼여행",
+      "#예신예랑",
+      "#혼수",
+      "#웨딩드레스",
+      "#강남웨딩박람회",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon46/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg"
+  }
+}

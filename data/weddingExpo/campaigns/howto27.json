@@ -1,0 +1,195 @@
+{
+  "campaign_id": "howto27",
+  "gather_name": "청주 OSCO 허니문박람회",
+  "seo_metadata": {
+    "title": "청주 OSCO 허니문박람회 | 신혼여행 특가 및 스드메 혜택 총정리",
+    "meta_description": "결혼 준비의 시작, 청주 OSCO 허니문박람회 후기! 몰디브, 유럽 신혼여행 특가부터 스드메 무료 피팅, 선착순 스타벅스 에코백 증정까지. 이번 주말 알뜰하게 결혼 준비하는 꿀팁을 확인해보세요.",
+    "keywords": [
+      "청주웨딩박람회",
+      "결혼준비",
+      "신혼여행특가",
+      "몰디브신혼여행",
+      "유럽허니문",
+      "스드메무료피팅",
+      "청주오스코",
+      "웨딩박람회후기",
+      "예비부부",
+      "허니문박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말 청주 OSCO에서 열리는 허니문박람회 다녀왔는데, 정말 정보가 알차서 바로 후기 공유해요~ 결혼 준비 시작하시는 분들, 특히 신혼여행과 스드메 고민 중이라면 꼭 들러보세요!",
+    "benefits_description": "이번 박람회는 혜택이 정말 쏠쏠해요! 현장 상담만 받아도 선착순 스타벅스 에코백을 주고, 박람회 정계약 시 신세계 상품권 10만 원에 캠핑 웨건까지 챙겨주더라고요. 무엇보다 몰디브, 유럽, 발리 등 인기 허니문 지역의 특가 프로모션과 스드메 무료 피팅, 스튜디오 촬영 지원 같은 실질적인 혜택이 많아서 예산 아끼기에 최고예요.",
+    "summary_for_search": "청주 OSCO 허니문박람회에서 준비한 역대급 혜택! 신혼여행 특가부터 10만 원 상당의 상품권 증정까지, 예비부부를 위한 혜택을 한자리에서 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 등록하면 최대 150만 원 상당의 혜택!",
+    "secondary_headline": "청주 OSCO 허니문박람회, 신혼여행부터 스드메까지 알뜰하게 준비하세요.",
+    "urgency_text": "선착순 방문객 한정 증정!",
+    "call_to_action_text": "지금 무료 혜택 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 선착순 방문객 스타벅스 에코백 증정",
+      "박람회 정계약 시 신세계 상품권 10만 원 증정",
+      "계약 시 20인치 여행용 캐리어 또는 캠핑 웨건 증정"
+    ],
+    "contract_benefits": [
+      "허니문 지역(몰디브, 유럽, 발리 등) 특가 프로모션",
+      "스드메 무료 피팅 및 스튜디오 무료 촬영 혜택",
+      "단독 혜택: 유럽 허니문 400유로 상당 혜택, 코사무이 단독 투어, 발리 등급 업그레이드"
+    ],
+    "special_events": [
+      "웨딩홀 식대 및 대관료 할인 상담",
+      "드레스 무료 피팅 체험",
+      "메이크업 시연 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-03",
+      "display_date": "05월 02일(토) ~ 05월 03일(일)",
+      "original_display_date": "05월 02일(토) ~ 05월 03일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
+      "venue": "청주오스코 특별행사장",
+      "parking_info": "무료주차",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 계약 체결 시 해당 경품 증정",
+    "trust_indicators": [
+      "허니문 전문 상담사 15년 이상의 경력",
+      "24시간 상담 시스템 운영",
+      "현장 직접 상담 통한 가격 투명성 확보"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 OSCO 허니문박람회",
+      "startDate": "2025-05-02",
+      "endDate": "2025-05-03",
+      "location": {
+        "@type": "Place",
+        "name": "청주오스코 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충북 청주시 흥덕구 오송읍 만수리",
+          "addressLocality": "청주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 유료인가요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "네, 행사 기간 동안 무료 주차가 가능합니다."
+      },
+      {
+        "question": "방문만 해도 선물을 주나요?",
+        "answer": "네, 선착순 방문객에게 스타벅스 에코백을 증정합니다."
+      },
+      {
+        "question": "스드메 상담도 가능한가요?",
+        "answer": "네, 허니문뿐만 아니라 스드메 무료 피팅, 촬영 등 다양한 웨딩 패키지 상담이 가능합니다."
+      },
+      {
+        "question": "계약 시 혜택은 무엇인가요?",
+        "answer": "정계약 시 상품권, 캠핑 웨건 등 다양한 사은품과 추가 할인 혜택이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 20대 후반~30대 초반 예비부부. 특히 신혼여행지 선택과 스드메 업체 비교에 어려움을 겪는 커플들을 위해 기획되었습니다. 알뜰하고 합리적인 비용으로 퀄리티 높은 결혼 준비를 희망하는 신혼부부에게 필수적인 행사입니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사",
+      "스튜디오",
+      "드레스샵",
+      "메이크업",
+      "웨딩홀"
+    ],
+    "comparison_hooks": [
+      "현장에서만 제공되는 압도적인 신혼여행 특가",
+      "상담만 받아도 챙겨주는 풍성한 선착순 사은품",
+      "허니문 전문 15년 경력 전문가의 1:1 맞춤 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "청주 웨딩홀 추천",
+      "신혼여행지 추천",
+      "스드메 가격비교",
+      "박람회 상담 팁",
+      "결혼준비 순서",
+      "허니문 패키지 혜택",
+      "웨딩드레스 피팅 방법",
+      "신혼가전 할인",
+      "결혼박람회 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩박람회 일정 확인",
+        "category": "events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "박람회후기",
+      "결혼준비",
+      "허니문",
+      "드레스",
+      "스튜디오"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 허니문박람회 혜택 끝판왕!",
+    "og_description": "신혼여행 특가부터 상품권까지! 청주 OSCO 박람회에서 결혼 준비 끝내세요.",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#결혼준비",
+      "#신혼여행",
+      "#허니문박람회",
+      "#스드메",
+      "#예비부부",
+      "#청주오스코",
+      "#웨딩박람회후기",
+      "#몰디브여행",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/howto27/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ix3tHptTLQP2WmGygH9yNj.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_EJg4iT5ki5pvCFAsV1SjVSkqErks.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_VE8m44PfVXLyJ3jLsmSv9.jpg"
+  }
+}

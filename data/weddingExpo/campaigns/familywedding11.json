@@ -1,0 +1,198 @@
+{
+  "campaign_id": "familywedding11",
+  "gather_name": "청주 OSCO 웨딩박람회",
+  "seo_metadata": {
+    "title": "청주 웨딩박람회 | 청주오스코 상담 시 스드메 혜택 및 선물 증정",
+    "meta_description": "청주오스코 웨딩박람회 개최! 4월 25일~26일 양일간 진행. 사전 신청 시 스드메 최대 할인, 방문 계약 사은품 및 허니문 특가 혜택을 확인하세요. 예비부부를 위한 청주 최대 결혼 준비의 장입니다.",
+    "keywords": [
+      "청주웨딩박람회",
+      "청주결혼준비",
+      "청주오스코박람회",
+      "청주스드메",
+      "충북웨딩박람회",
+      "청주웨딩홀",
+      "결혼준비꿀팁",
+      "웨딩박람회선물",
+      "청주예물",
+      "청주허니문"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 이번에 청주오스코에서 열리는 웨딩박람회 소식 듣고 정리해 봤어요. 예비부부라면 꼭 챙겨야 할 스드메부터 가전, 예물까지 한자리에서 비교할 수 있어 정말 알차더라고요!",
+    "benefits_description": "이번 박람회는 혜택이 진짜 역대급이에요! 방문만 해도 로즈 에센스 핸드크림을 주고, 상담받으면 스타벅스 머그컵이나 텀블러까지 챙겨주시거든요. 특히 현장 계약 시 최대 150만 원 상당의 혜택이나 가전 사은품, 허니문 특가까지 준비되어 있어서 예산 절감에 큰 도움이 될 것 같아요. 드레스 피팅부터 웨딩홀 1:1 컨설팅까지 직접 눈으로 보고 결정할 수 있다는 게 제일 큰 장점이네요.",
+    "summary_for_search": "청주오스코에서 개최되는 청주 웨딩박람회! 4월 25일-26일, 결혼 준비의 모든 것을 해결하세요. 방문 상담만 해도 사은품 증정 및 스드메, 혼수, 허니문 특별 할인 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 한방에 끝내기! 청주오스코 웨딩박람회",
+    "secondary_headline": "스드메부터 혼수까지, 현장 계약 시 150만 원 혜택과 푸짐한 사은품 증정!",
+    "urgency_text": "선착순 방문객 사은품 증정, 이번 주말 딱 2일간만 진행!",
+    "call_to_action_text": "지금 무료 사전 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 로즈 에센스 핸드크림 증정",
+      "상담 완료 시 스타벅스 텀블러 또는 머그컵 증정"
+    ],
+    "contract_benefits": [
+      "계약 축하금 최대 150만 원 혜택",
+      "가전 제품 및 혼수 상담 시 사은품 증정",
+      "예물/한복/정장 당일 계약 시 추가 할인 및 소품 무료 대여"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 맞춤형 웨딩홀 컨설팅",
+      "허니문 인기 여행지 특가 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-26",
+      "display_date": "04월 25일(토) ~ 04월 26일(일)",
+      "original_display_date": "04월 25일(토) ~ 04월 26일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
+      "venue": "청주오스코 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 안내 데스크 확인 시 증정",
+    "trust_indicators": [
+      "대한민국 청소 선도 1위 업체 참여",
+      "현장 1:1 전문 컨설팅 보장",
+      "누적 예비부부 만족도 높은 인증 업체 다수 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 오스코 웨딩박람회",
+      "startDate": "2025-04-25",
+      "endDate": "2025-04-26",
+      "location": {
+        "@type": "Place",
+        "name": "청주오스코",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "청주시",
+          "addressLocality": "청주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장료가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 방문하여 상담을 완료하시면 소정의 사은품을 제공합니다."
+      },
+      {
+        "question": "스드메 패키지 상담도 가능한가요?",
+        "answer": "네, 전문 플래너가 1:1로 맞춤형 스드메 컨설팅을 진행합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장 내 주차 시설을 이용하실 수 있습니다."
+      },
+      {
+        "question": "결혼 날짜가 확정되지 않았어도 상담받을 수 있나요?",
+        "answer": "물론입니다! 대략적인 시기만 정해져 있어도 맞춤형 상담이 가능하니 편하게 방문해 보세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 준비해야 할지 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 시간 절약을 위해 한곳에서 웨딩홀부터 혼수까지 모두 해결하고 싶은 신혼부부를 대상으로 합니다. 복잡한 결혼 준비 과정을 1:1 맞춤 컨설팅을 통해 전문적으로 해결하고자 하는 분들에게 최적화된 박람회입니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "예물 및 예복 전문 브랜드",
+      "허니문 여행 전문사",
+      "혼수가전 및 생활용품",
+      "웨딩홀 컨설팅 부스"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최대 150만 원 할인 혜택",
+      "방문객 대상 100% 증정 사은품 패키지",
+      "전문 플래너의 1:1 맞춤형 밀착 컨설팅 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "청주 결혼준비 순서",
+      "웨딩박람회 방문 후기",
+      "스드메 업체 고르는 법",
+      "결혼박람회 사은품 혜택",
+      "웨딩홀 대관료 할인",
+      "신혼여행 패키지 추천",
+      "예복 맞춤 가격",
+      "웨딩박람회 사전등록 방법",
+      "청주 웨딩홀 비교",
+      "결혼준비 예산 짜기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩박람회 일정 확인하기",
+        "category": "wedding_event_schedule"
+      },
+      {
+        "anchor": "웨딩스튜디오 추천 리스트",
+        "category": "wedding_studio"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 예비부부 주목! 4월 웨딩박람회 혜택",
+    "og_description": "스드메 최대 150만 원 혜택에 사은품까지! 청주오스코 웨딩박람회에서 결혼 준비 시작하세요.",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#결혼준비",
+      "#청주결혼",
+      "#예비부부",
+      "#스드메",
+      "#웨딩박람회후기",
+      "#청주오스코",
+      "#결혼준비꿀팁",
+      "#신혼여행",
+      "#웨딩홀투어"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/familywedding11/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_hoENLagldxosJqE5RNriCoEntv.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_pqQUzBW5XHk1da7ztVDhCx4.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_XeZtchApJFo.jpg"
+  }
+}

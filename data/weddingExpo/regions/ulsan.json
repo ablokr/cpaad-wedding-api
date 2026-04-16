@@ -1,0 +1,395 @@
+[
+  {
+    "campaign_id": "wwedding10",
+    "gather_name": "울산 현대백화점 W웨딩박람회",
+    "seo_metadata": {
+      "title": "울산 현대백화점 W웨딩박람회 | 예비부부 필수 혜택 총정리",
+      "meta_description": "안녕하세요! 이번 주말 현대백화점 울산점에서 열리는 W웨딩박람회 다녀온 후기예요~ 스드메부터 혼수, 예물까지 한 번에 비교하고 알뜰하게 계약하세요. 선착순 혜택과 상담 보증 제도까지 꼼꼼히 정리했습니다.",
+      "keywords": [
+        "울산웨딩박람회",
+        "현대백화점울산점",
+        "W웨딩박람회",
+        "울산결혼준비",
+        "울산스드메",
+        "울산웨딩홀",
+        "결혼박람회후기",
+        "신혼가전",
+        "울산예물",
+        "웨딩박람회혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 알아봐야 할지 막막했는데, 저번 주에 현대백화점 울산점에서 열린 W웨딩박람회 다녀오고 고민이 싹 해결됐어요! 생각보다 훨씬 알차고 상담도 친절해서 예비부부님들께 꼭 추천하고 싶은 곳이라 후기 공유해요~",
+      "benefits_description": "현장 방문하니까 생각보다 업체가 정말 많더라고요! 스튜디오별로 앨범 샘플 다 볼 수 있어서 좋았고, 특히 드레스 피팅 코너가 있어서 제 체형에 뭐가 어울릴지 미리 감 잡을 수 있었어요. 계약 시엔 현금 할인 혜택도 크고, 가전이나 허니문 상담만 받아도 사은품을 챙겨주니까 확실히 발품 파는 것보다 훨씬 이득이더라고요! 현장 상담 완료하고 QR 스캔 꼭 하세요!",
+      "summary_for_search": "울산 남구 현대백화점 특별행사장에서 개최되는 W웨딩박람회입니다. 스드메부터 가전, 예물까지 한 곳에서 상담 가능하며, 사전 등록 시 현금 할인 및 푸짐한 방문 사은품을 드립니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 사전 등록하면 스드메 현금 지원 최대 혜택!",
+      "secondary_headline": "울산·경주 최대 규모, 현대백화점에서 만나는 완벽한 결혼 준비의 시작",
+      "urgency_text": "이번 주말까지만 진행되는 단독 특별전, 선착순 상담 신청 진행 중!",
+      "call_to_action_text": "무료 사전 상담 예약하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 완료 후 사은품 증정",
+        "상담 부스별 명함 이벤트 참여"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 현금 지원 혜택",
+        "혼수가전 최대 300만원 할인 및 상품권 증정",
+        "허니문 계약 시 20% 할인 이벤트"
+      ],
+      "special_events": [
+        "웨딩 드레스 스타일링 전시 및 피팅",
+        "스튜디오 앨범 샘플 현장 전시",
+        "예물 및 예복 브랜드 1:1 맞춤 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-04-18",
+        "end_date": "2026-04-19",
+        "display_date": "04월 18일(토) ~ 04월 19일(일) 04월 25일(토) ~ 04월 26일(일)",
+        "original_display_date": "04월 18일(토) ~ 04월 19일(일) 04월 25일(토) ~ 04월 26일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "남구",
+        "sigungu_en": "nam",
+        "address": "울산 남구 삼산로 261",
+        "venue": "현대백화점 울산점 F12 특별행사장",
+        "parking_info": "백화점 내 주차장 이용 가능 (상담 시 지원 여부 확인 권장)",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "신랑 성함",
+        "신부 성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 후 부스별 안내에 따라 QR코드 스캔 및 상담 확인 시 증정",
+      "trust_indicators": [
+        "울산·경주 최대 규모 업체 입점",
+        "스드메 정찰제 및 계약 보증 제도",
+        "20년 경력의 전문 웨딩 컨설팅"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 현대백화점 W웨딩박람회",
+        "startDate": "2025-04-18",
+        "endDate": "2025-04-26",
+        "location": {
+          "@type": "Place",
+          "name": "현대백화점 울산점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "F12 특별행사장",
+            "addressLocality": "울산 남구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료가 있나요?",
+          "answer": "아니요, 온라인으로 사전 등록을 하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "스드메 패키지 계약은 필수인가요?",
+          "answer": "전혀 그렇지 않습니다. 현장에서 여러 업체의 샘플과 견적을 자유롭게 비교해보실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 현대백화점 주차장을 이용하실 수 있습니다. 자세한 주차 지원 사항은 현장 상담 시 안내받으세요."
+        },
+        {
+          "question": "사전 등록은 어떻게 하나요?",
+          "answer": "홈페이지의 온라인 사전 등록 폼에 성함과 연락처, 예식 예정일을 기재하시면 됩니다."
+        },
+        {
+          "question": "혼수 상담도 받을 수 있나요?",
+          "answer": "네, 가전부터 예물, 예복, 허니문까지 한자리에서 비교하고 박람회 전용 할인 혜택도 받을 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 결혼 준비를 6개월 이내로 앞두고 빠짐없이 체크해야 하는 예비 신랑·신부님을 위한 행사입니다. 웨딩홀 섭외부터 혼수 가전, 허니문까지 한곳에서 해결하고 싶으신 분들에게 최적화되어 있습니다.",
+      "exhibitor_highlights": [
+        "스드메 전문 업체",
+        "프리미엄 웨딩홀 연계",
+        "맞춤 예복 브랜드",
+        "하이엔드 예물 전문",
+        "허니문 전문 여행사",
+        "신혼가전 특화 부스"
+      ],
+      "comparison_hooks": [
+        "전국 단위 보증 제도 도입으로 투명한 견적 보장",
+        "현장 즉시 계약 할인 및 추가 상품권 혜택 제공",
+        "최신 트렌드 웨딩 스튜디오 샘플 현장 전시"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "울산 스드메 추천",
+        "결혼식 예산 세우기",
+        "웨딩홀 투어 체크리스트",
+        "신혼여행 패키지 비교",
+        "결혼 박람회 사은품",
+        "예복 맞춤 가격",
+        "신혼가전 할인 시기",
+        "웨딩 컨설팅 계약 주의사항",
+        "울산 웨딩플래너 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 웨딩홀 전체 비교",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 등급별 차이",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예물",
+        "맞춤정장",
+        "웨딩드레스"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 W웨딩박람회! 예비부부 혜택 확인",
+      "og_description": "지금 사전 등록하면 스드메 할인과 방문 사은품까지! 이번 주말 현대백화점 울산점에서 완벽한 결혼 준비 하세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#W웨딩박람회",
+        "#결혼준비",
+        "#울산예비부부",
+        "#현대백화점울산점",
+        "#울산스드메",
+        "#예신스타그램",
+        "#울산웨딩홀",
+        "#결혼박람회혜택",
+        "#신혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding10/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_8BLGRbUHUhviM4ZY.png",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_9Pds4AeibpEQ.png",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_y3iCoyvuXtiCJ.png"
+    }
+  },
+  {
+    "campaign_id": "banhanaH06",
+    "gather_name": "울산 반하나 허니문 박람회",
+    "seo_metadata": {
+      "title": "울산 허니문 박람회 | 반하나투어 상담 시 스타벅스 쿠폰 증정",
+      "meta_description": "결혼 준비의 시작, 울산 반하나 허니문 박람회! 4월 18일-19일 신선도원몰에서 열려요. 상담만 받아도 스타벅스 쿠폰 증정, 계약 시 할인 혜택까지. 지금 사전 신청하고 알뜰하게 신혼여행 준비하세요!",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산허니문박람회",
+        "반하나투어울산",
+        "신혼여행준비",
+        "결혼준비박람회",
+        "울산신혼여행",
+        "허니문상담",
+        "스드메",
+        "웨딩박람회혜택",
+        "신선도원몰웨딩"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "안녕하세요! 결혼 준비하시는 예신님들~ 저번 주에 울산 반하나 허니문 박람회 다녀온 후기 공유해요! 결혼 준비하면서 스드메만큼 고민되는 게 바로 신혼여행인데, 생각보다 알차게 정보 얻어와서 너무 좋았어요.",
+      "benefits_description": "이번 박람회 진짜 혜택 괜찮더라고요! 일단 상담만 받아도 스타벅스 커피 쿠폰을 주는데, 이런 소소한 혜택 너무 감사하잖아요? 그리고 무엇보다 현장에서 계약하면 달러북을 준다는 점이 진짜 꿀이에요! 환율 걱정 많으실 텐데, 미리 계약하고 할인 혜택까지 챙기니까 비용 절감 확실히 되더라고요. 저처럼 신혼여행 고민 많으신 분들은 꼭 한번 들러보세요!",
+      "summary_for_search": "울산 신선도원몰에서 열리는 반하나 허니문 박람회! 4월 18일~19일, 상담 시 스타벅스 쿠폰 증정 및 계약 시 할인 혜택 등 풍성한 구성으로 예비부부의 고민을 해결해 드립니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "환율 걱정 NO! 울산 허니문 박람회 상담만 받아도 스타벅스 쿠폰 증정",
+      "secondary_headline": "12만 명이 선택한 반하나투어의 2026 최신 신혼여행 프로모션을 만나보세요.",
+      "urgency_text": "이번 주말까지만 진행! 사전 신청 시 무료 입장",
+      "call_to_action_text": "지금 무료 사전신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 스타벅스 커피 쿠폰 증정"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 실제 달러북 증정",
+        "타 여행사 대비 평균 10% 이상 저렴한 할인 혜택"
+      ],
+      "special_events": [
+        "1:1 맞춤형 허니문 상담 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-04-18",
+        "end_date": "2026-04-19",
+        "display_date": "04월 18일(토) ~ 04월 19일(일)",
+        "original_display_date": "04월 18일(토) ~ 04월 19일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "북구",
+        "sigungu_en": "buk",
+        "address": "울산 북구 진장17길 10 (진장동 705)",
+        "venue": "신선도원몰 1층 반하나투어",
+        "parking_info": "신선도원몰 주차장 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "방문 희망일"
+      ],
+      "gift_conditions": "현장 상담 완료 시 증정",
+      "trust_indicators": [
+        "12만 8천 명 누적 신혼여행 고객",
+        "여행자보험/배상보증보험 가입 업체",
+        "소비자 만족도 1위 브랜드 선정"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 반하나 허니문 박람회",
+        "startDate": "2025-04-18",
+        "endDate": "2025-04-19",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "신선도원몰",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "울산광역시 북구",
+            "addressLocality": "울산",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+        },
+        {
+          "question": "상담만 받아도 혜택이 있나요?",
+          "answer": "네, 방문하여 상담만 받으셔도 스타벅스 커피 쿠폰을 증정해 드립니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "현장 계약 시 실제 달러북을 증정하며, 타 업체 대비 평균 10% 저렴한 비용으로 진행 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "신선도원몰 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "여행보험이 포함되어 있나요?",
+          "answer": "반하나투어는 여행자보험 및 배상보증보험에 가입되어 있어 안심하고 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 신혼여행지 선정을 고민 중인 울산 지역 예비부부, 코로나 이후 해외여행을 안전하게 준비하고 싶은 커플, 스드메와 함께 신혼여행까지 원스톱으로 비교하고 싶은 20대 후반~30대 초반 커플을 대상으로 합니다. 특히 환율 급등으로 여행 비용이 부담스러운 신혼부부에게 현실적인 할인 혜택과 여행사 비교 정보를 제공합니다.",
+      "exhibitor_highlights": [
+        "허니문 여행 전문 컨설턴트",
+        "유럽/발리/하와이/코사무이 전문 패키지",
+        "여행 보험 가입 안전 업체"
+      ],
+      "comparison_hooks": [
+        "타 여행사 대비 평균 10% 저렴한 단독 프로모션",
+        "여행자 보험 및 배상 보증 보험 완전 가입",
+        "상담부터 계약까지 전문 컨설턴트 1:1 맞춤 서비스"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "울산 신혼여행 박람회 일정",
+        "신혼여행 준비물 리스트",
+        "허니문 여행사 추천",
+        "발리 신혼여행 비용",
+        "하와이 신혼여행 장단점",
+        "결혼 준비 체크리스트",
+        "웨딩박람회 상담 꿀팁",
+        "해외여행 여행자보험 중요성",
+        "울산 웨딩홀 비교",
+        "스드메 패키지 가격"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 결혼 준비 가이드",
+          "category": "wedding_guide"
+        },
+        {
+          "anchor": "허니문 지역별 추천",
+          "category": "honeymoon_destinations"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "허니문",
+        "여행자보험",
+        "반하나투어",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 예비부부 주목! 반하나 허니문 박람회 혜택",
+      "og_description": "상담 시 스벅 쿠폰, 계약 시 달러북까지! 울산 허니문 박람회에서 신혼여행 똑똑하게 준비하세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#울산허니문박람회",
+        "#결혼준비",
+        "#예신스타그램",
+        "#반하나투어",
+        "#신혼여행준비",
+        "#신선도원몰",
+        "#허니문프로모션",
+        "#웨딩정보공유",
+        "#예비부부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/banhanaH06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_JRZ2XEC8Pr2UG5i3bTzE.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_BcNJb7LiTD.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_rIrkmfOvW8Cx.jpg"
+    }
+  }
+]

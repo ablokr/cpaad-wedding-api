@@ -1,0 +1,195 @@
+{
+  "campaign_id": "ehoneymoon01",
+  "gather_name": "서울 신혼여행 직거래 박람회",
+  "seo_metadata": {
+    "title": "서울 신혼여행 직거래 박람회 | 삼성스토어 서초점 단 하루 혜택",
+    "meta_description": "2026 예비부부 주목! 서울 삼성스토어 서초점에서 열리는 신혼여행 직거래 박람회 후기. 푸켓, 발리, 몰디브 등 특가 상품과 상담 시 증정되는 풍성한 선물까지, 결혼 준비 꿀팁을 확인하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "신혼여행 박람회",
+      "결혼 준비",
+      "허니문 직거래",
+      "삼성스토어 서초점",
+      "2026 결혼 준비",
+      "신혼여행 패키지",
+      "허니문 특가",
+      "예비부부 박람회",
+      "스드메 준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 다녀온 따끈따끈한 '서울 신혼여행 직거래 박람회' 후기 공유해요~ 결혼 준비하면서 스드메만큼 고민되는 게 바로 신혼여행이잖아요. 삼성스토어 서초점에서 열린 이번 박람회는 직거래 방식이라 가격 거품은 빼고 혜택은 알차게 챙길 수 있어서 정말 만족스러웠어요!",
+    "benefits_description": "현장 상담만 받아도 주는 선물이 꽤 쏠쏠하더라고요! 저는 생각보다 상담 시간이 짧고 알차서 좋았는데, 지역 전문가가 직접 1:1로 맞춤 상담을 해주니 막막했던 일정이 확 정리되는 기분이었어요. 계약 시에는 축하금은 물론이고 캐시백 혜택까지 챙길 수 있어서 비용 부담도 확 줄였답니다. 특히 포토존 이벤트는 소소하지만 재밌으니 꼭 챙기세요!",
+    "summary_for_search": "4월 25일, 삼성스토어 서초점에서 열리는 신혼여행 직거래 박람회! 허니문 특가 상품과 상담 증정품, 계약 혜택까지 예비부부를 위한 꿀팁을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "신혼여행, 직거래로 거품 빼고 알뜰하게 준비하세요!",
+    "secondary_headline": "상담만 받아도 쏟아지는 사은품! 2026 예비부부를 위한 허니문 직거래 박람회",
+    "urgency_text": "04월 25일 단, 하루! 선착순 한정 특가",
+    "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 푸짐한 선물 증정",
+      "포토존 SNS 공유 시 경품 증정"
+    ],
+    "contract_benefits": [
+      "계약 축하금 및 할인 제공",
+      "여행용 캐리어 등 사은품 증정",
+      "신한카드 결제 시 캐시백 1.5% 혜택"
+    ],
+    "special_events": [
+      "현장 1:1 지역 전문가 맞춤 상담",
+      "포토존 이벤트 운영"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-25",
+      "display_date": "04월 25일(토) 단, 하루!",
+      "original_display_date": "04월 25일(토) 단, 하루!"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "서초구",
+      "sigungu_en": "seocho",
+      "address": "서울 서초구 서초대로52길 12",
+      "venue": "삼성스토어 서초점",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "관심 여행지",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 완료 및 현장 이벤트 참여 시 증정",
+    "trust_indicators": [
+      "소비자평가 대상 수상 여행사",
+      "직거래 방식의 합리적 가격",
+      "삼성스토어 주최 신뢰도"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 신혼여행 직거래 박람회",
+      "startDate": "2026-04-25",
+      "endDate": "2026-04-25",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 서초점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서초대로 52",
+          "addressLocality": "서울 서초구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 예약은 어떻게 하나요?",
+        "answer": "온라인 무료 초대장 신청을 통해 예약 가능하며, 사전 예약 시 대기 없이 상담받으실 수 있습니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 상담만 받아도 선착순으로 다양한 선물을 증정하고 있습니다."
+      },
+      {
+        "question": "직거래 박람회의 장점은 무엇인가요?",
+        "answer": "중간 유통 과정을 줄여 가격 거품을 제거하고 합리적인 비용으로 신혼여행을 준비할 수 있다는 점이 큰 장점입니다."
+      },
+      {
+        "question": "어떤 여행지 상품이 있나요?",
+        "answer": "푸켓, 발리, 몰디브, 하와이, 유럽 등 다양한 허니문 인기 지역의 특가 패키지가 마련되어 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "축하금, 캐리어 증정, 신한카드 캐시백 등 계약 시 다양한 추가 혜택을 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 20대 후반에서 30대 초반의 예비부부로서, 합리적인 소비를 지향하고 신혼여행 패키지를 꼼꼼하게 비교 중인 분들에게 최적화되어 있습니다. 결혼 준비가 막막하여 전문가의 상담이 필요한 커플이나, 특정 휴양지(발리, 몰디브 등)의 정보를 한눈에 얻고 싶은 분들께 권장합니다. 비용 절감은 물론, 실제 계약 시 혜택까지 구체적으로 알고 싶어 하는 사용자들을 대상으로 작성되었습니다.",
+    "exhibitor_highlights": [
+      "신혼여행 직거래 여행사",
+      "허니문 특가 패키지 상품",
+      "삼성스토어 가전 상담 부스"
+    ],
+    "comparison_hooks": [
+      "중간 유통 없는 100% 직거래 방식",
+      "현장 즉시 계약 할인 및 캐시백 제공",
+      "지역 전문가 1:1 맞춤 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행 박람회 준비물",
+      "허니문 직거래 장단점",
+      "결혼 준비 비용 절약 팁",
+      "서울 허니문 박람회 일정",
+      "신혼여행 패키지 추천",
+      "박람회 계약 혜택 확인",
+      "발리 신혼여행 견적",
+      "2026년 웨딩 트렌드",
+      "박람회 상담 시간",
+      "허니문 여행사 선택 기준"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 일정 안내",
+        "category": "seoul_wedding_events"
+      },
+      {
+        "anchor": "신혼부부 결혼 준비 가이드",
+        "category": "marriage_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "허니문",
+      "신혼여행",
+      "결혼 준비",
+      "웨딩박람회",
+      "혼수",
+      "예식장",
+      "웨딩 패키지",
+      "특가 상품"
+    ]
+  },
+  "social_meta": {
+    "og_title": "신혼여행 준비! 직거래 박람회 혜택 끝판왕",
+    "og_description": "2026 예비부부 주목! 삼성스토어 서초점 단 하루, 허니문 최저가 혜택을 놓치지 마세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#신혼여행",
+      "#결혼준비",
+      "#허니문",
+      "#서울웨딩박람회",
+      "#예비부부",
+      "#신혼부부혜택",
+      "#허니문특가",
+      "#스드메",
+      "#삼성스토어서초"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/ehoneymoon01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_YqDEOKjHOsKFfU97.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ezcxY6WfFTdJBphwyGKMUVRMd1kER.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_MrKITN4OuRXjDfk4qC.jpg"
+  }
+}
