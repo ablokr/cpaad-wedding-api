@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-16T13:00:03Z",
-  "total_ad_count": 156,
+  "last_updated": "2026-04-16T16:00:03Z",
+  "total_ad_count": 159,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -340,6 +340,20 @@
       "start_date": "2026-04-25",
       "end_date": "2026-04-25"
     },
+    "weddingan04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_qDnpt9r8TS.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_4LRdaWY137McbbhQl8rPn.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_tHdjtP4Uu7LSIQIg2ZEBqd8HdrMQKUq.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingan04/",
+      "region": "capital",
+      "gather_name": "영등포 웨딩박람회",
+      "ad_info": "웨딩홀 무료섭외 최대혜택/최다입점/스드메특가",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "서울 영등포구 경인로 846||(영등포동 618-496)||롯데백화점 영등포점 9층",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10"
+    },
     "planon61": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_wmxDIA9M2GvO9ukE81.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_X9JEXuCKGC.jpg",
@@ -367,6 +381,34 @@
       "ad_location": "서울 송파구 올림픽로 300 8-9층||(신천동 29)||롯데면세점 월드타워점 8층 갤러리 라운지",
       "start_date": "2026-04-25",
       "end_date": "2026-04-26"
+    },
+    "revewedding28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ww6iOuH7x4vpRrxYcsj5yWI.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_JrqMsstjhL3zpoNf.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_2ncdrnVHqcMxgswisHj8WrPseLGPKF.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding28/",
+      "region": "capital",
+      "gather_name": "잠실 롯데백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 서울 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180 7층||(호계동 1039)||LG전자베스트샵 롯데평촌점 특별행사장",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10"
+    },
+    "reveweddingE28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_MhoPFEvprLblnDQMzJyN9j.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_lEqJMeudq7hc2Ed.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_HXBzVTxctb87XV526wee7y4dp1FSf1Ss.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE28/",
+      "region": "capital",
+      "gather_name": "잠실 롯데백화점 혼수가전박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 서울 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180 7층||(호계동 1039)||LG전자베스트샵 롯데평촌점 특별행사장",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10"
     },
     "planon53": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_qOa2jUpwfOedgnMwCztXhRT8P.jpg",
