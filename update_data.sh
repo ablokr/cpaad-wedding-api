@@ -50,6 +50,11 @@ fi
 echo "[*] 데이터 수집 및 AI 분석 파이프라인 실행 중..."
 python3 src/main.py
 
+# 4-1. CPAAD Revenue 데이터 수집 및 병합
+echo "[*] CPAAD Revenue 데이터 수집 및 병합 중..."
+python3 src/cpaad_revenue_scraper.py
+python3 src/enrich_revenue.py
+
 # 5. 데이터 커밋 및 푸시 (Main 브랜치 직접 반영)
 echo "[*] 생성된 최신 데이터를 메인 저장소(main)에 반영 중..."
 git add data/
