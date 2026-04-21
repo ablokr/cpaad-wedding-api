@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-21T15:55:40Z",
-  "total_ad_count": 148,
+  "last_updated": "2026-04-21T19:30:03Z",
+  "total_ad_count": 149,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -1441,6 +1441,30 @@
           "sigungu_en": "gwangmyeong",
           "address": "경기 광명시 금하로 454",
           "venue": "삼성스토어 광명소하점"
+        }
+      }
+    },
+    "familywedding24": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_xsnbYxFBGM78M.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_AwIHfwpqzaPk.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_AQamFlcmwMsii9VQmuZ.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/familywedding24/",
+      "region": "gyeonggi",
+      "gather_name": "하남 패밀리 웨딩박람회",
+      "ad_info": "최대할인혜택!! 하남 최대규모 웨딩박람회!!",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "경기 하남시 미사대로 750 하남스타필드 지하 1층||(신장동 616)||LG전자베스트샵 신세계하남점",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "하남시",
+          "sigungu_en": "hanam",
+          "address": "경기 하남시 미사대로 750 하남스타필드 지하 1층",
+          "venue": "LG전자베스트샵 신세계하남점"
         }
       }
     },
