@@ -21,12 +21,25 @@ concurrency:
 jobs:
   sync_data:
     runs-on: ubuntu-latest
+    outputs:
+      weddinggo_changed: ${{ steps.changed-files.outputs.weddinggo_any_changed }}
+      weddingExpo_changed: ${{ steps.changed-files.outputs.weddingExpo_any_changed }}
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0 # 모든 브랜치 정보를 가져오기 위함
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v45
+        with:
+          files_yaml: |
+            weddinggo:
+              - data/weddinggo/**
+            weddingExpo:
+              - data/weddingExpo/**
 
       - name: Git identity configuration
         run: |
@@ -77,9 +90,17 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: Trigger Frontend Revalidation (wedding-html)
-        if: success()
+        if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
           repository: ablokr/wedding-html
+          event-type: api_data_updated
+
+      - name: Trigger Frontend Revalidation (GyeolhonExpo)
+        if: success() && (needs.sync_data.outputs.weddingExpo_changed == 'true' || github.event_name == 'workflow_dispatch')
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
+          repository: ablokr/GyeolhonExpo
           event-type: api_data_updated
