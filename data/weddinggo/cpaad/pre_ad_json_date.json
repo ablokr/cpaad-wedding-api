@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-22T10:00:03Z",
-  "total_ad_count": 149,
+  "last_updated": "2026-04-22T13:00:03Z",
+  "total_ad_count": 151,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -2020,6 +2020,30 @@
         }
       }
     },
+    "wwedding03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_YcgfcHqC22Okuapwr3pYwOV.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_dEdjB7lKufsQYKKAYB4US1.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_VKiCJQEqsek9.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding03/",
+      "region": "busan",
+      "gather_name": "부산 벡스코웨딩페어",
+      "ad_info": "주말에도 OK! 평일에도 OK! 365일 웨딩상담",
+      "ad_year": "2026",
+      "ad_date": "05월 29일(금) ~ 05월 31일(일)",
+      "ad_location": "부산 해운대구 APEC로 30||(우동 1413-4)||벡스코 제2전시장 4F홀",
+      "start_date": "2026-04-17",
+      "end_date": "2026-04-19",
+      "preprocessed": {
+        "location": {
+          "sido": "부산",
+          "sido_en": "busan",
+          "sigungu": "해운대구",
+          "sigungu_en": "haeundae",
+          "address": "부산 해운대구 APEC로 30",
+          "venue": "벡스코 제2전시장 4F홀"
+        }
+      }
+    },
     "wwedding11": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_JHti2Mjch335jMR3.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_wgwJ5PRMBk4daVEnRSnP1PSwjOaaaBJ5.jpg",
@@ -3361,6 +3385,30 @@
           "sigungu_en": "gimhae",
           "address": "경남 김해시 김해대로 2312",
           "venue": "삼성스토어 김해점"
+        }
+      }
+    },
+    "wwedding17": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_ruHoBx9JUqTqYLUbAtPgYvZamH1j1b.png",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_FTlnj5XtN2CDcGFp.png",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_9Ub4JFSWmOnJjirlz6D1fqi3a2.png",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding17/",
+      "region": "gyeongsang",
+      "gather_name": "창원 컨벤션센터 웨딩박람회",
+      "ad_info": "예비 신랑 신부라면 들러야 할 필수 코스",
+      "ad_year": "2026",
+      "ad_date": "05월 23일(토) ~ 05월 24일(일)",
+      "ad_location": "경남 창원시 성산구 원이대로 362||(대원동 123)||창원컨벤션센터 제3전시장",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "preprocessed": {
+        "location": {
+          "sido": "경남",
+          "sido_en": "gyeongnam",
+          "sigungu": "창원시",
+          "sigungu_en": "changwon",
+          "address": "경남 창원시 성산구 원이대로 362",
+          "venue": "창원컨벤션센터 제3전시장"
         }
       }
     },
