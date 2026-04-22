@@ -1,0 +1,210 @@
+{
+  "campaign_id": "wedingcrowd07",
+  "gather_name": "원주 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "원주 웨딩박람회 | 웨딩크라우드 방문 혜택 및 스드메 패키지 할인 정보",
+    "meta_description": "안녕하세요! 원주 웨딩크라우드 웨딩박람회 후기 공유해요~ 신세계 상품권부터 스드메 패키지 69만원 특가, 혼수 가전 혜택까지! 알찬 결혼 준비 꿀팁 확인하세요.",
+    "keywords": [
+      "원주웨딩박람회",
+      "원주결혼준비",
+      "스드메패키지",
+      "원주웨딩홀",
+      "결혼준비꿀팁",
+      "웨딩크라우드",
+      "원주예물",
+      "원주예복",
+      "웨딩박람회혜택",
+      "혼수준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 원주에서 열린 웨딩크라우드 웨딩박람회 다녀온 생생 후기 공유해요~ 결혼 준비 어디서부터 해야 할지 막막했는데, 이번 박람회 덕분에 스드메부터 가전까지 한눈에 비교할 수 있어서 진짜 알차더라고요!",
+    "benefits_description": "이번 박람회에서 가장 마음에 들었던 건 방문만 해도 주는 이마트 신세계 상품권 2만원이었어요! 계약 시에는 웨딩다이어리를 챙겨주는데 구성이 정말 꼼꼼하더라고요. 특히 스드메 패키지 69만원 특가는 정말 파격적이었고, 혼수 가전도 삼성스토어와 연계되어 최대 535만 포인트 혜택이 있으니 가전 보시는 분들은 꼭 상담 받아보세요. 현장에서 직접 드레스 피팅도 해보고 상담받으니 예산 잡기가 훨씬 수월했답니다.",
+    "summary_for_search": "원주 호텔인터불고에서 열리는 웨딩크라우드 웨딩박람회! 방문 시 신세계 상품권 증정 및 스드메 패키지 69만원 특가 제공. 예비부부를 위한 실속 있는 결혼 준비 꿀팁을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 원주 웨딩박람회에서 스드메 패키지 69만원부터 시작하세요!",
+    "secondary_headline": "방문만 해도 신세계 상품권 100% 증정! 원주 예비부부를 위한 최대 규모 웨딩 혜택을 놓치지 마세요.",
+    "urgency_text": "박람회 기간 한정! 선착순 계약 혜택 및 특가 패키지는 조기 마감될 수 있습니다.",
+    "call_to_action_text": "지금 무료 상담 신청하고 경품 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 이마트(신세계) 상품권 2만원 증정",
+      "청첩장 15% 할인권 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 69만원 특가 제공",
+      "웨딩다이어리 100% 증정",
+      "허니문 계약 시 추가 할인 및 여행권 혜택",
+      "혼수 가전 최대 535만 포인트 혜택"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 전문가 맞춤형 웨딩 컨설팅",
+      "신혼부부 재무 설계 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 동부순환로 200",
+      "venue": "호텔인터불고 원주 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "신혼집 입주 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "전국 최대 규모 웨딩 네트워크",
+      "전문 웨딩 플래너 1:1 상담 보장",
+      "웨딩홀 무료 비교 서비스 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 웨딩크라우드 웨딩박람회",
+      "startDate": "2025-05-09",
+      "endDate": "2025-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "호텔인터불고 원주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "관설동",
+          "addressLocality": "원주시",
+          "addressRegion": "강원도",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "원주 웨딩크라우드 웨딩박람회는 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "방문하면 선물을 주나요?",
+        "answer": "현장 방문 고객 전원에게 신세계 상품권을 증정하며, 상담 시 다양한 사은품을 제공합니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 예물, 예복, 가전, 여행사 등 결혼 준비의 모든 품목이 참여합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "업체별 상세 상담 시 보통 30분~1시간 정도 소요되며, 플래너 상담은 개인별로 차이가 있을 수 있습니다."
+      },
+      {
+        "question": "현장 계약을 꼭 해야 하나요?",
+        "answer": "아닙니다. 박람회는 다양한 업체와 혜택을 한눈에 비교하는 곳이니 충분히 상담받고 신중하게 결정하세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 스드메 업체 선정에 어려움을 겪고 계신 예비 신랑 신부님, 예산 내에서 합리적인 패키지를 찾고 계신 커플, 원주 지역 내 웨딩홀 투어와 혼수 가전을 한 번에 해결하고 싶은 분들에게 적극 추천합니다. 복잡한 결혼 준비 절차를 이해하고 전문가의 1:1 컨설팅이 필요한 모든 예비 부부가 대상입니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지",
+      "웨딩 드레스샵",
+      "웨딩 촬영 스튜디오",
+      "허니문 전문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전(삼성스토어)",
+      "재무 설계 업체"
+    ],
+    "comparison_hooks": [
+      "전국 최대 웨딩 네트워크로 검증된 업체만 엄선",
+      "박람회장 전용 스드메 69만원 특가 제공",
+      "웨딩홀 무료 비교 견적 및 전문가 컨설팅 서비스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 결혼준비 순서",
+      "웨딩박람회 방문 꿀팁",
+      "스드메 패키지 가격대",
+      "원주 웨딩홀 추천",
+      "결혼 박람회 상담 시 질문 리스트",
+      "웨딩다이어리 받는 법",
+      "혼수 가전 저렴하게 사는 법",
+      "원주 예물 예복 추천",
+      "박람회 현장 계약 장단점",
+      "웨딩 크라우드 평판"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "원주 웨딩박람회 일정 확인",
+        "category": "local_wedding_events"
+      },
+      {
+        "anchor": "스드메 패키지 비교하기",
+        "category": "wedding_consulting"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "신혼여행",
+      "예식장",
+      "청첩장",
+      "부케",
+      "신혼가전",
+      "예복",
+      "결혼예산"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 웨딩박람회 혜택 총정리!",
+    "og_description": "지금 등록하면 신세계 상품권 100% 증정! 스드메 특가까지 놓치지 마세요.",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#결혼준비",
+      "#원주결혼준비",
+      "#웨딩크라우드",
+      "#스드메특가",
+      "#원주웨딩홀",
+      "#예신",
+      "#예랑",
+      "#웨딩박람회후기",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_kt3LBXaxo8OBNbiVIhylL1Ve.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_88wEgimrryjFicSECh.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_pF8ys69ADpPM.jpg"
+  }
+}
