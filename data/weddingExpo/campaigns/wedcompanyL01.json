@@ -97,6 +97,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩컴퍼니엘",
+        "url": "https://ad.cpaad.co.kr/wedcompanyL01/"
       }
     },
     "faq_schema": [
@@ -194,5 +199,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_mU9K8T8869brfkiPgAYgm45m2qU.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ErkWimAbfZ7HrFVju35wknk4S7.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Yae5q4nREGoAt6Q3Zft8Igi.jpg"
-  }
+  },
+  "organizer_name": "웨딩컴퍼니엘"
 }

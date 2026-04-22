@@ -97,6 +97,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 플랜온웨딩",
+        "url": "https://ad.cpaad.co.kr/planon46/"
       }
     },
     "faq_schema": [
@@ -194,5 +199,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg"
-  }
+  },
+  "organizer_name": "주식회사 플랜온웨딩"
 }

@@ -95,6 +95,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "마실",
+        "url": "https://ad.cpaad.co.kr/masiltour01/"
       }
     },
     "faq_schema": [
@@ -190,5 +195,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ZClqXAGZD.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_xXOUqoPu6gOzuAaMavk.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_xpgmKLQ5OG.jpg"
-  }
+  },
+  "organizer_name": "마실"
 }

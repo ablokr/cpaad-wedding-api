@@ -99,6 +99,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하얀웨딩",
+        "url": "https://ad.cpaad.co.kr/whw05/"
       }
     },
     "faq_schema": [
@@ -195,5 +200,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_AbqFijwewMxmPFc6Su7XVuQTJyZNPN.jpg"
-  }
+  },
+  "organizer_name": "하얀웨딩"
 }

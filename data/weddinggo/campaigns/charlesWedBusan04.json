@@ -100,6 +100,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "부산 찰스 웨딩박람회",
+        "url": "https://ad.cpaad.co.kr/charlesWedBusan04/"
       }
     },
     "faq_schema": [
@@ -197,5 +202,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_6YDj1pPTQPqCbsD7.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_EEkfmgHlhdYprmCOArDj26As.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "부산 찰스 웨딩박람회"
 }

@@ -97,6 +97,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "category": "Primary"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed02/"
       }
     },
     "faq_schema": [
@@ -194,5 +199,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_q1hwwCHek.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_LuWcB7Oky.jpg"
   },
-  "revenue": 50000
+  "revenue": 50000,
+  "organizer_name": "광주웨딩연합회"
 }

@@ -93,6 +93,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하얀웨딩",
+        "url": "https://ad.cpaad.co.kr/whw06/"
       }
     },
     "faq_schema": [
@@ -189,5 +194,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_IPlB2jQB2mKmC.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_aPkqrDtg5.jpg"
-  }
+  },
+  "organizer_name": "하얀웨딩"
 }

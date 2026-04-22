@@ -85,7 +85,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_RycN4llNgVbdgiE.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ywd3wXwNglOSInnWaKX7C1orIuW.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_UxoImqRI5duAGc.jpg"
-    }
+    },
+    "organizer_name": "파란애드컴퍼니"
   },
   {
     "campaign_id": "wwedding13",
@@ -170,7 +171,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_OeSEZ6vEyAuIPBm.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_K9XpbPpNKgM1tsfJ.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_NiU2PJ4C1dGqr1.jpg"
-    }
+    },
+    "organizer_name": "더리본 주식회사"
   },
   {
     "campaign_id": "paranfair02",
@@ -266,7 +268,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ck43WRnf.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_gV73ZIsJpR.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_unQuxkR7D62xYdkdd5nK.jpg"
-    }
+    },
+    "organizer_name": "파란애드컴퍼니"
   },
   {
     "campaign_id": "palmfair06",
@@ -371,6 +374,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "제이씨커뮤니케이션",
+          "url": "https://ad.cpaad.co.kr/palmfair06/"
         }
       },
       "faq_schema": [
@@ -467,7 +475,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_RCdEQC9E2no6EkpbqriLIh9PCf.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_2UMkLWvcwvkhjkMCZ1p36LPix.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_y8rpLRbELsAZKeK1kd7tR1HTT7ovUHa.jpg"
-    }
+    },
+    "organizer_name": "제이씨커뮤니케이션"
   },
   {
     "campaign_id": "wwedding07",
@@ -572,6 +581,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding07/"
         }
       },
       "faq_schema": [
@@ -670,7 +684,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg"
-    }
+    },
+    "organizer_name": "더리본 주식회사"
   },
   {
     "campaign_id": "paranfair06",
@@ -774,6 +789,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "파란애드컴퍼니",
+          "url": "https://ad.cpaad.co.kr/paranfair06/"
         }
       },
       "faq_schema": [
@@ -870,7 +890,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_V9kAXuoannYdmR2.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_MwY8NZLjOyfzm4sLDC4fd9JlLfO71q.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_QXtaNFikHdNeucS189ZYrE6aSbQtu.jpg"
-    }
+    },
+    "organizer_name": "파란애드컴퍼니"
   },
   {
     "campaign_id": "wwedding17",
@@ -975,6 +996,11 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding17/"
         }
       },
       "faq_schema": [
@@ -1072,6 +1098,7 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_ruHoBx9JUqTqYLUbAtPgYvZamH1j1b.png",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_FTlnj5XtN2CDcGFp.png",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_9Ub4JFSWmOnJjirlz6D1fqi3a2.png"
-    }
+    },
+    "organizer_name": "더리본 주식회사"
   }
 ]

@@ -100,7 +100,12 @@
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
       },
-      "eventStatus": "https://schema.org/EventScheduled"
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩컴퍼니엘",
+        "url": "https://ad.cpaad.co.kr/wedcompanyL01/"
+      }
     },
     "faq_schema": [
       {
@@ -197,5 +202,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ErkWimAbfZ7HrFVju35wknk4S7.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Yae5q4nREGoAt6Q3Zft8Igi.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "웨딩컴퍼니엘"
 }

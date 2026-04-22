@@ -98,6 +98,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하우투웨딩",
+        "url": "https://ad.cpaad.co.kr/howto27/"
       }
     },
     "faq_schema": [
@@ -191,5 +196,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ix3tHptTLQP2WmGygH9yNj.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_EJg4iT5ki5pvCFAsV1SjVSkqErks.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_VE8m44PfVXLyJ3jLsmSv9.jpg"
-  }
+  },
+  "organizer_name": "하우투웨딩"
 }

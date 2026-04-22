@@ -97,6 +97,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "category": "무료입장"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "e마이웨딩",
+        "url": "https://ad.cpaad.co.kr/emywedding01/"
       }
     },
     "faq_schema": [
@@ -196,5 +201,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_7rq7Bp5oRocBLg4pusHsSaTRizFhqnT.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_oTxfSoZqDm.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_kwNRiu6ghZRt5WWZpX99pkDEmzl4a.jpg"
-  }
+  },
+  "organizer_name": "e마이웨딩"
 }

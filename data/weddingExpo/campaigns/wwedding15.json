@@ -96,6 +96,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding15/"
       }
     },
     "faq_schema": [
@@ -192,5 +197,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_9FxZbdlRohbd4.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_6vLSzspirRnifnKyCWAk6Q.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_JTyU83FYkhqhWnF1CokuTPOdPUWtJ9.jpg"
-  }
+  },
+  "organizer_name": "더리본 주식회사"
 }

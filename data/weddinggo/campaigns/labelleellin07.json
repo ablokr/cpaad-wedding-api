@@ -98,6 +98,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파리스 라벨르엘린",
+        "url": "https://ad.cpaad.co.kr/labelleellin07/"
       }
     },
     "faq_schema": [
@@ -196,5 +201,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_uSGEEYtdfgCdikwk29dR2tPLUY9Mq5Nl.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_mBwn3nMGCfVhze.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "파리스 라벨르엘린"
 }

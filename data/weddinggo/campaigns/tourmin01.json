@@ -99,6 +99,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "투어민 제주",
+        "url": "https://ad.cpaad.co.kr/tourmin01/"
       }
     },
     "faq_schema": [
@@ -195,5 +200,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_8co85j9SRqwqG8Er.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_z55rahZ6IMSsGQwGezbH4IU.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "투어민 제주"
 }

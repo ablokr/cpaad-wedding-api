@@ -97,6 +97,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd66/"
         }
       },
       "faq_schema": [
@@ -195,7 +200,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_CdZLKF62DCm8tllxKypetEjoOpDnwa.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_1H4HESCxmpuV5uNBO84QDDPnk.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_J9k4gZFI8rh55X9CNy.jpg"
-    }
+    },
+    "organizer_name": "웨딩크라우드"
   },
   {
     "campaign_id": "wedcompanyL02",
@@ -299,6 +305,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩컴퍼니엘",
+          "url": "https://ad.cpaad.co.kr/wedcompanyL02/"
         }
       },
       "faq_schema": [
@@ -397,7 +408,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_5wvcBWCsez67pUyknC2lx3YwZTR9.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_3IpcJIXArXDNLjsRZXLhFVLmNsRpQNK.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_5ghaNNViZneWusIvHzIBgAqigiqRj8D.jpg"
-    }
+    },
+    "organizer_name": "웨딩컴퍼니엘"
   },
   {
     "campaign_id": "emywedding01",
@@ -498,6 +510,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "category": "무료입장"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "e마이웨딩",
+          "url": "https://ad.cpaad.co.kr/emywedding01/"
         }
       },
       "faq_schema": [
@@ -597,7 +614,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_7rq7Bp5oRocBLg4pusHsSaTRizFhqnT.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_oTxfSoZqDm.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_kwNRiu6ghZRt5WWZpX99pkDEmzl4a.jpg"
-    }
+    },
+    "organizer_name": "e마이웨딩"
   },
   {
     "campaign_id": "palmfair03",
@@ -702,6 +720,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "제이씨커뮤니케이션",
+          "url": "https://ad.cpaad.co.kr/palmfair03/"
         }
       },
       "faq_schema": [
@@ -796,7 +819,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_5VhMiMKGqzrFyNv938ePY5.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_LEKRkxFHUA766umViRTOujOQBE.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_6LZxgnKJ49vE3.jpg"
-    }
+    },
+    "organizer_name": "제이씨커뮤니케이션"
   },
   {
     "campaign_id": "emywedding02",
@@ -897,6 +921,11 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "e마이웨딩",
+          "url": "https://ad.cpaad.co.kr/emywedding02/"
         }
       },
       "faq_schema": [
@@ -994,7 +1023,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_4YIKUyksH4J5nW45y.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_b9QOzSTRP15vFBtqM.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fKkVIq3JiPdOuPMSei7btt3p.jpg"
-    }
+    },
+    "organizer_name": "e마이웨딩"
   },
   {
     "campaign_id": "wedcompanyL01",
@@ -1095,6 +1125,11 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩컴퍼니엘",
+          "url": "https://ad.cpaad.co.kr/wedcompanyL01/"
         }
       },
       "faq_schema": [
@@ -1192,7 +1227,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_mU9K8T8869brfkiPgAYgm45m2qU.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ErkWimAbfZ7HrFVju35wknk4S7.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Yae5q4nREGoAt6Q3Zft8Igi.jpg"
-    }
+    },
+    "organizer_name": "웨딩컴퍼니엘"
   },
   {
     "campaign_id": "withyouwedding06",
@@ -1296,6 +1332,11 @@
           "@type": "Offer",
           "price": "0",
           "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding06/"
         }
       },
       "faq_schema": [
@@ -1393,7 +1434,8 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_1GeNerbqWCbtKZJx4AKdnPpJ.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_QOf7PcEqQzw9VylSKp8nh2f8zn.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_daVHgmNa6ML6KZT39aiOZopBMaQ.jpg"
-    }
+    },
+    "organizer_name": "위드유 웨딩박람회"
   },
   {
     "campaign_id": "wedingcrowd03",
@@ -1498,6 +1540,11 @@
           "price": "0",
           "priceCurrency": "KRW",
           "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd03/"
         }
       },
       "faq_schema": [
@@ -1591,6 +1638,7 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_sEiHcXRzg18UU1e.jpg",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_FyxB3TiadtTVPXzY.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GUkdeJrFaF.jpg"
-    }
+    },
+    "organizer_name": "웨딩크라우드"
   }
 ]

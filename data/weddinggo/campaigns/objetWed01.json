@@ -102,6 +102,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "오브제웨딩",
+        "url": "https://ad.cpaad.co.kr/objetWed01/"
       }
     },
     "faq_schema": [
@@ -198,5 +203,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cvv9hCPAbfX5nbgKxrRbUXCvTd.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_8pv8cFyHZB6NMFfCfrv82.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "오브제웨딩"
 }

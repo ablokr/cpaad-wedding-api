@@ -98,6 +98,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더베스트 웨딩페어",
+        "url": "https://ad.cpaad.co.kr/theBW07/"
       }
     },
     "faq_schema": [
@@ -196,5 +201,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_abnQfSzC.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_3UjULAc9TPYUMq3Rn.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_7elubBJASvN1p3rkbgeIv1yVyxL.jpg"
-  }
+  },
+  "organizer_name": "더베스트 웨딩페어"
 }

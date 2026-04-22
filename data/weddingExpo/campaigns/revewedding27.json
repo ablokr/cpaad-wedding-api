@@ -99,6 +99,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 레브웨딩",
+        "url": "https://ad.cpaad.co.kr/revewedding27/"
       }
     },
     "faq_schema": [
@@ -194,5 +199,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_n6Yxap4JtbblVlllY7BUTJ8.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_C8kq7IBys2.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_lcBhcGXpLIVgosmK5.jpg"
-  }
+  },
+  "organizer_name": "주식회사 레브웨딩"
 }
