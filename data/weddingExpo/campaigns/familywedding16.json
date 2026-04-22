@@ -99,6 +99,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/familywedding16/"
       }
     },
     "faq_schema": [
@@ -196,5 +201,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lyxEohuHXRF5u.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kaWbSvTAxA3dy.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_qHV2wavoD4FR5CGyegrfO1bqA.jpg"
-  }
+  },
+  "organizer_name": "패밀리투어"
 }

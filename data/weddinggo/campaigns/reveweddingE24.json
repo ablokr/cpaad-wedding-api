@@ -97,6 +97,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 레브웨딩",
+        "url": "https://ad.cpaad.co.kr/reveweddingE24/"
       }
     },
     "faq_schema": [
@@ -195,5 +200,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_RMd1yW13FMjr7wuJgo.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_LLJ6Cl9Z8ON9Y.jpg"
   },
-  "revenue": 50000
+  "revenue": 50000,
+  "organizer_name": "주식회사 레브웨딩"
 }

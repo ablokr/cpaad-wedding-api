@@ -100,6 +100,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "url": "#"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "위드유 웨딩박람회",
+        "url": "https://ad.cpaad.co.kr/withyouwedding03/"
       }
     },
     "faq_schema": [
@@ -198,5 +203,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_RKWJhNUE4qBWM8.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_NxTIV8sifwBVjHwXlSIDnen8yduY.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "위드유 웨딩박람회"
 }

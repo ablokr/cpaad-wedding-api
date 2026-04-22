@@ -98,6 +98,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "커넥팅웨딩",
+        "url": "https://ad.cpaad.co.kr/connectwedding01/"
       }
     },
     "faq_schema": [
@@ -195,5 +200,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_pXXFk5XxAwqV5dz7a5Yc6Ar3z.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_6M3jVzfPNsvioPeQQC8oN.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_UnYp9oVAiTqPXKl.jpg"
-  }
+  },
+  "organizer_name": "커넥팅웨딩"
 }

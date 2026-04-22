@@ -94,6 +94,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이웨딩 네트웍스",
+        "url": "https://ad.cpaad.co.kr/jwc01/"
       }
     },
     "faq_schema": [
@@ -185,5 +190,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_dB4onJl1G2lfbHpTin6rQTO.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_1HJZut74YNkA5YW9lfLKX9s6p7g.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_BGVPG5JDpzCc97Mg1xoEJxYLKfzj.jpg"
-  }
+  },
+  "organizer_name": "제이웨딩 네트웍스"
 }

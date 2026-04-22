@@ -94,6 +94,11 @@
           "addressLocality": "서울",
           "addressCountry": "KR"
         }
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이웨딩",
+        "url": "https://ad.cpaad.co.kr/weddingdc04A/"
       }
     },
     "faq_schema": [
@@ -184,5 +189,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/201912/4f2b98a19d17b4d6ba16369462b2a231_5kkkKZbSdoU6vN.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202206/27a1b54f9405a72c0efd7801c003beb3_Z5Qy7YeTrwDrqoW.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/201912/4f2b98a19d17b4d6ba16369462b2a231_qRgZc8DyPf3wSpPuUcgXiRjqvJ.jpg"
-  }
+  },
+  "organizer_name": "제이웨딩"
 }

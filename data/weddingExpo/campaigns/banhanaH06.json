@@ -96,6 +96,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "반하나웨딩 컨설팅",
+        "url": "https://ad.cpaad.co.kr/banhanaH06/"
       }
     },
     "faq_schema": [
@@ -186,5 +191,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ZeN4LXZZqEIDQDoXzK.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_ASQR5nyIAAqMIr.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_mUNGtZMGeTi4mYpxL7uv9TLHX8VUugWB.jpg"
-  }
+  },
+  "organizer_name": "반하나웨딩 컨설팅"
 }

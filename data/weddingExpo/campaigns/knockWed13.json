@@ -98,6 +98,11 @@
         "@type": "Offer",
         "price": "0",
         "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed13/"
       }
     },
     "faq_schema": [
@@ -198,5 +203,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Y8rRVQT58wBdPn5hHWpV.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GKzkCvNHQ2dgAU.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_D6qQyIyPTcmSIJUNyrvHeNWQH.jpg"
-  }
+  },
+  "organizer_name": "광주웨딩연합회"
 }

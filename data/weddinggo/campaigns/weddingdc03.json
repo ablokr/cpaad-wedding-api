@@ -100,6 +100,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "url": "https://jwed.co.kr"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이웨딩",
+        "url": "https://ad.cpaad.co.kr/weddingdc03/"
       }
     },
     "faq_schema": [
@@ -198,5 +203,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_boo6ucBtRuuC7A9ISu.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_StJVPDGLkThjyanjwI6NIuQdKBP.jpg"
   },
-  "revenue": 40000
+  "revenue": 40000,
+  "organizer_name": "제이웨딩"
 }

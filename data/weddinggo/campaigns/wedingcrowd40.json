@@ -102,6 +102,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd40/"
       }
     },
     "faq_schema": [
@@ -202,5 +207,6 @@
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202405/2337ea9ac0ebeb271ae4fe609b8d7149_OlwDijMUO9ef4Ieo3WWPfry.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202312/2337ea9ac0ebeb271ae4fe609b8d7149_8ay871tFALaOAfSBiuMi9i1.jpg"
   },
-  "revenue": 30000
+  "revenue": 30000,
+  "organizer_name": "웨딩크라우드"
 }

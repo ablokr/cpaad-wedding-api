@@ -101,6 +101,11 @@
         "price": "0",
         "priceCurrency": "KRW",
         "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding17/"
       }
     },
     "faq_schema": [
@@ -199,5 +204,6 @@
     "mainvisual": "https://ad.cpaad.co.kr/data/ad/202511/568762912459e51e2cbac9155f241418_YewdURdc8jF1ipJW.jpg",
     "thumbnail": "https://ad.cpaad.co.kr/data/ad/202511/568762912459e51e2cbac9155f241418_fKSaYVnMrFn.jpg",
     "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202511/568762912459e51e2cbac9155f241418_IgqAVXPfIel4EKMrDxgrcH7cc3Ft.jpg"
-  }
+  },
+  "organizer_name": "더블유앤코"
 }
