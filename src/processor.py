@@ -440,7 +440,7 @@ class WeddingDataProcessor:
             except:
                 pass
 
-    def smart_merge(self, ai_data: dict, api_basic_data: dict, campaign_id: str, preprocessed: dict):
+    def smart_merge(self, ai_data: dict, api_basic_data: dict, campaign_id: str, preprocessed: dict, organizer_name: str = ""):
         """
         전처리 데이터(위치/날짜) + AI 생성 데이터(SEO/마케팅) + API 원본(에셋)을 결합합니다.
 
@@ -448,13 +448,27 @@ class WeddingDataProcessor:
         - preprocessed: 위치(sido/sigungu/영문), 날짜(start/end_date) — 정확도 보장
         - ai_data: SEO 메타, 상세 콘텐츠, 마케팅 문구, 혜택, 신뢰 요소 — AI 창작
         - api_basic_data: gather_name, 에셋(메인비주얼/썸네일 URL) — API 원본
+        - organizer_name: lib/organizerMapping.json에서 조회된 주관사 명칭
         """
         loc_pre = preprocessed["location"]
         dates_pre = preprocessed["dates"]
 
+        # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
+        structured_data = ai_data.get("structured_data", {})
+        
+        # [추가] event_schema 내부에 organizer 정보 주입 (mapping 기반)
+        if organizer_name and "event_schema" in structured_data:
+            if isinstance(structured_data["event_schema"], dict):
+                structured_data["event_schema"]["organizer"] = {
+                    "@type": "Organization",
+                    "name": organizer_name,
+                    "url": api_basic_data.get("ad_url", "")
+                }
+
         result = {
             "campaign_id": campaign_id,
             "gather_name": api_basic_data.get("gather_name", ""),
+            "organizer_name": organizer_name, # 최상위에도 추가 (편의성)
 
             # SEO 메타데이터 (AI 생성)
             "seo_metadata": ai_data.get("seo_metadata", {}),
@@ -492,7 +506,7 @@ class WeddingDataProcessor:
             "conversion_and_trust": ai_data.get("conversion_and_trust", {}),
 
             # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
-            "structured_data": ai_data.get("structured_data", {}),
+            "structured_data": structured_data,
 
             # E-E-A-T 콘텐츠 깊이 — 대상자/입점업체/차별점 (AI 생성)
             "content_depth": ai_data.get("content_depth", {}),
@@ -511,5 +525,7 @@ class WeddingDataProcessor:
                 "thumbnail2": api_basic_data.get("ad_thumbnail2"),
             },
         }
+
+        return result
 
         return result

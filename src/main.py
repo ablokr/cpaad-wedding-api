@@ -101,7 +101,9 @@ async def run_single_campaign(api_basic_data: dict, collector, processor, prepro
                 raw_ai_data = processor.analyze_image(screenshot_path, api_basic_data, preprocessed)
 
                 # 4. 병합 (Processor)
-                final_data = processor.smart_merge(raw_ai_data, api_basic_data, campaign_id, preprocessed)
+                # [추가] 매핑 데이터에서 주관사 이름 조회
+                organizer_name = storage.get_organizer_name(campaign_id)
+                final_data = processor.smart_merge(raw_ai_data, api_basic_data, campaign_id, preprocessed, organizer_name=organizer_name)
 
                 # 5. 저장 (Storage)
                 storage.save_final_results(final_data)
@@ -149,6 +151,8 @@ async def main_optimized():
         
         # [신규] 주최사 매핑 데이터 자동 업데이트 (Incremental Add)
         storage.update_organizer_mapping(full_response.get("advertisements", {}))
+        # [추가] 실행 시 항상 최신 매핑 파일을 data 폴더로 복사
+        storage._copy_organizer_mapping_to_data()
         
         # [신규] 원본 데이터를 순회하며 전처리(위치/날짜 파싱) 결과를 병합하여 별도 저장
         preprocessed_full = copy.deepcopy(full_response)

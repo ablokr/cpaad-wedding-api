@@ -78,5 +78,15 @@ def migrate_organizer_mapping():
     
     print(f"[✔] 마이그레이션 완료: {len(sorted_mapping)}개의 주최사 그룹으로 재편되었습니다.")
 
+    # [추가] data 폴더로 복사
+    try:
+        import shutil
+        dst_path = os.path.join('data', 'organizerMapping.json')
+        os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+        shutil.copy2(mapping_path, dst_path)
+        print(f"[✔] organizerMapping.json을 {dst_path}로 복사했습니다.")
+    except Exception as e:
+        print(f"[!] 복사 실패: {e}")
+
 if __name__ == "__main__":
     migrate_organizer_mapping()

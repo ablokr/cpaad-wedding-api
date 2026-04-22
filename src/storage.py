@@ -335,6 +335,8 @@ class WeddingDataStorage:
             with open(mapping_path, 'w', encoding='utf-8') as f:
                 json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
             print(f"[✔] [Storage] organizerMapping.json 업데이트 완료.")
+            # [추가] data 폴더로 복사
+            self._copy_organizer_mapping_to_data()
         else:
             print("[*] [Storage] organizerMapping.json 변경 사항 없음.")
 
@@ -418,6 +420,58 @@ class WeddingDataStorage:
                         sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
                         json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
                     print(f"[✔] [Storage] 주관사 이름 실시간 업데이트 및 자동 통합 완료: {target_id} -> {brand_name}")
+                    # [추가] data 폴더로 복사
+                    self._copy_organizer_mapping_to_data()
         except Exception as e:
             print(f"[!] [Storage] 주관사 이름 업데이트 중 오류: {e}")
+
+    def get_organizer_name(self, campaign_id: str) -> str:
+        """campaign_id에 해당하는 주관사 이름을 반환합니다."""
+        mapping_path = os.path.join("lib", "organizerMapping.json")
+        if not os.path.exists(mapping_path): return ""
+
+        try:
+            with open(mapping_path, 'r', encoding='utf-8') as f:
+                mapping = json.load(f)
+
+            # 1. 역방향 검색 (campaigns 리스트에 포함되어 있는지 확인)
+            for oid, info in mapping.items():
+                if "campaigns" in info and campaign_id in info["campaigns"]:
+                    # alias 해결
+                    target_id = oid
+                    safety_limit = 5
+                    while "alias_of" in mapping.get(target_id, {}) and safety_limit > 0:
+                        target_id = mapping[target_id]["alias_of"]
+                        safety_limit -= 1
+                    return mapping.get(target_id, {}).get("name", "")
+
+            # 2. campaign_id에서 ID 추출하여 검색 (새로운 캠페인 대비)
+            match = re.search(r'\d', campaign_id)
+            candidate_id = campaign_id[:match.start()] if match else campaign_id
+            
+            target_id = candidate_id
+            safety_limit = 5
+            while "alias_of" in mapping.get(target_id, {}) and safety_limit > 0:
+                target_id = mapping[target_id]["alias_of"]
+                safety_limit -= 1
+            
+            return mapping.get(target_id, {}).get("name", "")
+        except:
+            return ""
+
+    def _copy_organizer_mapping_to_data(self):
+        """lib/organizerMapping.json 파일을 data 폴더로 복사합니다."""
+        src_path = os.path.join("lib", "organizerMapping.json")
+        dst_path = os.path.join("data", "organizerMapping.json")
+        
+        if not os.path.exists(src_path):
+            return
+            
+        try:
+            import shutil
+            os.makedirs(os.path.dirname(dst_path), exist_ok=True)
+            shutil.copy2(src_path, dst_path)
+            print(f"[✔] [Storage] organizerMapping.json을 {dst_path}로 복사했습니다.")
+        except Exception as e:
+            print(f"[!] [Storage] organizerMapping.json 복사 실패: {e}")
 
