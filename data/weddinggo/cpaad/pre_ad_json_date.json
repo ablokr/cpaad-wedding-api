@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-23T13:00:04Z",
-  "total_ad_count": 164,
+  "last_updated": "2026-04-23T16:00:02Z",
+  "total_ad_count": 165,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -3004,6 +3004,30 @@
         }
       }
     },
+    "theBW03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_T5lI6Af7O51cUbTmz.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_dVGW7WhYN.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_VyMwF5wO.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBW03/",
+      "region": "jeolla",
+      "gather_name": "광주웨딩페어",
+      "ad_info": "광주 최대 규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 01일(금) ~ 05월 03일(일) 3일간",
+      "ad_location": "광주 광산구 광주여대길 6||(산정동 158)||광주여대 시립유니버시아드체육관",
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-03",
+      "preprocessed": {
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "광산구",
+          "sigungu_en": "gwangsan",
+          "address": "광주 광산구 광주여대길 6",
+          "venue": "광주여대 시립유니버시아드체육관"
+        }
+      }
+    },
     "whw05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
@@ -3077,26 +3101,26 @@
       }
     },
     "theBW01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_81EmEvOU1CnD2hztr2KXrvxcRizAd.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_dmtaCxLn7w.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_1Zc1MvUTalgubpnL.jpg",
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_72VZTfD91auw.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_nToJZgEoxkXP6mkv9cCgWVym2Tnjer3L.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_kNjQdxvyu.jpg",
       "ad_url": "https://ad.cpaad.co.kr/theBW01/",
       "region": "jeolla",
       "gather_name": "광주 웨딩 페스타",
       "ad_info": "결혼준비도 한번에! 광주 웨딩 페스타에서 최고로 준비하세요.",
       "ad_year": "2026",
-      "ad_date": "05월 01일(금) ~ 04월 19일(일)",
-      "ad_location": "광주 동구 서석로 13-1 3층||(불로동 97-6)||더베스트웨딩컴퍼니 사옥",
-      "start_date": "2026-05-01",
-      "end_date": "2026-05-03",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "광주 서구 무진대로 932||(광천동 49-1)||신세계백화점 광주신세계점 8층",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
       "preprocessed": {
         "location": {
           "sido": "광주",
           "sido_en": "gwangju",
-          "sigungu": "동구",
-          "sigungu_en": "dong",
-          "address": "광주 동구 서석로 13-1 3층",
-          "venue": "더베스트웨딩컴퍼니 사옥"
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "광주 서구 무진대로 932",
+          "venue": "신세계백화점 광주신세계점 8층"
         }
       }
     },
