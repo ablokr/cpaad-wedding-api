@@ -1,0 +1,201 @@
+{
+  "campaign_id": "theBW03",
+  "gather_name": "광주웨딩페어",
+  "organizer_name": "더베스트 웨딩페어",
+  "seo_metadata": {
+    "title": "광주웨딩페어 후기 | 스드메 견적 비교 및 계약 혜택 꿀팁 공유",
+    "meta_description": "광주웨딩페어 다녀온 솔직 후기 공유해요! 방문만 해도 받는 선물부터 스드메 계약 시 에어프라이어, 공기청정기 등 알찬 혜택 챙기는 법 정리했어요. 광주에서 결혼 준비하시는 예신님들 꼭 확인하세요!",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주웨딩페어",
+      "광주결혼준비",
+      "광주스드메비용",
+      "광주웨딩홀추천",
+      "결혼박람회후기",
+      "광주예물",
+      "광주예복",
+      "광주혼수",
+      "스드메견적"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 광주여대 유니버시아드체육관에서 열린 광주웨딩페어 다녀왔어요~ 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 생각보다 너무 알차서 저처럼 고민 중인 예비 부부님들을 위해 후기 남겨봐요!",
+    "benefits_description": "입장하자마자 사전 예약 선물로 웨딩 다이어리 챙겼는데 퀄리티가 좋더라고요! 상담만 받아도 스타벅스 쿠폰 증정해주고, 무엇보다 계약 혜택이 진짜 빵빵해요. 3개 업체 계약하면 에어프라이어, 5개 계약하면 공기청정기까지 챙겨주니까 스드메, 예물, 예복 등 한 번에 끝내실 분들에겐 진짜 이득인 것 같아요. 특히 현장에서 드레스 투어 느낌으로 여러 샵 샘플을 한눈에 볼 수 있어서 시간 절약 확실히 했습니다!",
+    "summary_for_search": "광주웨딩페어 방문 후기! 스드메 계약 혜택으로 에어프라이어, 공기청정기 받고 결혼 준비 비용 아끼는 노하우를 정리했습니다. 예비 신랑신부님들을 위한 필수 체크리스트와 알짜배기 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "광주웨딩페어, 방문만 해도 100% 선물 증정!",
+    "secondary_headline": "광주 최다 업체 입점, 스드메부터 혼수까지 한 번에 끝내는 실속 있는 결혼 준비",
+    "urgency_text": "사전 예약 선착순 10시~12시 얼리버드 믹서기 증정!",
+    "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 예약 방문 시 웨딩 다이어리",
+      "현장 상담 시 스타벅스 기프트카드"
+    ],
+    "contract_benefits": [
+      "3개 업체 계약 시 에어프라이어 증정",
+      "5개 업체 계약 시 공기청정기 증정",
+      "스드메 계약 시 여행권 증정",
+      "제휴 업체별 최대 20만원 할인 지원"
+    ],
+    "special_events": [
+      "선착순 10시~12시 얼리버드 믹서기 이벤트",
+      "드레스 피팅 및 스타일링 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-01",
+      "end_date": "2026-05-03",
+      "display_date": "05월 01일(금) ~ 05월 03일(일) 3일간",
+      "original_display_date": "05월 01일(금) ~ 05월 03일(일) 3일간"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "광산구",
+      "sigungu_en": "gwangsan",
+      "address": "광주 광산구 광주여대길 6",
+      "venue": "광주여대 시립유니버시아드체육관",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 완료 시 증정",
+    "trust_indicators": [
+      "광주 예식 선호도 1위",
+      "예식 만족도 1위",
+      "6년 연속 광주 최다 방문 웨딩박람회"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주웨딩페어",
+      "startDate": "2025-05-01",
+      "endDate": "2025-05-03",
+      "location": {
+        "@type": "Place",
+        "name": "광주여대 시립유니버시아드체육관",
+        "address": "광주광역시 광산구"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더베스트 웨딩페어",
+        "url": "https://ad.cpaad.co.kr/theBW03/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 예약 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 사은품은 어떻게 받나요?",
+        "answer": "현장에서 상담 카드를 작성하고 각 업체 상담 완료 후 확인을 받으시면 사은품을 수령하실 수 있습니다."
+      },
+      {
+        "question": "혼수나 예물 업체도 있나요?",
+        "answer": "네, 스드메뿐만 아니라 예물, 예복, 가전, 가구 등 결혼 준비에 필요한 모든 혼수 업체가 입점해 있습니다."
+      },
+      {
+        "question": "웨딩드레스 피팅이 가능한가요?",
+        "answer": "현장에서 최신 트렌드 웨딩드레스 쇼케이스와 상담을 통해 본인에게 어울리는 스타일을 미리 확인해 보실 수 있습니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "페이지 내 초대장 신청 폼에 이름과 연락처, 예식 예정일을 기재하시면 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 스드메(스튜디오, 드레스, 메이크업) 업체부터 예식장, 혼수까지 한 번에 비교하고 싶은 광주 지역 예비 부부들을 대상으로 합니다. 특히 예산 대비 가성비 좋은 패키지를 찾거나, 전문가의 1:1 맞춤 상담을 통해 시행착오를 줄이고 싶어 하는 커플들에게 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "웨딩홀 제휴처",
+      "맞춤 예복 브랜드",
+      "주얼리 및 예물 전문점",
+      "허니문 여행사",
+      "혼수가전 및 가구 업체"
+    ],
+    "comparison_hooks": [
+      "6년 연속 광주 최다 방문으로 검증된 신뢰도",
+      "현장 즉시 계약 시 최대 혜택 보장",
+      "전문 웨딩플래너의 1:1 커스텀 맞춤 상담"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "광주 스드메 추천",
+      "결혼준비 체크리스트",
+      "스드메 견적 비교",
+      "웨딩박람회 꿀팁",
+      "광주 웨딩홀 가격",
+      "결혼 예물 고르는 법",
+      "신혼여행 패키지 추천",
+      "광주 예복 맞춤 가격",
+      "박람회 방문 전 준비물"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 투어 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 실속 후기",
+        "category": "stdm_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "신혼여행",
+      "웨딩플래너",
+      "혼수가전",
+      "다이아몬드"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주웨딩페어 솔직 후기! 선물 챙기세요~",
+    "og_description": "광주 결혼 준비는 여기서 끝! 상담만 받아도 선물 팡팡, 계약 혜택까지 놓치지 마세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주웨딩페어",
+      "#광주결혼준비",
+      "#광주스드메",
+      "#예신스타그램",
+      "#결혼준비",
+      "#광주예식장",
+      "#광주예물",
+      "#광주웨딩플래너",
+      "#박람회후기"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theBW03/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_T5lI6Af7O51cUbTmz.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_dVGW7WhYN.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_VyMwF5wO.jpg"
+  }
+}

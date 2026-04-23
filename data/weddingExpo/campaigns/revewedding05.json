@@ -1,0 +1,207 @@
+{
+  "campaign_id": "revewedding05",
+  "gather_name": "청주 OSCO 웨딩박람회",
+  "organizer_name": "주식회사 레브웨딩",
+  "seo_metadata": {
+    "title": "청주 OSCO 웨딩박람회 | 스드메 계약 혜택 및 무료 피팅 초대권",
+    "meta_description": "청주오스코 웨딩박람회에서 스드메 패키지 최대 혜택과 무료 드레스 피팅을 경험하세요! 계약 고객 다이슨 청소기 증정 등 5월 결혼 준비 알뜰 꿀팁과 현장 방문 사은품 정보까지 모두 공개합니다.",
+    "keywords": [
+      "청주웨딩박람회",
+      "청주오스코웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "웨딩박람회사은품",
+      "청주웨딩홀",
+      "신혼여행박람회",
+      "예물예복할인",
+      "결혼준비체크리스트",
+      "청주결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 예랑이랑 청주 OSCO 웨딩박람회 다녀왔는데, 생각보다 알찬 혜택이 너무 많아서 후기 공유해요! 결혼 준비 막막했는데 여기서 스드메부터 혼수까지 한 번에 상담받으니까 훨씬 수월하더라고요.",
+    "benefits_description": "이번 박람회는 진짜 혜택이 혜자예요! 일단 방문만 해도 주는 사은품도 쏠쏠하고, 스드메 계약하면 다이슨 청소기나 신세계 상품권까지 챙겨주는 이벤트가 진짜 매력적이더라고요. 특히 드레스 피팅 체험은 현장에서 직접 입어보니까 확실히 제 스타일 찾기가 편했어요. 예식장 대관료 할인이나 식대 할인 혜택도 있어서 청주에서 결혼 준비하시는 분들이라면 꼭 들러서 상담받아보시는 걸 추천해요!",
+    "summary_for_search": "청주 OSCO 웨딩박람회 방문 후기! 스드메 계약 시 다이슨 증정 및 혼수/허니문 최대 혜택 제공. 5월 16일~17일 청주오스코에서 진행되는 예비부부 필수 코스입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 100% 증정! 청주 OSCO 웨딩박람회 특별 혜택",
+    "secondary_headline": "스드메 비용 거품 빼고 합리적인 결혼 준비를 위한 원스톱 솔루션",
+    "urgency_text": "선착순 방문객 사은품 증정! 이번 주말 한정 혜택을 놓치지 마세요.",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 쿠폰 증정",
+      "랜덤 사은품 및 청첩장 15% 할인 쿠폰",
+      "웨딩 드레스 무료 피팅 체험"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 다이슨 V15 증정",
+      "신세계 상품권 30만원 증정",
+      "바이스킨 명품 앰플 증정",
+      "스드메 패키지 150만원 상당 할인"
+    ],
+    "special_events": [
+      "스드메 무료 업그레이드",
+      "웨딩홀 무료 섭외 및 대관료 할인",
+      "허니문 특전 및 추가 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 흥덕구 오송읍 오송생명로 250",
+      "venue": "청주오스코 특별전시장",
+      "parking_info": "청주오스코 주차장 이용 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 및 계약 조건에 따라 증정",
+    "trust_indicators": [
+      "100% 정찰제 보장",
+      "투명한 웨딩 가격 공개",
+      "현장 방문객 대상 다양한 사은품 구성"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 OSCO 웨딩박람회",
+      "startDate": "2025-05-16",
+      "endDate": "2025-05-17",
+      "location": {
+        "@type": "Place",
+        "name": "청주오스코 특별전시장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "청주오스코 205, 206호",
+          "addressLocality": "청주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 레브웨딩",
+        "url": "https://ad.cpaad.co.kr/revewedding05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장 가능한가요?",
+        "answer": "네, 사전 신청을 통해 무료 초대권을 발급받으시면 입장 및 상담이 무료입니다."
+      },
+      {
+        "question": "스드메 계약 혜택은 무엇인가요?",
+        "answer": "계약 시 다이슨 청소기, 상품권 등 다양한 감사 선물이 준비되어 있습니다."
+      },
+      {
+        "question": "드레스 피팅을 직접 해볼 수 있나요?",
+        "answer": "네, 현장에서 인기 웨딩 드레스를 직접 입어보고 전문가의 스타일링을 받을 수 있습니다."
+      },
+      {
+        "question": "주차가 편리한가요?",
+        "answer": "청주오스코 특별전시장에 마련된 주차 시설을 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 소요 시간은 얼마나 걸리나요?",
+        "answer": "개별 상담 항목에 따라 다르지만, 보통 1시간 내외로 알차게 상담받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 해야 할지 고민인 예비부부, 스드메 비용을 꼼꼼히 비교하며 합리적인 선택을 원하는 커플, 청주 지역에서 예식장과 혼수를 한 번에 해결하고자 하는 예신님들을 위한 박람회입니다. 결혼 준비 스트레스를 줄이고 전문가의 1:1 상담을 통해 나만의 웨딩 스타일을 완성하고 싶은 분들께 최적의 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 전문 패키지 업체",
+      "허니문 전문 여행사",
+      "예물 및 예복 브랜드",
+      "웨딩홀 제휴처",
+      "혼수 및 가전 업체"
+    ],
+    "comparison_hooks": [
+      "정찰제 도입으로 투명한 웨딩 가격 보장",
+      "현장 즉시 계약 시 다이슨 청소기 등 파격 혜택",
+      "드레스 피팅부터 메이크업까지 원스톱 스타일링 체험"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "청주 웨딩박람회 혜택",
+      "결혼 준비 체크리스트",
+      "청주 스드메 업체 추천",
+      "웨딩박람회 사은품",
+      "청주 예식장 할인",
+      "결혼 준비 비용 절약",
+      "웨딩 드레스 피팅 팁",
+      "혼수가전 박람회",
+      "신혼여행 예약 시기",
+      "웨딩박람회 주의사항"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 가격 비교",
+        "category": "service_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "청주웨딩",
+      "드레스피팅",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 OSCO 웨딩박람회 혜택 가득!",
+    "og_description": "예비부부 필수 코스! 스드메 계약하고 다이슨 받아가세요. 5월 청주오스코 박람회 후기 공개!",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#결혼준비",
+      "#청주결혼",
+      "#스드메",
+      "#웨딩박람회후기",
+      "#예신",
+      "#예랑",
+      "#청주웨딩홀",
+      "#신혼여행",
+      "#다이슨혜택",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/revewedding05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_16Tn4wS4.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_jEPVpBJpHCSOJY.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_I2Liz1PeDaYLaAe4S6UbhCApjvF.jpg"
+  }
+}
