@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-23T10:00:03Z",
-  "total_ad_count": 160,
+  "last_updated": "2026-04-23T13:00:04Z",
+  "total_ad_count": 164,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -2380,6 +2380,30 @@
         }
       }
     },
+    "revewedding25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GObL2cRK.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_CVNmbl7t5FEes5hyXjU.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_qlKzGV2fpqPiwFfw.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding25/",
+      "region": "chungcheong",
+      "gather_name": "천안 신세계백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 16일(토) ~ 05월 17일(일)",
+      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "preprocessed": {
+        "location": {
+          "sido": "충남",
+          "sido_en": "chungnam",
+          "sigungu": "천안시",
+          "sigungu_en": "cheonan",
+          "address": "충남 천안시 동남구 만남로 43",
+          "venue": "신세계백화점 천안아산점 A관 4층"
+        }
+      }
+    },
     "wedcompanyL02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_5wvcBWCsez67pUyknC2lx3YwZTR9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_3IpcJIXArXDNLjsRZXLhFVLmNsRpQNK.jpg",
@@ -2785,6 +2809,78 @@
           "sigungu_en": "cheongju",
           "address": "충북 청주시 청원구 사천로17번길 37 1~3층",
           "venue": "LG전자베스트샵 율량점"
+        }
+      }
+    },
+    "revewedding05": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_16Tn4wS4.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_jEPVpBJpHCSOJY.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_I2Liz1PeDaYLaAe4S6UbhCApjvF.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding05/",
+      "region": "chungcheong",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 청주 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 16일(토) ~ 05월 17일(일)",
+      "ad_location": "충북 청주시 흥덕구 오송읍 오송생명로 250||(오송읍 만수리 925)||청주오스코 특별전시장",
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "preprocessed": {
+        "location": {
+          "sido": "충북",
+          "sido_en": "chungbuk",
+          "sigungu": "청주시",
+          "sigungu_en": "cheongju",
+          "address": "충북 청주시 흥덕구 오송읍 오송생명로 250",
+          "venue": "청주오스코 특별전시장"
+        }
+      }
+    },
+    "connectwedding02": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_cWWVkd5xQLpYSa.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_qeDpeTTZS933OCoGKpzrfQQbsIA.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lk4I8C32.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding02/",
+      "region": "chungcheong",
+      "gather_name": "청주 현대백화점 웨딩박람회",
+      "ad_info": "합리적 웨딩 제안! 프리미엄 웨딩드레스",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "충북 청주시 흥덕구 직지대로 308 현대백화점 5층||(복대동 3380)||삼성스토어 현대충청",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "preprocessed": {
+        "location": {
+          "sido": "충북",
+          "sido_en": "chungbuk",
+          "sigungu": "청주시",
+          "sigungu_en": "cheongju",
+          "address": "충북 청주시 흥덕구 직지대로 308 현대백화점 5층",
+          "venue": "삼성스토어 현대충청"
+        }
+      }
+    },
+    "reveweddingE25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_bmzhBQAjPUdhrki36eZYVsMdrv8uCb.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_O3cgetIPPXGc.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_hl4xKW5LBCX77TUXu.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE25/",
+      "region": "chungcheong",
+      "gather_name": "천안 신세계백화점 혼수가전박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 혼수가전박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 16일(토) ~ 05월 17일(일)",
+      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "preprocessed": {
+        "location": {
+          "sido": "충남",
+          "sido_en": "chungnam",
+          "sigungu": "천안시",
+          "sigungu_en": "cheonan",
+          "address": "충남 천안시 동남구 만남로 43",
+          "venue": "신세계백화점 천안아산점 A관 4층"
         }
       }
     },

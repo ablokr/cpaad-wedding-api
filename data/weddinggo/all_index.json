@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 160,
+    "total_count": 164,
     "region_count": 15,
     "district_count": 51,
-    "updated_at": "2026-04-22 19:02:36"
+    "updated_at": "2026-04-23 13:02:13"
   },
   "items": [
     {
@@ -2069,7 +2069,8 @@
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_eNY46npRSC3oL1Sf.jpg",
       "updated_at": "2026-04-22 19:01:45",
-      "organizer_name": "투어민 제주"
+      "organizer_name": "투어민 제주",
+      "revenue": 30000
     },
     {
       "campaign_id": "banhana13",
@@ -2083,6 +2084,54 @@
       "updated_at": "2026-04-22 19:02:36",
       "revenue": 50000,
       "organizer_name": "반하나웨딩 컨설팅"
+    },
+    {
+      "campaign_id": "revewedding25",
+      "gather_name": "천안 신세계백화점 웨딩박람회",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "venue": "신세계백화점 천안아산점 A관 4층",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_CVNmbl7t5FEes5hyXjU.jpg",
+      "updated_at": "2026-04-23 13:00:47",
+      "revenue": 50000
+    },
+    {
+      "campaign_id": "connectwedding02",
+      "gather_name": "청주 현대백화점 웨딩박람회",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "venue": "삼성스토어 현대충청",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_qeDpeTTZS933OCoGKpzrfQQbsIA.jpg",
+      "updated_at": "2026-04-23 13:01:24",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "reveweddingE25",
+      "gather_name": "천안 신세계백화점 혼수가전박람회",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "venue": "신세계백화점 천안아산점 A관 4층",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_O3cgetIPPXGc.jpg",
+      "updated_at": "2026-04-23 13:01:48",
+      "revenue": 50000
+    },
+    {
+      "campaign_id": "revewedding05",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "venue": "청주오스코 특별전시장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_jEPVpBJpHCSOJY.jpg",
+      "updated_at": "2026-04-23 13:02:13",
+      "revenue": 50000
     }
   ]
 }
