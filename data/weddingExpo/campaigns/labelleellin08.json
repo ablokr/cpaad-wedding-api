@@ -1,0 +1,201 @@
+{
+  "campaign_id": "labelleellin08",
+  "gather_name": "수원 메쎄 웨딩박람회",
+  "organizer_name": "파리스 라벨르엘린",
+  "seo_metadata": {
+    "title": "수원 메쎄 웨딩박람회 | 스드메 견적 비교 및 결혼 준비 혜택",
+    "meta_description": "수원 메쎄 웨딩박람회에서 스드메, 웨딩홀, 혼수까지 한 번에 준비하세요! 5월 9일~10일 개최, 상담 시 혼주 한복/메이크업 할인 및 웨딩액자 업그레이드 등 특별 혜택을 제공합니다.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "수원 결혼준비",
+      "스드메 견적",
+      "웨딩홀 할인",
+      "수원 메쎄 박람회",
+      "결혼 박람회 추천",
+      "신혼부부 혜택",
+      "수원 스드메",
+      "웨딩홀 특전",
+      "혼수 준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 해야 할지 막막했던 예신입니다. 저번 주에 수원 메쎄 웨딩박람회 다녀왔는데, 생각보다 업체도 많고 혜택이 정말 쏠쏠하더라고요! 수원에서 예식 준비하시는 분들께 정말 강추하고 싶은 정보들 알차게 정리해 봤습니다.",
+    "benefits_description": "이번 박람회는 진짜 혜택 파티였어요! 방문만 해도 혼주 한복이랑 메이크업 할인 쿠폰을 챙겨주는데, 이런 건 나중에 결혼 준비할 때 진짜 유용하거든요. 특히 웨딩액자 업그레이드나 추가 증정 혜택은 놓치면 후회할 것 같아요. 스드메 패키지 상담받으면 식대나 대관료 할인까지 챙길 수 있어서 비용 아끼려는 커플들한테는 최고인 것 같아요!",
+    "summary_for_search": "5월 9일~10일 수원 메쎄에서 열리는 웨딩박람회 후기! 혼주 한복/메이크업 할인, 웨딩액자 증정 등 파격적인 혜택과 스드메 30개 업체 제휴 정보를 공유합니다. 알뜰한 결혼 준비를 위한 필수 방문 코스입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "수원 메쎄 웨딩박람회, 결혼 준비 혜택 최대치로 챙기세요!",
+    "secondary_headline": "스드메 30개 업체 제휴부터 웨딩홀 할인까지, 지금 무료 초대권 신청하세요.",
+    "urgency_text": "선착순 방문객 한정 혜택, 이번 주말 단 이틀!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "혼주 한복 대여 할인",
+      "혼주 메이크업 할인 (김청경헤어페이스 수원점)"
+    ],
+    "contract_benefits": [
+      "웨딩액자 업그레이드",
+      "웨딩액자 1점 추가 증정",
+      "웨딩홀 대관료/식대 할인 혜택"
+    ],
+    "special_events": [
+      "스드메 30개 업체 제휴 상담",
+      "예물/허니문/한복/정장 원스톱 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 권선구 세화로134번길 37",
+      "venue": "수원메쎄 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신부",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "커플당 한 번만 신청하여 동반 입장 가능하며, 현장 상담 완료 후 혜택 제공",
+    "trust_indicators": [
+      "웨딩 스튜디오 30개 업체 제휴",
+      "전문 컨설턴트 1:1 맞춤 상담",
+      "서울보증보험 가입 여행사 제휴"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 메쎄 웨딩박람회",
+      "startDate": "2025-05-09",
+      "endDate": "2025-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "수원 메쎄",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "세화로 134번길 37",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "파리스 라벨르엘린",
+        "url": "https://ad.cpaad.co.kr/labelleellin08/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 예약은 필수인가요?",
+        "answer": "네, 커플당 한 번만 사전 등록하시면 동반 입장이 가능합니다."
+      },
+      {
+        "question": "스드메 업체는 얼마나 참여하나요?",
+        "answer": "웨딩 스튜디오 30개 업체와 유명 드레스샵들이 대거 참여합니다."
+      },
+      {
+        "question": "방문만 해도 혜택이 있나요?",
+        "answer": "혼주 한복 및 메이크업 할인 쿠폰 등 상담 시 적용 가능한 다양한 혜택이 준비되어 있습니다."
+      },
+      {
+        "question": "웨딩홀 계약 시 할인이 가능한가요?",
+        "answer": "현장 계약 시 식대 할인 및 대관료 할인 혜택을 제공하고 있습니다."
+      },
+      {
+        "question": "혼수 업체도 한곳에서 볼 수 있나요?",
+        "answer": "한복, 정장, 예물, 허니문 등 혼수 전반에 걸친 업체들과 원스톱 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 구체적인 계획을 세우는 20대 후반~30대 초반의 예비부부를 타겟으로 합니다. 스드메(스튜디오, 드레스, 메이크업)의 비용 차이가 커서 고민이거나, 웨딩홀 예약부터 혼수까지 시간을 절약하며 효율적으로 비교하고 싶은 분들에게 최적화되어 있습니다. 결혼 준비가 처음이라 막막함을 느끼는 커플들이 전문가의 1:1 컨설팅을 통해 시행착오를 줄일 수 있는 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "드레스샵 (클라라, 아뜰리에로리에, 에토프꾸튀르 등)",
+      "웨딩 스튜디오 30개 업체",
+      "허니문 여행사",
+      "혼수(한복, 예물, 정장) 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 식대/대관료 할인 적용",
+      "수원 지역 최대 규모 스드메 업체 직접 비교",
+      "서울보증보험 가입 여행사 제휴로 허니문 안심 계약"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 가격",
+      "웨딩 박람회 혜택",
+      "수원 웨딩홀 추천",
+      "혼수 준비 순서",
+      "결혼 박람회 방문 팁",
+      "수원 스드메 업체 비교",
+      "박람회 계약 환불",
+      "웨딩 촬영 스튜디오 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩박람회 전체 일정",
+        "category": "수원_웨딩_행사"
+      },
+      {
+        "anchor": "스드메 비용 견적 확인하기",
+        "category": "웨딩_준비_견적"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩 액자",
+      "혼주 메이크업",
+      "신혼여행"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 메쎄 웨딩박람회 혜택 총정리!",
+    "og_description": "결혼 준비 커플 필수 방문! 혼주 한복 할인부터 웨딩액자 증정까지, 이번 주말 혜택 챙겨가세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#수원결혼준비",
+      "#수원스드메",
+      "#예신스타그램",
+      "#결혼준비",
+      "#웨딩박람회",
+      "#수원웨딩홀",
+      "#신혼부부",
+      "#예비부부",
+      "#웨딩박람회혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/labelleellin08/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_KcdfLbCq.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_RlI1ny5KnuEj.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_rj8UGZQBuPi.jpg"
+  }
+}
