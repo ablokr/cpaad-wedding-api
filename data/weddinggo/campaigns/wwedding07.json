@@ -1,0 +1,201 @@
+{
+  "campaign_id": "wwedding07",
+  "gather_name": "창원 프리마베라 웨딩박람회",
+  "organizer_name": "더리본 주식회사",
+  "seo_metadata": {
+    "title": "창원 웨딩박람회 | 프리마베라 최대 혜택 및 삼성가전 할인",
+    "meta_description": "창원 프리마베라 웨딩박람회에서 스드메 패키지 특가와 삼성스토어 계약 혜택을 확인하세요. 예물, 예복, 한복, 허니문 등 결혼 준비 전 과정을 합리적인 비용으로 완성할 수 있는 절호의 기회입니다. 지금 무료 방문 신청하고 상담 선물까지 받아가세요.",
+    "keywords": [
+      "창원웨딩박람회",
+      "창원결혼준비",
+      "창원스드메",
+      "창원웨딩홀",
+      "프리마베라웨딩",
+      "창원예물",
+      "창원한복",
+      "신혼부부혜택",
+      "삼성스토어웨딩",
+      "경남웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막하셨나요? 창원 프리마베라 웨딩박람회는 20만 쌍의 예비부부가 선택한 검증된 행사입니다. 웨딩홀부터 스드메, 혼수가전까지 한자리에서 비교하고 실속 있는 혜택을 누릴 수 있는 이번 기회를 놓치지 마세요.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 받을 수 있는 특별한 웨딩 퍼스널 컬러 무료 진단부터, 삼성스토어 계약 시 최대 50% 할인 및 1~3년 무상 AS 연장, 추가 사은품 증정 등 파격적인 혜택이 준비되어 있습니다. 또한 예물, 예복, 한복, 허니문 등 분야별 전문 업체의 현장 단독 할인으로 예산 부담은 줄이고 웨딩의 품격은 높일 수 있습니다. 지금 바로 무료 신청을 통해 실질적인 비용 절감 혜택을 직접 확인하세요.",
+    "summary_for_search": "창원 중앙동 프리마베라 웨딩박람회에서 스드메 패키지부터 삼성가전 최대 50% 할인까지 만나보세요. 5월 개최되는 이번 박람회는 예비부부를 위한 맞춤형 상담과 특별 사은품을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "20만 쌍이 선택한 창원 최대 규모 웨딩박람회",
+    "secondary_headline": "스드메부터 혼수, 삼성가전 혜택까지 한번에 완성하는 결혼준비",
+    "urgency_text": "선착순 방문객 대상 특별 사은품 및 웨딩 퍼스널 컬러 무료 진단",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "웨딩 퍼스널 컬러 무료 진단"
+    ],
+    "contract_benefits": [
+      "삼성스토어 웨딩 계약 시 최대 50% 할인",
+      "AS 무상 연장(최대 3년)",
+      "예물 쥬드주얼리 20% 추가 할인 및 혼수 세트 증정",
+      "예복 살로토 맞춤 셔츠 증정",
+      "한복 최대 20% 할인"
+    ],
+    "special_events": [
+      "웨딩 스튜디오 쇼케이스",
+      "웨딩홀 1:1 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-02",
+      "end_date": "2026-05-03",
+      "display_date": "05월 02일(토) ~ 05월 03일(일) 05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 02일(토) ~ 05월 03일(일) 05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 용지로 112",
+      "venue": "프리마베라×청담 순수 창원점(중앙동)",
+      "parking_info": "별도 안내 예정",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "20만 쌍의 예비부부 선택",
+      "창원-경남 웨딩박람회 1위",
+      "3년간 하자보수 보증제 운영"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 프리마베라 웨딩박람회",
+      "startDate": "2025-05-02",
+      "endDate": "2025-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "프리마베라×청담 순수 창원점",
+        "address": "창원시 성산구 용지로 112 3층"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 시 어떤 혜택이 있나요?",
+        "answer": "웨딩 퍼스널 컬러 진단과 함께 삼성가전 할인, 스드메 패키지 특전 등 다양한 계약 혜택이 제공됩니다."
+      },
+      {
+        "question": "박람회 신청 비용은 얼마인가요?",
+        "answer": "무료로 상담 신청이 가능하며 현장에서 1:1 맞춤형 웨딩 컨설팅을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "행사장 내 또는 주변 주차장을 이용하실 수 있으며, 자세한 안내는 신청 후 확인 가능합니다."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "인기 스튜디오, 웨딩드레스샵, 메이크업 업체를 한자리에서 비교하고 예산에 맞춰 커스텀 구성이 가능합니다."
+      },
+      {
+        "question": "계약 후 AS는 보장되나요?",
+        "answer": "프리마베라 웨딩은 책임 있는 사후 관리를 위해 최대 3년 무상 AS 연장을 지원합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 시작한 창원 및 경남 지역 예비부부를 대상으로 합니다. 특히 결혼식 6개월~1년 전 스드메 업체 선정과 혼수 준비를 고민 중인 커플에게 유용합니다. 비효율적인 발품을 줄이고 한곳에서 전문 상담을 통해 합리적인 가격으로 웨딩을 기획하고 싶은 분들께 최적의 솔루션을 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오 10개 이상",
+      "웨딩드레스 전문 브랜드",
+      "예물 브랜드 쥬드주얼리",
+      "맞춤 예복 살로토",
+      "허니문 여행사",
+      "창원 인기 웨딩홀 라인업"
+    ],
+    "comparison_hooks": [
+      "3년간 하자보수 보증제 운영으로 신뢰도 강화",
+      "창원 지역 최다 업체 입점 및 실시간 비교 상담 가능",
+      "현장 즉시 계약 시 파격 할인 및 사은품 혜택 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "창원 결혼준비 순서",
+      "경남 웨딩박람회 일정",
+      "창원 스드메 비용",
+      "프리마베라 웨딩 후기",
+      "웨딩박람회 방문 꿀팁",
+      "창원 웨딩홀 추천",
+      "신혼부부 가전 할인",
+      "예물 예복 박람회",
+      "창원 웨딩컨설팅",
+      "결혼 박람회 사기 방지"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩홀 리스트 바로가기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 상담",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "결혼준비",
+      "드레스투어",
+      "예물반지",
+      "웨딩메이크업",
+      "결혼식비용"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 프리마베라 웨딩박람회 초대",
+    "og_description": "예비부부라면 필수 코스! 창원 최대 규모 웨딩박람회에서 스드메 혜택과 가전 할인까지 모두 챙기세요.",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#창원결혼준비",
+      "#창원웨딩홀",
+      "#경남웨딩박람회",
+      "#스드메준비",
+      "#프리마베라웨딩",
+      "#창원예신",
+      "#창원결혼",
+      "#예비부부혜택",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg"
+  },
+  "revenue": 30000
+}
