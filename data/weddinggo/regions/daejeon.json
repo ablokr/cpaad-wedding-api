@@ -592,5 +592,214 @@
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GUkdeJrFaF.jpg"
     },
     "organizer_name": "웨딩크라우드"
+  },
+  {
+    "campaign_id": "wedingcrowd66",
+    "gather_name": "대전 컨벤션센터 대형 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "대전 웨딩박람회 | DCC 컨벤션센터 스드메 패키지 최대 혜택",
+      "meta_description": "대전 DCC 웨딩박람회 개최! 스드메 최저가 보장부터 허니문 최대 150만원 할인, 혼수 가전 혜택까지. 지금 사전 신청하고 스타벅스 기프티콘과 웨딩 드레스 업그레이드 혜택을 모두 받아가세요.",
+      "keywords": [
+        "대전웨딩박람회",
+        "대전결혼준비",
+        "DCC웨딩박람회",
+        "대전스드메",
+        "대전웨딩홀",
+        "대전혼수",
+        "대전예물",
+        "대전한복",
+        "대전허니문",
+        "결혼준비체크리스트"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 대전 최대 규모의 DCC 웨딩박람회에서 합리적이고 완벽한 예식을 준비하세요. 복잡한 결혼 과정 속에서 스드메부터 혼수, 허니문까지 한자리에서 비교하고 전문가의 1:1 컨설팅을 통해 잊지 못할 특별한 웨딩을 완성할 수 있습니다.",
+      "benefits_description": "이번 대전 웨딩박람회는 예비부부의 경제적 부담을 덜어드리기 위해 스드메 최저가 보장제를 실시합니다. 현장 계약 시 롯데백화점 상품권 증정은 물론, 블랙라벨 드레스 업그레이드 및 청첩장 15% 할인 등 파격적인 혜택이 준비되어 있습니다. 또한, 방문만 해도 스타벅스 쿠폰을 100% 증정하니 이번 기회를 놓치지 마세요.",
+      "summary_for_search": "대전 DCC 컨벤션센터 웨딩박람회에서 스드메 최저가 보장 및 혼수/허니문 최대 혜택을 만나보세요. 방문객 전원 스타벅스 쿠폰 증정 및 현장 계약 특별 프로모션이 진행됩니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스드메 69만원부터! 대전 DCC 웨딩박람회 최저가 보장",
+      "secondary_headline": "허니문 최대 150만원 할인부터 혼수 가전 혜택까지, 대전 예비부부를 위한 단 한 번의 기회",
+      "urgency_text": "선착순 방문객 한정 혜택 및 행사 기간 내 파격 할인",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 스타벅스 쿠폰 100% 증정",
+        "청첩장 15% 할인권"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최대 할인",
+        "롯데백화점 상품권 증정",
+        "웨딩드레스 블랙라벨 업그레이드",
+        "허니문 최대 150만원 할인",
+        "혼수 가전 금액대별 상품권 증정"
+      ],
+      "special_events": [
+        "웨딩 드레스 블랙라벨 추가금 무료",
+        "스튜디오 촬영 원본 CD 증정",
+        "안심 보장제 운영"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-05-09",
+        "end_date": "2026-05-10",
+        "display_date": "05월 09일(토) ~ 05월 10일(일)",
+        "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "유성구",
+        "sigungu_en": "yuseong",
+        "address": "대전 유성구 엑스포로 107",
+        "venue": "DCC 대전 컨벤션센터 1층 특별행사장",
+        "parking_info": "DCC 주차장 이용 가능 (자세한 주차 지원 여부는 현장 문의 필요)",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "신랑신부",
+        "결혼예정일",
+        "방문예정일"
+      ],
+      "gift_conditions": "온라인 사전 신청 후 현장 방문 상담 완료 시 증정",
+      "trust_indicators": [
+        "국내 최대 업체 입점",
+        "스드메 최저가 보장제",
+        "국내 유일 안심 보장제 운영",
+        "1:1 전문 맞춤 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 컨벤션센터 대형 웨딩박람회",
+        "startDate": "2025-05-09",
+        "endDate": "2025-05-10",
+        "location": {
+          "@type": "Place",
+          "name": "DCC 대전 컨벤션센터",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "유성구 도룡동",
+            "addressLocality": "대전",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd66/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "사전 예약 시 박람회 무료 입장권과 방문 사은품을 받으실 수 있어 예약 후 방문을 권장합니다."
+        },
+        {
+          "question": "스드메 패키지는 어떻게 구성되나요?",
+          "answer": "스튜디오, 드레스, 메이크업을 포함하여 예비부부의 니즈에 맞춰 69만원부터 다양한 예산대로 구성 가능합니다."
+        },
+        {
+          "question": "상담 시 현장 계약 강요가 있나요?",
+          "answer": "1:1 전문 컨설팅을 제공하지만, 강요 없는 자유로운 분위기에서 합리적인 비교가 가능하도록 운영됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "DCC 대전 컨벤션센터 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "혼수와 예물 상담도 동시에 가능한가요?",
+          "answer": "네, 박람회장 내에 가전, 예물, 한복, 허니문 등 다양한 협력 업체가 입점해 있어 원스톱 결혼 준비가 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 시작한 대전/충청권 예비부부, 스드메 견적 비교에 어려움을 겪는 예비 신랑신부, 혼수와 신혼여행까지 효율적으로 해결하고 싶은 실속파 커플을 대상으로 합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비부부에게 전문가의 1:1 컨설팅을 제공하여 예산 내 최선의 선택을 할 수 있도록 가이드를 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메 웨딩 패키지 전문 업체",
+        "최신 트렌드 웨딩 드레스샵",
+        "유명 허니문 여행사",
+        "고급 예물 및 혼수 가전 브랜드",
+        "전통 및 트렌디 한복 브랜드"
+      ],
+      "comparison_hooks": [
+        "국내 최다 업체 입점 및 스드메 최저가 보장제 시행",
+        "국내 유일 안심 보장제를 통한 사고 없는 계약 보장",
+        "현장 즉시 계약 혜택 및 금액대별 사은품 추가 증정"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "대전 웨딩박람회 일정",
+        "대전 스드메 추천",
+        "대전 웨딩홀 대관료",
+        "웨딩박람회 준비물",
+        "결혼 준비 비용 절약법",
+        "대전 혼수 가전 혜택",
+        "대전 허니문 박람회",
+        "스드메 패키지 가격대",
+        "웨딩박람회 방문 혜택",
+        "대전 예복 맞춤"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩홀 전체 정보",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 등급별 견적",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "맞춤정장",
+        "한복",
+        "웨딩컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 DCC 웨딩박람회 | 스드메 혜택 최강!",
+      "og_description": "대전 예비부부라면 필수! 스드메 69만원부터 허니문 할인까지, 이번 주말 대전 컨벤션센터에서 확인하세요.",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전결혼준비",
+        "#DCC웨딩박람회",
+        "#대전스드메",
+        "#대전웨딩홀",
+        "#대전혼수",
+        "#대전예물",
+        "#대전한복",
+        "#대전허니문",
+        "#결혼준비시작"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd66/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_CdZLKF62DCm8tllxKypetEjoOpDnwa.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_1H4HESCxmpuV5uNBO84QDDPnk.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_J9k4gZFI8rh55X9CNy.jpg"
+    }
   }
 ]
