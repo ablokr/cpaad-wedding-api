@@ -1,0 +1,199 @@
+{
+  "campaign_id": "wwedding12",
+  "gather_name": "울산 롯데백화점 W웨딩박람회",
+  "organizer_name": "더리본 주식회사",
+  "seo_metadata": {
+    "title": "울산 롯데백화점 W웨딩박람회 | 스드메 계약 축하금 혜택 총정리",
+    "meta_description": "안녕하세요! 저번 주에 다녀온 울산 롯데백화점 W웨딩박람회 후기 공유해요~ 스드메 패키지부터 혼수까지 최대 혜택 받고 준비 끝! 방문 시 소소한 사은품도 많으니 꼭 미리 예약하고 다녀오세요.",
+    "keywords": [
+      "울산웨딩박람회",
+      "울산결혼준비",
+      "W웨딩박람회",
+      "울산스드메",
+      "울산웨딩홀추천",
+      "결혼준비박람회",
+      "웨딩박람회사은품",
+      "울산혼수",
+      "웨딩박람회혜택",
+      "예비부부준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 울산 롯데백화점 W웨딩박람회 다녀온 생생 후기 남겨봐요. 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 이번 박람회 진짜 알차더라고요! 스드메 업체들이 한자리에 다 모여있어서 비교하기 너무 좋았어요.",
+    "benefits_description": "이번에 제가 제일 눈여겨본 건 역시 계약 혜택이었어요! 스드메 계약 시 축하금 지원부터 허니문 특별 할인까지 챙겨주는 게 생각보다 많더라고요. 특히 방문만 해도 주는 소소한 경품이랑 상담 완료 시 챙겨주시는 사은품이 쏠쏠해서 예비부부라면 꼭 가보시길 추천해요. 현장에서 직접 드레스 화보도 보고 상담받으니 확실히 감이 잡히네요!",
+    "summary_for_search": "울산 롯데백화점 W웨딩박람회 후기! 05월 09일부터 이틀간 진행되는 이번 박람회는 스드메, 혼수, 허니문 등 결혼 준비의 모든 것을 한곳에서 비교하고 최대 계약 혜택을 챙길 수 있는 기회입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "울산·경주 최대 규모, 결혼 준비 혜택 총집합!",
+    "secondary_headline": "스드메부터 혼수까지, 20년 차 베테랑 웨딩 전문가와 함께하는 똑똑한 결혼 준비",
+    "urgency_text": "이번 주말 딱 이틀간 진행되는 특별 혜택!",
+    "call_to_action_text": "온라인 사전등록하고 무료입장하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 소정의 사은품 증정",
+      "온라인 사전등록 시 무료입장"
+    ],
+    "contract_benefits": [
+      "스드메 계약 축하금 지원",
+      "혼수/가전 구매 시 상품권 증정",
+      "허니문 여행권 특별 할인 및 혜택"
+    ],
+    "special_events": [
+      "웨딩 드레스 스타일링 전시",
+      "1:1 맞춤형 웨딩 전문가 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "울산",
+      "sido_en": "ulsan",
+      "sigungu": "남구",
+      "sigungu_en": "nam",
+      "address": "울산 남구 삼산로 261",
+      "venue": "롯데백화점 울산점 특별행사장",
+      "parking_info": "롯데백화점 울산점 주차장 이용 가능(상세 문의는 현장 안내 참조)",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 이벤트 참여 시 증정",
+    "trust_indicators": [
+      "20년 차 웨딩 베테랑 전문팀",
+      "울산·경주 지역 최대 규모",
+      "철저한 1:1 상담 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "울산 롯데백화점 W웨딩박람회",
+      "startDate": "2025-05-09",
+      "endDate": "2025-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 울산점 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "울산광역시 남구",
+          "addressLocality": "울산",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding12/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 있나요?",
+        "answer": "온라인으로 사전등록하시면 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데백화점 울산점 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메)부터 허니문, 예복, 예물, 가전까지 결혼 준비의 모든 브랜드가 입점해 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "업체별 상담에 따라 다르지만, 보통 1시간에서 2시간 정도 여유 있게 생각하고 오시는 것을 추천드려요."
+      },
+      {
+        "question": "계약 혜택은 어떤 게 있나요?",
+        "answer": "현장 계약 시 축하금 지원, 가전 구매 시 상품권 증정 등 다양한 할인 혜택이 마련되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 스드메, 웨딩홀, 혼수 등 무엇부터 해야 할지 모르는 울산 및 경주 지역의 예비부부를 대상으로 합니다. 막연한 비용 고민이 많은 커플들이 직접 업체별 샘플을 보고 1:1 상담을 통해 합리적인 견적을 비교하고, 현장 계약을 통해 예산 절감의 효과를 얻고자 하는 실속형 신혼부부에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 20여 개",
+      "프리미엄 웨딩홀 연계 업체",
+      "수입/국내 웨딩드레스샵",
+      "예물 및 명품 예복 브랜드",
+      "가전 및 혼수 전문관"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 할인 및 축하금 혜택",
+      "울산·경주 최대 규모 50여 개 업체 동시 입점",
+      "20년 경력의 베테랑 플래너 1:1 밀착 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "울산 웨딩박람회 일정",
+      "스드메 패키지 비용",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 팁",
+      "W웨딩박람회 후기",
+      "울산 웨딩홀 견적",
+      "박람회 사은품 혜택",
+      "혼수 가전 저렴하게 사는 법",
+      "울산 예물 예복 추천",
+      "결혼 박람회 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "울산 웨딩홀 전체 리스트 보기",
+        "category": "wedding_halls"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "예물",
+      "혼수가전",
+      "허니문",
+      "결혼식준비",
+      "웨딩드레스",
+      "예복",
+      "박람회일정",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "울산 롯데백화점 W웨딩박람회 혜택 확인!",
+    "og_description": "05월 9~10일, 울산 롯데백화점에서 열리는 최대 웨딩박람회! 지금 사전등록하고 스드메 계약 축하금 혜택까지 챙기세요.",
+    "hashtags": [
+      "#울산웨딩박람회",
+      "#울산결혼준비",
+      "#W웨딩박람회",
+      "#울산스드메",
+      "#결혼준비시작",
+      "#예비부부",
+      "#웨딩박람회후기",
+      "#롯데백화점울산점",
+      "#울산웨딩홀",
+      "#혼수준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding12/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_T8eN4ayw1pL23JqxFyGg6m7QU.png",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_kND9pMSWGo6OU2V7i4M.png"
+  }
+}
