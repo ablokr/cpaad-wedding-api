@@ -1,0 +1,208 @@
+{
+  "campaign_id": "wedingcrowd101",
+  "gather_name": "수원 컨벤션센터 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "수원 웨딩박람회 | 수원컨벤션센터 스드메 할인 및 계약 혜택 정보",
+    "meta_description": "수원컨벤션센터 웨딩박람회 개최! 스드메 패키지 특가, 계약자 100% 증정, 가전 포인트 등 최대 혜택을 확인하세요. 지금 바로 무료 초대권 신청하고 알뜰한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "수원 결혼준비",
+      "수원 스드메",
+      "수원컨벤션센터 웨딩박람회",
+      "신혼부부 가전 혜택",
+      "결혼박람회 일정",
+      "웨딩 패키지 특가",
+      "허니문 박람회",
+      "수원 웨딩홀",
+      "결혼 준비 체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞둔 예비부부라면 주목하세요! 수원컨벤션센터에서 열리는 이번 웨딩박람회는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 기회입니다. 실력 있는 웨딩 전문가와 함께 나만의 특별한 결혼식을 완성해 보세요.",
+    "benefits_description": "이번 박람회는 단순한 상담을 넘어 실질적인 혜택을 가득 채웠습니다. 방문만 해도 제공되는 스타벅스 기프트카드와 청첩장 15% 할인권부터, 계약자 전원에게 증정되는 필수 웨딩 다이어리까지 놓치지 마세요. 스드메 패키지 특가 찬스와 함께 삼성스토어 혼수가전 최대 535만 포인트 혜택, 계약 축하금 지원 등 경제적 부담을 덜어줄 특별 프로모션이 준비되어 있습니다.",
+    "summary_for_search": "수원컨벤션센터 웨딩박람회에서 준비하는 완벽한 결혼식! 스드메 특가, 혼수가전 포인트 혜택, 허니문 최저가 견적까지. 지금 신청하고 상담받아 알뜰하고 품격 있는 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 수원컨벤션센터 웨딩박람회 최대 혜택",
+    "secondary_headline": "스드메 패키지 특가부터 혼수가전 포인트까지, 지금 바로 무료 초대권 신청하고 현장 혜택을 누리세요.",
+    "urgency_text": "선착순 방문객 한정 혜택 마감 임박",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 기프트카드 증정",
+      "청첩장 15% 할인권 제공",
+      "상담 완료 시 필수 웨딩 다이어리 증정"
+    ],
+    "contract_benefits": [
+      "삼성스토어 혼수가전 최대 535만 포인트 혜택",
+      "계약자 전원 100% 사은품 증정",
+      "예물/예복/허니문 계약 시 추가 할인 및 혜택"
+    ],
+    "special_events": [
+      "스드메 패키지 특가 프로모션",
+      "웨딩홀 1:1 맞춤 견적 비교 서비스",
+      "허니문 특가 여행지 견적 및 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 2층 특별전시장",
+      "parking_info": "수원컨벤션센터 주차장 이용 가능 (상세 내용은 현장 안내 확인)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "신혼집입주예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 계약 체결 시 조건에 따라 증정",
+    "trust_indicators": [
+      "전문 웨딩플래너 1:1 맞춤 상담",
+      "삼성스토어 공식 제휴 프로모션",
+      "검증된 웨딩 전문 업체 대거 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 컨벤션센터 웨딩박람회",
+      "startDate": "2025-05-16",
+      "endDate": "2025-05-17",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "광교중앙로 140",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd101/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 예약은 어떻게 하나요?",
+        "answer": "상단 신청 폼에 이름, 연락처, 결혼예정일 등 기본 정보를 입력하시면 무료로 신청이 가능합니다."
+      },
+      {
+        "question": "무료입장 가능한가요?",
+        "answer": "사전에 온라인 신청을 완료하시면 무료입장 및 상담 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "수원컨벤션센터 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "혼수가전 혜택은 어떤 것이 있나요?",
+        "answer": "삼성스토어와 제휴하여 가전 구매 시 최대 535만 포인트 혜택을 제공합니다."
+      },
+      {
+        "question": "웨딩홀도 상담 가능한가요?",
+        "answer": "네, 박람회 내 웨딩 전문가들이 최신 웨딩홀 정보를 바탕으로 1:1 맞춤 견적 서비스를 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "막막한 결혼 준비를 어떻게 시작해야 할지 고민인 예비부부, 스드메 비용을 알뜰하게 비교하고 싶은 커플, 혼수 가전과 허니문까지 한 번에 전문적인 상담을 받고 싶은 분들을 위한 행사입니다. 결혼을 6개월~1년 앞두고 정보 탐색 중인 분들에게 합리적인 예산 산출과 고품질의 웨딩 서비스를 연결하는 최적의 창구입니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 업체",
+      "웨딩홀 컨설팅",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "삼성스토어 혼수가전"
+    ],
+    "comparison_hooks": [
+      "검증된 업체들만 엄선한 최고 퀄리티 상담",
+      "온라인 대비 독점적인 현장 계약 할인 혜택",
+      "웨딩 전문가의 1:1 맞춤형 컨설팅 서비스 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 필수 체크리스트",
+      "수원 스드메 저렴한 곳",
+      "결혼 준비 비용 아끼는 법",
+      "웨딩박람회 방문 혜택 비교",
+      "신혼가전 준비 팁",
+      "예식장 예약 언제부터",
+      "웨딩플래너 상담 비용",
+      "허니문 여행지 추천",
+      "결혼식 예산 짜기",
+      "스드메 패키지 구성 내용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "최신 스드메 트렌드",
+        "category": "wedding_blog"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "신혼여행",
+      "웨딩플래너",
+      "예물",
+      "예복",
+      "청첩장",
+      "결혼 비용",
+      "웨딩 다이어리"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원컨벤션센터 웨딩박람회 | 최대 혜택 오픈",
+    "og_description": "지금 무료 신청하고 스타벅스 쿠폰, 스드메 특가, 혼수 포인트까지 모두 챙기세요!",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원결혼",
+      "#스드메",
+      "#예비부부",
+      "#수원컨벤션센터",
+      "#웨딩박람회혜택",
+      "#신혼부부",
+      "#웨딩플래너",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd101/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_y3MgGFxjNRUDexJStb1PeIpgx54Uo.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_n3c64SMqxX.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_vCCdI8Bn.jpg"
+  },
+  "revenue": 30000
+}
