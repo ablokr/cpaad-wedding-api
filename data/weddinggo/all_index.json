@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 154,
+    "total_count": 155,
     "region_count": 15,
     "district_count": 52,
-    "updated_at": "2026-04-28 16:07:49"
+    "updated_at": "2026-04-28 19:00:53"
   },
   "items": [
     {
@@ -1913,7 +1913,8 @@
       "sigungu": "미추홀구",
       "region_en": "incheon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_3BTk3fgo3W1K69CuaBF.jpg",
-      "updated_at": "2026-04-28 16:06:42"
+      "updated_at": "2026-04-28 16:06:42",
+      "revenue": 30000
     },
     {
       "campaign_id": "wedingcrowd60",
@@ -1926,6 +1927,18 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_bswsKXCIwoW1cW3DprwqP8DeBOa.jpg",
       "updated_at": "2026-04-28 16:07:49",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "palmfair07",
+      "gather_name": "제주 MBC 웨딩박람회",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "venue": "그랜드하얏트 제주 제주드림타워 4층 특별행사장",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_AlIaRIGg3xVvDx2aXQlQwsV.jpg",
+      "updated_at": "2026-04-28 19:00:53",
+      "revenue": 35000
     }
   ]
 }
