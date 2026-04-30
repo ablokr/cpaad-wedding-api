@@ -16,6 +16,25 @@ class WeddingDataStorage:
         # 2. 캡처 디렉토리 구성 (별도 관리)
         os.makedirs(self.capture_dir, exist_ok=True)
 
+        # 3. 수익 및 IDX 데이터 로드
+        self.revenue_data = self._load_revenue_data()
+
+    def _load_revenue_data(self):
+        """cpaad_revenue_data.json 파일을 로드합니다."""
+        # base_dir가 weddingExpo인 경우 그 하위의 파일을 우선적으로 확인
+        local_revenue_path = os.path.join(self.base_dir, "cpaad_revenue_data.json")
+        root_revenue_path = "data/cpaad_revenue_data.json"
+        
+        target_path = local_revenue_path if os.path.exists(local_revenue_path) else root_revenue_path
+        
+        if os.path.exists(target_path):
+            try:
+                with open(target_path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except:
+                return {}
+        return {}
+
     def _load_mapping(self, path):
         if os.path.exists(path):
             with open(path, 'r', encoding='utf-8') as f:
@@ -131,6 +150,16 @@ class WeddingDataStorage:
     def save_final_results(self, full_data: dict):
         """최종 분석 데이터를 개별 캠페인 파일, 지역별 색인, 전체 색인에 저장합니다."""
         cid = full_data.get("campaign_id")
+        
+        # [추가] idx 필드 주입 (수익 데이터 기반)
+        idx_val = self.revenue_data.get(cid, {}).get("idx")
+        if idx_val is not None:
+            if "idx" not in full_data:
+                temp = {"idx": idx_val}
+                temp.update(full_data)
+                full_data = temp
+            else:
+                full_data["idx"] = idx_val
         sido_ko = full_data.get("event_details", {}).get("location", {}).get("sido", "기타")
         region_en = self.get_region_en(sido_ko)
 
@@ -141,6 +170,15 @@ class WeddingDataStorage:
         # 2. 요약 정보 생성 (색인용)
         summary = {
             "campaign_id": cid,
+        }
+        
+        # [추가] summary에도 idx 주입
+        if idx_val is not None:
+            summary = {"idx": idx_val, "campaign_id": cid}
+        else:
+            summary = {"campaign_id": cid}
+            
+        summary.update({
             "gather_name": full_data.get("gather_name"),
             "display_date": full_data.get("event_details", {}).get("event", {}).get("display_date"),
             "venue": full_data.get("event_details", {}).get("location", {}).get("venue"),
@@ -149,7 +187,7 @@ class WeddingDataStorage:
             "region_en": region_en,
             "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
             "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
-        }
+        })
 
         # 3. 지역별 색인 업데이트
         for suffix, data in [("_index", summary), ("", full_data)]:
@@ -191,6 +229,16 @@ class WeddingDataStorage:
                 current_cache = {}
         
         # 해당 캠페인만 업데이트 후 즉시 저장
+        # [추가] idx 필드 주입
+        idx_val = self.revenue_data.get(cid, {}).get("idx")
+        if idx_val is not None:
+            if "idx" not in data:
+                temp = {"idx": idx_val}
+                temp.update(data)
+                data = temp
+            else:
+                data["idx"] = idx_val
+
         current_cache[cid] = data
         self.write_json(cache_path, current_cache)
 

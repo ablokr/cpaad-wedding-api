@@ -2,33 +2,68 @@ import os
 import json
 import glob
 
-# 경로 설정
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-PARENT_DIR = os.path.dirname(BASE_DIR)
-REVENUE_DATA_FILE = os.path.join(PARENT_DIR, 'data', 'cpaad_revenue_data.json')
-CAMPAIGNS_DIR = os.path.join(PARENT_DIR, 'data', 'weddinggo', 'campaigns')
-ALL_INDEX_FILE = os.path.join(PARENT_DIR, 'data', 'weddinggo', 'all_index.json')
-ALL_DATA_FILE = os.path.join(PARENT_DIR, 'data', 'weddinggo', 'all.json')
+# 경로 설정 (환경 변수 존중)
+BASE_DATA_DIR = os.getenv("DATA_DIR", "data/weddinggo")
+REVENUE_DATA_FILE = os.path.join(BASE_DATA_DIR, 'cpaad_revenue_data.json')
+# 만약 base_dir에 없으면 루트의 data 폴더 확인 (폴백)
+if not os.path.exists(REVENUE_DATA_FILE):
+    REVENUE_DATA_FILE = 'data/cpaad_revenue_data.json'
+
+CAMPAIGNS_DIR = os.path.join(BASE_DATA_DIR, 'campaigns')
+ALL_INDEX_FILE = os.path.join(BASE_DATA_DIR, 'all_index.json')
+ALL_DATA_FILE = os.path.join(BASE_DATA_DIR, 'all.json')
+API_CACHE_FILE = os.path.join(BASE_DATA_DIR, 'api_cache.json')
+PRE_AD_JSON_FILE = os.path.join(BASE_DATA_DIR, 'cpaad', 'pre_ad_json_date.json')
 
 def load_revenue_map():
     if not os.path.exists(REVENUE_DATA_FILE):
         print(f"[!] {REVENUE_DATA_FILE} 파일이 없습니다.")
         return {}
-    with open(REVENUE_DATA_FILE, 'r', encoding='utf-8') as f:
-        return json.load(f)
+    try:
+        with open(REVENUE_DATA_FILE, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"[!] {REVENUE_DATA_FILE} 로드 실패: {e}")
+        return {}
 
-def update_json_object(obj, revenue_map):
-    """단일 JSON 객체에 revenue 정보를 주입합니다."""
-    if isinstance(obj, dict) and 'campaign_id' in obj:
-        cp_id = obj['campaign_id']
-        if cp_id in revenue_map:
-            # 기존 revenue 정보를 업데이트하거나 추가함
-            obj['revenue'] = revenue_map[cp_id]['revenue']
-            return True
-    return False
+def update_json_object(obj, revenue_map, cp_id=None):
+    """단일 JSON 객체에 revenue 및 idx 정보를 주입합니다."""
+    if not isinstance(obj, dict):
+        return False
+    
+    if cp_id is None:
+        cp_id = obj.get('campaign_id')
+    
+    if not cp_id or cp_id not in revenue_map:
+        return False
+    
+    updated = False
+    revenue_info = revenue_map[cp_id]
+    
+    # 1. revenue 업데이트
+    new_revenue = revenue_info.get('revenue')
+    if new_revenue is not None and obj.get('revenue') != new_revenue:
+        obj['revenue'] = new_revenue
+        updated = True
+        
+    # 2. idx 업데이트 (campaign_id 위에 위치하도록 순서 조정)
+    new_idx = revenue_info.get('idx')
+    if new_idx is not None and obj.get('idx') != new_idx:
+        if 'idx' in obj:
+            obj['idx'] = new_idx
+        else:
+            # 순서 보장을 위해 새로 생성
+            temp = {'idx': new_idx}
+            temp.update(obj)
+            obj.clear()
+            obj.update(temp)
+        updated = True
+    
+    return updated
 
 def process_campaign_files(revenue_map):
     """개별 캠페인 JSON 파일들을 업데이트합니다."""
+    if not os.path.exists(CAMPAIGNS_DIR): return
     files = glob.glob(os.path.join(CAMPAIGNS_DIR, '*.json'))
     updated_count = 0
     for file_path in files:
@@ -54,25 +89,31 @@ def process_aggregate_file(file_path, revenue_map):
             data = json.load(f)
         
         updated = False
-        # 데이터가 리스트인 경우 (보통 index 파일)
+        # 데이터가 리스트인 경우 (예: regions/*.json)
         if isinstance(data, list):
             for item in data:
                 if update_json_object(item, revenue_map):
                     updated = True
-        # 데이터가 딕셔너리이고 특정 키(예: 'campaigns')에 리스트가 있는 경우
+        # 데이터가 딕셔너리인 경우
         elif isinstance(data, dict):
-            # 최상위 객체가 캠페인 정보를 포함할 경우
-            if update_json_object(data, revenue_map):
-                updated = True
-            # 하위 키들을 탐색 (all.json 등 구조 대비)
-            for key, value in data.items():
-                if isinstance(value, list):
-                    for item in value:
-                        if isinstance(item, dict) and update_json_object(item, revenue_map):
-                            updated = True
-                elif isinstance(value, dict):
-                     if update_json_object(value, revenue_map):
-                         updated = True
+            # 1. items 키가 있는 경우 (all.json, all_index.json)
+            if 'items' in data and isinstance(data['items'], list):
+                for item in data['items']:
+                    if update_json_object(item, revenue_map):
+                        updated = True
+            
+            # 2. advertisements 키가 있는 경우 (pre_ad_json_date.json)
+            elif 'advertisements' in data and isinstance(data['advertisements'], dict):
+                for cid, ad in data['advertisements'].items():
+                    if update_json_object(ad, revenue_map, cid):
+                        updated = True
+            
+            # 3. 최상위가 캠페인 ID를 키로 가지는 경우 (api_cache.json)
+            # (구분 방법: key가 캠페인 ID 패턴이고 value가 dict인 경우)
+            else:
+                for cid, item in data.items():
+                    if isinstance(item, dict) and update_json_object(item, revenue_map, cid):
+                        updated = True
 
         if updated:
             with open(file_path, 'w', encoding='utf-8') as f:
@@ -82,7 +123,7 @@ def process_aggregate_file(file_path, revenue_map):
         print(f"[!] {file_path} 처리 중 오류: {e}")
 
 def main():
-    print("[*] Revenue 데이터 병합 시작...")
+    print(f"[*] Revenue/IDX 데이터 병합 시작 (Target: {BASE_DATA_DIR})...")
     revenue_map = load_revenue_map()
     if not revenue_map:
         return
@@ -90,13 +131,18 @@ def main():
     # 1. 개별 캠페인 파일 업데이트
     process_campaign_files(revenue_map)
     
-    # 2. 통합 인덱스 파일 업데이트
+    # 2. 주요 통합 파일 업데이트
     process_aggregate_file(ALL_INDEX_FILE, revenue_map)
-    
-    # 3. 전체 데이터 파일 업데이트
     process_aggregate_file(ALL_DATA_FILE, revenue_map)
+    process_aggregate_file(API_CACHE_FILE, revenue_map)
+    process_aggregate_file(PRE_AD_JSON_FILE, revenue_map)
     
-    print("[*] Revenue 데이터 병합 작업 종료.")
+    # 3. 지역별 파일도 업데이트 (regions/*.json)
+    region_files = glob.glob(os.path.join(BASE_DATA_DIR, 'regions', '*.json'))
+    for rf in region_files:
+        process_aggregate_file(rf, revenue_map)
+    
+    print("[*] Revenue/IDX 데이터 병합 작업 종료.")
 
 if __name__ == "__main__":
     main()

@@ -39,6 +39,7 @@ MB_PASSWORD = config.get('MB_PASSWORD')
 LOGIN_ACTION_URL = 'https://www.cpaad.co.kr/bbs/login_check.php'
 LIST_URL_TEMPLATE = 'https://www.cpaad.co.kr/sub/sub_ad_list.php?subNo=&category=05&page={page}'
 DATA_FILE = os.path.join(PARENT_DIR, 'data', 'cpaad_revenue_data.json')
+DATA_FILE_EXPO = os.path.join(PARENT_DIR, 'data', 'weddingExpo', 'cpaad_revenue_data.json')
 
 def get_total_pages(session, headers):
     """전체 페이지 수를 확인합니다."""
@@ -81,15 +82,17 @@ def parse_page(session, page, headers):
             item_html = str(item)
             ad_id_match = re.search(r'ad_id=["\']([^"\']+)["\']', item_html)
             
+            # 수치형 idx 추출
+            detail_link = item.select_one('a[href*="sub_ad_detail.php?idx="]')
+            numeric_idx = ""
+            if detail_link:
+                href = detail_link.get('href')
+                numeric_idx = parse_qs(urlparse(href).query).get('idx', [None])[0] or ""
+
             if ad_id_match:
                 campaign_id = ad_id_match.group(1)
             else:
-                # ad_id를 찾지 못한 경우 기존처럼 idx를 fallback으로 사용
-                detail_link = item.select_one('a[href*="sub_ad_detail.php?idx="]')
-                if not detail_link:
-                    continue
-                href = detail_link.get('href')
-                campaign_id = parse_qs(urlparse(href).query).get('idx', [None])[0]
+                campaign_id = numeric_idx
             
             # Revenue 추출 (.no_style02 클래스 내의 금액)
             revenue_span = item.select_one('.no_style02')
@@ -109,6 +112,7 @@ def parse_page(session, page, headers):
             if campaign_id:
                 campaigns.append({
                     'campaign_id': campaign_id,
+                    'idx': numeric_idx,
                     'name': name,
                     'revenue': revenue
                 })
@@ -153,6 +157,7 @@ def main():
             page_data = parse_page(session, page, headers)
             for cp in page_data:
                 all_campaigns[cp['campaign_id']] = {
+                    'idx': int(cp['idx']) if cp['idx'].isdigit() else cp['idx'],
                     'name': cp['name'],
                     'revenue': cp['revenue']
                 }
@@ -169,11 +174,11 @@ def main():
     print("------------------------------------------\n")
 
     # 결과 저장
-    os.makedirs(os.path.dirname(DATA_FILE), exist_ok=True)
-    with open(DATA_FILE, 'w', encoding='utf-8') as f:
-        json.dump(all_campaigns, f, ensure_ascii=False, indent=4)
-    
-    print(f"수집 완료: 총 {len(all_campaigns)}개의 캠페인 데이터를 {DATA_FILE}에 저장했습니다.")
+    for target_path in [DATA_FILE, DATA_FILE_EXPO]:
+        os.makedirs(os.path.dirname(target_path), exist_ok=True)
+        with open(target_path, 'w', encoding='utf-8') as f:
+            json.dump(all_campaigns, f, ensure_ascii=False, indent=4)
+        print(f"수집 완료: 총 {len(all_campaigns)}개의 캠페인 데이터를 {target_path}에 저장했습니다.")
 
 if __name__ == "__main__":
     main()
