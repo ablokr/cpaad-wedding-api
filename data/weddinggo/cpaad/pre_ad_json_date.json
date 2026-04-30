@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-04-29T19:00:03Z",
-  "total_ad_count": 162,
+  "last_updated": "2026-04-30T10:00:02Z",
+  "total_ad_count": 163,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -3697,6 +3697,30 @@
           "sigungu_en": "jeju",
           "address": "제주특별자치도 제주시 동광로 34",
           "venue": "호텔샬롬 제주"
+        }
+      }
+    },
+    "bwithk01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_lq4z2WTsBLjuydwe6ePvppAdGbyitSiw.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_FcT7nGGp1tDye67rSpf6p.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_buFNN9eauUNNSmrLB7mTvb5T.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/bwithk01/",
+      "region": "jeju",
+      "gather_name": "제주MBC 웨딩&허니문 박람회",
+      "ad_info": "주MBC주최의 믿을 수 있는 제주MBC웨딩페어",
+      "ad_year": "2026",
+      "ad_date": "05월 09일(토) ~ 05월 10일(일)",
+      "ad_location": "제주특별자치도 제주시 노연로 12||(노형동 925)||제주 드림타워 4층 특별행사장",
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "preprocessed": {
+        "location": {
+          "sido": "제주",
+          "sido_en": "jeju",
+          "sigungu": "제주시",
+          "sigungu_en": "jeju",
+          "address": "제주특별자치도 제주시 노연로 12",
+          "venue": "제주 드림타워 4층 특별행사장"
         }
       }
     },
