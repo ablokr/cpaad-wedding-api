@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-03T10:00:03Z",
+  "last_updated": "2026-05-03T13:00:03Z",
   "total_ad_count": 164,
   "advertisements": {
     "iniwedding05": {
@@ -3238,32 +3238,6 @@
       },
       "revenue": 40000
     },
-    "whw06": {
-      "idx": 1647,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_IPlB2jQB2mKmC.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_aPkqrDtg5.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/whw06/",
-      "region": "jeolla",
-      "gather_name": "익산 웨스턴라이프호텔 웨딩박람회",
-      "ad_info": "결혼준비의 시작과 끝을 함께하는 익산 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "매주 토요일/일요일",
-      "ad_location": "전북특별자치도 익산시 동서로 380||(영등동 191-1)||웨스턴라이프호텔",
-      "start_date": "2026-04-25",
-      "end_date": "2026-04-26",
-      "preprocessed": {
-        "location": {
-          "sido": "전북",
-          "sido_en": "jeonbuk",
-          "sigungu": "익산시",
-          "sigungu_en": "iksan",
-          "address": "전북특별자치도 익산시 동서로 380",
-          "venue": "웨스턴라이프호텔"
-        }
-      },
-      "revenue": 40000
-    },
     "knockWed14": {
       "idx": 1451,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_DdpQdA9QYT3Xv.jpg",
@@ -3289,6 +3263,32 @@
         }
       },
       "revenue": 50000
+    },
+    "whw06": {
+      "idx": 1647,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_IPlB2jQB2mKmC.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_aPkqrDtg5.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/whw06/",
+      "region": "jeolla",
+      "gather_name": "익산 웨스턴라이프호텔 웨딩박람회",
+      "ad_info": "결혼준비의 시작과 끝을 함께하는 익산 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "매주 토요일/일요일",
+      "ad_location": "전북특별자치도 익산시 동서로 380||(영등동 191-1)||웨스턴라이프호텔",
+      "start_date": "2026-04-25",
+      "end_date": "2026-04-26",
+      "preprocessed": {
+        "location": {
+          "sido": "전북",
+          "sido_en": "jeonbuk",
+          "sigungu": "익산시",
+          "sigungu_en": "iksan",
+          "address": "전북특별자치도 익산시 동서로 380",
+          "venue": "웨스턴라이프호텔"
+        }
+      },
+      "revenue": 40000
     },
     "theBW07": {
       "idx": 1643,
@@ -4198,32 +4198,6 @@
       },
       "revenue": 40000
     },
-    "whw03": {
-      "idx": 1039,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_CbrXau9Nj7OC.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_bnzgAnIxpb43IFX6L7r8UqJVQzU.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_WAiC3j6O3zpnfkr1f4cGa.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/whw03/",
-      "region": "etc",
-      "gather_name": "전주 웨딩홀, 호텔예식 예약센터",
-      "ad_info": "웨딩홀, 스드메, 예물, 예복, 한복 등 결혼준비 비용 지원 받으세요!",
-      "ad_year": "2035",
-      "ad_date": "웨딩홀/스몰웨딩/야외웨딩 전북/전주 웨딩홀 예약의 모든 것!",
-      "ad_location": "전주 웨딩스퀘어",
-      "start_date": "2021-09-23",
-      "end_date": "2035-03-11",
-      "preprocessed": {
-        "location": {
-          "sido": "전북",
-          "sido_en": "jeonbuk",
-          "sigungu": "",
-          "sigungu_en": "",
-          "address": "전주 웨딩스퀘어",
-          "venue": "전주 웨딩스퀘어"
-        }
-      },
-      "revenue": 40000
-    },
     "labelleellin09": {
       "idx": 1427,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_Nhbaoree7d34xQt3TN7Ge74WV417PKsc.jpg",
@@ -4249,6 +4223,32 @@
         }
       },
       "revenue": 30000
+    },
+    "whw03": {
+      "idx": 1039,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_CbrXau9Nj7OC.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_bnzgAnIxpb43IFX6L7r8UqJVQzU.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202109/e3a89bee74c5abf1a0b67c28d64a5829_WAiC3j6O3zpnfkr1f4cGa.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/whw03/",
+      "region": "etc",
+      "gather_name": "전주 웨딩홀, 호텔예식 예약센터",
+      "ad_info": "웨딩홀, 스드메, 예물, 예복, 한복 등 결혼준비 비용 지원 받으세요!",
+      "ad_year": "2035",
+      "ad_date": "웨딩홀/스몰웨딩/야외웨딩 전북/전주 웨딩홀 예약의 모든 것!",
+      "ad_location": "전주 웨딩스퀘어",
+      "start_date": "2021-09-23",
+      "end_date": "2035-03-11",
+      "preprocessed": {
+        "location": {
+          "sido": "전북",
+          "sido_en": "jeonbuk",
+          "sigungu": "",
+          "sigungu_en": "",
+          "address": "전주 웨딩스퀘어",
+          "venue": "전주 웨딩스퀘어"
+        }
+      },
+      "revenue": 40000
     }
   }
 }
