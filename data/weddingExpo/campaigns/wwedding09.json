@@ -1,0 +1,206 @@
+{
+  "idx": 1334,
+  "campaign_id": "wwedding09",
+  "gather_name": "창원 롯데백화점 웨딩박람회",
+  "organizer_name": "더리본 주식회사",
+  "seo_metadata": {
+    "title": "창원 롯데백화점 웨딩박람회 | 스드메 패키지 상담 및 예물 혜택 모음",
+    "meta_description": "창원 롯데백화점 웨딩박람회 방문 후기! 스드메 업체 상담부터 혼수 가전 혜택, 계약 축하금까지 알뜰하게 챙기는 법 공유해요. 이번 주말 결혼 준비 시작하세요 :)",
+    "keywords": [
+      "창원웨딩박람회",
+      "롯데백화점웨딩박람회",
+      "창원결혼준비",
+      "창원스드메",
+      "창원웨딩홀",
+      "경남웨딩박람회",
+      "창원혼수가전",
+      "창원예물",
+      "창원한복",
+      "결혼준비꿀팁"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 창원 롯데백화점에서 열린 웨딩박람회 다녀왔는데, 생각보다 너무 알차서 후기 남겨봐요~ 결혼 준비 시작하려면 스드메부터 예물까지 막막한데, 한곳에서 비교할 수 있어서 시간 절약 제대로 했네요!",
+    "benefits_description": "이번 박람회는 혜택이 진짜 쏠쏠해요! 특히 삼성/LG 가전 계약 시 최대 50% 할인에 무상 AS 3년 연장 같은 조건들이 눈에 띄더라고요. 상담만 받아도 주는 사은품이 많아서 예비부부라면 꼭 들러서 명함 챙기시길 추천해요. 현장에서 직접 드레스 화보도 보고 스튜디오 포트폴리오를 눈으로 확인하니까 확실히 감이 잡혀요!",
+    "summary_for_search": "창원 롯데백화점 웨딩박람회 후기! 스드메부터 가전, 예물까지 한자리에서 비교하고 파격적인 계약 혜택과 사은품을 확인하세요. 예비부부를 위한 필수 결혼 준비 코스입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "창원 최대 규모 웨딩박람회, 사전등록 시 혜택 팡팡!",
+    "secondary_headline": "스드메부터 혼수, 허니문까지! 창원 롯데백화점에서 누리는 압도적 웨딩 혜택",
+    "urgency_text": "이번 주말, 단 이틀간 진행되는 특별 혜택을 놓치지 마세요!",
+    "call_to_action_text": "지금 무료 사전등록하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전등록 후 방문 시 소정의 사은품 증정",
+      "상담만 받아도 참여 업체별 사은품 제공"
+    ],
+    "contract_benefits": [
+      "삼성가전 구매 시 최대 50% 할인 및 3년 무상 AS",
+      "LG전자 가전 구매 시 최대 520만원 혜택 및 금액대별 사은품",
+      "계약 시 허니문 여행권 증정",
+      "예물 25% 할인 및 티타늄 귀걸이 증정"
+    ],
+    "special_events": [
+      "웨딩 드레스 특별 전시 및 스타일링 상담",
+      "1:1 맞춤형 웨딩홀 투어 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 중앙대로 124",
+      "venue": "롯데백화점 창원점",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "사전등록 후 현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "경남 최대 규모 입점 업체",
+      "백화점 제휴 브랜드 신뢰도 보장",
+      "1:1 전문가 맞춤 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 롯데백화점 웨딩박람회",
+      "startDate": "2025-05-16T11:00",
+      "endDate": "2025-05-17T19:00",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 창원점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "창원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding09/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회는 무료로 입장 가능한가요?",
+        "answer": "네, 사전등록을 하시면 무료로 입장하여 다양한 혜택과 상담을 받아보실 수 있습니다."
+      },
+      {
+        "question": "스드메 계약은 현장에서 꼭 해야 하나요?",
+        "answer": "아니요, 상담을 통해 정보를 충분히 얻고 비교하신 후 결정하셔도 됩니다. 현장 계약 시 추가 할인 혜택이 있을 수 있습니다."
+      },
+      {
+        "question": "혼수가전 혜택은 어떤 것들이 있나요?",
+        "answer": "삼성 및 LG전자와 제휴하여 가전 구매 시 할인, 금액대별 캐시백, 무상 AS 기간 연장 등의 혜택을 제공합니다."
+      },
+      {
+        "question": "예물이나 한복 업체도 상담받을 수 있나요?",
+        "answer": "네, 예물과 한복, 허니문까지 결혼 준비에 필요한 모든 카테고리의 업체가 참여하고 있습니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 각 부스별 상담 완료 시 소정의 사은품을 증정하며, 현장 이벤트도 다양하게 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 해야 할지 막막한 예비부부, 스드메 비용과 구성 패키지를 꼼꼼히 비교하고 싶은 커플, 그리고 백화점 제휴를 통해 안전하고 신뢰할 수 있는 웨딩 준비를 원하는 예신/예랑님들을 위한 정보입니다. 창원 지역에서 효율적인 동선으로 결혼 준비를 끝내고 싶은 분들에게 적합한 박람회입니다.",
+    "exhibitor_highlights": [
+      "스튜디오 15+ 업체",
+      "드레스샵 10+ 업체",
+      "메이크업샵",
+      "가전 브랜드(삼성/LG)",
+      "예물/예복 전문점",
+      "한복 대여/맞춤 업체",
+      "웨딩홀 컨설팅 부스"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 축하금 및 할인 혜택 강화",
+      "백화점 제휴로 인한 업체 신뢰성 및 안전성 보장",
+      "창원 지역 최다 업체 참여로 원스톱 비교 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "창원 웨딩홀 추천",
+      "스드메 패키지 가격",
+      "결혼 준비 체크리스트",
+      "창원 예복 맞춤 추천",
+      "혼수 가전 할인 행사",
+      "웨딩 박람회 사은품",
+      "스드메 업체 비교",
+      "창원 한복 대여 가격",
+      "허니문 여행사 추천",
+      "결혼 예물 고르는 법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩홀 정보 더보기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 구성 알아보기",
+        "category": "studiomedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예복",
+      "혼수가전",
+      "신혼여행",
+      "웨딩컨설팅",
+      "본식스냅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 웨딩박람회, 사전등록하고 혜택받기",
+    "og_description": "창원 롯데백화점 웨딩박람회 개최! 방문만 해도 사은품 가득, 가전부터 스드메까지 한 번에 해결하세요.",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#결혼준비",
+      "#창원예비부부",
+      "#창원스드메",
+      "#롯데백화점웨딩박람회",
+      "#창원결혼식",
+      "#경남웨딩박람회",
+      "#예신스타그램",
+      "#결혼준비꿀팁",
+      "#창원웨딩홀"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding09/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_MTMFLAidO6hL8yWBKyfXl.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_RwDmzMGOi44XTMkq8aEOap2F6G.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_xs9LUaFjnfZe12WWRhR.jpg"
+  },
+  "revenue": 30000
+}
