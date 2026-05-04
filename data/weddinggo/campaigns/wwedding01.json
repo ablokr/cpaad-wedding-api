@@ -1,0 +1,208 @@
+{
+  "idx": 1163,
+  "campaign_id": "wwedding01",
+  "gather_name": "부산웨딩박람회 W웨딩시티",
+  "organizer_name": "더리본 주식회사",
+  "seo_metadata": {
+    "title": "부산웨딩박람회 W웨딩시티 | 결혼준비 혜택 및 스드메 패키지 상담",
+    "meta_description": "부산 W웨딩시티 웨딩박람회 사전신청하고 최대 40만원 선불카드 혜택과 스드메 패키지 최저가 상담을 받아보세요. 7,000쌍이 선택한 부산 대표 웨딩박람회로 합리적인 결혼 준비를 시작하세요.",
+    "keywords": [
+      "부산웨딩박람회",
+      "W웨딩시티",
+      "부산결혼준비",
+      "부산스드메",
+      "부산웨딩홀",
+      "신혼부부혜택",
+      "부산웨딩박람회일정",
+      "부산예식장추천",
+      "부산혼수박람회",
+      "부산스튜디오"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 막막하시죠? 부산 W웨딩시티 웨딩박람회는 7,000쌍의 커플이 선택한 신뢰할 수 있는 박람회로, 복잡한 결혼 준비 과정을 한 번에 해결해 드립니다. 365일 운영되는 시스템과 투명한 가격 공개를 통해 예비부부의 설레는 시작을 완벽하게 도와드립니다.",
+    "benefits_description": "이번 박람회에서는 계약 시 최대 40만원 상당의 선불카드를 증정하며, 부산 지역 최다 업체와 제휴를 통해 스드메 패키지를 합리적인 가격에 제공합니다. 또한 예물, 한복, 혼수가전 등 혼수 전 품목에 걸친 특별 프로모션을 통해 비용 부담을 획기적으로 낮췄습니다. 1:1 전문 웨딩 플래너의 맞춤 상담을 통해 두 분만의 특별한 웨딩을 완성해 보세요.",
+    "summary_for_search": "부산 W웨딩시티 웨딩박람회에서 최대 40만원 선불카드 혜택을 드립니다. 부산 최다 웨딩 업체와 스드메 패키지 최저가 보장, 1:1 상담을 지금 바로 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 40만원 혜택 받고 시작하세요!",
+    "secondary_headline": "부산 최다 30개 이상의 브랜드 입점, 최저가 보장으로 완성하는 완벽한 웨딩",
+    "urgency_text": "선착순 사전신청 혜택 조기 마감 예정",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 신청 방문객 상담 시 혜택 제공"
+    ],
+    "contract_benefits": [
+      "계약 시 최대 40만원 상당 선불카드 증정",
+      "혼수 품목별 특별 할인 프로모션",
+      "스드메 패키지 최저가 보장제"
+    ],
+    "special_events": [
+      "1:1 전문 웨딩 플래너 맞춤 상담",
+      "명품 웨딩드레스 쇼룸 전시 및 비교",
+      "스튜디오 촬영 컨셉 체험"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-09",
+      "end_date": "2026-05-10",
+      "display_date": "05월 09일(토) ~ 05월 10일(일)",
+      "original_display_date": "05월 09일(토) ~ 05월 10일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "부산진구",
+      "sigungu_en": "busanjin",
+      "address": "부산 부산진구 자유평화로 11",
+      "venue": "W웨딩시티",
+      "parking_info": "무료 주차 서비스 제공",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "배우자 성함",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 후 혜택 지급",
+    "trust_indicators": [
+      "누적 방문객 7,000쌍 돌파",
+      "대한민국 고객감동브랜드 대상 수상",
+      "부산 최다 30개 브랜드 입점",
+      "최저가 보장제 실시"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "부산 W웨딩시티 웨딩박람회",
+      "startDate": "2025-05-09",
+      "endDate": "2025-05-10",
+      "location": {
+        "@type": "Place",
+        "name": "W웨딩시티",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "부산광역시 부산진구",
+          "addressLocality": "부산",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 상담은 무료인가요?",
+        "answer": "네, W웨딩시티 웨딩박람회 사전 신청 시 모든 상담은 무료로 진행됩니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 방문객을 위한 편리한 무료 주차 서비스가 완비되어 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메 브랜드, 예물, 한복, 혼수가전 등 결혼 준비에 필요한 30여 개의 검증된 업체가 참여합니다."
+      },
+      {
+        "question": "사전 신청 혜택은 무엇인가요?",
+        "answer": "계약 시 최대 40만원 선불카드 증정 등 사전 신청자만을 위한 다양한 단독 혜택이 준비되어 있습니다."
+      },
+      {
+        "question": "혼자 가도 되나요?",
+        "answer": "네, 예비 배우자와 함께 방문하시면 더욱 상세하고 효율적인 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장부터 스드메, 혼수까지 어떻게 시작해야 할지 고민인 부산 거주 예비부부를 대상으로 합니다. 막연한 결혼 준비 과정에서 전문가의 1:1 컨설팅이 필요한 커플, 여러 업체를 일일이 방문하기 어려워 한자리에서 비교하고 합리적인 비용으로 계약을 원하는 스마트한 신혼부부에게 최적의 박람회입니다.",
+    "exhibitor_highlights": [
+      "프리미엄 웨딩드레스샵",
+      "스드메 패키지 스튜디오",
+      "신혼여행 허니문 여행사",
+      "예물 및 예복 전문 브랜드",
+      "한복 및 맞춤 정장",
+      "혼수가전 전문점"
+    ],
+    "comparison_hooks": [
+      "365일 상시 운영으로 언제든 방문 가능한 편리함",
+      "웨딩 최저가 보장제로 타 박람회 대비 가격 경쟁력 확보",
+      "검증된 30여 개 브랜드가 입점하여 실패 없는 결혼 준비 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 웨딩홀 투어",
+      "부산 스드메 가격",
+      "결혼 준비 체크리스트",
+      "신혼가전 준비",
+      "부산 예복 맞춤",
+      "웨딩박람회 방문 팁",
+      "결혼 비용 절약 방법",
+      "부산 웨딩촬영 스튜디오",
+      "상견례 장소 추천",
+      "부산 한복 대여"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩홀 견적 확인",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 비교",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "웨딩홀",
+      "스드메",
+      "혼수",
+      "예물",
+      "허니문",
+      "결혼준비",
+      "신혼여행",
+      "웨딩드레스",
+      "플래너",
+      "본식스냅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 예비부부 필수템, W웨딩시티 박람회",
+    "og_description": "계약 시 40만원 혜택! 부산 최다 브랜드 입점, 지금 사전신청하고 최저가로 결혼 준비 시작하세요.",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#W웨딩시티",
+      "#부산결혼준비",
+      "#부산스드메",
+      "#신혼부부혜택",
+      "#부산예식장",
+      "#웨딩박람회추천",
+      "#결혼준비시작",
+      "#부산웨딩플래너",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_RTsUAW39rILrzSZ.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_MdCNMBIFHFUTwV.jpg"
+  },
+  "revenue": 30000
+}
