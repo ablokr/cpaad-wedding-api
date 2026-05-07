@@ -1,1 +1,201 @@
-[]
+[
+  {
+    "idx": 1814,
+    "campaign_id": "knockWed18",
+    "gather_name": "광주 신세계웨딩 팝업스토어",
+    "organizer_name": "광주웨딩연합회",
+    "seo_metadata": {
+      "title": "광주 신세계웨딩 팝업스토어 | 스드메 계약 시 최대 혜택 증정",
+      "meta_description": "광주 신세계웨딩 팝업스토어에서 결혼 준비 시작하세요! 스드메 패키지부터 혼수 가전까지 한자리에서 비교하고 상담 시 백화점 상품권 등 풍성한 혜택을 드립니다. 선착순 예약 중!",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "신세계웨딩박람회",
+        "광주스드메",
+        "광주혼수박람회",
+        "결혼준비꿀팁",
+        "광주예식장",
+        "예비부부",
+        "스드메비용",
+        "웨딩박람회일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "안녕하세요! 이번 주말에 다녀온 광주 신세계웨딩 팝업스토어 후기 남겨봐요~ 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 이번 팝업에서 스드메부터 가전까지 한 번에 볼 수 있어서 정말 알찼답니다!",
+      "benefits_description": "이번 박람회는 진짜 혜택이 쏠쏠해요. 현장 상담만 받아도 백화점 상품권 챙겨주시는 건 기본이고, 스드메 계약하면 드레스 무료 피팅이나 추가 할인 혜택도 커서 예산 아끼기에 딱이었어요! 특히 혼수 가전 보시는 분들은 삼성 세일 페스타 혜택 꼭 챙기세요. 가전 사면 상품권이나 포인트 페이백이 꽤 돼서 살림 장만할 때 부담이 확 줄더라고요. 업체도 많아서 꼼꼼히 비교해보고 계약할 수 있어서 마음이 놓였어요.",
+      "summary_for_search": "광주 신세계웨딩 팝업스토어 후기! 스드메 패키지, 혼수 가전 할인 등 계약 혜택이 가득해요. 현장 상담 시 백화점 상품권 증정 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 사전 예약하면 백화점 상품권 100% 증정!",
+      "secondary_headline": "스드메 패키지부터 혼수 가전까지, 광주 예비부부를 위한 가장 합리적인 선택",
+      "urgency_text": "이번 주말 딱 이틀간만 진행되는 한정 혜택!",
+      "call_to_action_text": "지금 무료 초대장 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 백화점 상품권 증정",
+        "웨딩 드레스 무료 피팅 체험"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최대 추가 할인",
+        "혼수 가전 구매 시 최대 80만원 상당 혜택",
+        "삼성 세일 페스타 특별 포인트 페이백"
+      ],
+      "special_events": [
+        "프리미엄 웨딩홀 사전 예약 상담",
+        "웨딩 플래너 1:1 맞춤형 컨설팅"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-05-16",
+        "end_date": "2026-05-17",
+        "display_date": "05월 16일(토) ~ 05월 17일(일)",
+        "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+      },
+      "location": {
+        "sido": "전남",
+        "sido_en": "jeonnam",
+        "sigungu": "목포시",
+        "sigungu_en": "mokpo",
+        "address": "전남 목포시 백년대로 284",
+        "venue": "삼성스토어 목포 특별행사장",
+        "parking_info": "별도 안내",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 후 상담 카드 작성 시 증정",
+      "trust_indicators": [
+        "정찰제 시스템 운영",
+        "가격 표시제 준수",
+        "25년 경력의 시스템화된 웨딩 컨설팅"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 신세계웨딩 팝업스토어",
+        "startDate": "2025-05-16",
+        "endDate": "2025-05-17",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 목포",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "8층 웨딩 팝업스토어",
+            "addressLocality": "목포시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "광주웨딩연합회",
+          "url": "https://ad.cpaad.co.kr/knockWed18/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 얼마인가요?",
+          "answer": "무료로 입장이 가능하며 사전 신청을 권장합니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 현장 상담 완료 시 백화점 상품권 등 소정의 사은품을 증정합니다."
+        },
+        {
+          "question": "혼수 가전 혜택은 어떤 것이 있나요?",
+          "answer": "삼성 세일 페스타 특별 혜택으로 최대 80만원 상당의 지원금과 포인트 페이백이 제공됩니다."
+        },
+        {
+          "question": "드레스 피팅이 가능한가요?",
+          "answer": "네, 현장에서 프리미엄 웨딩 드레스를 직접 눈으로 보고 피팅 해보실 수 있습니다."
+        },
+        {
+          "question": "스드메 패키지 계약 시 어떤 장점이 있나요?",
+          "answer": "정찰제 운영으로 합리적인 가격에 이용 가능하며, 웨딩 전문가의 1:1 컨설팅을 받을 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼을 결심하고 구체적인 계획을 세우는 20대 후반~30대 초반의 예비부부입니다. 특히 스드메 업체를 선정하면서 가격과 품질 사이에서 고민하는 분들, 혼수 가전을 한 번에 실속 있게 장만하고 싶은 커플들에게 최적화된 박람회입니다. '결혼 준비 어떻게 시작해야 할지', '스드메 비용은 얼마나 드는지'에 대한 해답을 찾고 있는 분들이라면 이번 팝업스토어가 좋은 정보의 장이 될 것입니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 추천 및 예약",
+        "드레스샵 브랜드 전시",
+        "스드메 토탈 패키지 업체",
+        "혼수 가전 브랜드",
+        "예물 및 예복 브랜드"
+      ],
+      "comparison_hooks": [
+        "호객행위 없는 차분하고 정직한 정찰제 운영",
+        "25년 노하우가 담긴 1:1 맞춤형 웨딩 컨설팅",
+        "백화점 상품권 및 현장 계약 할인 혜택 집중"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 꿀팁",
+        "결혼 준비 비용 예산",
+        "광주 스드메 업체 추천",
+        "스드메 정찰제 박람회",
+        "혼수 가전 할인 정보",
+        "웨딩 플래너 선택 기준",
+        "웨딩 드레스 트렌드",
+        "결혼식장 예약 시기",
+        "신혼여행 준비물",
+        "웨딩박람회 예약 방법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩박람회 전체 일정 보기",
+          "category": "local_wedding_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "웨딩드레스",
+        "예복",
+        "신혼가전",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 신세계웨딩 팝업스토어, 혜택 총집합!",
+      "og_description": "예비부부 필독! 상담만 받아도 상품권 증정? 팝업스토어에서 합리적인 결혼 준비 시작하세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#결혼준비",
+        "#광주웨딩",
+        "#신혼부부",
+        "#스드메",
+        "#예비부부",
+        "#혼수",
+        "#신세계웨딩",
+        "#결혼식",
+        "#웨딩플래너"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/knockWed18/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Gnmy6HRAQMSgA2gzC4YfmsvrX8Ir.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ONToxF4QO6b4.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_cHTDcfpogj2qPeDRbIBuaGZ.jpg"
+    },
+    "revenue": 40000
+  }
+]
