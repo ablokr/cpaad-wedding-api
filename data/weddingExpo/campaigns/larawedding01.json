@@ -1,0 +1,197 @@
+{
+  "idx": 1428,
+  "campaign_id": "larawedding01",
+  "gather_name": "청주 라라웨딩박람회",
+  "organizer_name": "주식회사 라라컴퍼니",
+  "seo_metadata": {
+    "title": "청주 라라웨딩박람회 | 스드메 혜택 및 무료 초대권 신청",
+    "meta_description": "청주 라라웨딩박람회에서 스드메 패키지 최대 할인과 상담 사은품 100% 증정 혜택을 놓치지 마세요! 예비부부를 위한 전문가 1:1 맞춤 상담이 준비되어 있습니다.",
+    "keywords": [
+      "청주웨딩박람회",
+      "라라웨딩페어",
+      "청주스드메",
+      "결혼준비박람회",
+      "청주웨딩홀",
+      "웨딩패키지할인",
+      "청주예물",
+      "청주예복",
+      "스드메견적",
+      "결혼준비체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 알아봐야 할지 막막했던 예신입니다. 이번에 다녀온 청주 라라웨딩박람회 정보가 너무 알차서 후기 공유해요! 직접 가서 보니 스드메부터 혼수까지 한 번에 상담받을 수 있어서 시간 절약에 정말 최고더라고요.",
+    "benefits_description": "이번 박람회는 정말 혜택이 대박이었어요! 방문만 해도 상담 사은품 100% 증정해주고, 선착순 50쌍에게는 특별한 웨딩 앨범까지 챙겨주시더라고요. 특히 계약 시 할인 혜택은 물론이고 드레스 무료 피팅까지 현장에서 바로 체험해볼 수 있어서 너무 좋았어요. 스드메 고민 중이신 분들은 꼭 미리 예약하고 방문하셔서 혜택 다 챙기시길 바라요!",
+    "summary_for_search": "청주 라라웨딩박람회에서 드레스 피팅부터 스드메 패키지 할인까지! 5월 30일~31일, 결혼 준비를 앞둔 예비부부를 위한 최대 웨딩 페스티벌이 열립니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 최대 스드메 할인 & 상담 사은품 100% 증정!",
+    "secondary_headline": "청주 예비부부를 위한 2026 웨딩 페스티벌, 라라웨딩페어에서 완벽한 결혼식을 준비하세요.",
+    "urgency_text": "선착순 50쌍 한정 혜택, 이번 주말 단 이틀!",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 시 사은품 100% 증정",
+      "선착순 50쌍 웨딩 앨범 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 특별 할인",
+      "계약 축하금 혜택",
+      "혼수/허니문 패키지 할인"
+    ],
+    "special_events": [
+      "청담 명품 드레스 무료 피팅",
+      "1:1 전문가 맞춤 스타일링 컨설팅",
+      "포토존 운영 및 커플 사진 촬영"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-31",
+      "display_date": "05월 30일(토) ~ 05월 31일(일)",
+      "original_display_date": "05월 30일(토) ~ 05월 31일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 서원구 용평로113번길 35",
+      "venue": "라라웨딩페어",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 설문지 작성 및 상담 시 증정",
+    "trust_indicators": [
+      "2010년부터 이어진 신뢰도",
+      "청담 명품 드레스 독점 보유",
+      "1:1 전문 웨딩 플래너 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 라라웨딩박람회",
+      "startDate": "2026-05-30",
+      "endDate": "2026-05-31",
+      "location": {
+        "@type": "Place",
+        "name": "라라웨딩페어",
+        "address": "충북 청주시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 라라컴퍼니",
+        "url": "https://ad.cpaad.co.kr/larawedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "네, 현장에서 1:1 컨설팅과 함께 프리미엄 드레스 피팅 체험이 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 행사 장소 내 주차가 가능하며 상세 정보는 안내 데스크에서 확인하실 수 있습니다."
+      },
+      {
+        "question": "계약 강요가 있나요?",
+        "answer": "아니요, 전문가의 1:1 맞춤 상담 위주로 진행되어 부담 없이 정보를 얻어가실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "박람회 현장에서 상담 완료 후 안내 데스크에서 수령 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작한 20대 후반~30대 초반 예비부부를 타겟으로 합니다. 특히 스드메 업체를 일일이 방문하기 부담스러운 커플이나, 합리적인 비용으로 웨딩홀부터 신혼여행까지 한 번에 비교하고 싶은 분들에게 최적화되어 있습니다. '결혼 준비 비용이 얼마나 들까?', '요즘 유행하는 드레스는 뭘까?'와 같은 정보를 찾고 계신 분들에게 상세한 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "청담 프리미엄 드레스샵",
+      "스드메 토탈 패키지 업체",
+      "혼수 가전 및 예물 전문",
+      "맞춤 정장 및 예복 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "청담동 명품 드레스를 청주에서 직접 피팅할 수 있는 기회",
+      "1:1 맞춤 컨설팅으로 나만의 웨딩 스타일 완성",
+      "박람회 기간 한정 파격적인 패키지 할인 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "청주 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 업체 추천",
+      "웨딩박람회 혜택 비교",
+      "청주 웨딩홀 투어",
+      "신혼여행 패키지 추천",
+      "웨딩 촬영 스튜디오 추천",
+      "결혼식 비용 절약 팁",
+      "맞춤 정장 가격대",
+      "예물 브랜드 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩홀 정보 더보기",
+        "category": "wedding_halls"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼식",
+      "웨딩드레스",
+      "스튜디오"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 라라웨딩박람회 무료 초대권 이벤트!",
+    "og_description": "이번 주말 청주 라라웨딩페어 방문하고 스드메 최대 할인과 사은품 다 받아가세요!",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#라라웨딩페어",
+      "#결혼준비",
+      "#청주스드메",
+      "#예비부부",
+      "#결혼준비시작",
+      "#청주웨딩홀",
+      "#웨딩박람회후기",
+      "#스드메추천",
+      "#신혼부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/larawedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_lO1sSKDQeVo.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8uHiV6OXXl9lmU7yAt9gOiL5.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ff13iio6gFWowbLeDOs93Z25ZuXo.jpg"
+  },
+  "revenue": 30000
+}
