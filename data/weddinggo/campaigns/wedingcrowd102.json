@@ -1,0 +1,209 @@
+{
+  "idx": 1754,
+  "campaign_id": "wedingcrowd102",
+  "gather_name": "청주 이안테라스 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "청주 이안테라스 웨딩박람회 | 상담만 해도 100% 선물 증정 & 스드메 할인",
+    "meta_description": "청주 이안테라스 웨딩박람회에서 결혼 준비의 모든 것 확인하세요! 스드메 패키지 특가, 계약 시 축하금 및 다양한 방문 선물까지. 선착순 한정 혜택을 지금 바로 확인하고 무료 초대권을 신청하세요.",
+    "keywords": [
+      "청주웨딩박람회",
+      "청주결혼준비",
+      "충북웨딩박람회",
+      "이안테라스웨딩",
+      "청주스드메",
+      "결혼준비체크리스트",
+      "웨딩패키지특가",
+      "청주웨딩홀",
+      "신혼여행박람회",
+      "청주결혼박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해결할 가장 확실한 방법, 청주 이안테라스 웨딩박람회가 개최됩니다. 복잡한 스드메부터 혼수, 신혼여행까지 예비부부를 위한 전문가의 1:1 맞춤 컨설팅을 경험해 보세요.",
+    "benefits_description": "방문만 해도 제공되는 푸짐한 경품과 상담 선물을 시작으로, 계약 시 최대 20만원 할인 및 업그레이드 혜택이 쏟아집니다. 드레스 추가 비용 지원, 메이크업 할인, 14K 목걸이 증정 등 오직 박람회 현장에서만 누릴 수 있는 파격적인 혜택을 놓치지 마세요. 똑똑한 예비부부라면 현장 계약 축하금과 특별 사은품을 통해 예산 절감의 기회를 잡으시길 바랍니다.",
+    "summary_for_search": "청주 이안테라스 웨딩박람회에서 스드메, 웨딩홀, 혼수까지 원스톱 해결! 상담만 받아도 선물이 쏟아지는 특별한 혜택을 확인하세요. 예비부부를 위한 합리적인 결혼 준비의 시작입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "상담만 받아도 터지는 혜택, 청주 이안테라스 웨딩박람회",
+    "secondary_headline": "전국 최대 규모의 웨딩 전문가와 함께하는 합리적인 결혼 준비, 지금 시작하세요.",
+    "urgency_text": "선착순 방문객 대상 한정 혜택, 조기 마감 주의",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 증정되는 웨딩 사은품",
+      "현장 방문 고객 대상 선착순 경품",
+      "웨딩 다이어리 100% 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 특가 69만원",
+      "드레스 추가 비용 지원 및 업그레이드",
+      "계약 축하금 최대 20만원 지원",
+      "14K 목걸이 및 보석함 증정"
+    ],
+    "special_events": [
+      "스튜디오 무료 피팅 및 포토존",
+      "신혼부부 재무 설계 무료 컨설팅",
+      "웨딩홀 실시간 비교 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "display_date": "05월 23일(토) ~ 05월 24일(일)",
+      "original_display_date": "05월 23일(토) ~ 05월 24일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 청원구 율량로 191",
+      "venue": "이안테라스 특별전시장",
+      "parking_info": "별도 안내 없음",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "신혼집 입주 예정일"
+    ],
+    "gift_conditions": "상담 완료 및 현장 계약 체결 시 증정",
+    "trust_indicators": [
+      "전국 최대 규모 네트워크",
+      "웨딩 전문가 1:1 맞춤 컨설팅",
+      "웨딩홀 실시간 비교 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 이안테라스 웨딩박람회",
+      "startDate": "2025-05-23",
+      "endDate": "2025-05-24",
+      "location": {
+        "@type": "Place",
+        "name": "이안테라스 특별전시장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "청주시 상당구 율량로 191 이안스퀘어 빌딩 4층",
+          "addressLocality": "청주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd102/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장은 무료인가요?",
+        "answer": "네, 사전 온라인 신청을 통해 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "박람회 상담은 어떤 것을 할 수 있나요?",
+        "answer": "스드메 패키지, 웨딩홀 투어, 허니문, 예물, 예복, 한복, 가전 등 결혼 준비 전 과정을 1:1로 상담받을 수 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "업체별 계약 축하금, 드레스 업그레이드, 추가 비용 지원 등 박람회 전용 특가 혜택이 제공됩니다."
+      },
+      {
+        "question": "방문 시 주차는 가능한가요?",
+        "answer": "이안스퀘어 빌딩 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "박람회 신청은 어떻게 하나요?",
+        "answer": "홈페이지의 상담 신청 폼에 성함, 연락처, 예식 예정일을 입력하시면 접수 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장 예약부터 스드메(스튜디오·드레스·메이크업) 패키지 선택까지 막막함을 느끼는 청주 지역 예비부부를 위한 행사입니다. 특히 결혼 준비 비용을 합리적으로 절감하고 싶은 분, 여러 업체를 일일이 방문하지 않고 원스톱으로 비교하고 싶은 커플, 전문가의 신혼부부 재무 설계를 통해 효율적인 자금 관리를 고민하는 예비 신혼부부에게 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오/드레스/메이크업 전문샵",
+      "허니문 여행사",
+      "예물/예복 브랜드",
+      "웨딩홀 추천 서비스",
+      "혼수/신혼가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 파격 할인 제공",
+      "웨딩홀 실시간 비교 및 전문가 컨설팅",
+      "전국 최대 규모의 체계적인 웨딩 패키지 관리"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "청주 웨딩박람회 추천",
+      "스드메 패키지 비용 비교",
+      "결혼 준비 체크리스트",
+      "예비부부 신혼집 마련 꿀팁",
+      "박람회 계약 혜택 확인",
+      "웨딩 촬영 스튜디오 추천",
+      "허니문 여행지 추천",
+      "결혼 준비 비용 절약 방법",
+      "청주 웨딩홀 투어 예약",
+      "예물 예복 박람회 특가"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 상세 보기",
+        "category": "smd_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "신혼여행",
+      "예복",
+      "웨딩드레스",
+      "메이크업",
+      "예물",
+      "한복",
+      "결혼 준비"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 이안테라스 웨딩박람회 | 상담만 해도 선물 증정!",
+    "og_description": "청주 예비부부라면 필수 코스! 스드메 특가부터 계약 혜택까지, 이번 주말 이안테라스에서 결혼 준비 끝내세요.",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#이안테라스웨딩",
+      "#청주결혼준비",
+      "#스드메특가",
+      "#웨딩박람회혜택",
+      "#청주웨딩홀",
+      "#예비부부",
+      "#결혼준비시작",
+      "#웨딩드레스",
+      "#허니문"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd102/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_SRCYb9dfQDED5rShkMm2j3FcAZfm.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gturZFWM.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_PQ6A1bYtGgb5.jpg"
+  },
+  "revenue": 30000
+}
