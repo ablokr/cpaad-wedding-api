@@ -1,0 +1,205 @@
+{
+  "campaign_id": "planittour02",
+  "gather_name": "대전 신혼여행박람회",
+  "organizer_name": "플래닛투어",
+  "seo_metadata": {
+    "title": "대전 웨딩박람회 후기 | LG전자 대전본점 신혼여행 혜택 총정리",
+    "meta_description": "안녕하세요! 이번 주말 대전 신혼여행 박람회 다녀온 후기 남겨요. LG전자 대전본점에서 열리는데 허니문 60만원 할인부터 5성급 호텔 숙박권까지 혜택 진짜 빵빵하더라고요. 결혼 준비 중이신 분들은 꼭 가보세요!",
+    "keywords": [
+      "대전웨딩박람회",
+      "대전신혼여행박람회",
+      "LG전자베스트샵대전본점",
+      "대전결혼준비",
+      "신혼여행견적비교",
+      "대전웨딩홀",
+      "플래닛투어",
+      "허니문특가",
+      "결혼준비박람회",
+      "스드메상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비하면서 이것저것 알아볼 게 너무 많아서 머리 아프셨죠? 저번 주에 대전 신혼여행 박람회에 다녀왔는데, 생각보다 너무 알차서 깜짝 놀랐어요! 특히 LG전자 대전본점에서 진행해서 가전이랑 허니문을 한 번에 해결할 수 있다는 게 제일 큰 장점이었답니다.",
+    "benefits_description": "혜택이 진짜 역대급이에요! 일단 방문만 해도 선물 증정은 기본이고, 현장 상담만 받아도 허니문 파우치나 어메니티 세트 중 하나를 고를 수 있더라고요. 제일 좋았던 건 현장 계약 시 최대 60만원 추가 할인 혜택이랑, 16만원 상당의 26인치 캐리어를 그냥 준다는 거예요! 인천공항 5성급 호텔 숙박권까지 챙겨주시니 신혼여행 준비하시는 분들은 이번 기회 놓치지 마세요.",
+    "summary_for_search": "대전 서구 LG전자 베스트샵에서 열리는 신혼여행 박람회! 최대 60만원 할인, 26인치 캐리어 증정, 5성급 호텔 숙박권 등 예비부부를 위한 풍성한 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝! 최대 60만원 할인+5성급 호텔 숙박권 증정",
+    "secondary_headline": "대전 예비부부를 위한 LG전자 베스트샵 신혼여행 특별 초대전",
+    "urgency_text": "이번 주말까지만 진행되는 단독 혜택, 선착순 마감 주의!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 챙기기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 허니문 파우치 또는 어메니티 5종 세트",
+      "상담 예약 후 방문 시 크라포드 냄비 홈세트 14p 증정"
+    ],
+    "contract_benefits": [
+      "허니문 현장 계약 시 최대 60만원 추가 할인",
+      "26인치 캐리어 증정(16만원 상당)",
+      "현장 계약 시 인천공항 5성급 호텔 1박 숙박권 100% 증정"
+    ],
+    "special_events": [
+      "LG전자 가전 구매 금액대별 멤버십 포인트 및 추가 사은품 증정",
+      "1:1 허니문 전문가 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-31",
+      "display_date": "05월 30일(토) ~ 05월 31일(일)",
+      "original_display_date": "05월 30일(토) ~ 05월 31일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "대전 서구 대덕대로 230",
+      "venue": "LG전자베스트샵 대전본점",
+      "parking_info": "무료 주차권 증정",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일",
+      "방문예정일",
+      "통화 가능 시간",
+      "관심 여행지"
+    ],
+    "gift_conditions": "상담 완료 후 QR코드 스캔 및 현장 계약 조건",
+    "trust_indicators": [
+      "플래닛투어 16년 전통",
+      "대전/충청 지역 허니문 전문 1위",
+      "실제 이용객 만족도 높은 후기 다수 보유",
+      "비상연락망 구축으로 안전한 여행 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 신혼여행박람회",
+      "startDate": "2025-05-30",
+      "endDate": "2025-05-31",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 대전본점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "대전 서구 대덕대로 230",
+          "addressLocality": "대전",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "플래닛투어",
+        "url": "https://ad.cpaad.co.kr/planittour02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 있나요?",
+        "answer": "아니요, 온라인 사전 예약 시 무료 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, LG전자 베스트샵 대전본점 방문 시 무료 주차권을 증정해 드립니다."
+      },
+      {
+        "question": "계약을 꼭 해야 하나요?",
+        "answer": "아니요, 견적 비교나 상담만 받아보셔도 무방합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "허니문 전문 여행사 플래닛투어 및 LG전자 가전 매장이 입점하여 상담 가능합니다."
+      },
+      {
+        "question": "상담 예약은 어떻게 하나요?",
+        "answer": "상단 페이지의 참가 신청 폼을 통해 이름과 연락처를 남겨주시면 담당자가 연락드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 웨딩홀, 스드메, 가전, 신혼여행 등 정보 탐색에 어려움을 겪는 20대 후반에서 30대 중반의 예비 부부들을 대상으로 합니다. 특히 대전/충청권에서 합리적인 비용으로 허니문과 가전을 준비하고 싶어 하는 커플들에게 최적화되어 있습니다. '결혼 준비 어떻게 시작해야 할지 모르겠어요' 혹은 '신혼여행 비용이 부담돼요'라고 고민하는 분들께 전문가의 1:1 상담과 다양한 사은품 혜택을 제공하여 경제적이고 효율적인 선택을 돕습니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사 (플래닛투어)",
+      "LG전자 프리미엄 가전 상담",
+      "웨딩 박람회 전문 상담 부스"
+    ],
+    "comparison_hooks": [
+      "대전 지역 1위 허니문 전문 여행사의 1:1 맞춤 상담",
+      "현장 즉시 계약 할인 및 5성급 호텔 숙박권 100% 증정",
+      "가전 구매와 허니문을 한곳에서 해결하는 원스톱 쇼핑"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 웨딩박람회 일정",
+      "대전 허니문 여행사 추천",
+      "신혼여행 준비물 체크리스트",
+      "대전 가전제품 혼수 박람회",
+      "플래닛투어 후기",
+      "결혼 준비 비용 절약 팁",
+      "LG전자 베스트샵 결혼 혜택",
+      "대전 신혼여행 박람회 추천",
+      "허니문 계약 혜택 비교",
+      "웨딩박람회 방문 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩홀 추천 정보",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "결혼 준비 체크리스트 다운로드",
+        "category": "checklist"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행지",
+      "허니문",
+      "웨딩플래너",
+      "혼수가전",
+      "예단",
+      "결혼준비",
+      "박람회사은품"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 신혼여행 박람회 오픈! 혜택 정리함",
+    "og_description": "이번 주말 대전 LG전자 본점에서 신혼여행 상담받고 60만원 할인에 5성급 호텔 숙박권까지 챙겨가세요!",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#대전신혼여행",
+      "#결혼준비",
+      "#예비부부",
+      "#LG전자베스트샵",
+      "#대전웨딩",
+      "#허니문박람회",
+      "#신혼여행지추천",
+      "#대전예신",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planittour02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_TW3p2kqHXZBE6AlOQcE1U2.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_tLkUQnXl9upEckTutN3LTpOM.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_uCsh1uAdxpQ2s5X1mT.jpg"
+  }
+}
