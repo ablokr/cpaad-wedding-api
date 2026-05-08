@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-08T13:00:02Z",
-  "total_ad_count": 159,
+  "last_updated": "2026-05-08T16:00:02Z",
+  "total_ad_count": 161,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -858,6 +858,20 @@
       "start_date": "2026-05-09",
       "end_date": "2026-05-10"
     },
+    "labelleellin03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_xNMkaRe8WSdV8vgREOXOoAKI7Ovj1.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_pRNJJpT5V7lyc5mFEILF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_nzEC3s2Lr3Q49.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin03/",
+      "region": "gyeonggi",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "ad_info": "타임빌라스에서 열리는 수원 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 23일(토) ~ 05월 25일(월) 3일간",
+      "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1F LG베스트샵 특별행사장",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-25"
+    },
     "wedingcrowd70": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_DIR88NjVQ9OOOElWXFowDr.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_E6Oku2oKFuqQ.jpg",
@@ -983,6 +997,20 @@
       "ad_location": "경기 성남시 분당구 황새울로360번길 42 AK플라자 5층||(서현동 263)||삼성스토어 AK분당",
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
+    },
+    "labelleellin04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_y94JQxdOw7RAf11oWhp8lskGfp4E.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_kmIXj3RrBLi6KrN.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_mOWdKXWtf4KUsU6dbG4I8iFZzc.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin04/",
+      "region": "gyeonggi",
+      "gather_name": "수원 웨딩박람회",
+      "ad_info": "경기도 최대규모의 프리미엄 드레스샵 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 16일(토) ~ 05월 17일(일)",
+      "ad_location": "경기 수원시 팔달구 효원로 62||(매산로3가 72-18)||수원 결혼만들기 웨딩타운 전층",
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17"
     },
     "theshirleywedding01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_x9CeUGmooW8rNB.jpg",
