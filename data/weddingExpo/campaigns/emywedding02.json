@@ -1,0 +1,200 @@
+{
+  "idx": 1805,
+  "campaign_id": "emywedding02",
+  "gather_name": "e마이웨딩 대전 웨딩박람회",
+  "organizer_name": "e마이웨딩",
+  "seo_metadata": {
+    "title": "e마이웨딩 대전 웨딩박람회 | 스드메 견적 비교 및 혼수 최대 혜택",
+    "meta_description": "결혼 준비 고민 해결! 대전 e마이웨딩 박람회에서 스드메 견적 비교, 삼성전자 혼수 가전 최대 445만 포인트 혜택과 예물, 한복 상담까지 한 번에 해결하세요. 지금 사전 예약하고 방문 사은품도 챙겨가세요!",
+    "keywords": [
+      "대전웨딩박람회",
+      "e마이웨딩",
+      "결혼준비",
+      "스드메견적",
+      "대전웨딩홀",
+      "혼수가전혜택",
+      "웨딩박람회후기",
+      "대전결혼준비",
+      "예물상담",
+      "한복대여"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 대전 e마이웨딩 박람회 다녀왔는데, 정말 알차게 구성되어 있어서 예비부부님들께 꼭 공유하고 싶더라고요. 스드메부터 가전, 예물까지 한자리에서 비교해 볼 수 있어서 발품 파는 시간 엄청 절약했네요!",
+    "benefits_description": "가장 인상 깊었던 건 혼수가전 혜택이었어요! 삼성전자 제품 구매 시 최대 445만 포인트 혜택을 챙겨주는데 진짜 놀랐습니다. 방문만 해도 멀티포트 같은 실용적인 선물을 주니까 꼭 신청하고 가세요. 드레스 피팅부터 예물, 예복 브랜드까지 꼼꼼하게 상담받을 수 있어서 결혼 준비 시작하시는 분들께 강력 추천드려요.",
+    "summary_for_search": "대전 e마이웨딩 웨딩박람회에서 스드메 패키지 상담 및 혼수가전 최대 445만 포인트 혜택을 받아보세요. 방문 상담 시 소정의 사은품 증정 및 1:1 맞춤 견적 비교가 가능합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 대전 최대 규모 e마이웨딩 박람회에서 한 번에 해결!",
+    "secondary_headline": "스드메 패키지부터 삼성 가전 445만 포인트 혜택까지, 신혼부부를 위한 단 하나의 솔루션",
+    "urgency_text": "선착순 방문 예약 조기 마감 예정, 지금 바로 무료 초대장 신청하세요!",
+    "call_to_action_text": "지금 무료 박람회 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 멀티포트 증정",
+      "현장 선착순 경품 이벤트"
+    ],
+    "contract_benefits": [
+      "삼성전자 혼수가전 최대 445만 포인트 혜택",
+      "웨딩홀 견적 비교 및 할인",
+      "예물 예복 계약 시 추가 할인 및 서비스"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 맞춤 스타일링 상담",
+      "신혼여행 1:1 견적 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "중구",
+      "sigungu_en": "jung",
+      "address": "대전 중구 대종로 523",
+      "venue": "e마이웨딩 1층 전관",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 상담 완료 시 증정 (사전 예약자 대상)",
+    "trust_indicators": [
+      "20년 전통 대전 최대 규모 박람회",
+      "누적 11만 커플 결혼 진행",
+      "투명한 실시간 스드메 견적 비교"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "e마이웨딩 대전 웨딩박람회",
+      "startDate": "2026-05-16",
+      "endDate": "2026-05-17",
+      "location": {
+        "@type": "Place",
+        "name": "e마이웨딩",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "대전 중구",
+          "addressLocality": "대전",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "e마이웨딩",
+        "url": "https://ad.cpaad.co.kr/emywedding02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "상담 완료 시 사은품 증정 및 삼성전자 가전 최대 445만 포인트 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "사전 예약은 꼭 해야 하나요?",
+        "answer": "사전 예약 시 박람회 무료 입장 및 사은품 혜택 우선순위가 부여되므로 권장합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메 패키지, 예물, 예복, 한복, 가전 등 결혼 준비 전 카테고리 업체가 입점합니다."
+      },
+      {
+        "question": "스드메 상담은 어떻게 진행되나요?",
+        "answer": "1:1 맞춤 스타일링 상담을 통해 실시간 견적 비교 및 나만의 웨딩 패키지를 구성할 수 있습니다."
+      },
+      {
+        "question": "상담만 받아도 되나요?",
+        "answer": "네, 박람회는 정보를 수집하고 비교하는 자리이므로 부담 없이 상담받으셔도 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜를 잡고 막막해하는 예비부부, 스드메 비용과 가전 견적을 합리적으로 비교하고 싶은 2030 예비 신혼부부에게 최적화된 박람회입니다. '결혼 준비 어떻게 시작해야 할지 모르는' 분들께 전문가의 1:1 컨설팅과 다양한 업체들의 비교 정보를 제공하여 시간을 절약해 줍니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지",
+      "삼성전자 혼수가전 전문관",
+      "예물 및 명품 주얼리 브랜드",
+      "프리미엄 예복 및 한복 대여",
+      "허니문 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "20년 전통의 대전 지역 최다 업체 입점",
+      "실시간 스드메 견적 비교 서비스 제공",
+      "현장 즉시 가전 포인트 및 계약 축하금 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 구성",
+      "혼수 가전 준비 순서",
+      "웨딩박람회 사기 예방법",
+      "대전 예식장 추천",
+      "결혼 비용 예산표",
+      "웨딩 드레스 브랜드 추천",
+      "예물 커플링 투어",
+      "신혼여행 견적 비교",
+      "한복 대여 가격대"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩홀 리스트 바로가기",
+        "category": "wedding_hall"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예복",
+      "예물",
+      "신혼여행",
+      "대전결혼",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 최대 웨딩박람회! 혜택 다 챙기세요",
+    "og_description": "스드메부터 삼성가전까지! 445만 포인트 혜택 받는 대전 웨딩박람회 지금 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#대전웨딩박람회",
+      "#결혼준비",
+      "#예비부부",
+      "#스드메",
+      "#혼수준비",
+      "#대전결혼",
+      "#웨딩홀투어",
+      "#신혼가전",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/emywedding02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Y944Ny6RUFP6xn4wsLhF4d.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ti2Uxukm6cSHxN8F3WwCc5UonlE.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_b8EiwshlEQg8.jpg"
+  },
+  "revenue": 30000
+}
