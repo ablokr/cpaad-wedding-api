@@ -1,0 +1,201 @@
+{
+  "idx": 1537,
+  "campaign_id": "wncowedding02",
+  "gather_name": "동탄웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "동탄웨딩박람회 | 스드메 혜택 및 무료 초대권 신청",
+    "meta_description": "결혼 준비의 시작, 동탄웨딩박람회에서 스드메 패키지 할인과 혼수 혜택을 한 번에 확인하세요. 방문만 해도 100% 증정하는 선물부터 계약 특별 혜택까지, 이번 주말 롯데백화점 동탄점에서 알뜰하게 결혼 준비하세요!",
+    "keywords": [
+      "동탄웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "웨딩홀추천",
+      "혼수가전",
+      "예물상담",
+      "동탄결혼",
+      "웨딩박람회일정",
+      "화성웨딩박람회",
+      "신혼여행패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 동탄웨딩박람회 다녀온 후기 공유해요~ 결혼 준비 이제 막 시작해서 막막했는데, 생각보다 너무 알차게 다녀와서 후기 남깁니다. 예비부부라면 꼭 가봐야 할 알짜 정보가 가득하더라고요!",
+    "benefits_description": "이번 박람회는 진짜 혜택이 어마어마해요! 일단 방문만 해도 100% 증정하는 웨딩 다이어리부터 선착순 경품까지, 빈손으로 갔다가 양손 가득 돌아왔네요. 특히 드레스 피팅이랑 스튜디오 현장 투어는 꼭 해보세요. 현장에서 직접 보니까 확실히 사진이랑 느낌이 다르더라고요. 계약 혜택으로 현금 할인이나 가전 증정 이벤트도 있으니까 스드메 고민 중이신 분들은 꼭 챙겨가세요!",
+    "summary_for_search": "동탄웨딩박람회에서 스드메, 혼수, 예식장까지 한 번에 준비하세요! 롯데백화점 동탄점 특별행사장에서 열리는 이번 박람회는 방문 상담 시 다양한 사은품과 계약 할인 혜택을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 동탄웨딩박람회 최대 혜택 받고 시작하세요",
+    "secondary_headline": "스드메부터 예물, 혼수까지 한 곳에서 비교하고 특별한 계약 사은품까지 챙겨가세요!",
+    "urgency_text": "선착순 20쌍 한정 프리미엄 미니캐리어 증정!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 웨딩 다이어리 증정",
+      "선착순 20쌍 프리미엄 미니캐리어",
+      "상담 완료 시 롯데백화점 상품권 증정"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최고급 웨딩액자 증정",
+      "드레스 무료 피팅 및 수입 드레스 업그레이드",
+      "혼수가전 구매 금액별 최대 80만 포인트 적립"
+    ],
+    "special_events": [
+      "웨딩홀 무료 섭외 및 대관료 할인",
+      "스튜디오 현장 투어 및 원본 데이터 무료 제공",
+      "허니문 여행지 특별 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-31",
+      "display_date": "05월 30일(토) ~ 05월 31일(일)",
+      "original_display_date": "05월 30일(토) ~ 05월 31일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "화성시",
+      "sigungu_en": "hwaseong",
+      "address": "경기 화성시 동탄역로 160",
+      "venue": "롯데백화점 동탄점 6층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 인증 시 증정 (선착순 품목은 조기 소진 가능)",
+    "trust_indicators": [
+      "수십 개의 웨딩 전문 업체 입점",
+      "1:1 맞춤형 플래닝 제공",
+      "투명한 정가제 및 할인 혜택 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "동탄웨딩박람회",
+      "startDate": "2025-05-30",
+      "endDate": "2025-05-31",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 동탄점 6층 특별행사장",
+        "address": "경기 화성시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "원활한 상담과 사은품 증정을 위해 사전 예약 후 방문하시는 것을 권장합니다."
+      },
+      {
+        "question": "상담만 받아도 선물 주나요?",
+        "answer": "네, 방문 상담 시 웨딩 다이어리를 포함한 다양한 선물들이 준비되어 있습니다."
+      },
+      {
+        "question": "박람회 현장에서 바로 계약해야 하나요?",
+        "answer": "강요 없는 상담을 원칙으로 하며, 충분히 비교하신 후 결정하실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 가격은 어느 정도인가요?",
+        "answer": "업체별, 구성별로 다양하며 현장에서 즉시 할인 및 추가 혜택을 적용받으실 수 있습니다."
+      },
+      {
+        "question": "혼수 상담도 같이 받을 수 있나요?",
+        "answer": "네, 예물, 예복, 혼수가전까지 한자리에서 전문가 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 준비해야 할지 막막한 2030 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 결혼 6개월 이내의 효율적인 웨딩 준비를 원하는 분들을 위한 맞춤형 박람회입니다. 플래너 없이 준비하는 '셀프웨딩'족부터 풀 패키지를 원하는 커플까지 모두에게 유용한 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 전문 스튜디오/드레스샵",
+      "웨딩홀 섭외 및 대관 전문 업체",
+      "허니문 여행사",
+      "예물 및 예복 맞춤 브랜드",
+      "혼수가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 드레스 업그레이드 등 파격 혜택 제공",
+      "롯데백화점 내 위치로 접근성 및 신뢰도 확보",
+      "방문 상담만 해도 100% 사은품 증정하는 실속형 구성"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 방문 꿀팁",
+      "결혼 준비 체크리스트",
+      "스드메 업체 고르는 법",
+      "동탄 예식장 추천",
+      "웨딩박람회 사은품 비교",
+      "셀프웨딩 준비하는 법",
+      "혼수가전 예산 산정",
+      "웨딩액자 서비스",
+      "신혼여행지 추천",
+      "예물 투어 리스트"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 추천 리스트 바로가기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 견적 비교하기",
+        "category": "sdeume_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "예복",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "동탄웨딩박람회 후기! 사은품 꿀팁까지 공유해요",
+    "og_description": "롯데백화점 동탄점에서 열리는 웨딩박람회, 방문만 해도 선물 주고 혜택도 가득해요! 예비부부라면 꼭 확인해보세요.",
+    "hashtags": [
+      "#동탄웨딩박람회",
+      "#결혼준비",
+      "#웨딩박람회",
+      "#스드메",
+      "#예신",
+      "#결혼준비시작",
+      "#롯데백화점동탄",
+      "#웨딩홀투어",
+      "#혼수",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_wkoIHrzPGHkncQZyx9ju3hjN9URA4.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Zx6ce3PrGLegmrhF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Bq2KGeWx.jpg"
+  }
+}
