@@ -1,0 +1,208 @@
+{
+  "idx": 588,
+  "campaign_id": "palmfair04",
+  "gather_name": "부산 팜투어 허니문박람회",
+  "organizer_name": "제이씨커뮤니케이션",
+  "seo_metadata": {
+    "title": "부산 팜투어 허니문박람회 | 최대 150만원 할인 및 신혼여행 특전",
+    "meta_description": "부산 유성빌딩에서 열리는 팜투어 허니문박람회! 2026 예비부부를 위한 신혼여행 직거래 특가, 최대 150만원 할인, 사은품 증정 혜택을 놓치지 마세요.",
+    "keywords": [
+      "부산허니문박람회",
+      "부산웨딩박람회",
+      "신혼여행박람회",
+      "팜투어부산",
+      "허니문직거래",
+      "결혼준비",
+      "신혼여행특가",
+      "부산예비부부",
+      "팜투어혜택",
+      "신혼여행추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 꽃, 완벽한 신혼여행을 꿈꾸는 예비부부님을 부산 팜투어 허니문박람회로 초대합니다. 중간 마진을 없앤 직거래 방식을 통해 합리적인 가격은 물론, 어디서도 볼 수 없는 박람회 단독 프로모션으로 최고의 신혼여행을 설계해 드립니다.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 스타벅스 쿠폰(선착순) 및 르방, 쉬젤 등 고급 생활용품을 증정합니다. 당일 계약 시에는 몽크로스 캐리어 또는 포인트 쇼핑몰 20만원 할인권 등 파격적인 사은품을 제공합니다. 팜투어만의 압도적인 특가와 함께 2026년 허니문 시즌을 가장 경제적이고 럭셔리하게 준비해 보세요.",
+    "summary_for_search": "부산 부산진구 유성빌딩에서 개최되는 팜투어 허니문박람회! 예비부부를 위한 신혼여행 직거래 특가, 최대 150만원 할인 혜택과 상담 사은품까지, 지금 무료 초대권을 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "부산 팜투어 허니문박람회, 2026 예비부부 최대 150만원 할인!",
+    "secondary_headline": "중간 마진 없는 직거래 시스템, 허니문 1등 여행사 팜투어의 압도적 혜택을 직접 경험하세요.",
+    "urgency_text": "선착순 방문객 한정 사은품 증정 및 박람회 단독 특가 마감 임박",
+    "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "선착순 방문객 스타벅스 쿠폰",
+      "방문 상담 시 르방 4pcs 또는 쉬젤 올인원 태갈볼 증정",
+      "신혼여행 필수품 루페 클렌징 샤워기 또는 여행 파우치 6종 세트"
+    ],
+    "contract_benefits": [
+      "몽크로스 PC 화이트 캐리어 증정",
+      "포인트 쇼핑몰 20만원 할인권 증정",
+      "허니문 박람회 단독 직거래 특가 적용"
+    ],
+    "special_events": [
+      "허니문 여행사 직거래 1:1 맞춤 상담",
+      "지역별(발리, 몰디브, 하와이 등) 단독 프로모션",
+      "안심 허니문 보증보험 제도 운영"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17",
+      "display_date": "05월 16일(토) ~ 05월 17일(일)",
+      "original_display_date": "05월 16일(토) ~ 05월 17일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "부산진구",
+      "sigungu_en": "busanjin",
+      "address": "부산광역시 부산진구 황령대로9",
+      "venue": "유성빌딩 6층",
+      "parking_info": "무료 주차 가능",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부 구분",
+      "예식 예정일",
+      "방문 일자"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 고객 대상 제공",
+    "trust_indicators": [
+      "5년 연속 허니문 해외 송출 1위",
+      "한국 브랜드 소비자 평가 1위",
+      "전국 13개 지사 운영"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "부산 팜투어 허니문박람회",
+      "startDate": "2026-05-16",
+      "endDate": "2026-05-17",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "유성빌딩",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6층",
+          "addressLocality": "부산 부산진구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이씨커뮤니케이션",
+        "url": "https://ad.cpaad.co.kr/palmfair04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 예약은 필수인가요?",
+        "answer": "네, 방문객 혜택 및 원활한 1:1 상담을 위해 사전 예약제를 운영하고 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "해당 건물에 무료 주차를 지원하고 있습니다."
+      },
+      {
+        "question": "허니문 여행지 결정이 어려운데 상담 가능한가요?",
+        "answer": "네, 전문 플래너가 커플의 취향과 예산에 맞춰 최적의 여행지를 제안해 드립니다."
+      },
+      {
+        "question": "당일 계약 시 추가 혜택이 있나요?",
+        "answer": "네, 박람회 현장 계약 시 캐리어 증정 및 포인트 할인 등 추가 특전을 제공합니다."
+      },
+      {
+        "question": "행사 참여 비용이 발생하나요?",
+        "answer": "박람회 입장 및 상담은 100% 무료입니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 신혼여행지 선정에 고민이 많은 2030 예비부부를 위한 박람회입니다. 특히 2026년 봄·가을 웨딩을 준비하며 스드메 패키지 외에 허니문 여행 비용 절감을 원하는 커플에게 최적화되어 있습니다. 직거래 시스템을 통해 여행사 거품을 뺀 합리적인 가격을 지향하며, 안전하고 검증된 여행 일정을 찾는 신혼부부에게 신뢰할 수 있는 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "신혼여행 리조트/호텔 업체",
+      "신혼여행 제휴 할인 브랜드",
+      "허니문 전용 여행자 보험사"
+    ],
+    "comparison_hooks": [
+      "중간 유통 마진 제거로 국내 최저가 허니문 보장",
+      "5년 연속 해외 송출 1위의 검증된 전문성",
+      "박람회 단독 프로모션으로 최대 150만원 추가 할인"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 신혼여행 박람회",
+      "허니문 직거래 여행사",
+      "신혼여행 준비물 리스트",
+      "2026년 신혼여행지 추천",
+      "팜투어 박람회 혜택",
+      "신혼여행지순위",
+      "결혼준비 순서",
+      "웨딩박람회 방문 후기",
+      "부산 예식 준비",
+      "허니문 보증보험"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩박람회 전체 일정",
+        "category": "busan_wedding"
+      },
+      {
+        "anchor": "신혼여행 패키지 비교",
+        "category": "honeymoon_travel"
+      }
+    ],
+    "semantic_keywords": [
+      "신혼여행",
+      "허니문",
+      "여행사",
+      "직거래",
+      "리조트",
+      "항공권",
+      "결혼준비",
+      "풀빌라",
+      "해외여행",
+      "신혼여행특가"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 팜투어 허니문박람회, 최대 150만원 혜택",
+    "og_description": "2026 예비부부라면 꼭 가야 할 부산 허니문 박람회! 직거래 특가와 사은품 놓치지 마세요.",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#부산허니문박람회",
+      "#팜투어",
+      "#신혼여행",
+      "#결혼준비",
+      "#예비부부",
+      "#부산결혼",
+      "#허니문특가",
+      "#부산신혼여행",
+      "#웨딩정보"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/palmfair04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6IDeUcRTp75kKns9.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8bgeBFSRnx3TD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Cwj1FUgT6salNqbp.jpg"
+  },
+  "revenue": 35000
+}
