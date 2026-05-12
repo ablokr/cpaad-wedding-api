@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-12T10:00:02Z",
-  "total_ad_count": 145,
+  "last_updated": "2026-05-12T13:00:03Z",
+  "total_ad_count": 146,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -214,6 +214,20 @@
       "start_date": "2026-05-16",
       "end_date": "2026-05-17"
     },
+    "DirectWeddingFair01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+      "region": "capital",
+      "gather_name": "다이렉트 결혼준비 웨딩박람회",
+      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
+      "ad_year": "2026",
+      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
+      "start_date": "2026-05-16",
+      "end_date": "2026-05-17"
+    },
     "planon60": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_oooULnwGT2.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_elpkH21go.jpg",
@@ -267,20 +281,6 @@
       "ad_year": "2026",
       "ad_date": "05월 16일(토) ~ 05월 17일(일)",
       "ad_location": "서울 강남구 남부순환로 3104||(대치동 514)||SETEC 2층 전시실",
-      "start_date": "2026-05-16",
-      "end_date": "2026-05-17"
-    },
-    "DirectWeddingFair01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
-      "region": "capital",
-      "gather_name": "다이렉트 결혼준비 웨딩박람회",
-      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
-      "ad_year": "2026",
-      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
-      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
       "start_date": "2026-05-16",
       "end_date": "2026-05-17"
     },
@@ -1543,6 +1543,20 @@
       "ad_location": "광주 동구 서석로 13-1 3층||(불로동 97-6)||더베스트웨딩컴퍼니 사옥",
       "start_date": "2026-05-16",
       "end_date": "2026-05-17"
+    },
+    "theBW01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_4EXBiB2a3zV.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_GUIgxecwUyWb.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_SplreTUufYZo5LIIN.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBW01/",
+      "region": "jeolla",
+      "gather_name": "광주 웨딩 페스타",
+      "ad_info": "결혼준비도 한번에! 광주 웨딩 페스타에서 최고로 준비하세요.",
+      "ad_year": "2026",
+      "ad_date": "05월 23일(토) ~ 05월 24일(일)",
+      "ad_location": "광주 서구 무진대로 932||(광천동 49-1)||신세계백화점 광주신세계점 8층",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-24"
     },
     "jwc02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_XIIeUi6HsaJYLoRiwaCPupaWtMcpwiu.jpg",
