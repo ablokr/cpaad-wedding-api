@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-14T16:00:03Z",
-  "total_ad_count": 150,
+  "last_updated": "2026-05-15T10:00:03Z",
+  "total_ad_count": 155,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_Ucd9ybDe8JA6OO6yxsbYKl78sDKxw.jpg",
@@ -326,6 +326,20 @@
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
     },
+    "reveweddingE28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_mqip8ESFrj.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_bVM2nhNS8Auzbjxh.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_O9AEPmAJOfISBmASYHOFbGSzFChHW.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE28/",
+      "region": "capital",
+      "gather_name": "잠실 롯데백화점 혼수가전박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 서울 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "서울 송파구 올림픽로 240||(잠실동 40-1)||롯데백화점 잠실점 10층 LG전자",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
+    },
     "planon50": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_3PyLx3VV9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_iVuPRyH6PBm65aIDL5iQ6.jpg",
@@ -339,6 +353,20 @@
       "ad_location": "서울 강남구 남부순환로 3104||(대치동 514)||SETEC 2층 전시실",
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
+    },
+    "revewedding28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6YGKT9DG5hijuo3xRwtCPJk35rWF.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_m2ZPfn8w4m8eUClz.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6WgJzQewQkyRiSMCqwMWZ.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding28/",
+      "region": "capital",
+      "gather_name": "잠실 롯데백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 서울 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "서울 송파구 올림픽로 240||(잠실동 40-1)||롯데백화점 잠실점 10층 LG전자",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
     },
     "wedingcrowd93": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_JAEVyJs8SjIK9EBvm.jpg",
@@ -746,6 +774,20 @@
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
     },
+    "reveweddingE06": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_sYfwlUkg6f7XuR88iLWFf7Wrs4HgL7.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_YCIXVpNCyHsjv33.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_qeTAiF1bz7pid.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE06/",
+      "region": "gyeonggi",
+      "gather_name": "평촌 혼수가전 박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 최대규모 혼수가전 박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180||(호계동 1039)||롯데백화점 평촌점 7층 LG전자",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
+    },
     "howto24": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_X2uTA5qK3PbIn8mCeC8fydhmGhelH.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_2XSvSfVjGEPlicC.jpg",
@@ -927,6 +969,20 @@
       "ad_location": "경기 수원시 팔달구 인계로94번길 26 영창타워 1층||(인계동 1017-2)||투어민",
       "start_date": "2026-05-30",
       "end_date": "2026-05-31"
+    },
+    "revewedding16": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_stPGVa1oO4y.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_JgYdiaXk7Wnu4viNUY.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_HY2gr5FD1A7iXgrrFfPOL.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding16/",
+      "region": "gyeonggi",
+      "gather_name": "평촌 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180||(호계동 1039)||롯데백화점 평촌점 7층 특별행사장",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
     },
     "wedingcrowd39": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ECtJC9yQ2QKqd6DJGzu4Us9.jpg",
@@ -1543,6 +1599,20 @@
       "ad_location": "전북 전주시 완산구 백제대로 311길||(중화산동 2가 578-4)||웨딩스퀘어",
       "start_date": "2026-05-16",
       "end_date": "2026-05-17"
+    },
+    "theBW07": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_JsIDf9oM1bf6H41NmUOBiXD9R.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_mIOIuWD7QM89.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Z18SINMthpOwpFAfd2bvGNNboENIceKw.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBW07/",
+      "region": "jeolla",
+      "gather_name": "광주 컨벤션 웨딩박람회",
+      "ad_info": "한곳에서 한방에 준비! 스드메, 웨딩홀, 허니문, 혼수까지",
+      "ad_year": "2026",
+      "ad_date": "05월 23일(토) ~ 05월 24일(일)",
+      "ad_location": "광주 서구 상무누리로 30||(치평동 1159-2)||컨벤션 타워 2층",
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-24"
     },
     "jwc01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_dB4onJl1G2lfbHpTin6rQTO.jpg",
