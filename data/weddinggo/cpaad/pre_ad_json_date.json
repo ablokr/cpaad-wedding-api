@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-15T13:00:04Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-05-15T16:00:04Z",
+  "total_ad_count": 157,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -78,32 +78,6 @@
           "sigungu_en": "yongsan",
           "address": "서울 용산구 한강대로23길 55",
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
-        }
-      },
-      "revenue": 30000
-    },
-    "wedingcrowd111": {
-      "idx": 1811,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lMV6nFBt.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_3MpJRLc8ffcgadbb.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_tZcqYlu1M7NBdUOet2.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd111/",
-      "region": "capital",
-      "gather_name": "더현대 서울 대형 웨딩박람회",
-      "ad_info": "우주급 혜택과 안심 보장제도로 믿을 수 있는 웨딩박람회!",
-      "ad_year": "2026",
-      "ad_date": "05월 23일(토) ~ 05월 24일(일)",
-      "ad_location": "서울 영등포구 여의대로 108 5층||(여의도동 22)||삼성스토어 더현대서울",
-      "start_date": "2026-05-23",
-      "end_date": "2026-05-24",
-      "preprocessed": {
-        "location": {
-          "sido": "서울",
-          "sido_en": "seoul",
-          "sigungu": "영등포구",
-          "sigungu_en": "yeongdeungpo",
-          "address": "서울 영등포구 여의대로 108 5층",
-          "venue": "삼성스토어 더현대서울"
         }
       },
       "revenue": 30000
@@ -1119,6 +1093,7 @@
       "revenue": 30000
     },
     "wedingcrowd06": {
+      "idx": 1075,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Am8tCifIdOG8jm.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_iJNMpRVKeAoro2aS4P.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Ii4RFgdq4LNtKUXEXe.jpg",
@@ -1140,7 +1115,8 @@
           "address": "경기 고양시 일산서구 호수로 817",
           "venue": "일산킨텍스 현대백화점 8층 삼성스토어 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wncowedding05": {
       "idx": 1549,
@@ -1476,6 +1452,32 @@
           "sigungu_en": "suwon",
           "address": "경기 수원시 권선구 세화로134번길 31",
           "venue": "홈씨씨인테리어 수원점"
+        }
+      },
+      "revenue": 35000
+    },
+    "howto14": {
+      "idx": 1114,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_PuI3jBxXaN7HeQQZQlqUPE7mtHB.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_3lqbxHZX.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_NPBaG3kxQG41HQbycB6o4jOjKZDOzd.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto14/",
+      "region": "gyeonggi",
+      "gather_name": "수원 메쎄 웨딩박람회",
+      "ad_info": "풍부한 경험 및 전통이 있는 하우투웨딩과 행복한 결혼 준비하세요!",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "경기 수원시 권선구 세화로134번길 37||(서둔동 296-124)||수원 메쎄 특별행사장",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "수원시",
+          "sigungu_en": "suwon",
+          "address": "경기 수원시 권선구 세화로134번길 37",
+          "venue": "수원 메쎄 특별행사장"
         }
       },
       "revenue": 35000
@@ -2129,7 +2131,6 @@
       "revenue": 30000
     },
     "palmfair04": {
-      "idx": 588,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6IDeUcRTp75kKns9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8bgeBFSRnx3TD.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Cwj1FUgT6salNqbp.jpg",
@@ -2151,8 +2152,7 @@
           "address": "부산광역시 부산진구 황령대로9",
           "venue": "유성빌딩 6층"
         }
-      },
-      "revenue": 35000
+      }
     },
     "wwedding04": {
       "idx": 1210,
@@ -2231,6 +2231,32 @@
         }
       },
       "revenue": 30000
+    },
+    "howto05": {
+      "idx": 1065,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_WQUCwqdn59xQqor5gQj7Fk5hBv49akd.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_qUNx9wUteLGXHmLvq5bxKv.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_adRkABSa5WXEpQBmjUvIRCSMx.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto05/",
+      "region": "chungcheong",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "ad_info": "풍부한 경험 및 전통이 있는 하우투웨딩과 행복한 결혼 준비하세요!",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "충북 청주시 흥덕구 오송읍 만수리 275-5||청주오스코 특별행사장",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "preprocessed": {
+        "location": {
+          "sido": "충북",
+          "sido_en": "chungbuk",
+          "sigungu": "청주시",
+          "sigungu_en": "cheongju",
+          "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
+          "venue": "청주오스코 특별행사장"
+        }
+      },
+      "revenue": 35000
     },
     "wedingcrowd66": {
       "idx": 1555,
@@ -2467,6 +2493,7 @@
       "revenue": 30000
     },
     "revewedding25": {
+      "idx": 1795,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_GObL2cRK.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_CVNmbl7t5FEes5hyXjU.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_qlKzGV2fpqPiwFfw.jpg",
@@ -2488,7 +2515,8 @@
           "address": "충남 천안시 동남구 만남로 43",
           "venue": "신세계백화점 천안아산점 A관 4층"
         }
-      }
+      },
+      "revenue": 50000
     },
     "connectwedding01": {
       "idx": 1810,
@@ -2673,6 +2701,7 @@
       "revenue": 30000
     },
     "palmfair03": {
+      "idx": 583,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Gm4G8AidODq8ivTk.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_24aoYFBfJ3AI1n5v.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_JPhhv8UJfJjkn8.jpg",
@@ -2694,7 +2723,8 @@
           "address": "대전 서구 둔산로 63",
           "venue": "대자빌딩 4층"
         }
-      }
+      },
+      "revenue": 35000
     },
     "wncowedding16": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_dcdiEOcPucMv1tr3IXN33X.jpg",
@@ -2849,6 +2879,30 @@
         }
       },
       "revenue": 30000
+    },
+    "howto27": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6tG3Tk7xjHpC2Hpu78Brm4t39NOzgao.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_VhQPYtlmBL.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_cED31T7iFrUMPblUpOh.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto27/",
+      "region": "chungcheong",
+      "gather_name": "청주 OSCO 허니문박람회",
+      "ad_info": "풍부한 경험 및 전통이 있는 하우투웨딩과 행복한 결혼 준비하세요!",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "충북 청주시 흥덕구 오송읍 만수리 275-5||청주오스코 특별행사장",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "preprocessed": {
+        "location": {
+          "sido": "충북",
+          "sido_en": "chungbuk",
+          "sigungu": "청주시",
+          "sigungu_en": "cheongju",
+          "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
+          "venue": "청주오스코 특별행사장"
+        }
+      }
     },
     "planittour02": {
       "idx": 1831,
@@ -3189,7 +3243,6 @@
       "revenue": 30000
     },
     "wedingcrowd07": {
-      "idx": 1077,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_JWebzKFK.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8PWnK9oNbdnj.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_nH5l2gBhPMgChtkj4bWKebKULQ8qHMq8.jpg",
@@ -3211,8 +3264,7 @@
           "address": "강원특별자치도 원주시 무실밤골길 29",
           "venue": "삼성스토어 원주점 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "withyouwedding07": {
       "idx": 1184,
