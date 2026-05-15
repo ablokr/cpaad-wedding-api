@@ -1,0 +1,206 @@
+{
+  "campaign_id": "howto27",
+  "gather_name": "청주 OSCO 허니문박람회",
+  "organizer_name": "하우투웨딩",
+  "seo_metadata": {
+    "title": "청주 OSCO 허니문박람회 | 스드메·허니문 상담 시 신세계 상품권 증정",
+    "meta_description": "결혼 준비 시작! 청주 OSCO 허니문박람회에서 스드메 패키지 상담부터 몰디브, 유럽 신혼여행 특가 혜택까지 모두 확인하세요. 방문만 해도 스타벅스 에코백 등 푸짐한 사은품이 쏟아집니다. 이번 주말, 예비 부부를 위한 특별한 혜택을 놓치지 마세요!",
+    "keywords": [
+      "청주웨딩박람회",
+      "청주결혼준비",
+      "청주허니문박람회",
+      "청주스드메",
+      "청주예식장",
+      "신혼여행패키지",
+      "허니문특가",
+      "결혼박람회혜택",
+      "웨딩홀상담",
+      "청주오스코"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 청주 오스코에서 열린 허니문 박람회 다녀온 후기 공유해요~ 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 이번에 다녀오니 스드메부터 신혼여행까지 한 번에 해결할 수 있어서 정말 좋더라고요. 특히 예비 부부들이 챙길 수 있는 혜택이 생각보다 훨씬 알차서 깜짝 놀랐답니다!",
+    "benefits_description": "제가 제일 유용했던 건 상담 시 제공되는 사은품이었는데요! 현장 방문만 해도 스타벅스 에코백을 주는데, 상담까지 받으면 신세계 상품권 10만원에 캠핑웨건까지 챙길 수 있어서 득템한 기분이었어요. 신혼여행도 몰디브, 유럽, 발리 등 지역별로 특가 프로모션이 있어서 예산에 맞춰 비교하기 너무 편했고요. 스드메도 무료 피팅이나 스튜디오 촬영 지원 같은 혜택이 많으니 꼭 상담받고 챙겨가세요!",
+    "summary_for_search": "청주 OSCO에서 열리는 허니문 웨딩박람회 정보입니다. 6월 6일~7일 진행되며 신혼여행 특가 프로모션, 스드메 상담 혜택, 방문 사은품 등 알찬 혜택을 제공합니다. 결혼 준비 중이라면 지금 무료 사전 신청하세요!"
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 최대 150만원 상당 할인 혜택!",
+    "secondary_headline": "청주 OSCO에서 만나는 프리미엄 신혼여행 & 스드메 올인원 솔루션",
+    "urgency_text": "이번 주말, 선착순 방문자 한정 사은품 증정!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 스타벅스 에코백 증정",
+      "상담 시 신세계 상품권 10만원권",
+      "광폭타이어 캠핑웨건"
+    ],
+    "contract_benefits": [
+      "최대 150만원 상당 허니문 할인",
+      "스튜디오 촬영 무료 지원 (10커플 추첨)",
+      "드레스 무료 피팅권 (30커플 추첨)",
+      "발리/코사무이 등 지역별 추가 특전"
+    ],
+    "special_events": [
+      "웨딩홀 식대 및 대관료 할인 상담",
+      "1:1 맞춤형 허니문 전문 상담",
+      "유럽/동남아 신혼여행지 특가 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "display_date": "06월 06일(토) ~ 06월 07일(일)",
+      "original_display_date": "06월 06일(토) ~ 06월 07일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
+      "venue": "청주오스코 특별행사장",
+      "parking_info": "무료주차",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정 (사은품 소진 시 조기 마감 가능)",
+    "trust_indicators": [
+      "허니문 전문 상담사 15년 차 경력",
+      "다양한 신혼여행지 특가 프로모션",
+      "웨딩홀 식대 및 대관료 최대 할인 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주 OSCO 허니문박람회",
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-07",
+      "location": {
+        "@type": "Place",
+        "name": "청주오스코",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충북 청주시 흥덕구 오송읍 만수리",
+          "addressLocality": "청주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하우투웨딩",
+        "url": "https://ad.cpaad.co.kr/howto27/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장인가요?",
+        "answer": "네, 사전 신청 시 무료로 입장이 가능하며 상담 혜택까지 받아보실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 청주 오스코 내에서 무료 주차가 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "현장 방문 시 스타벅스 에코백을 증정하며, 상담 시에는 신세계 상품권과 캠핑웨건 등 추가 사은품을 드립니다."
+      },
+      {
+        "question": "어떤 업체들이 나오나요?",
+        "answer": "웨딩홀, 스드메 패키지, 허니문 여행사 등 결혼 준비에 필요한 전문 업체들이 다수 참여합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+        "answer": "네, 15년 차 경력의 전문 상담사가 1:1로 배정되어 예산과 취향에 맞게 상세히 안내해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 막막함을 느끼는 20대 후반~30대 초반 예비 부부들을 주 대상으로 합니다. 특히 예식장 투어와 스드메 업체 선정, 신혼여행지 고민 등 필수 체크리스트를 한 번에 해결하고 싶은 커플들에게 최적화되어 있습니다. 결혼 준비 비용을 합리적으로 절감하고 싶은 분들과, 신뢰할 수 있는 전문가의 1:1 상담을 통해 나만의 맞춤 웨딩을 기획하고 싶은 분들에게 유용한 정보가 가득합니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사",
+      "스드메 패키지 업체",
+      "웨딩홀 전문 상담",
+      "드레스샵",
+      "스튜디오"
+    ],
+    "comparison_hooks": [
+      "현장 상담 시 신세계 상품권 등 즉시 체감 가능한 실속 혜택 제공",
+      "15년 차 베테랑 전문가의 1:1 맞춤형 허니문 컨설팅 보장",
+      "웨딩홀 식대 및 대관료 할인 혜택으로 예산 절감 효과 극대화"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 비용 절약법",
+      "허니문 여행사 추천",
+      "스드메 업체 비교",
+      "웨딩홀 대관료 할인",
+      "청주 웨딩박람회 일정",
+      "결혼식 예산 체크리스트",
+      "신혼여행지 추천",
+      "웨딩 컨설팅 상담 후기",
+      "박람회 무료 신청 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "청주 웨딩홀 추천 리스트",
+        "category": "venue_info"
+      },
+      {
+        "anchor": "스드메 비용 절약 노하우",
+        "category": "wedding_prep"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주 허니문박람회! 혜택이 대박이네요~",
+    "og_description": "상담만 받아도 신세계 상품권 10만원 증정! 청주 OSCO 웨딩박람회에서 결혼 준비 끝내요 :)",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#결혼준비",
+      "#청주결혼",
+      "#예비부부",
+      "#신혼여행",
+      "#스드메",
+      "#청주오스코",
+      "#허니문",
+      "#웨딩박람회후기",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/howto27/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6tG3Tk7xjHpC2Hpu78Brm4t39NOzgao.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_VhQPYtlmBL.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_cED31T7iFrUMPblUpOh.jpg"
+  }
+}
