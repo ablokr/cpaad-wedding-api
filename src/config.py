@@ -34,7 +34,7 @@ class AppConfig:
             # 기본값 (파일이 없을 경우)
             self._config = {
                 "api": {"url": "https://cpaad.co.kr/api/ad_json_date.php", "timeout": 30.0},
-                "ai": {"model": "gemini-3.1-flash-lite-preview"},
+                "ai": {"model": "gemini-3.1-flash-lite"},
                 "pipeline": {"max_workers": 6, "max_retries": 3}
             }
 
@@ -44,7 +44,7 @@ class AppConfig:
 
     @property
     def ai_model(self) -> str:
-        return os.getenv("GEMINI_MODEL", self._config.get("ai", {}).get("model", "gemini-3.1-flash-lite-preview"))
+        return os.getenv("GEMINI_MODEL", self._config.get("ai", {}).get("model", "gemini-3.1-flash-lite"))
 
     @property
     def max_workers(self) -> int:
