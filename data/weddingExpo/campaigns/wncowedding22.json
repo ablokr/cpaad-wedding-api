@@ -1,0 +1,212 @@
+{
+  "campaign_id": "wncowedding22",
+  "gather_name": "인천 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "인천 웨딩박람회 후기 | 상담만 받아도 선물 팡팡! 스드메 혜택 정리",
+    "meta_description": "인천 웨딩박람회 다녀온 생생 후기 공유해요! 방문만 해도 증정하는 사은품부터 스드메 현장 계약 혜택, 예물·혼수 특전까지 알차게 챙기는 꿀팁 정리했습니다. 결혼 준비 중이라면 놓치지 마세요!",
+    "keywords": [
+      "인천웨딩박람회",
+      "인천결혼준비",
+      "인천스드메",
+      "웨딩박람회후기",
+      "결혼준비박람회",
+      "인천웨딩홀",
+      "스드메패키지",
+      "예물박람회",
+      "인천혼수",
+      "웨딩박람회사은품"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 인천 웨딩박람회 다녀온 따끈따끈한 후기 공유해요~ 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 이번 박람회 덕분에 스드메부터 혼수까지 한 번에 정리할 수 있어서 진짜 편하더라고요!",
+    "benefits_description": "방문만 해도 100% 증정하는 사은품부터 일단 챙기세요! 저도 선착순 미니캐리어랑 웨딩다이어리 받았는데 퀄리티가 생각보다 너무 좋아서 놀랐어요. 무엇보다 현장에서 직접 드레스 피팅도 해보고, 전문가한테 1:1로 견적 비교까지 들으니까 훨씬 명확해지더라고요. 계약 혜택으로 가전제품이나 현장 할인까지 쏠쏠하게 챙길 수 있으니까, 결혼 준비 중인 분들은 이번 주말에 꼭 한번 들러보시는 거 추천드려요!",
+    "summary_for_search": "인천 웨딩박람회에서 스드메, 예물, 혼수까지 한 번에 상담받고 실속 있는 혜택 챙기세요. 방문 시 100% 증정 사은품과 현장 계약 할인, 전문가 1:1 컨설팅이 준비되어 있습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 인천 웨딩박람회 방문하고 혜택 다 가져가세요!",
+    "secondary_headline": "스드메, 혼수, 예물까지 한 번에! 지금 등록 시 현장 상담 혜택과 사은품 증정",
+    "urgency_text": "선착순 방문 사은품 소진 시 조기 마감될 수 있으니 지금 바로 신청하세요!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "선착순 20쌍 한정 미니캐리어",
+      "방문객 전원 웨딩다이어리",
+      "인기 웨딩잡지 1종 증정",
+      "롯데백화점 상품권"
+    ],
+    "contract_benefits": [
+      "스드메 현장 계약 시 최고급 웨딩액자 증정",
+      "계약 시 가전제품 및 할인 혜택",
+      "허니문 여행권 및 여행지 특전 제공",
+      "예물/한복/정장 계약 시 현장 축하금 및 사은품 증정"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "웨딩홀 무료 섭외 및 대관료 할인",
+      "스튜디오 현장 투어",
+      "신랑 예복 및 한복 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "display_date": "06월 06일(토) ~ 06월 07일(일)",
+      "original_display_date": "06월 06일(토) ~ 06월 07일(일)"
+    },
+    "location": {
+      "sido": "인천",
+      "sido_en": "incheon",
+      "sigungu": "미추홀구",
+      "sigungu_en": "michuhol",
+      "address": "인천 미추홀구 연남로 35 롯데백화점 인천점 5층",
+      "venue": "LG전자베스트샵 특별행사장",
+      "parking_info": "현장 주차 가능 (행사장 문의)",
+      "region_code": "incheon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 서명 완료 시 증정",
+    "trust_indicators": [
+      "롯데백화점 제휴 브랜드",
+      "LG전자베스트샵 공식 특별행사장",
+      "현장 1:1 전문 상담 보장",
+      "신뢰할 수 있는 웨딩 입점 업체"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "인천 웨딩박람회",
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-07",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "인천 미추홀구",
+          "addressLocality": "인천",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding22/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문만 해도 선물을 주나요?",
+        "answer": "네, 상담 완료 고객 대상 선착순 미니캐리어 및 웨딩다이어리 등 다양한 사은품을 증정합니다."
+      },
+      {
+        "question": "스드메 계약 시 어떤 혜택이 있나요?",
+        "answer": "현장 계약 시 최고급 웨딩액자 증정, 스튜디오 무료 업그레이드 등 박람회 전용 특전이 제공됩니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "홈페이지에서 예식 예정일과 연락처를 입력하여 무료 상담 신청을 남기시면 됩니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 행사 장소인 LG전자베스트샵 내 주차 공간을 이용하실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "인천 및 인근 지역에서 결혼을 앞두고 예식장부터 신혼여행까지 체계적인 준비를 고민하는 예비부부들을 위한 맞춤형 행사입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 2030 예비부부, 스드메 패키지 가격을 투명하게 비교하고 싶은 커플, 혼수 가전과 예물, 예복을 한곳에서 해결하고 싶은 분들에게 최적화되어 있습니다. 실질적인 계약 혜택과 상담을 통해 예산을 합리적으로 설계하고 싶은 신혼부부라면 누구든 방문 가능합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "웨딩 드레스샵",
+      "메이크업 전문 업체",
+      "허니문 여행사",
+      "예물 및 다이아몬드 브랜드",
+      "맞춤 정장 및 예복 전문점",
+      "혼수 한복 전문점"
+    ],
+    "comparison_hooks": [
+      "현장에서 즉시 받을 수 있는 계약 축하금 및 사은품 대거 포함",
+      "1:1 전문가 상담을 통한 투명한 가격 비교 및 맞춤 견적",
+      "드레스 무료 피팅 및 스튜디오 투어 등 실물 확인 가능한 현장 체험"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "인천 결혼 준비 비용",
+      "웨딩박람회 혜택 비교",
+      "스드메 업체 추천",
+      "인천 웨딩홀 투어",
+      "신혼여행 패키지 추천",
+      "맞춤 정장 가격대",
+      "웨딩 다이어리 받는 법",
+      "박람회 계약 사은품",
+      "결혼 준비 순서",
+      "인천 혼수 가전 할인"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "인천 웨딩홀 추천 리스트",
+        "category": "venue_info"
+      },
+      {
+        "anchor": "2025 스드메 견적 비교",
+        "category": "sdm_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예복",
+      "웨딩드레스",
+      "메이크업"
+    ]
+  },
+  "social_meta": {
+    "og_title": "인천 웨딩박람회, 방문만 해도 100% 선물 증정!",
+    "og_description": "스드메, 혼수, 예물까지 한 번에 끝내는 인천 웨딩박람회! 지금 상담 신청하고 현장 특별 혜택 챙겨가세요.",
+    "hashtags": [
+      "#인천웨딩박람회",
+      "#결혼준비",
+      "#인천결혼",
+      "#스드메박람회",
+      "#신혼부부혜택",
+      "#인천예식장",
+      "#결혼준비꿀팁",
+      "#웨딩박람회후기",
+      "#예신스타그램",
+      "#인천혼수"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding22/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_NiHT3YbNMshM6.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_srBrsJzn54hAZbmsNucD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Z2rFWIVw.jpg"
+  }
+}
