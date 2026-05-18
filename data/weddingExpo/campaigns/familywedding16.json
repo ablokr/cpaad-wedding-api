@@ -1,0 +1,209 @@
+{
+  "idx": 1382,
+  "campaign_id": "familywedding16",
+  "gather_name": "수원 컨벤션 패밀리 웨딩박람회",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "수원 웨딩박람회 | 수원컨벤션센터 스드메 계약 시 최대 혜택",
+    "meta_description": "수원 컨벤션 패밀리 웨딩박람회 후기! 당일 계약 30% 할인부터 가전 사은품, 스타벅스 쿠폰까지. 결혼 준비의 모든 것, 6월 수원 박람회에서 합리적으로 해결하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "수원 결혼 준비",
+      "수원컨벤션센터 박람회",
+      "스드메 패키지",
+      "수원 웨딩홀",
+      "혼수 가전 할인",
+      "결혼 박람회 추천",
+      "웨딩박람회 방문 혜택",
+      "예물 예복 할인",
+      "수원 예식장"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 다녀온 수원 컨벤션 패밀리 웨딩박람회 후기 공유해요~ 결혼 준비 시작하면서 막막했는데, 생각보다 너무 알차서 깜짝 놀랐네요! 예비 신랑신부님들, 고민만 하지 마시고 꼭 한번 방문해 보세요.",
+    "benefits_description": "저는 드레스 쪽을 제일 꼼꼼히 봤는데 종류가 정말 많더라고요! 당일 계약하면 30%나 할인해 주는 곳도 있고, 가전 사은품부터 방문만 해도 주는 스타벅스 쿠폰까지 챙길 수 있어서 득템한 기분이에요. 특히 1:1 맞춤 상담이라 궁금했던 부분도 속 시원하게 해결했답니다. 소소하지만 혜택이 많으니 꼭 꼼꼼히 챙겨서 알뜰 결혼 준비 하세요!",
+    "summary_for_search": "수원컨벤션센터에서 열리는 수원 웨딩박람회! 6월 6일~7일 진행되며 당일 계약 30% 할인, 방문 상담 사은품 등 신혼부부를 위한 풍성한 혜택이 가득합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 수원에서 한방에 끝내기! 당일 계약 시 최대 30% 할인",
+    "secondary_headline": "스드메부터 혼수, 허니문까지 전문가 1:1 맞춤 상담으로 완벽하게",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 지금 사전 예약하세요!",
+    "call_to_action_text": "지금 무료 상담 신청하고 사은품 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 스타벅스 쿠폰 증정",
+      "박람회 참가자 전원 특별 선물 증정",
+      "방문객 전원 무료 주차권 지원"
+    ],
+    "contract_benefits": [
+      "당일 계약 시 최대 30% 할인",
+      "신부 스킨케어 서비스",
+      "계약 시 가전 사은품 증정",
+      "허니문 여행권 특별 혜택",
+      "예물/예복 25%~30% 할인"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "최신 웨딩 트렌드 큐레이션",
+      "1:1 전문가 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "display_date": "06월 06일(토) ~ 06월 07일(일)",
+      "original_display_date": "06월 06일(토) ~ 06월 07일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 특별행사장",
+      "parking_info": "방문객 대상 무료 주차권 제공",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 상담 확인 QR 스캔 시 증정",
+    "trust_indicators": [
+      "대한민국 선호도 1위 업체 참여",
+      "1:1 전문 웨딩 플래너 상담",
+      "공식 수원 컨벤션 센터 개최"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 컨벤션 패밀리 웨딩박람회",
+      "startDate": "2025-06-06",
+      "endDate": "2025-06-07",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 수원시",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/familywedding16/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문하면 주차는 어떻게 하나요?",
+        "answer": "수원컨벤션센터 내 주차 가능하며, 박람회 방문객에게는 무료 주차권을 지원해 드립니다."
+      },
+      {
+        "question": "스드메 패키지 계약 혜택이 궁금해요.",
+        "answer": "당일 계약 시 최대 30% 할인 및 신부 스킨케어 서비스, 다양한 가전 사은품 혜택이 준비되어 있습니다."
+      },
+      {
+        "question": "상담 예약은 필수인가요?",
+        "answer": "원활한 1:1 맞춤 상담을 위해 사전 예약을 권장해 드리며, 예약 시 방문 사은품 우선권을 드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "드레스, 스튜디오, 메이크업, 웨딩홀, 허니문 여행사, 예물, 예복, 혼수 가전 등 결혼 준비의 필수 업체들이 참여합니다."
+      },
+      {
+        "question": "결혼 준비 초보인데 상담받아도 될까요?",
+        "answer": "네, 그럼요! 1:1 전문가가 예산과 취향에 맞춰 결혼 준비 시작부터 끝까지 친절하게 안내해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜는 잡았지만 어디서부터 시작해야 할지 막막한 2030 예비부부, 스드메 비용과 업체별 스타일을 비교하며 합리적인 소비를 지향하는 커플, 혼수 가전부터 허니문까지 한곳에서 원스톱으로 해결하고 싶은 바쁜 직장인 예비 신혼부부를 대상으로 합니다. 결혼 준비의 불필요한 시행착오를 줄이고 싶거나, 박람회 전용 단독 할인 혜택을 통해 예산을 절감하고 싶은 모든 분께 적합합니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오·드레스·메이크업) 전문업체",
+      "수원 지역 주요 웨딩홀",
+      "혼수 가전 브랜드",
+      "예물·예복 및 한복 전문점",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 할인 30% 적용으로 최저가 보장",
+      "수원 최대 규모 입점 업체 및 1:1 맞춤형 전문가 상담 보장",
+      "방문만 해도 스타벅스 쿠폰 증정하는 혜택 중심 박람회"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 방문 후기",
+      "스드메 패키지 가격대",
+      "결혼 준비 체크리스트",
+      "수원 웨딩홀 추천",
+      "웨딩박람회 사은품 혜택",
+      "수원 예물 예복 할인",
+      "신혼 가전 준비하기",
+      "웨딩박람회 상담 예약 방법",
+      "수원 컨벤션센터 박람회 일정",
+      "결혼 준비 비용 절약 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 견적 비교하기",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 혜택 모음",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "결혼준비",
+      "혼수가전",
+      "예물",
+      "예복",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩박람회! 6월 수원컨벤션센터 혜택 정리",
+    "og_description": "당일 계약 30% 할인! 6월 수원 웨딩박람회 방문하고 사은품이랑 특별 혜택 다 챙겨가세요!",
+    "hashtags": [
+      "#웨딩박람회",
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#수원웨딩홀",
+      "#신혼가전",
+      "#결혼박람회",
+      "#수원컨벤션센터"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/familywedding16/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lyxEohuHXRF5u.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kaWbSvTAxA3dy.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_qHV2wavoD4FR5CGyegrfO1bqA.jpg"
+  },
+  "revenue": 30000
+}
