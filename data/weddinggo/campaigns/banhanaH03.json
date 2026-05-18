@@ -1,0 +1,201 @@
+{
+  "idx": 1145,
+  "campaign_id": "banhanaH03",
+  "gather_name": "대구 반하나 허니문 박람회",
+  "organizer_name": "반하나웨딩 컨설팅",
+  "seo_metadata": {
+    "title": "대구 허니문 박람회 | 신혼여행 특가 및 단독 프로모션 혜택",
+    "meta_description": "대구 신세계백화점에서 열리는 허니문 박람회! 10년 경력 전문가의 1:1 맞춤 상담, 최대 230만원 상당 특가 혜택을 지금 확인하세요. 선착순 무료 참가 신청 중.",
+    "keywords": [
+      "대구허니문박람회",
+      "대구웨딩박람회",
+      "대구신혼여행",
+      "신혼여행박람회",
+      "허니문특가",
+      "결혼준비",
+      "신혼여행지추천",
+      "반하나투어",
+      "신혼부부혜택",
+      "예비부부"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘만큼 중요한 신혼여행, 어디로 갈지 고민이신가요? 대구 신세계백화점에서 개최되는 허니문 박람회에서 10년 경력의 전문가와 함께 최적의 여행지를 찾아보세요. 안전은 기본, 파격적인 특전까지 준비된 이번 박람회에서 완벽한 신혼여행을 계획해 보세요.",
+    "benefits_description": "이번 허니문 박람회는 단순한 상담을 넘어 차별화된 혜택을 제공합니다. 계약 시 최대 230만원 상당의 할인 혜택은 물론, 각 여행지별로 제공되는 리조트 업그레이드, 전용 가이드 서비스, 무료 스냅 촬영 등 허니문만을 위한 독점 특전이 가득합니다. 12만명이 선택한 검증된 여행사와 함께 평생 잊지 못할 추억을 합리적인 예산으로 준비할 기회입니다.",
+    "summary_for_search": "대구 신세계백화점에서 만나는 허니문 박람회! 10년 무사고 여행사가 제안하는 최저가 견적과 리조트 업그레이드 혜택을 누리세요. 지금 사전 예약 시 무료 입장 가능합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "신혼여행, 아직도 고민하세요? 최저가 보장 230만원 혜택!",
+    "secondary_headline": "10년 무사고 여행사 반하나투어가 제안하는 안전하고 완벽한 허니문 설계",
+    "urgency_text": "박람회 기간 한정! 선착순 특별 프로모션 적용",
+    "call_to_action_text": "지금 무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 신청 시 박람회 무료 입장"
+    ],
+    "contract_benefits": [
+      "타 박람회 대비 평균 10% 추가 할인",
+      "여행지별 리조트 업그레이드 및 무료 스냅 촬영",
+      "전 일정 단독 전용 가이드 및 차량 제공",
+      "최대 230만원 상당의 허니문 특전"
+    ],
+    "special_events": [
+      "10년 경력 전문가 1:1 맞춤 상담",
+      "실시간 최저가 견적 비교 시스템",
+      "여행자 배상 책임 보험 10억 가입 인증"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-05-23",
+      "end_date": "2026-05-24",
+      "display_date": "05월 23일(토) ~ 05월 24일(일)",
+      "original_display_date": "05월 23일(토) ~ 05월 24일(일)"
+    },
+    "location": {
+      "sido": "대구",
+      "sido_en": "daegu",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "대구 동구 동부로 149",
+      "venue": "신세계백화점 대구점 7층 LG베스트샵",
+      "parking_info": "신세계백화점 대구점 주차장 이용 가능",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "방문 희망 일자"
+    ],
+    "gift_conditions": "상담 완료 및 상담카드 작성 시 혜택 제공",
+    "trust_indicators": [
+      "122,876명 누적 고객 만족도 1위",
+      "10년 무사고 여행사 인증",
+      "여행자 배상 책임 보험 10억 가입"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대구 반하나 허니문 박람회",
+      "startDate": "2025-05-23",
+      "endDate": "2025-05-24",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 대구점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "동구 동부로 149",
+          "addressLocality": "대구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "반하나웨딩 컨설팅",
+        "url": "https://ad.cpaad.co.kr/banhanaH03/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "신세계백화점 대구점 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "보통 1:1 상담은 약 40분~1시간 정도 소요됩니다."
+      },
+      {
+        "question": "타 박람회보다 싼가요?",
+        "answer": "반하나투어만의 직거래 시스템으로 타 박람회 대비 평균 10% 저렴한 견적을 보장합니다."
+      },
+      {
+        "question": "예약 후 어떻게 진행되나요?",
+        "answer": "신청 완료 후 전문 상담사가 개별 연락을 통해 세부 일정 및 상담 시간을 조율합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 완벽한 신혼여행을 계획하는 예비 신혼부부를 대상으로 합니다. 특히 스드메 준비와 함께 효율적인 비용으로 해외 여행을 준비하려는 커플, 신뢰할 수 있는 여행사를 찾지만 여행지 선택에 막막함을 느끼는 커플들을 위해 전문적인 비교 상담과 현지 특화 프로모션을 제공합니다. 6개월 이내 예식을 앞둔 예비부부라면 필수 확인 요소입니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사(반하나투어)",
+      "리조트 및 호텔 제휴 업체",
+      "항공권 예약 대행",
+      "현지 투어 프로그램 업체"
+    ],
+    "comparison_hooks": [
+      "직거래 시스템을 통한 타 박람회 대비 평균 10% 할인",
+      "여행자 배상 책임 10억 보험 가입으로 신뢰도 강화",
+      "10년 무사고 경력의 신혼여행 전문 플래너 1:1 배치"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행 준비물",
+      "허니문 여행지 추천",
+      "신혼여행 비용 계산",
+      "대구 예식장 추천",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 비용",
+      "반하나투어 후기",
+      "신혼여행지 발리 코사무이 비교",
+      "웨딩박람회 방문 팁",
+      "해외 신혼여행 준비 절차"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대구 웨딩박람회 일정 안내",
+        "category": "웨딩박람회"
+      }
+    ],
+    "semantic_keywords": [
+      "신혼여행",
+      "허니문",
+      "결혼준비",
+      "리조트",
+      "스냅촬영",
+      "여행사",
+      "최저가견적",
+      "예비부부",
+      "여행보험",
+      "박람회특전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대구 허니문 박람회 | 신혼여행 특가!",
+    "og_description": "최저가 보장 230만원 혜택! 대구 신세계백화점에서 만나는 허니문 박람회 사전 신청하세요.",
+    "hashtags": [
+      "#대구웨딩박람회",
+      "#대구허니문박람회",
+      "#신혼여행",
+      "#결혼준비",
+      "#반하나투어",
+      "#신혼부부",
+      "#예비부부",
+      "#허니문특가",
+      "#대구데이트",
+      "#신혼여행지추천"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/banhanaH03/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_efDTwxSv.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_2RZ6Qm8McG7cjJM5LP88F5LnxP.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_OKUG6bd3wEQJwCBbTBlrADhRg2o.jpg"
+  },
+  "revenue": 30000
+}
