@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-19T13:00:03Z",
-  "total_ad_count": 148,
+  "last_updated": "2026-05-19T16:00:03Z",
+  "total_ad_count": 150,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -718,6 +718,20 @@
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
     },
+    "wedingcrowd09": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_p7EPhp3DyKhGckdGtLc.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_C355gJlc74i1pcEzCguPcyBhmCE.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_oRUuEM6psHVS5yDc9Ddxh2oVyQQO1uOz.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd09/",
+      "region": "gyeonggi",
+      "gather_name": "용인 웨딩크라우드 웨딩박람회",
+      "ad_info": "삼성스토어에서 열리는 용인 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 30일(토) ~ 05월 31일(일)",
+      "ad_location": "경기 용인시 기흥구 용구대로 2458||(보정동 692-2)||삼성스토어 용인구성",
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-31"
+    },
     "wedingcrowd91": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fSDihoAa.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_2fAEN47NR1HaTgiRI61FWRx.jpg",
@@ -1347,6 +1361,20 @@
       "ad_location": "대전 유성구 계룡로 119||(봉명동 549-11)||NC백화점 대전유성점 7층 특별행사장",
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
+    },
+    "wedingcrowd01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8IlmtgGhliZDw4QVzkMJHiV.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_H4ajAxKwJxHE95jRfsh.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_attNVpDJ1A6OxkMN4KqPU.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd01/",
+      "region": "chungcheong",
+      "gather_name": "천안아산 초대형웨딩박람회",
+      "ad_info": "모나밸리에서 진행하는 천안/아산 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "충남 아산시 순천향로 624||(장존동 185-7)||모나밸리 특별행사장",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
     },
     "withyouwedding35": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_vlAzlZN3U1bJ8Kg.jpg",
