@@ -320,6 +320,7 @@
     "revenue": 40000
   },
   "weddingdc05": {
+    "idx": 918,
     "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_n8ZrsFgYcbQINPY1IYLnEuLmvB9.jpg",
     "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_srW8GFi58YXJji.jpg",
     "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_8GjJTjvx8WKAMiB2ne.jpg",
@@ -331,7 +332,8 @@
     "ad_date": "내가 원하는 스타일의 스드메를 남들보다 더 할인된 가격으로!",
     "ad_location": "제이웨딩",
     "start_date": "2019-12-14",
-    "end_date": "2035-03-11"
+    "end_date": "2035-03-11",
+    "revenue": 40000
   },
   "whw03": {
     "idx": 1039,
@@ -394,8 +396,7 @@
     "ad_date": "05월 23일(토) ~ 05월 24일(일)",
     "ad_location": "전북 전주시 완산구 백제대로 311길||(중화산동 2가 578-4)||웨딩스퀘어",
     "start_date": "2026-05-23",
-    "end_date": "2026-05-24",
-    "revenue": 40000
+    "end_date": "2026-05-24"
   },
   "whw06": {
     "idx": 1647,
@@ -1160,7 +1161,7 @@
     "ad_info": "인천/송도 최대 규모 웨딩박람회",
     "ad_year": "2026",
     "ad_date": "05월 30일(토) ~ 05월 31일(일)",
-    "ad_location": "인천 연수구 인천타워대로 251 1-2,12-18층 (송도동 33-1)||홀리데이인 인천송도 특별행사장",
+    "ad_location": "인천 연수구 센트럴로 123||(송도동 6-1)||송도컨벤시아 특별행사장",
     "start_date": "2026-05-30",
     "end_date": "2026-05-31",
     "revenue": 30000
@@ -2349,6 +2350,38 @@
     "ad_year": "2026",
     "ad_date": "05월 30일(토) ~ 05월 31일(일)",
     "ad_location": "경기 부천시 길주로 254||(중동 1149-3)||삼성스토어 부천중동점 2층 특별행사장",
+    "start_date": "2026-05-30",
+    "end_date": "2026-05-31",
+    "revenue": 30000
+  },
+  "wedingcrowd01": {
+    "idx": 1068,
+    "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8IlmtgGhliZDw4QVzkMJHiV.jpg",
+    "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_H4ajAxKwJxHE95jRfsh.jpg",
+    "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_attNVpDJ1A6OxkMN4KqPU.jpg",
+    "ad_url": "https://ad.cpaad.co.kr/wedingcrowd01/",
+    "region": "chungcheong",
+    "gather_name": "천안아산 초대형웨딩박람회",
+    "ad_info": "모나밸리에서 진행하는 천안/아산 최대규모 웨딩박람회",
+    "ad_year": "2026",
+    "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+    "ad_location": "충남 아산시 순천향로 624||(장존동 185-7)||모나밸리 특별행사장",
+    "start_date": "2026-06-06",
+    "end_date": "2026-06-07",
+    "revenue": 30000
+  },
+  "wedingcrowd09": {
+    "idx": 1083,
+    "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_p7EPhp3DyKhGckdGtLc.jpg",
+    "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_C355gJlc74i1pcEzCguPcyBhmCE.jpg",
+    "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_oRUuEM6psHVS5yDc9Ddxh2oVyQQO1uOz.jpg",
+    "ad_url": "https://ad.cpaad.co.kr/wedingcrowd09/",
+    "region": "gyeonggi",
+    "gather_name": "용인 웨딩크라우드 웨딩박람회",
+    "ad_info": "삼성스토어에서 열리는 용인 최대규모 웨딩박람회",
+    "ad_year": "2026",
+    "ad_date": "05월 30일(토) ~ 05월 31일(일)",
+    "ad_location": "경기 용인시 기흥구 용구대로 2458||(보정동 692-2)||삼성스토어 용인구성",
     "start_date": "2026-05-30",
     "end_date": "2026-05-31",
     "revenue": 30000
