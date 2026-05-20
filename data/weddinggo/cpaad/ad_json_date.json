@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-19T16:00:03Z",
-  "total_ad_count": 150,
+  "last_updated": "2026-05-20T10:00:03Z",
+  "total_ad_count": 151,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -1863,6 +1863,20 @@
       "ad_year": "2026",
       "ad_date": "05월 30일(토) ~ 05월 31일(일)",
       "ad_location": "강원특별자치도 동해시 동굴로 125-3||(천곡동 918)||동해현진관광호텔",
+      "start_date": "2026-05-30",
+      "end_date": "2026-05-31"
+    },
+    "wwedding10": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_8BLGRbUHUhviM4ZY.png",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_9Pds4AeibpEQ.png",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_y3iCoyvuXtiCJ.png",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding10/",
+      "region": "gyeongsang",
+      "gather_name": "울산 W웨딩박람회",
+      "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "05월 30일(토) ~ 05월 31일(일)",
+      "ad_location": "울산 남구 월평로203번길 5 2층||(삼산동 1502-10)||W웨딩 울산지사",
       "start_date": "2026-05-30",
       "end_date": "2026-05-31"
     },
