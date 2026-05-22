@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-21T16:00:02Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-05-22T10:00:02Z",
+  "total_ad_count": 157,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -353,6 +353,20 @@
       "ad_location": "서울 송파구 올림픽로 240||(잠실동 40-1)||롯데백화점 잠실점 10층 LG전자",
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
+    },
+    "planon18": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_zVb4XpbMO1UkDbsCnN.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_LXtl4BQoZyZqhQANf6XhonC3L5VMzGfJ.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8whxTHUHgYV9byA25QFZ6CrrVfe81tF8.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/planon18/",
+      "region": "capital",
+      "gather_name": "강남 신한카드 직거래 웨딩박람회",
+      "ad_info": "유통마진 걷어낸 정직한 직거래, 신한카드 결제시 최대 5% 캐시백",
+      "ad_year": "2026",
+      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_location": "서울 강남구 테헤란로 518||(대치동 944-31)||섬유센터 3층 이벤트홀",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
     },
     "wedingcrowd93": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_JAEVyJs8SjIK9EBvm.jpg",
@@ -1879,6 +1893,20 @@
       "ad_location": "강원특별자치도 속초시 동해대로 4141 3층||(조양동 1500-1)||삼성스토어 속초점",
       "start_date": "2026-05-23",
       "end_date": "2026-05-24"
+    },
+    "connectwedding09": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_IFqYsJsBSrRsHa2.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_KgADtk5vXBCgvvaLcyCCZonG.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_K2rueO14SYjgR2jrn7baY3Gj.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding09/",
+      "region": "gangwon",
+      "gather_name": "쏠비치 양양 웨딩박람회",
+      "ad_info": "가격이 아닌 ‘가치’로 완성하는 웨딩 경험으로 설계하는 웨딩 컨설팅",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "강원특별자치도 양양군 손양면 선사유적로 678||(손양면 오산리 23-4)||쏠비치 양양",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
     },
     "revewedding01tw": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_RnEC8bGRwgGD9zwGF.jpg",
