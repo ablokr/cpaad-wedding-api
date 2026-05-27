@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-27T10:00:03Z",
-  "total_ad_count": 161,
+  "last_updated": "2026-05-27T13:00:04Z",
+  "total_ad_count": 162,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -297,6 +297,20 @@
       "ad_location": "서울 송파구 올림픽로 240||(잠실동 40-1)||롯데백화점 잠실점 10층 LG전자",
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
+    },
+    "weddingan04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8t7TTFK1JKoASBYxcJy98VBYMR.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_F4BwYTKA1gtjgTR1.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_MYsuJkNtpNQOa27Zc9ULZvrrp9qEBd.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingan04/",
+      "region": "capital",
+      "gather_name": "영등포 웨딩박람회",
+      "ad_info": "웨딩홀 무료섭외 최대혜택/최다입점/스드메특가",
+      "ad_year": "2026",
+      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_location": "서울 영등포구 경인로 846||(영등포동 618-496)||롯데백화점 영등포점 9층",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
     },
     "revewedding28": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6YGKT9DG5hijuo3xRwtCPJk35rWF.jpg",
@@ -717,20 +731,6 @@
       "ad_location": "경기 평택시 평택로 51||(평택동 185-568)||LG전자베스트샵 AK PLAZA 평택점 6층",
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
-    },
-    "wedingcrowd09": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_p7EPhp3DyKhGckdGtLc.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_C355gJlc74i1pcEzCguPcyBhmCE.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_oRUuEM6psHVS5yDc9Ddxh2oVyQQO1uOz.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd09/",
-      "region": "gyeonggi",
-      "gather_name": "용인 웨딩크라우드 웨딩박람회",
-      "ad_info": "삼성스토어에서 열리는 용인 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "05월 30일(토) ~ 05월 31일(일)",
-      "ad_location": "경기 용인시 기흥구 용구대로 2458||(보정동 692-2)||삼성스토어 용인구성",
-      "start_date": "2026-05-30",
-      "end_date": "2026-05-31"
     },
     "reveweddingE06": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_sYfwlUkg6f7XuR88iLWFf7Wrs4HgL7.jpg",
@@ -2187,6 +2187,20 @@
       "ad_location": "제주특별자치도 제주시 동광로 34||(이도이동 1174-1)||호텔샬롬 제주",
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
+    },
+    "laelwedding11": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_etplTapIifcWOdrzwWzNICXJ.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_HN8Iu5qIq1hwazBYZaEXYE.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ULEQo1UF.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/laelwedding11/",
+      "region": "jeju",
+      "gather_name": "제주 롯데시티호텔 웨딩박람회",
+      "ad_info": "제주 롯데시티호텔에 열리는 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_location": "제주특별자치도 제주시 도령로 83||(연동 2324-6)||롯데시티호텔 제주",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
     },
     "weddingdc04A": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/201912/4f2b98a19d17b4d6ba16369462b2a231_5kkkKZbSdoU6vN.jpg",
