@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-27T13:00:04Z",
-  "total_ad_count": 162,
+  "last_updated": "2026-05-27T16:00:02Z",
+  "total_ad_count": 163,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -649,6 +649,30 @@
         }
       },
       "revenue": 30000
+    },
+    "weddingan05": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_kTc5F9KqnthClyM1O8bPkNova21Y83J.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_3IBoZS4KXZG2F5C8UGN5oq382RiqKCL.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_EAABbEY2lBCjnM5.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingan05/",
+      "region": "capital",
+      "gather_name": "서울 웨딩박람회",
+      "ad_info": "웨딩홀 무료섭외 최대혜택/최다입점/스드메특가",
+      "ad_year": "2026",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
+      "ad_location": "서울 중구 남대문로 81||(소공동 1)||롯데백화점 본점 8층 특별행사장",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "preprocessed": {
+        "location": {
+          "sido": "서울",
+          "sido_en": "seoul",
+          "sigungu": "중구",
+          "sigungu_en": "jung",
+          "address": "서울 중구 남대문로 81",
+          "venue": "롯데백화점 본점 8층 특별행사장"
+        }
+      }
     },
     "hannawedding01": {
       "idx": 1283,
@@ -2572,32 +2596,6 @@
       },
       "revenue": 30000
     },
-    "wedingcrowd100": {
-      "idx": 1746,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_WIGu8F9kzccplfOFQ.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_7tqhxsJVKwhpDmz.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_SKPPz1Wt31dAc3IosaWqu5sjt6zq3.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd100/",
-      "region": "chungcheong",
-      "gather_name": "청주 커넥트 현대 웨딩박람회",
-      "ad_info": "안심보장 제도로 믿을 수 있는 청주 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
-      "ad_location": "충북 청주시 흥덕구 2순환로 1225 1-5층||(가경동 1416)||커넥트현대 청주",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "preprocessed": {
-        "location": {
-          "sido": "충북",
-          "sido_en": "chungbuk",
-          "sigungu": "청주시",
-          "sigungu_en": "cheongju",
-          "address": "충북 청주시 흥덕구 2순환로 1225 1-5층",
-          "venue": "커넥트현대 청주"
-        }
-      },
-      "revenue": 30000
-    },
     "emywedding01": {
       "idx": 1765,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_jwDLbt8tS8PBFs8sGQLCh7O33Z7.jpg",
@@ -2958,6 +2956,32 @@
           "sigungu_en": "cheongju",
           "address": "충북 청주시 서원구 용평로113번길 35",
           "venue": "라라웨딩페어"
+        }
+      },
+      "revenue": 30000
+    },
+    "planittour01": {
+      "idx": 1772,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_YNJ66PzFXVxqVrMts8w.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_rfiULEsY.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_147d4sW75DdPrpalEX2j8bGRQmHzPbL9.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/planittour01/",
+      "region": "chungcheong",
+      "gather_name": "대전 DCC 신혼여행박람회",
+      "ad_info": "대전최대규모 허니문 박람회 플래닛투어와 특별한 신혼여행준비",
+      "ad_year": "2026",
+      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
+      "ad_location": "대전 유성구 엑스포로 107||(도룡동 4-19)||DCC 대전 컨벤션센터 1층 특별행사장",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "preprocessed": {
+        "location": {
+          "sido": "대전",
+          "sido_en": "daejeon",
+          "sigungu": "유성구",
+          "sigungu_en": "yuseong",
+          "address": "대전 유성구 엑스포로 107",
+          "venue": "DCC 대전 컨벤션센터 1층 특별행사장"
         }
       },
       "revenue": 30000
