@@ -1,0 +1,207 @@
+{
+  "idx": 1510,
+  "campaign_id": "paranfair02",
+  "gather_name": "진주 웨딩박람회",
+  "organizer_name": "파란애드컴퍼니",
+  "seo_metadata": {
+    "title": "진주 웨딩박람회 | LG전자 베스트샵 특별 혜택 및 스드메 할인",
+    "meta_description": "진주 지역 예비부부를 위한 최대 규모 웨딩박람회! 06월 13일~14일 LG전자 베스트샵 진주시청점에서 스드메 최대 34% 할인, 허니문 최대 150만원 지원 등 풍성한 혜택을 지금 바로 확인하고 무료 초대권을 신청하세요.",
+    "keywords": [
+      "진주웨딩박람회",
+      "진주결혼준비",
+      "진주스드메",
+      "LG전자베스트샵진주시청점",
+      "경남웨딩박람회",
+      "웨딩홀추천",
+      "혼수준비",
+      "결혼예물",
+      "신혼여행패키지",
+      "진주웨딩컨설팅"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 진행되는 진주 웨딩박람회 정보 공유해요~ 결혼 준비 시작하면서 막막했는데, 이번 박람회 혜택이 진짜 알차더라고요. 6월 13일부터 14일까지 LG전자 베스트샵 진주시청점에서 열리는데, 스드메부터 혼수까지 한자리에서 다 해결할 수 있어서 너무 편할 것 같아요!",
+    "benefits_description": "이번 박람회 정말 혜택 끝판왕이에요! 스드메 계약 시 최대 34%까지 할인받을 수 있고, 웨딩드레스 무료 업그레이드에 혼수용품 최고 혜택까지 제공된다니 놓치기 너무 아깝죠. 특히 허니문 여행권 최대 150만원 지원이나 예물/한복 맞춤 시 사은품 증정도 준비되어 있어서, 발품 팔기 힘든 예비 부부들께 정말 추천드려요. 현장에서 직접 드레스나 예복 정보도 확인하고 전문가 상담도 받을 수 있으니 시간 절약 제대로 하실 거예요!",
+    "summary_for_search": "6월 13일~14일, LG전자 베스트샵 진주시청점에서 열리는 진주 웨딩박람회! 스드메 최대 34% 할인, 허니문 혜택 등 실속 있는 결혼 준비를 위한 다양한 정보와 현장 이벤트를 지금 바로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "진주 최대 규모! 웨딩박람회 스드메 최대 34% 할인",
+    "secondary_headline": "복잡한 결혼 준비, 전문가와 함께 가장 현명하게 해결하세요!",
+    "urgency_text": "이번 주말 딱 이틀간! 선착순 특별 혜택을 놓치지 마세요.",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "LG전자 베스트샵 가전 구매 시 최대 675만원 혜택",
+      "방문 상담 시 현장 특별 프로모션 적용"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최대 34% 할인",
+      "허니문 계약 시 최대 150만원 지원",
+      "웨딩드레스 무료 업그레이드",
+      "혼수용품 특별 할인 및 사은품 증정"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "1:1 전문 웨딩 플래닝 상담",
+      "혼수/가전 패키지별 사은품 증정"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "display_date": "06월 13일(토) ~ 06월 14일(일)",
+      "original_display_date": "06월 13일(토) ~ 06월 14일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "진주시",
+      "sigungu_en": "jinju",
+      "address": "경남 진주시 동진로 230 1~3층",
+      "venue": "LG전자베스트샵 진주시청점 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 및 계약 체결 완료 후 혜택 적용",
+    "trust_indicators": [
+      "검증된 프리미엄 웨딩 업체 입점",
+      "LG전자 베스트샵 공식 특별 행사장",
+      "1:1 전문 맞춤 플래닝 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "진주 웨딩박람회",
+      "startDate": "2025-06-13",
+      "endDate": "2025-06-14",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 진주시청점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "진주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파란애드컴퍼니",
+        "url": "https://ad.cpaad.co.kr/paranfair02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 상담 완료 시 다양한 사은품과 혜택이 준비되어 있으니 꼭 챙겨가세요."
+      },
+      {
+        "question": "스드메 비용은 얼마나 할인되나요?",
+        "answer": "계약 조건에 따라 최대 34%까지 할인 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "LG전자 베스트샵 진주시청점 전용 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "상단 페이지의 무료 초대권 신청 폼에 성함과 연락처, 예식 예정일을 기재하시면 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 어떻게 준비해야 할지 막막한 진주 및 경남 지역 예비부부들을 위한 맞춤형 박람회입니다. 스드메(스튜디오, 드레스, 메이크업)의 비용 합리성을 따지는 알뜰파 예비 신부, 최신 트렌드를 한자리에서 비교하고 싶은 신혼부부, 신뢰할 수 있는 예식장과 혼수 가전을 한꺼번에 상담받고자 하는 커플이라면 누구든 방문하여 전문가의 도움을 받을 수 있습니다. 결혼 준비의 전체 프로세스를 한눈에 파악하고 비용을 절감하는 전략을 얻어갈 수 있습니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 업체 20여 곳",
+      "드레스/메이크업 샵",
+      "웨딩홀(컨벤션) 전문 상담",
+      "허니문 여행사",
+      "혼수가전(LG전자)",
+      "예물/예복/한복 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최대 34% 파격 할인",
+      "LG전자 베스트샵과 연계된 혼수 가전 결합 혜택",
+      "검증된 업체들로만 구성된 1:1 맞춤 프리미엄 상담"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "진주 결혼식장 추천",
+      "경남 웨딩박람회 일정",
+      "진주 스드메 가격",
+      "결혼 준비 체크리스트",
+      "진주 혼수 가전 혜택",
+      "웨딩박람회 방문 후기",
+      "신혼여행 패키지 추천",
+      "진주 맞춤 예복 잘하는 곳",
+      "결혼 예물 트렌드",
+      "웨딩드레스 피팅 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "진주 웨딩박람회 일정 확인하기",
+        "category": "local_wedding_events"
+      },
+      {
+        "anchor": "스드메 패키지 가격 알아보기",
+        "category": "wedding_services"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "본식스냅",
+      "예복",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "진주 최대 웨딩박람회, 스드메 34% 할인!",
+    "og_description": "6/13~14, 진주에서 열리는 역대급 웨딩박람회! 무료 초대권 받고 혼수+스드메 혜택까지 챙기세요.",
+    "hashtags": [
+      "#진주웨딩박람회",
+      "#진주결혼준비",
+      "#진주스드메",
+      "#진주웨딩홀",
+      "#예비부부",
+      "#결혼준비",
+      "#LG전자베스트샵",
+      "#웨딩박람회혜택",
+      "#경남결혼",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/paranfair02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_W7uK3kxkBt2ZCNsRAKEqpHZsVkXYgr.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_i84b1sRCC5xWll.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_BtHOHFuw.jpg"
+  },
+  "revenue": 30000
+}

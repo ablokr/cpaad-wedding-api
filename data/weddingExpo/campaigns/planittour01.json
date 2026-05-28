@@ -1,0 +1,197 @@
+{
+  "idx": 1772,
+  "campaign_id": "planittour01",
+  "gather_name": "대전 DCC 신혼여행박람회",
+  "organizer_name": "플래닛투어",
+  "seo_metadata": {
+    "title": "대전 DCC 신혼여행박람회 | 상담만 받아도 100% 선물 증정!",
+    "meta_description": "결혼 준비 필수 코스! 대전 DCC 신혼여행박람회에서 허니문 상담받고 최대 60만원 할인과 5성급 호텔 숙박권까지 챙겨가세요. 지금 사전예약하고 26인치 캐리어 선물도 받으세요!",
+    "keywords": [
+      "대전웨딩박람회",
+      "대전신혼여행박람회",
+      "DCC웨딩박람회",
+      "허니문준비",
+      "결혼준비박람회",
+      "플래닛투어",
+      "대전예비부부",
+      "대전혼수박람회",
+      "신혼여행패키지",
+      "웨딩박람회혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비로 바쁜 요즘, 대전 예비부부라면 꼭 가봐야 할 대전 DCC 신혼여행박람회 후기 들고 왔어요! 생각보다 알차고 혜택도 빵빵해서 너무 만족스러웠거든요.",
+    "benefits_description": "이번 박람회는 진짜 혜택이 어마어마해요! 우선 상담만 받아도 허니문 파우치나 어메니티 5종 세트 중 하나를 100% 증정해주고, 현장에서 계약하면 무려 60만원 상당의 추가 할인 혜택이 있어요. 특히 사전 예약자에게는 16만원 상당의 26인치 캐리어까지 주니까 무조건 미리 신청하고 가는 게 이득이에요! 5성급 호텔 숙박권 이벤트도 놓치지 마세요.",
+    "summary_for_search": "대전 DCC에서 열리는 신혼여행박람회! 6월 27일-28일 양일간 진행되며, 상담만 받아도 100% 증정품과 계약 시 60만원 추가 할인, 캐리어 증정 등 역대급 혜택을 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "상담만 받아도 100% 선물! 대전 DCC 신혼여행박람회",
+    "secondary_headline": "최대 60만원 할인에 5성급 호텔 숙박권까지, 결혼 준비의 모든 것을 한자리에!",
+    "urgency_text": "선착순 사전예약 시 26인치 캐리어 증정(16만원 상당)",
+    "call_to_action_text": "무료 참가 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 시 허니문 파우치 또는 어메니티 5종 세트 택 1",
+      "선착순 사전예약자 26인치 캐리어 증정 (16만원 상당)"
+    ],
+    "contract_benefits": [
+      "허니문 현장 계약 시 최대 60만원 추가 할인",
+      "현장 계약 고객 100% 인천공항 5성급 호텔 1박 숙박권 증정"
+    ],
+    "special_events": [
+      "리뷰 작성 시 신세계상품권 또는 스타벅스 기프티콘 증정"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "display_date": "06월 27일(토) ~ 06월 28일(일)",
+      "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "유성구",
+      "sigungu_en": "yuseong",
+      "address": "대전 유성구 엑스포로 107",
+      "venue": "DCC 대전 컨벤션센터 1층 특별행사장",
+      "parking_info": "무료 주차권 증정",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "신랑/신부 성함",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "박람회 안내데스크에서 신청 내역 확인 후 증정",
+    "trust_indicators": [
+      "16년 차 전문 여행사 플래닛투어 주관",
+      "대전·충청 지역 최다 고객 후기 보유",
+      "1:1 맞춤형 상담 서비스 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 DCC 신혼여행박람회",
+      "startDate": "2025-06-27T10:00:00",
+      "endDate": "2025-06-28T18:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "DCC 대전 컨벤션센터 1층",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "유성구 엑스포로 107",
+          "addressLocality": "대전",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "플래닛투어",
+        "url": "https://ad.cpaad.co.kr/planittour01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 예약하시면 무료로 입장하실 수 있으며 방문 시 다양한 사은품 혜택도 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장 방문객에게는 무료 주차권을 제공해 드립니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 상담만 받아도 허니문 파우치나 어메니티 세트 중 하나를 100% 증정합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 게 있나요?",
+        "answer": "현장 계약 시 최대 60만원 추가 할인과 5성급 호텔 숙박권 증정 등 다양한 혜택이 준비되어 있습니다."
+      },
+      {
+        "question": "사전 예약은 꼭 해야 하나요?",
+        "answer": "선착순 사은품 증정 및 원활한 상담을 위해 사전 예약을 권장해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 신혼여행지 고민이 많은 2030 예비부부, 스드메와 허니문을 한 번에 효율적으로 비교하고 싶은 분, 특히 대전 및 충청권에 거주하며 실속 있는 결혼 준비를 원하는 커플에게 최적화된 박람회입니다. 결혼 준비의 전체 프로세스를 익히고 싶거나, 합리적인 비용으로 프리미엄 허니문을 계획 중인 분들에게 전문적인 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "신혼여행 전문 여행사",
+      "허니문 전문 플래너",
+      "웨딩 패키지 상담 부스"
+    ],
+    "comparison_hooks": [
+      "16년 차 전문 여행사가 직접 운영하는 신뢰도 높은 박람회",
+      "현장 계약 시 60만원 추가 할인 등 파격적인 단독 혜택",
+      "상담부터 사후 관리까지 1:1 맞춤형 밀착 케어 서비스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 웨딩박람회 일정",
+      "신혼여행 준비물 리스트",
+      "허니문 박람회 계약 혜택",
+      "대전 스드메 패키지 비용",
+      "결혼 준비 체크리스트",
+      "플래닛투어 후기",
+      "DCC 박람회 주차",
+      "2025년 결혼 준비",
+      "허니문 예약 시기",
+      "신혼여행 보험 가입"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩박람회 상세 일정",
+        "category": "wedding_event"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "허니문",
+      "결혼준비",
+      "웨딩홀",
+      "캐리어",
+      "숙박권",
+      "예비부부"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 DCC 신혼여행박람회! 혜택 정리함",
+    "og_description": "지금 사전예약하면 캐리어 증정! 상담만 받아도 선물 100% 증정하는 대전 신혼여행박람회 꼭 다녀오세요!",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#대전신혼여행",
+      "#결혼준비",
+      "#예비부부",
+      "#허니문박람회",
+      "#플래닛투어",
+      "#대전결혼",
+      "#신혼여행지추천",
+      "#웨딩박람회혜택",
+      "#DCC박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planittour01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_YNJ66PzFXVxqVrMts8w.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_rfiULEsY.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_147d4sW75DdPrpalEX2j8bGRQmHzPbL9.jpg"
+  },
+  "revenue": 30000
+}
