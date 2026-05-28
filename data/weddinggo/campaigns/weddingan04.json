@@ -1,0 +1,205 @@
+{
+  "idx": 1718,
+  "campaign_id": "weddingan04",
+  "gather_name": "영등포 웨딩박람회",
+  "organizer_name": "웨딩소담",
+  "seo_metadata": {
+    "title": "영등포 웨딩박람회 | 스드메 최저가 및 특별 할인 혜택 (상담 신청)",
+    "meta_description": "롯데백화점 영등포점 웨딩박람회 개최! 스드메 패키지 최저가 보장, 블랙라벨 드레스 업그레이드 등 예비부부를 위한 파격적인 결혼 준비 혜택을 놓치지 마세요. 지금 무료 초대권 신청하고 추가 선물을 받아보세요.",
+    "keywords": [
+      "영등포 웨딩박람회",
+      "서울 웨딩박람회",
+      "결혼준비",
+      "스드메 패키지",
+      "롯데백화점 웨딩박람회",
+      "웨딩홀 추천",
+      "신혼부부 혜택",
+      "웨딩 드레스",
+      "예물 예복 할인",
+      "허니문 추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함을 설렘으로 바꿔줄 영등포 웨딩박람회가 여러분을 찾아옵니다. 롯데백화점 영등포점에서 단 2일간 열리는 이번 행사는 예비부부들이 가장 궁금해하는 스드메부터 혼수, 허니문까지 원스톱으로 해결할 수 있는 최적의 기회입니다.",
+    "benefits_description": "이번 박람회에서는 스드메 최저가 도전을 통해 촬영 59만원, 본식 98만원이라는 놀라운 가격대를 제공합니다. 또한 블랙라벨 드레스 무료 업그레이드 및 2부 드레스 서비스 등 방문객만을 위한 프리미엄 혜택이 가득합니다. 상담만 받아도 제공되는 특별 선물과 계약 시 제공되는 현금성 프로모션은 결혼 예산을 획기적으로 줄여줄 최고의 선택이 될 것입니다.",
+    "summary_for_search": "영등포 웨딩박람회에서 스드메 최저가 보장과 푸짐한 상담 선물을 만나보세요. 롯데백화점 영등포점 9층, 이번 주말 단 2일간 예비부부를 위한 맞춤형 결혼 준비 솔루션을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 최저가 도전! 롯데백화점 영등포 웨딩박람회",
+    "secondary_headline": "결혼 준비의 모든 것, 20년 차 웨딩 디렉터와 함께하는 1:1 맞춤형 컨설팅",
+    "urgency_text": "하루 30쌍 한정 초대, 선착순 조기 마감 주의!",
+    "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 방문 선물 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최저가 보장 (촬영 59만원/본식 98만원)",
+      "블랙라벨 드레스 무료 업그레이드",
+      "2부 드레스 서비스 제공",
+      "예복 및 예물 최대 할인 혜택",
+      "허니문 국내 최저가 보장"
+    ],
+    "special_events": [
+      "20년 차 웨딩 디렉터 1:1 맞춤 상담",
+      "웨딩홀 무료 섭외 및 비교",
+      "스튜디오 무료 추천"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "display_date": "06월 13일(토) ~ 06월 14일(일)",
+      "original_display_date": "06월 13일(토) ~ 06월 14일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "영등포구",
+      "sigungu_en": "yeongdeungpo",
+      "address": "서울 영등포구 경인로 846",
+      "venue": "롯데백화점 영등포점 9층",
+      "parking_info": "롯데백화점 영등포점 주차장 이용 가능",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부 구분",
+      "결혼 예정일",
+      "방문 예정 일자"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 전문 상담 완료 시 증정",
+    "trust_indicators": [
+      "20년 경력 웨딩 디렉터 상주",
+      "스드메 최저가 보장제 실시",
+      "하루 30쌍 한정 밀착 관리"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "영등포 웨딩박람회",
+      "startDate": "2025-06-13",
+      "endDate": "2025-06-14",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 영등포점 9층",
+        "address": "서울특별시 영등포구 경인로 846"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩소담",
+        "url": "https://ad.cpaad.co.kr/weddingan04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 신청을 하시면 무료로 입장이 가능하며 방문 선물도 증정해 드립니다."
+      },
+      {
+        "question": "웨딩홀 섭외도 가능한가요?",
+        "answer": "네, 예산과 지역, 하객 수에 맞춰 최적의 웨딩홀을 1:1로 무료 섭외해 드립니다."
+      },
+      {
+        "question": "스드메 비용은 얼마나 드나요?",
+        "answer": "이번 박람회에서는 스튜디오 촬영 59만원, 본식 98만원의 최저가 패키지를 제공합니다."
+      },
+      {
+        "question": "방문 시 주차는 어떻게 하나요?",
+        "answer": "롯데백화점 영등포점 주차장을 이용하실 수 있으며, 상담 시간 동안 주차 지원이 가능합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 소요되나요?",
+        "answer": "개인별 맞춤 상담을 위해 약 1시간에서 1시간 30분 정도 소요되니 시간적 여유를 두고 방문하시길 권장합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비 신랑·신부님을 위한 행사입니다. 특히 결혼 준비를 6개월 이내 앞두고 스드메 비용을 합리적으로 비교하고 싶은 분들, 일일이 웨딩홀을 찾아다니기 번거로운 바쁜 커플들에게 추천합니다. 20년 경력의 웨딩 전문가가 니즈와 예산에 맞춰 최적의 플랜을 제안하므로, 시행착오 없이 완벽한 예식을 준비하고 싶은 분이라면 누구나 환영합니다.",
+    "exhibitor_highlights": [
+      "스드메 웨딩 패키지 업체",
+      "웨딩 드레스 샵 및 스튜디오",
+      "메이크업 전문 브랜드",
+      "예물 및 예복 브랜드",
+      "허니문 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "20년 경력의 디렉터가 처음부터 끝까지 1:1 밀착 관리",
+      "스드메 최저가 보장제로 예산 절감 효과 극대화",
+      "백화점 내부 입점으로 상담부터 계약까지 신뢰도 높은 환경 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 방문 혜택",
+      "결혼 준비 체크리스트",
+      "스드메 견적 비교",
+      "웨딩홀 추천 리스트",
+      "신혼여행 패키지 추천",
+      "웨딩 박람회 예약 방법",
+      "결혼 박람회 상담 후기",
+      "스드메 포함 항목",
+      "예복 혼수 준비 기간",
+      "웨딩 드레스 피팅 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 전체 웨딩박람회 일정",
+        "category": "seoul_wedding_fair"
+      },
+      {
+        "anchor": "결혼 준비 가이드북",
+        "category": "wedding_prep_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "예식장",
+      "혼수",
+      "웨딩플래너",
+      "맞춤정장",
+      "허니문",
+      "부케",
+      "상견례",
+      "결혼식 비용",
+      "웨딩촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "영등포 웨딩박람회 | 스드메 최저가 혜택",
+    "og_description": "롯데백화점 영등포점에서 열리는 6월 웨딩박람회! 스드메 최저가 보장과 무료 상담 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#영등포웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#신혼부부혜택",
+      "#롯데백화점웨딩",
+      "#결혼식준비",
+      "#웨딩홀추천",
+      "#웨딩박람회추천"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingan04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_8t7TTFK1JKoASBYxcJy98VBYMR.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_F4BwYTKA1gtjgTR1.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_MYsuJkNtpNQOa27Zc9ULZvrrp9qEBd.jpg"
+  },
+  "revenue": 30000
+}
