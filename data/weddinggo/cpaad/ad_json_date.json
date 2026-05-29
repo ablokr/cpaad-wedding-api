@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-05-29T13:00:02Z",
-  "total_ad_count": 175,
+  "last_updated": "2026-05-29T16:00:03Z",
+  "total_ad_count": 177,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -409,6 +409,20 @@
       "ad_location": "서울 강남구 테헤란로 518||(대치동 944-31)||섬유센터 3층 이벤트홀",
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
+    },
+    "howto28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_BnY94Bvdp.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_7xYMgjNwbiii.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_uEUFda9UOclXrO3g1zqxrpyZXv3.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto28/",
+      "region": "capital",
+      "gather_name": "하우투 웨딩박람회",
+      "ad_info": "0",
+      "ad_year": "2026",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
+      "ad_location": "서울 강남구 영동대로 237||(대치동 993-1)||삼성스토어 대치본점",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21"
     },
     "connectwedding07": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_pzQcnNhNA7xUdbzXNh2nT.jpg",
@@ -829,6 +843,20 @@
       "ad_location": "경기 안양시 동안구 시민대로 180||(호계동 1039)||롯데백화점 평촌점 7층 LG전자",
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
+    },
+    "howto24": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_JDO61PycWOQSyDcfEAs3zpK23.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_DlE7hrdc.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_quTDnSVD7gUNBMg.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto24/",
+      "region": "gyeonggi",
+      "gather_name": "수원 홈씨씨 웨딩박람회",
+      "ad_info": "풍부한 경험 및 전통이 있는 하우투웨딩과 행복한 결혼 준비하세요!",
+      "ad_year": "2026",
+      "ad_date": "05월 30일(토) ~ 05월 31일(일)",
+      "ad_location": "경기 수원시 권선구 세화로134번길 31||(서둔동 296-124)||홈씨씨인테리어 수원점",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21"
     },
     "howto14": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_PuI3jBxXaN7HeQQZQlqUPE7mtHB.jpg",
