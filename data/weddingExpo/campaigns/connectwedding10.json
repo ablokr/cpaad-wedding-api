@@ -1,0 +1,196 @@
+{
+  "campaign_id": "connectwedding10",
+  "gather_name": "원주 메이브라이드 웨딩박람회",
+  "organizer_name": "커넥팅웨딩",
+  "seo_metadata": {
+    "title": "원주 메이브라이드 웨딩박람회 | 스드메 할인 및 드레스 무료 피팅",
+    "meta_description": "원주 메이브라이드 웨딩박람회 개최! 강원 지역 인기 스드메 업체 총출동, 웨딩드레스 무료 피팅 체험과 최대 할인 혜택을 놓치지 마세요. 지금 바로 무료 초대권 신청하고 완벽한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "원주웨딩박람회",
+      "결혼준비",
+      "메이브라이드",
+      "강원도웨딩홀",
+      "원주스드메",
+      "웨딩드레스피팅",
+      "원주결혼준비",
+      "스드메비용",
+      "허니문할인",
+      "예물예복할인"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 원주 메이브라이드 웨딩박람회 다녀온 후기 공유해요~ 결혼 준비 이제 막 시작해서 막막했는데, 여기 진짜 생각보다 알차더라고요! 강원 지역 인기 업체들이 다 모여있어서 시간 절약 최고예요.",
+    "benefits_description": "드레스 쪽을 제일 꼼꼼히 봤는데, 생각보다 종류가 진짜 많아서 놀랐어요! 특히 웨딩드레스 무료 피팅 이벤트가 대박인데, 현장에서 직접 입어보니까 확실히 달라요. 상담만 받아도 주는 사은품도 많고, 무엇보다 예식장 대관료랑 식대 할인 폭이 커서 예산 짜는 데 정말 도움 됐어요. 허니문이랑 예물도 박람회 전용 할인이 들어가니까 혜택 챙기시려면 꼭 미리 신청하고 방문하세요!",
+    "summary_for_search": "원주 메이브라이드 웨딩박람회에서 스드메 패키지 상담부터 드레스 무료 피팅까지! 강원 지역 최대 규모 혜택을 제공하며 예식장 식대 할인 및 허니문 특가까지 준비되어 있습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "단 2일! 원주 메이브라이드 웨딩박람회 최대 혜택",
+    "secondary_headline": "강원 지역 웨딩드레스 셀렉 1위 브랜드와 함께하는 완벽한 결혼 준비",
+    "urgency_text": "사전 신청자 한정 선착순 이벤트 진행 중!",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 시 브랜드별 사은품 증정",
+      "웨딩드레스 무료 피팅 체험 기회"
+    ],
+    "contract_benefits": [
+      "예식장 대관료 및 식대 최대 할인",
+      "한복/예물/예복 박람회 특별 할인",
+      "허니문 최대 600달러 할인"
+    ],
+    "special_events": [
+      "인기 웨딩드레스 브랜드 무료 피팅",
+      "1:1 웨딩 전문가 맞춤 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "display_date": "06월 20일(토) ~ 06월 21일(일)",
+      "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 봉화로 29",
+      "venue": "원주 메이브라이드 웨딩스퀘어 전관",
+      "parking_info": "별도 기재 안 됨 (AK플라자 인근)",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "사전 신청 후 현장 방문 및 상담 완료 시 제공",
+    "trust_indicators": [
+      "강원 웨딩드레스 셀렉 1위 브랜드 입점",
+      "1:1 전문 웨딩 플래너 상담",
+      "투명한 견적 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 메이브라이드 웨딩박람회",
+      "startDate": "2025-06-20T11:00:00",
+      "endDate": "2025-06-21T19:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "원주 메이브라이드 웨딩스퀘어",
+        "address": "강원도 원주시 봉화로 29-1"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "커넥팅웨딩",
+        "url": "https://ad.cpaad.co.kr/connectwedding10/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "네, 선착순 이벤트와 상담 예약을 위해 사전에 무료 초대장을 신청하시는 것을 권장합니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "박람회 현장 무료 피팅 이벤트가 준비되어 있으며, 사전에 예약하신 예비 신부님들께 우선권이 주어집니다."
+      },
+      {
+        "question": "상담 시 소요 시간은 어느 정도인가요?",
+        "answer": "보통 1시간에서 2시간 정도 소요되며, 원하시는 품목에 따라 조율 가능합니다."
+      },
+      {
+        "question": "박람회에서 계약해야만 혜택을 받나요?",
+        "answer": "상담만 받아도 받으실 수 있는 사은품이 많으며, 당일 계약 시 추가 할인 혜택이 적용됩니다."
+      },
+      {
+        "question": "혼수 상담도 한 곳에서 다 가능한가요?",
+        "answer": "네, 스드메는 물론 예복, 예물, 한복, 가전까지 한자리에서 비교 견적 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 원주 및 강원 지역 예비 부부들을 위한 맞춤형 박람회입니다. 결혼 준비를 어디서부터 어떻게 시작해야 할지 막막한 예비 신랑신부, 스드메 패키지 비용을 합리적으로 비교하고 싶은 커플, 그리고 웨딩드레스 브랜드를 직접 보고 피팅해보고 싶은 신부님들께 최적의 경험을 제공합니다. 6개월에서 1년 내 예식을 앞두고 효율적인 정보 수집과 전문 컨설팅이 필요한 분들에게 강력히 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩스튜디오 (테라스 스튜디오 등)",
+      "웨딩드레스샵 (주빌리 브라이드, 하우스오브에이미 등)",
+      "예물·예복 (오르시아, 아르코발레노)",
+      "허니문 여행사",
+      "혼수 가전 (LG전자)"
+    ],
+    "comparison_hooks": [
+      "타 박람회와 차별화된 1:1 개인 맞춤 웨딩 컨설팅",
+      "강원 지역 최다 웨딩드레스 브랜드 직접 피팅 가능",
+      "현장 즉시 계약 시 추가 할인 및 상품권 증정 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 웨딩박람회 후기",
+      "웨딩박람회 준비물",
+      "스드메 패키지 구성",
+      "결혼 준비 체크리스트",
+      "웨딩홀 대관료 할인 팁",
+      "웨딩드레스 피팅 주의사항",
+      "예물 예복 계약 시 확인사항",
+      "박람회 방문 사은품 정보",
+      "강원도 웨딩홀 추천",
+      "신혼여행 패키지 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강원 웨딩홀 정보 확인",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 견적 보기",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "예식장",
+      "부케",
+      "신혼여행",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 메이브라이드 웨딩박람회 초대권 신청",
+    "og_description": "강원 지역 최대 웨딩 박람회! 스드메 할인부터 드레스 무료 피팅까지 지금 신청하세요.",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#결혼준비",
+      "#원주결혼",
+      "#메이브라이드",
+      "#스드메",
+      "#웨딩드레스피팅",
+      "#예비부부",
+      "#원주웨딩홀",
+      "#결혼준비체크리스트",
+      "#박람회혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/connectwedding10/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ntVBRn2tvbuMoqwlWIoYUtznDk.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_qNEQyoxwqB2R7AVlXUkFle.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_BHt4oA6ZnlhpudbIwaAw1b4XB.jpg"
+  }
+}
