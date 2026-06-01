@@ -1,0 +1,207 @@
+{
+  "idx": 1640,
+  "campaign_id": "DirectWeddingFair01",
+  "gather_name": "다이렉트 결혼준비 웨딩박람회",
+  "organizer_name": "다이렉트컴즈",
+  "seo_metadata": {
+    "title": "다이렉트 결혼준비 웨딩박람회 | 서울 강남 상담 시 최대 15만원 할인",
+    "meta_description": "매주 주말 서울 강남에서 열리는 다이렉트 결혼준비 웨딩박람회! 스드메 최대 15만원 할인 및 방문 상담만으로 받을 수 있는 풍성한 선물 혜택을 지금 확인하고 무료 초대장을 신청하세요.",
+    "keywords": [
+      "웨딩박람회",
+      "결혼준비",
+      "다이렉트결혼준비",
+      "서울웨딩박람회",
+      "스드메견적",
+      "웨딩박람회혜택",
+      "신혼부부혜택",
+      "결혼준비체크리스트",
+      "강남웨딩박람회",
+      "웨딩홀추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞두고 어디서부터 준비해야 할지 막막하신가요? 다이렉트 결혼준비 웨딩박람회는 복잡한 결혼 준비를 명쾌하게 해결해 드리는 서울 대표 웨딩 박람회입니다. 합리적인 가격과 투명한 정보로 예비부부님들의 성공적인 결혼을 돕습니다.",
+    "benefits_description": "방문만 하셔도 쏟아지는 선물을 만나보세요. 현장 상담 시 최대 15만원 추가 할인권과 더불어, 예비부부 필수템인 가이드북, 웨딩 상품권, 귀걸이 등 다양한 혜택이 기다리고 있습니다. 거품을 뺀 투명한 정찰제 가격으로 스드메 패키지를 구성하고, 불필요한 비용을 줄여 합리적인 예산을 세우실 수 있도록 전문 컨설턴트가 1:1 맞춤 상담을 제공합니다.",
+    "summary_for_search": "다이렉트 결혼준비 웨딩박람회에서 스드메 최대 15만원 할인 혜택을 받아보세요. 매주 주말 서울 본사에서 열리는 1:1 맞춤 상담으로 투명한 결혼 준비가 가능합니다. 지금 바로 방문 예약하고 풍성한 선물을 챙기세요!"
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 스드메 최대 15만원 즉시 할인!",
+    "secondary_headline": "비용은 낮추고 퀄리티는 높이는 가장 똑똑한 결혼 준비, 다이렉트 웨딩박람회와 시작하세요.",
+    "urgency_text": "매주 주말 선착순 진행! 조기 마감 주의",
+    "call_to_action_text": "무료 초대장 지금 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "웨딩 가이드북",
+      "웨딩홀 상품권(최대 14만원 상당)",
+      "귀걸이 및 혼수 브랜드 상담 사은품"
+    ],
+    "contract_benefits": [
+      "스드메 최대 15만원 추가 할인",
+      "최대 40% 할인 + 최대 5% 캐시백",
+      "계약 축하금 최대 50만원 지원 가능"
+    ],
+    "special_events": [
+      "1:1 맞춤 웨딩 컨설팅",
+      "웨딩홀 섭외 및 대관료 할인 서비스",
+      "비동행 플래너의 스마트한 일정 관리"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07",
+      "display_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "original_display_date": "매주 주말 오전 10시 ~ 오후 8시"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 도산대로 221 8층",
+      "venue": "다이렉트 결혼준비 서울본사",
+      "parking_info": "별도 안내 필요",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 지급 (조건 및 수량은 현장 상황에 따라 변동 가능)",
+    "trust_indicators": [
+      "누적 방문객 수 및 계약 데이터 공개",
+      "비동행 서비스로 합리적인 비용 보장",
+      "정찰제 운영으로 투명한 가격 공개"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "다이렉트 결혼준비 웨딩박람회",
+      "startDate": "2024-01-01T10:00",
+      "endDate": "2024-12-31T20:00",
+      "location": {
+        "@type": "Place",
+        "name": "다이렉트 결혼준비 서울본사",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "도산대로 221",
+          "addressLocality": "서울 강남구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "다이렉트컴즈",
+        "url": "https://ad.cpaad.co.kr/DirectWeddingFair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 다이렉트 결혼준비 웨딩박람회는 사전 신청 시 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메)을 포함하여 웨딩홀, 혼수, 예복, 예물 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "개인별 준비 상황에 따라 다르지만 보통 1시간에서 2시간 정도의 상담이 진행됩니다."
+      },
+      {
+        "question": "예식장 예약도 가능한가요?",
+        "answer": "네, 전문가가 전국 웨딩홀 섭외 및 대관료 할인 혜택을 포함한 전문적인 비교 상담을 제공합니다."
+      },
+      {
+        "question": "계약 강요가 있나요?",
+        "answer": "다이렉트 결혼준비는 거품 없는 정찰제와 투명한 정보를 제공하며, 상담 시 강요 없는 편안한 분위기를 지향합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 스드메 비용과 준비 순서를 고민하는 예비부부, 결혼 준비 과정에서 발생하는 과도한 수수료를 줄이고 싶은 합리적인 신혼부부, 믿을 수 있는 업체들의 정보를 한자리에서 비교하고 싶은 커플들이 주 대상입니다. 무엇부터 해야 할지 막막한 초보 예비부부에게 체계적인 로드맵과 실질적인 비용 절감 팁을 제공합니다.",
+    "exhibitor_highlights": [
+      "프리미엄 드레스 샵 30개점",
+      "인기 스튜디오 스냅 업체",
+      "맞춤 정장 및 혼수 가전 브랜드",
+      "웨딩홀 섭외 전담팀"
+    ],
+    "comparison_hooks": [
+      "거품을 뺀 다이렉트 정찰제 운영",
+      "상담 시 현장 즉시 할인 혜택 제공",
+      "비동행 방식의 합리적인 결혼 준비 비용"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 패키지 가격",
+      "비동행 플래너 장단점",
+      "웨딩박람회 사기 예방법",
+      "강남 웨딩홀 추천",
+      "신혼여행 준비 박람회",
+      "다이렉트 결혼준비 후기",
+      "웨딩홀 대관료 할인",
+      "결혼 예산 세우기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩홀 인기순위 확인하기",
+        "category": "seoul_wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 가격 비교",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "예식장",
+      "캐시백",
+      "웨딩플래너",
+      "상견례",
+      "신혼여행",
+      "부케",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "결혼 준비 필수템! 다이렉트 웨딩박람회",
+    "og_description": "스드메 최대 15만원 할인! 지금 무료 초대장 신청하고 풍성한 상담 혜택까지 받아보세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#다이렉트결혼준비",
+      "#스드메",
+      "#서울웨딩박람회",
+      "#신혼부부",
+      "#예신",
+      "#결혼준비시작",
+      "#웨딩홀투어",
+      "#웨딩박람회혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg"
+  },
+  "revenue": 30000
+}
