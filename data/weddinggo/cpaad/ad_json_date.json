@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-04T10:00:02Z",
-  "total_ad_count": 166,
+  "last_updated": "2026-06-04T13:00:02Z",
+  "total_ad_count": 168,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
@@ -1320,20 +1320,6 @@
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
     },
-    "bwc02": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_nCvrvLWIED8fKz1k1924CnA3Xe.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_gMyr8Ign2OCXywJ.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_GrxpVkb8.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/bwc02/",
-      "region": "busan",
-      "gather_name": "BWC 부산벡스코웨딩박람회",
-      "ad_info": "혜택도 가격도 어차피 웨딩은 벡스코웨딩에서",
-      "ad_year": "2026",
-      "ad_date": "06월 19일(금) ~ 06월 21일(일)",
-      "ad_location": "부산 해운대구 APEC로 30||(우동 1413-4)||벡스코 제2전시장 5A홀",
-      "start_date": "2026-06-19",
-      "end_date": "2026-06-21"
-    },
     "tourmin01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_Hf5ioU6e.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_8co85j9SRqwqG8Er.jpg",
@@ -1347,6 +1333,20 @@
       "ad_location": "부산 연제구 법원로8번길 10||(거제동 314-18)||투어민 부산직영점",
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
+    },
+    "bwc02": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_nCvrvLWIED8fKz1k1924CnA3Xe.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_gMyr8Ign2OCXywJ.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_GrxpVkb8.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/bwc02/",
+      "region": "busan",
+      "gather_name": "BWC 부산벡스코웨딩박람회",
+      "ad_info": "혜택도 가격도 어차피 웨딩은 벡스코웨딩에서",
+      "ad_year": "2026",
+      "ad_date": "06월 19일(금) ~ 06월 21일(일)",
+      "ad_location": "부산 해운대구 APEC로 30||(우동 1413-4)||벡스코 제2전시장 5A홀",
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-21"
     },
     "howto05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_WQUCwqdn59xQqor5gQj7Fk5hBv49akd.jpg",
@@ -1795,6 +1795,34 @@
       "ad_location": "광주 동구 서석로7번길 9-1||(불로동 38-3)||브라이덜마리브",
       "start_date": "2026-06-12",
       "end_date": "2026-06-14"
+    },
+    "theBWSF01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_SD5yNDOKTpnM.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_I6CFGM9kKbJFjuwbMX4eo7f2yCX3B.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_GwSW3LxGbFj7952XmSrYZNG513.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBWSF01/",
+      "region": "jeolla",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "ad_info": "광주웨딩박람회는 오직 스타일링 웨딩페어",
+      "ad_year": "2026",
+      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_location": "광주 동구 서석로 13-1 3층||(불로동 97-6)||더베스트웨딩컴퍼니 사옥",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
+    },
+    "revewedding01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_jZVjYLxP6WxTzwK.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_czYC4bnQ.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_pUOFP4foXQC358PlzJVh5yNoEYgBr.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding01/",
+      "region": "gangwon",
+      "gather_name": "강릉 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
+      "ad_location": "강원특별자치도 강릉시 창해로 307||(강문동 1-1)||세인트존스호텔 특별행사장",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28"
     },
     "wedingcrowd07": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_GZhDvkWkoN.jpg",
