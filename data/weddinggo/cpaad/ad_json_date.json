@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-05T13:00:03Z",
+  "last_updated": "2026-06-05T16:00:03Z",
   "total_ad_count": 171,
   "advertisements": {
     "iniwedding05": {
@@ -1824,20 +1824,6 @@
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
     },
-    "knockWed04": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_si3Q53TKqVnr7eEbPpgTEkR2lQ.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_SYPcdnSjMZKEOChzZNrOUwz.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_SSjdzV7NdXayWh.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/knockWed04/",
-      "region": "jeolla",
-      "gather_name": "광주 유스퀘어 웨딩박람회",
-      "ad_info": "품격이 다른 웨딩문화 체험관",
-      "ad_year": "2026",
-      "ad_date": "06월 12일(금) ~ 06월 14일(일)",
-      "ad_location": "광주 동구 서석로7번길 9-1||(불로동 38-3)||브라이덜마리브",
-      "start_date": "2026-06-12",
-      "end_date": "2026-06-14"
-    },
     "theBWSF01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_SD5yNDOKTpnM.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_I6CFGM9kKbJFjuwbMX4eo7f2yCX3B.jpg",
@@ -2229,6 +2215,20 @@
       "ad_location": "경남 진주시 진주대로 1095||갤러리아 백화점 진주점 6층(평안동 195)||삼성스토어 갤러리아진주",
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
+    },
+    "wwedding19": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_uuTrAL2hD3TLVFvHnCN8ARzpL3DB.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_QkVKjOE5ycl6YzHAdY7siMBe7W4MGH.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_uAGRRSHpfpKtdrEZEYviID2xc4b4BE.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding19/",
+      "region": "gyeongsang",
+      "gather_name": "통영 웨딩박람회",
+      "ad_info": "예비 신랑 신부라면 들러야 할 필수 코스",
+      "ad_year": "2026",
+      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_location": "경남 통영시 항북길 12-9||(정량동 1141)||더그랜드통영 2층 특설 행사장",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
     },
     "banhanaH06": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_bBMFTX9M.jpg",
