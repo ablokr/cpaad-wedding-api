@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-06T10:00:03Z",
+  "last_updated": "2026-06-06T13:00:02Z",
   "total_ad_count": 170,
   "advertisements": {
     "iniwedding05": {
@@ -718,20 +718,6 @@
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
     },
-    "theshirleywedding04": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_4ZYLkjfANp.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_GXtdqBClZadq97SOLOJq781.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_J1fe9W68mbpD.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding04/",
-      "region": "gyeonggi",
-      "gather_name": "의정부 더셜리 웨딩박람회",
-      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
-      "ad_year": "2026",
-      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
-      "ad_location": "경기 의정부시 평화로 525 ||(의정부동 168-54)||신세계백화점 의정부점 8층||LG전자베스트샵 특별행사장",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-21"
-    },
     "wedingcrowd65": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_CZKng2G8J4OZDKIKRIlX6rCPXtithJ.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_7k2tOvhV8Z4GiBV.jpg",
@@ -827,6 +813,20 @@
       "ad_year": "2026",
       "ad_date": "06월 20일(토) ~ 06월 21일(일)",
       "ad_location": "경기 수원시 권선구 세화로134번길 31||(서둔동 296-124)||홈씨씨인테리어 수원점",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21"
+    },
+    "theshirleywedding04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_4ZYLkjfANp.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_GXtdqBClZadq97SOLOJq781.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_J1fe9W68mbpD.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding04/",
+      "region": "gyeonggi",
+      "gather_name": "의정부 더셜리 웨딩박람회",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
+      "ad_location": "경기 의정부시 평화로 525 ||(의정부동 168-54)||신세계백화점 의정부점 8층||LG전자베스트샵 특별행사장",
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
     },
@@ -1138,6 +1138,20 @@
       "start_date": "2026-06-06",
       "end_date": "2026-06-07"
     },
+    "theshirleywedding12": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_a869f6KZ.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_UjqEl8bb7HRp7Hj3zobUWTRBQol9jZ93.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_AGgXLNDMXvr3Ja3Hy1.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding12/",
+      "region": "incheon",
+      "gather_name": "인천 더셜리 웨딩박람회",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
+      "ad_location": "인천 남동구 미래로 6 마커스빌딩 2층||(구월동 1146)||투어민 인천점",
+      "start_date": "2026-06-06",
+      "end_date": "2026-06-07"
+    },
     "withyouwedding11": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TIGg4tMtNL8k3.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_oBU8kfsb7B.jpg",
@@ -1165,20 +1179,6 @@
       "ad_location": "인천 미추홀구 매소홀로 618||문학경기장(문학동 482)||그랜드오스티엄 특별행사장",
       "start_date": "2026-06-14",
       "end_date": "2026-06-14"
-    },
-    "theshirleywedding12": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_a869f6KZ.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_UjqEl8bb7HRp7Hj3zobUWTRBQol9jZ93.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_AGgXLNDMXvr3Ja3Hy1.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding12/",
-      "region": "incheon",
-      "gather_name": "인천 더셜리 웨딩박람회",
-      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
-      "ad_year": "2026",
-      "ad_date": "06월 06일(토) ~ 06월 07일(일)",
-      "ad_location": "인천 남동구 미래로 6 마커스빌딩 2층||(구월동 1146)||투어민 인천점",
-      "start_date": "2026-06-06",
-      "end_date": "2026-06-07"
     },
     "wedingcrowd114": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_PckLEIWEBUbhFybI9i72.jpg",
