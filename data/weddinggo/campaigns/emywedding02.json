@@ -1,0 +1,206 @@
+{
+  "idx": 1805,
+  "campaign_id": "emywedding02",
+  "gather_name": "e마이웨딩 대전 웨딩박람회",
+  "organizer_name": "e마이웨딩",
+  "seo_metadata": {
+    "title": "e마이웨딩 대전 웨딩박람회 | 최대 110만원 혼수 혜택 및 스드메 할인",
+    "meta_description": "대전 e마이웨딩 웨딩박람회에서 준비한 특별 혜택! 최대 110만원 상당의 혼수가전 포인트 증정과 스드메 패키지 프로모션으로 합리적인 결혼 준비를 시작하세요. 선착순 방문객 선물까지 놓치지 마세요.",
+    "keywords": [
+      "대전웨딩박람회",
+      "e마이웨딩",
+      "대전결혼준비",
+      "대전스드메",
+      "대전웨딩홀",
+      "혼수가전혜택",
+      "대전예물",
+      "대전한복",
+      "대전신혼여행",
+      "대전웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫 단추, 어디서부터 어떻게 시작해야 할지 고민이신가요? 20년 전통을 자랑하는 e마이웨딩 대전 웨딩박람회에서 예비부부님을 위한 최적의 웨딩 솔루션을 제안합니다.",
+    "benefits_description": "이번 박람회는 단순히 구경만 하는 곳이 아닙니다. 삼성전자와 함께하는 혼수가전 구매 시 최대 110만 포인트 증정 혜택은 물론, 스드메 패키지 추가 할인 10~60%, 방문 시 멀티포트 등 실속 있는 사은품까지 가득 채웠습니다. 1:1 맞춤형 스타일링을 통해 예산에 맞는 합리적인 웨딩을 설계해 보세요.",
+    "summary_for_search": "대전 e마이웨딩 웨딩박람회 개최! 최대 110만원 혼수 포인트, 스드메 패키지 특가, 방문객 선물이 준비되어 있습니다. 이번 주말, 대전 중구에서 나만의 특별한 결혼 준비를 완성하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 비용 최대 110만원 지원! 대전 e마이웨딩 대전 웨딩박람회",
+    "secondary_headline": "스드메부터 혼수, 신혼여행까지! 20년 전통 e마이웨딩이 제안하는 1:1 맞춤형 웨딩 솔루션",
+    "urgency_text": "이번 주말 한정 혜택! 선착순 방문객에게 증정되는 특별 사은품을 지금 바로 확인하세요.",
+    "call_to_action_text": "지금 무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "웨딩&혼수 혜택",
+      "멀티포트 1.5L (현장 사은품 2종 중 택 1)"
+    ],
+    "contract_benefits": [
+      "혼수 가전 구매 시 최대 110만 포인트 증정",
+      "스드메 패키지 추가 10~60% 할인",
+      "웨딩 스튜디오 촬영 무료 업그레이드 및 90% 지원"
+    ],
+    "special_events": [
+      "1:1 맞춤형 웨딩 스타일링 컨설팅",
+      "스드메 견적 비교 서비스",
+      "웨딩홀 실시간 견적 비교"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "display_date": "06월 13일(토) ~ 06월 14일(일)",
+      "original_display_date": "06월 13일(토) ~ 06월 14일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "중구",
+      "sigungu_en": "jung",
+      "address": "대전 중구 대종로 523",
+      "venue": "e마이웨딩 1층 전관",
+      "parking_info": "매장 인근 주차 가능 (상세 위치 지도 참조)",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "20년 전통 e마이웨딩 주최",
+      "누적 11만 커플 결혼 진행",
+      "검증된 프리미엄 웨딩 업체 입점",
+      "스드메 피해 보상 제도 운영"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "e마이웨딩 대전 웨딩박람회",
+      "startDate": "2025-06-13",
+      "endDate": "2025-06-14",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "e마이웨딩 1층 전관",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "대전 중구",
+          "addressLocality": "대전",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "e마이웨딩",
+        "url": "https://ad.cpaad.co.kr/emywedding02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장 가능한가요?",
+        "answer": "네, 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업, 예물, 예복, 한복, 가전 등 결혼 준비 필수 업체가 모두 참여합니다."
+      },
+      {
+        "question": "혼수 혜택은 어떻게 받나요?",
+        "answer": "삼성전자 제휴 혼수 가전 패키지 상담 및 구매 시 구매 금액대별로 최대 110만 포인트가 지급됩니다."
+      },
+      {
+        "question": "스드메 패키지 계약 시 혜택은 무엇인가요?",
+        "answer": "최대 60% 할인 및 스튜디오 촬영 업그레이드 등 현장 계약 시 제공되는 특별 프로모션이 적용됩니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "행사장 인근 주차 공간이 마련되어 있습니다. 정확한 위치는 신청 후 발송되는 안내 문자를 확인해 주세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 대전 및 인근 지역의 모든 예비부부를 대상으로 합니다. 막막한 결혼 준비의 순서와 견적 비교가 어려운 커플, 가성비와 가심비를 모두 챙기고 싶은 스마트한 신혼부부에게 적합합니다. 특히 스드메와 혼수를 한자리에서 해결하며 전문가의 1:1 맞춤 조언이 필요한 분들이라면 이번 박람회를 통해 효율적인 시간 절약과 실질적인 비용 절감 혜택을 경험할 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 전문 스튜디오 및 드레스샵",
+      "삼성전자 혼수 가전",
+      "예물 및 예복 브랜드",
+      "한복 대여 및 맞춤",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "20년 역사로 검증된 대전 최다 11만 커플 진행 사례 보유",
+      "삼성전자와 제휴하여 독보적인 가전 구매 포인트 혜택 제공",
+      "피해 보상 제도 및 1:1 맞춤형 스타일링으로 안전한 계약 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 필수 체크리스트",
+      "스드메 비용 절약하는 법",
+      "대전 웨딩홀 투어 팁",
+      "신혼여행 패키지 추천",
+      "예물 브랜드 비교",
+      "혼수 가전 구매 시기",
+      "결혼 준비 비용 예산 짜기",
+      "스드메 박람회 예약 혜택",
+      "웨딩 촬영 스튜디오 스타일",
+      "대전 한복 맞춤 대여 가격"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩홀 전체 일정",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 견적 상담",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩드레스",
+      "결혼준비비용"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 예비부부 필수! e마이웨딩 박람회 혜택",
+    "og_description": "최대 110만 혼수 포인트와 스드메 60% 할인까지! 이번 주말 대전 e마이웨딩에서 합리적인 결혼 준비를 시작하세요.",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#e마이웨딩",
+      "#대전결혼준비",
+      "#대전스드메",
+      "#대전웨딩홀",
+      "#예비부부",
+      "#혼수혜택",
+      "#대전예물",
+      "#대전한복",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/emywedding02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_mFmc68KlDY7ovoxUIlYANHWgL1H.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TrqiBwTl.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4yCv11IVwdKh1DOYgGOMNGIdGHwp.jpg"
+  },
+  "revenue": 30000
+}
