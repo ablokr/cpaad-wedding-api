@@ -1,0 +1,204 @@
+{
+  "idx": 1814,
+  "campaign_id": "knockWed18",
+  "gather_name": "광주 신세계웨딩 팝업스토어",
+  "organizer_name": "광주웨딩연합회",
+  "seo_metadata": {
+    "title": "광주 신세계웨딩 팝업스토어 | 스드메 상담 및 백화점 상품권 혜택",
+    "meta_description": "광주 신세계백화점에서 열리는 웨딩 팝업스토어! 26년 웨딩 트렌드 확인하고 최대 50만원 할인과 백화점 상품권 등 풍성한 혜택을 챙겨가세요. 지금 사전 신청하고 알뜰한 결혼 준비 시작하세요!",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "광주스드메",
+      "신세계웨딩팝업",
+      "광주웨딩홀",
+      "웨딩박람회혜택",
+      "결혼준비꿀팁",
+      "광주예물",
+      "광주허니문",
+      "스드메견적"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 어디서부터 알아봐야 할지 막막했는데, 이번에 다녀온 광주 신세계웨딩 팝업스토어 정보 공유해요~ 신세계백화점에서 열려서 위치도 너무 좋고, 무엇보다 스드메부터 혼수까지 한자리에서 볼 수 있어서 진짜 편하더라고요!",
+    "benefits_description": "이번 팝업의 핵심은 역시 혜택이죠! 상담만 받아도 주는 사은품은 물론이고, 계약 시 최대 50만원 할인 혜택이 진짜 쏠쏠해요. 특히 26년 예식 예정이신 분들은 신규 웨딩홀 정보도 미리 확인할 수 있어서 좋더라고요. 현장에서 드레스 피팅도 직접 해볼 수 있는데, 사진으로만 보던 거랑 실물로 보는 게 확실히 느낌이 달라요! 호객행위 없이 깔끔한 분위기라 상담받기 훨씬 편안했습니다.",
+    "summary_for_search": "광주 신세계백화점에서 열리는 웨딩 팝업스토어! 26년 예식 커플을 위한 스드메 패키지 상담 및 최대 50만원 할인 등 풍성한 혜택을 지금 확인하고 무료 사전 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전 신청하고 최대 50만원 할인 혜택 받으세요!",
+    "secondary_headline": "광주 신세계백화점에서 만나는 고품격 웨딩 팝업스토어, 26년 웨딩 트렌드 총집합",
+    "urgency_text": "단 2일간 진행되는 특별 행사, 지금 바로 신청하세요!",
+    "call_to_action_text": "무료 사전 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 사은품 증정",
+      "선착순 1시간 이전 방문 고객 혜택"
+    ],
+    "contract_benefits": [
+      "계약 시 최대 50만원 할인",
+      "26년 예식 계약 시 특별 추가 혜택",
+      "백화점 상품권 증정"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 맞춤형 웨딩 플래너 상담",
+      "신규 웨딩홀 정보 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "display_date": "06월 20일(토) ~ 06월 21일(일)",
+      "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "광주 서구 무진대로 932",
+      "venue": "신세계백화점 광주신세계점 8층",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 방문 상담 및 계약 완료 후 수령 가능",
+    "trust_indicators": [
+      "가격표시제 실시",
+      "정찰제 시스템",
+      "검증된 전문 플래너 배치"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 신세계웨딩 팝업스토어",
+      "startDate": "2025-06-20",
+      "endDate": "2025-06-21",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 광주신세계점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8층 웨딩 팝업스토어",
+          "addressLocality": "광주 서구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed18/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "입장료가 있나요?",
+        "answer": "아니요, 사전 신청을 하시면 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "광주 지역의 유명 드레스샵, 웨딩홀, 예물, 예복, 허니문, 가전 업체 등이 입점해 있습니다."
+      },
+      {
+        "question": "드레스 피팅이 가능한가요?",
+        "answer": "네, 현장에서 직접 드레스 피팅 체험 및 상담 예약이 가능합니다."
+      },
+      {
+        "question": "사전 신청은 필수인가요?",
+        "answer": "현장 혼잡도를 줄이고 상담 혜택을 정확히 안내해 드리기 위해 사전 신청을 권장합니다."
+      },
+      {
+        "question": "상담 시 호객행위가 심한가요?",
+        "answer": "해당 박람회는 호객행위 없이 차분하고 고급스러운 분위기에서 상담이 진행됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막한 예비 신랑신부님을 위한 맞춤형 행사입니다. 특히 스드메 패키지 비용 비교가 어렵거나, 광주 지역에서 합리적인 가격으로 고품격 웨딩을 준비하고 싶은 분들께 최적의 장소입니다. 20대 후반부터 30대 초반의 예비부부들이 선호하는 트렌디한 드레스와 예물, 혼수 정보를 한 번에 파악할 수 있어 효율적인 시간 관리가 필요한 바쁜 커플들에게 강력 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 샵 10곳 이상",
+      "광주 신규 웨딩홀 컨설팅",
+      "혼수 가전 및 가구 업체",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "호객행위 없는 프리미엄 상담 서비스",
+      "투명한 정찰제 및 가격표시제 도입",
+      "검증된 브랜드 업체만 엄선된 높은 신뢰도"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 가격",
+      "광주 웨딩홀 추천",
+      "웨딩박람회 방문 혜택",
+      "결혼 준비 기간",
+      "예물 예복 브랜드 추천",
+      "광주 허니문 여행사",
+      "웨딩드레스 피팅 주의사항",
+      "신혼가전 준비 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 정보 더보기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 견적 상담",
+        "category": "consulting"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "신혼여행",
+      "예물",
+      "예복",
+      "드레스투어"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 신세계웨딩 팝업스토어 오픈!",
+    "og_description": "최대 50만원 할인 혜택 받고 결혼 준비하세요. 지금 무료 사전 신청 중!",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#신세계웨딩",
+      "#광주웨딩홀",
+      "#스드메",
+      "#예신",
+      "#예랑",
+      "#결혼준비",
+      "#웨딩박람회",
+      "#광주신세계"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/knockWed18/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_NiOCgrDajhsCofgYKFglJrMVmIGLeF.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Q32gmA9VWB.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_tzuKTiuf3QtR6bzaoArXyMo1G.jpg"
+  },
+  "revenue": 40000
+}
