@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-09T16:00:02Z",
-  "total_ad_count": 154,
+  "last_updated": "2026-06-10T10:00:03Z",
+  "total_ad_count": 155,
   "advertisements": {
     "howto01": {
       "idx": 721,
@@ -2926,6 +2926,32 @@
           "sigungu_en": "iksan",
           "address": "전북특별자치도 익산시 동서로 380",
           "venue": "웨스턴라이프호텔"
+        }
+      },
+      "revenue": 40000
+    },
+    "knockWed18": {
+      "idx": 1814,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_NiOCgrDajhsCofgYKFglJrMVmIGLeF.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Q32gmA9VWB.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_tzuKTiuf3QtR6bzaoArXyMo1G.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed18/",
+      "region": "jeolla",
+      "gather_name": "광주 신세계웨딩 팝업스토어",
+      "ad_info": "진짜 웨딩상담을 받다 전남,목포 고객님만을 위한 혜택",
+      "ad_year": "2026",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
+      "ad_location": "광주 서구 무진대로 932||(광천동 49-1)||신세계백화점 광주신세계점 8층",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
+      "preprocessed": {
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "광주 서구 무진대로 932",
+          "venue": "신세계백화점 광주신세계점 8층"
         }
       },
       "revenue": 40000
