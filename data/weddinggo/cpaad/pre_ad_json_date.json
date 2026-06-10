@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-10T13:00:03Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-06-10T16:00:02Z",
+  "total_ad_count": 154,
   "advertisements": {
     "howto01": {
       "idx": 721,
@@ -82,32 +82,6 @@
       },
       "revenue": 30000
     },
-    "DirectWeddingFair01": {
-      "idx": 1640,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
-      "region": "capital",
-      "gather_name": "다이렉트 결혼준비 웨딩박람회",
-      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
-      "ad_year": "2026",
-      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
-      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
-      "start_date": "2026-06-13",
-      "end_date": "2026-06-14",
-      "preprocessed": {
-        "location": {
-          "sido": "서울",
-          "sido_en": "seoul",
-          "sigungu": "강남구",
-          "sigungu_en": "gangnam",
-          "address": "서울 강남구 도산대로 221 8층",
-          "venue": "다이렉트 결혼준비 서울본사"
-        }
-      },
-      "revenue": 30000
-    },
     "wedingcrowd17": {
       "idx": 1239,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fpnv4ktwymuQeLfuMhAaIU4A9.jpg",
@@ -134,8 +108,33 @@
       },
       "revenue": 30000
     },
+    "DirectWeddingFair01": {
+      "idx": 1640,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+      "region": "capital",
+      "gather_name": "다이렉트 결혼준비 웨딩박람회",
+      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
+      "ad_year": "2026",
+      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14",
+      "preprocessed": {
+        "location": {
+          "sido": "서울",
+          "sido_en": "seoul",
+          "sigungu": "강남구",
+          "sigungu_en": "gangnam",
+          "address": "서울 강남구 도산대로 221 8층",
+          "venue": "다이렉트 결혼준비 서울본사"
+        }
+      },
+      "revenue": 30000
+    },
     "planon60": {
-      "idx": 1797,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_oooULnwGT2.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_elpkH21go.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_kRF6sEMj2iqRk.jpg",
@@ -157,8 +156,7 @@
           "address": "서울 용산구 한강대로23길 55",
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "planon52": {
       "idx": 1608,
@@ -317,7 +315,6 @@
       "revenue": 30000
     },
     "palmfair01": {
-      "idx": 580,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kOzQ7ljjiXGVdLwZyYzi6ZQ4WckeN5.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_CrgDTpKXBmQSLuqJ.jpg",
@@ -339,8 +336,7 @@
           "address": "서울시 강남구 언주로 711",
           "venue": "건설회관빌딩 1층"
         }
-      },
-      "revenue": 40000
+      }
     },
     "hannawedding01": {
       "idx": 1283,
@@ -370,18 +366,18 @@
     },
     "weddingplus12": {
       "idx": 1604,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_IEQADkyQx1.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_zGDiiMfEHqH1dGES3LDJ.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_3rP5DlWIZWj2mqaQX4XUOrHL.jpg",
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_XmVL8T564aMdv62nzUfOTtf1cktHRDh.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4nHJKThs1.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_2w2ikrWmmLk3smgqAR.jpg",
       "ad_url": "https://ad.cpaad.co.kr/weddingplus12/",
       "region": "capital",
       "gather_name": "웨딩더하기 영등포웨딩박람회",
       "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
       "ad_year": "2026",
-      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
       "ad_location": "서울 영등포구 영중로 9||(영등포동4가 434-5)|| 신세계 타임스퀘어점 3층 LG전자베스트샵",
-      "start_date": "2026-06-13",
-      "end_date": "2026-06-14",
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21",
       "preprocessed": {
         "location": {
           "sido": "서울",
@@ -395,6 +391,7 @@
       "revenue": 30000
     },
     "planon61": {
+      "idx": 1798,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_wmxDIA9M2GvO9ukE81.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_X9JEXuCKGC.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lrXzRSHnvurj7ygvugMCv1.jpg",
@@ -416,10 +413,10 @@
           "address": "서울 용산구 한강대로23길 55",
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "planon53": {
-      "idx": 1609,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_qOa2jUpwfOedgnMwCztXhRT8P.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_q9CbWJtkA7kmO6I2.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_1f6kPPqgXVYaRRp3T.jpg",
@@ -441,8 +438,7 @@
           "address": "서울 강남구 남부순환로 3104",
           "venue": "SETEC 2층 전시실"
         }
-      },
-      "revenue": 30000
+      }
     },
     "planon18": {
       "idx": 1167,
@@ -548,32 +544,6 @@
       },
       "revenue": 30000
     },
-    "howto28": {
-      "idx": 1828,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_BnY94Bvdp.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_7xYMgjNwbiii.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_uEUFda9UOclXrO3g1zqxrpyZXv3.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/howto28/",
-      "region": "capital",
-      "gather_name": "하우투 웨딩박람회",
-      "ad_info": "0",
-      "ad_year": "2026",
-      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
-      "ad_location": "서울 강남구 영동대로 237||(대치동 993-1)||삼성스토어 대치본점",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-21",
-      "preprocessed": {
-        "location": {
-          "sido": "서울",
-          "sido_en": "seoul",
-          "sigungu": "강남구",
-          "sigungu_en": "gangnam",
-          "address": "서울 강남구 영동대로 237",
-          "venue": "삼성스토어 대치본점"
-        }
-      },
-      "revenue": 35000
-    },
     "weddingan05": {
       "idx": 1842,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_kTc5F9KqnthClyM1O8bPkNova21Y83J.jpg",
@@ -627,6 +597,7 @@
       "revenue": 30000
     },
     "planon54": {
+      "idx": 1610,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_M36VBDcwW78Q4rsLSFtpg.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_EDyaP8j2X4vh8ejTfUbvu3p.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_zTEf4j5eTY.jpg",
@@ -648,9 +619,11 @@
           "address": "서울 강남구 남부순환로 3104",
           "venue": "SETEC 2층 전시실"
         }
-      }
+      },
+      "revenue": 30000
     },
     "planon46": {
+      "idx": 1497,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg",
@@ -672,7 +645,8 @@
           "address": "서울 강남구 테헤란로 518",
           "venue": "섬유센터 2층"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wedingcrowd13": {
       "idx": 1233,
@@ -727,7 +701,6 @@
       "revenue": 30000
     },
     "wedingcrowd40": {
-      "idx": 1335,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_NClTvbOtJGC2DBRy38.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202405/2337ea9ac0ebeb271ae4fe609b8d7149_OlwDijMUO9ef4Ieo3WWPfry.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202312/2337ea9ac0ebeb271ae4fe609b8d7149_8ay871tFALaOAfSBiuMi9i1.jpg",
@@ -749,8 +722,7 @@
           "address": "경기 수원시 권선구 세화로134번길 37",
           "venue": "수원메쎄 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd48": {
       "idx": 1385,
@@ -1585,6 +1557,7 @@
       "revenue": 30000
     },
     "familywedding12": {
+      "idx": 1339,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_AeBaFGUvrqUKbD7uQbB.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_T9vQKb2irfmzvBaECkSDu3u8cAMl.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_st14gANneAigmxcof.jpg",
@@ -1606,7 +1579,8 @@
           "address": "경기 파주시 와석순환로515번길 70 B동 1층 2187호",
           "venue": "LG전자베스트샵 스타필드 운정점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "withyouwedding43": {
       "idx": 1648,
@@ -2025,6 +1999,7 @@
       "revenue": 35000
     },
     "charlesWedBusan04": {
+      "idx": 1221,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_1qkyZvyz5Xx8aEz9WrSIT9VpxPZCR.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_6YDj1pPTQPqCbsD7.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_EEkfmgHlhdYprmCOArDj26As.jpg",
@@ -2046,7 +2021,8 @@
           "address": "부산 부산진구 황령대로 13",
           "venue": "한라시그마타워 1층"
         }
-      }
+      },
+      "revenue": 30000
     },
     "charlesWedBusan01": {
       "idx": 1143,
@@ -2283,7 +2259,6 @@
       "revenue": 30000
     },
     "wedcompanyL02": {
-      "idx": 1710,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_5wvcBWCsez67pUyknC2lx3YwZTR9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_3IpcJIXArXDNLjsRZXLhFVLmNsRpQNK.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_5ghaNNViZneWusIvHzIBgAqigiqRj8D.jpg",
@@ -2305,8 +2280,7 @@
           "address": "대전 유성구 엑스포로 107",
           "venue": "DCC 대전 컨벤션센터 1층 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "connectwedding01": {
       "idx": 1810,
@@ -2413,6 +2387,7 @@
       "revenue": 30000
     },
     "palmfair03": {
+      "idx": 583,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Tdyf1LxL.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_KDvCRSPSFCLnrdzWkfyPdi.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_fz2p5c1WYHxBcSpax1FWOJ.jpg",
@@ -2434,7 +2409,8 @@
           "address": "대전 서구 둔산로 63",
           "venue": "대자빌딩 4층"
         }
-      }
+      },
+      "revenue": 35000
     },
     "familywedding11": {
       "idx": 1330,
@@ -2697,7 +2673,6 @@
       "revenue": 30000
     },
     "wedingcrowd05": {
-      "idx": 1074,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_3j8cNEkULQJUheg3BIW5kg.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_IZuNEXGvxtgvnfmZpdrS.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_CiGdb8nUM4NotKgbQ6uc6TqSkAL8Qwj.jpg",
@@ -2719,8 +2694,7 @@
           "address": "충북 청주시 서원구 1순환로 1066",
           "venue": "삼성스토어 청주점"
         }
-      },
-      "revenue": 30000
+      }
     },
     "revewedding25": {
       "idx": 1795,
@@ -2983,7 +2957,6 @@
       "revenue": 45000
     },
     "knockWed04": {
-      "idx": 1212,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4DZmHgD6aAl6tOD.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hHBUPAg49wf3fYHG7WxYdS.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_LXA6afX8sVGDG9tv9fPu6ba2NLU.jpg",
@@ -3005,8 +2978,7 @@
           "address": "광주 동구 서석로7번길 9-1",
           "venue": "브라이덜마리브"
         }
-      },
-      "revenue": 40000
+      }
     },
     "theBWSF01": {
       "idx": 1086,
@@ -3061,6 +3033,7 @@
       "revenue": 50000
     },
     "wedingcrowd07": {
+      "idx": 1077,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_GZhDvkWkoN.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_udabGNnTZxJqnVoHlscEeKFuf.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_4TDQOIJZNH3Q7smMmF3QHYVuShTiM.jpg",
@@ -3082,7 +3055,8 @@
           "address": "강원특별자치도 원주시 동부순환로 200",
           "venue": "호텔인터불고 원주 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "weddingplus01": {
       "idx": 1362,
@@ -3527,7 +3501,6 @@
       "revenue": 30000
     },
     "paranfair01": {
-      "idx": 1460,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_nJb9TShOKAnjIN8hckPiAIO1criErt.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_RlkTOUttASpEYtWjfIMbY.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_KwOlU4X2.jpg",
@@ -3549,8 +3522,7 @@
           "address": "경남 창원시 성산구 중앙대로100번길 13 1층",
           "venue": "LG전자베스트샵 상남본점"
         }
-      },
-      "revenue": 30000
+      }
     },
     "lamour01": {
       "idx": 1745,
@@ -3759,6 +3731,7 @@
       "revenue": 30000
     },
     "banhana13": {
+      "idx": 1717,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_tGAU49qKbO8nbkRn9qoyFE.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lHTEKgcDMJkXNTb.jpg",
@@ -3780,7 +3753,8 @@
           "address": "제주특별자치도 제주시 동광로 34",
           "venue": "호텔샬롬 제주"
         }
-      }
+      },
+      "revenue": 50000
     },
     "palmfair05": {
       "idx": 1726,
