@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-09T19:30:02Z",
+  "last_updated": "2026-06-10T19:30:02Z",
   "total_ad_count": 155,
   "advertisements": {
     "howto01": {
@@ -46,20 +46,6 @@
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
     },
-    "DirectWeddingFair01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
-      "region": "capital",
-      "gather_name": "다이렉트 결혼준비 웨딩박람회",
-      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
-      "ad_year": "2026",
-      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
-      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
-      "start_date": "2026-06-13",
-      "end_date": "2026-06-14"
-    },
     "wedingcrowd17": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fpnv4ktwymuQeLfuMhAaIU4A9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_xZQn9S7vrXGb4jGVA29YPze2v.jpg",
@@ -71,6 +57,20 @@
       "ad_year": "2026",
       "ad_date": "06월 13일(토) ~ 06월 14일(일)",
       "ad_location": "서울 송파구 올림픽로 300 8-9층||(신천동 29)||롯데면세점 월드타워점 8층 갤러리 라운지",
+      "start_date": "2026-06-13",
+      "end_date": "2026-06-14"
+    },
+    "DirectWeddingFair01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+      "region": "capital",
+      "gather_name": "다이렉트 결혼준비 웨딩박람회",
+      "ad_info": "결혼준비 시작부터 끝까지 완벽하게!",
+      "ad_year": "2026",
+      "ad_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "ad_location": "서울 강남구 도산대로 221 8층||(신사동 588-19)||다이렉트 결혼준비 서울본사",
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
     },
@@ -201,18 +201,18 @@
       "end_date": "2026-07-04"
     },
     "weddingplus12": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_IEQADkyQx1.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_zGDiiMfEHqH1dGES3LDJ.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_3rP5DlWIZWj2mqaQX4XUOrHL.jpg",
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_XmVL8T564aMdv62nzUfOTtf1cktHRDh.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4nHJKThs1.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_2w2ikrWmmLk3smgqAR.jpg",
       "ad_url": "https://ad.cpaad.co.kr/weddingplus12/",
       "region": "capital",
       "gather_name": "웨딩더하기 영등포웨딩박람회",
       "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
       "ad_year": "2026",
-      "ad_date": "06월 13일(토) ~ 06월 14일(일)",
+      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
       "ad_location": "서울 영등포구 영중로 9||(영등포동4가 434-5)|| 신세계 타임스퀘어점 3층 LG전자베스트샵",
-      "start_date": "2026-06-13",
-      "end_date": "2026-06-14"
+      "start_date": "2026-06-20",
+      "end_date": "2026-06-21"
     },
     "planon61": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_wmxDIA9M2GvO9ukE81.jpg",
@@ -297,20 +297,6 @@
       "ad_location": "서울 영등포구 경인로 846||(영등포동 618-496)||롯데백화점 영등포점 9층",
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
-    },
-    "howto28": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_BnY94Bvdp.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_7xYMgjNwbiii.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_uEUFda9UOclXrO3g1zqxrpyZXv3.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/howto28/",
-      "region": "capital",
-      "gather_name": "하우투 웨딩박람회",
-      "ad_info": "0",
-      "ad_year": "2026",
-      "ad_date": "06월 20일(토) ~ 06월 21일(일)",
-      "ad_location": "서울 강남구 영동대로 237||(대치동 993-1)||삼성스토어 대치본점",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-21"
     },
     "weddingan05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_kTc5F9KqnthClyM1O8bPkNova21Y83J.jpg",
@@ -969,6 +955,20 @@
       "ad_location": "인천 미추홀구 연남로 35||(관교동 15)||롯데백화점 인천점 삼성스토어",
       "start_date": "2026-06-13",
       "end_date": "2026-06-14"
+    },
+    "wedingcrowd25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_zVLFxvg1vVS9.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_e1OleJGTXj.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_FyKKtWhBFyizXpPJQaihex99qZkib.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd25/",
+      "region": "incheon",
+      "gather_name": "송도 엘리아벨 대형 웨딩박람회",
+      "ad_info": "지중해 하늘 감성의 야외웨딩, 엘리아벨",
+      "ad_year": "2026",
+      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
+      "ad_location": "인천 연수구 송도힐즈로10길 8||(동춘동 산 65-21)||엘리아벨 특별행사장",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28"
     },
     "withyouwedding11": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TIGg4tMtNL8k3.jpg",
