@@ -1,0 +1,208 @@
+{
+  "campaign_id": "connectwedding11",
+  "gather_name": "속초강원 브랜드 웨딩박람회",
+  "organizer_name": "커넥팅웨딩",
+  "seo_metadata": {
+    "title": "속초 웨딩박람회 | 카시아 속초 스드메 계약 혜택 및 혼수가전 할인",
+    "meta_description": "속초강원 브랜드 웨딩박람회 개최! 카시아 속초에서 열리는 이번 행사에서 스드메 패키지, 혼수가전 백화점 할인 및 다양한 방문 계약 혜택을 지금 바로 확인하고 무료 초대권을 신청하세요.",
+    "keywords": [
+      "속초웨딩박람회",
+      "강원도결혼준비",
+      "카시아속초웨딩",
+      "스드메견적",
+      "결혼준비체크리스트",
+      "혼수가전할인",
+      "강릉웨딩홀",
+      "속초웨딩홀",
+      "웨딩박람회혜택",
+      "예비부부결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 속초강원 브랜드 웨딩박람회에서 검증된 업체들과 함께 1:1 맞춤형 컨설팅을 경험해보세요. 예비부부를 위한 파격적인 혜택과 트렌디한 웨딩 정보를 한자리에서 만나보실 수 있습니다.",
+    "benefits_description": "방문만 해도 제공되는 푸짐한 사은품부터 계약 시 누리는 특별 혜택까지 모두 준비했습니다. 특히 삼성전자 공식 웨딩 파트너로서 혼수가전 백화점 추가 할인과 10만원 추가 혜택을 제공하며, 스드메 패키지 또한 합리적인 가격에 최상의 퀄리티를 보장합니다. 웨딩홀 대관료 무료 및 식대 할인 등 강원 지역 예비부부라면 놓칠 수 없는 절호의 기회를 카시아 속초에서 확인하세요.",
+    "summary_for_search": "카시아 속초에서 열리는 속초강원 브랜드 웨딩박람회! 스드메 패키지 최저가 상담과 혼수가전 백화점 할인 혜택을 놓치지 마세요. 지금 사전 신청하고 무료 초대권과 특별 선물을 받아보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "속초강원 브랜드 웨딩박람회 개최! 지금 신청하고 최대 혜택 받으세요",
+    "secondary_headline": "스드메부터 혼수가전까지, 5년 연속 소비자 만족도 1위 파트너와 함께하는 완벽한 결혼 준비",
+    "urgency_text": "선착순 방문 상담 예약 마감 임박!",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "청첩장 10% 할인권",
+      "고급 와인 증정"
+    ],
+    "contract_benefits": [
+      "삼성전자 혼수가전 백화점 추가 할인",
+      "혼수가전 10만원 추가 혜택",
+      "웨딩홀 대관료 무료 및 식대 할인",
+      "스드메 합리적 패키지 가격 제공"
+    ],
+    "special_events": [
+      "1:1 웨딩 전문가 맞춤 상담",
+      "프리미엄 웨딩드레스 전시 및 상담",
+      "브랜드 웨딩 스튜디오 화보 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "속초시",
+      "sigungu_en": "sokcho",
+      "address": "강원특별자치도 속초시 대포항희망길 120",
+      "venue": "카시아 속초 4층 그랜드 볼룸",
+      "parking_info": "카시아 속초 주차장 이용 가능",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 신청 후 현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "5년 연속 삼성전자 공식 웨딩 파트너",
+      "백화점 수수료 0%",
+      "웨딩플래너 수수료 0%",
+      "강원 지역 최다 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "속초강원 브랜드 웨딩박람회",
+      "startDate": "2025-07-11",
+      "endDate": "2025-07-12",
+      "location": {
+        "@type": "Place",
+        "name": "카시아 속초",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강원특별자치도 속초시 대포항희망길 120",
+          "addressLocality": "속초시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "커넥팅웨딩",
+        "url": "https://ad.cpaad.co.kr/connectwedding11/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장료가 있나요?",
+        "answer": "아니요, 사전 신청을 하시면 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 사은품을 주나요?",
+        "answer": "네, 현장 상담 완료 시 청첩장 할인권과 고급 와인 등 다양한 방문 선물을 드립니다."
+      },
+      {
+        "question": "스드메 계약 시 혜택이 무엇인가요?",
+        "answer": "박람회 특별가 적용과 함께 혼수가전 백화점 할인 및 웨딩홀 대관료 지원 등 다양한 패키지 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 행사장인 카시아 속초 주차장을 편리하게 이용하실 수 있습니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+        "answer": "네, 1:1 웨딩 전문가가 배정되어 예식장부터 스드메까지 전 과정을 친절하게 상담해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적인 비용으로 고퀄리티 결혼 준비를 희망하는 커플을 대상으로 합니다. 특히 강원도 지역에서 예식을 올릴 예정이며, 스드메 업체 비교와 혼수 가전 가격 정보를 한곳에서 확인하고 싶은 신혼부부에게 최적의 정보를 제공합니다. 결혼 준비 기간을 효율적으로 단축하고 싶은 분들을 위해 1:1 맞춤형 전문가 상담을 제공합니다.",
+    "exhibitor_highlights": [
+      "명품 웨딩 드레스 샵",
+      "프리미엄 웨딩 스튜디오",
+      "웨딩 메이크업 브랜드",
+      "혼수 가전(삼성전자)",
+      "예물 및 예복 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "웨딩 플래너 수수료 0%로 거품 없는 견적 제공",
+      "5년 연속 삼성전자 공식 파트너로 신뢰할 수 있는 혼수 혜택",
+      "강원 지역 전문 웨딩홀 무료 상담 및 대관료 할인 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 평균 비용",
+      "속초 결혼식장 추천",
+      "웨딩박람회 계약 혜택",
+      "혼수 가전 준비 시기",
+      "결혼 박람회 예약 방법",
+      "강원도 웨딩스튜디오",
+      "웨딩홀 무료 대관",
+      "신혼여행 패키지 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강원도 웨딩홀 추천 리스트",
+        "category": "venue_info"
+      },
+      {
+        "anchor": "2025년 결혼 준비 체크리스트",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "신혼여행",
+      "청첩장",
+      "웨딩컨설팅",
+      "결혼식"
+    ]
+  },
+  "social_meta": {
+    "og_title": "속초강원 웨딩박람회! 무료 초대권 신청",
+    "og_description": "결혼 준비의 모든 것! 카시아 속초에서 열리는 이번 박람회에서 역대급 스드메 혜택과 혼수 할인을 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#속초웨딩박람회",
+      "#결혼준비",
+      "#강원도웨딩",
+      "#카시아속초",
+      "#스드메",
+      "#혼수준비",
+      "#예비부부",
+      "#웨딩박람회혜택",
+      "#결혼식준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/connectwedding11/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vWLa7REiAQvJW4I.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4JHeux89HlEPnGnymMHjtYwTu96y3x.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5YXMflz5gZ8DpdFrjeD2ROeb6WfFkl.jpg"
+  }
+}

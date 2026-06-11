@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-10T19:30:02Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-06-11T19:30:03Z",
+  "total_ad_count": 156,
   "advertisements": {
     "howto01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
@@ -1823,6 +1823,20 @@
       "ad_location": "강원특별자치도 원주시 봉화로 29||(단계동 1117-4)||원주 메이브라이드 웨딩스퀘어 전관",
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
+    },
+    "connectwedding11": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vWLa7REiAQvJW4I.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4JHeux89HlEPnGnymMHjtYwTu96y3x.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5YXMflz5gZ8DpdFrjeD2ROeb6WfFkl.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding11/",
+      "region": "gangwon",
+      "gather_name": "속초강원 브랜드 웨딩박람회",
+      "ad_info": "카시아 속초와 함께하는!",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "강원특별자치도 속초시 대포항희망길 120||(대포동 937)|| 카시아 속초 4층 그랜드 볼룸",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
     },
     "wwedding12": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_T8eN4ayw1pL23JqxFyGg6m7QU.png",
