@@ -1,0 +1,210 @@
+{
+  "idx": 1379,
+  "campaign_id": "wedingcrowd47",
+  "gather_name": "서울(강서) 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "서울 강서 웨딩박람회 | 스드메 패키지 할인 및 삼성가전 혜택",
+    "meta_description": "더베뉴지서울에서 열리는 서울 강서 대형 웨딩박람회! 방문 시 스타벅스 쿠폰 증정, 계약 시 웨딩 다이어리 및 파격적인 스드메 패키지 특가 혜택을 놓치지 마세요. 지금 무료 신청하고 결혼 준비 시작하세요.",
+    "keywords": [
+      "서울웨딩박람회",
+      "강서웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "웨딩홀추천",
+      "웨딩박람회일정",
+      "예물반지",
+      "신혼여행박람회",
+      "삼성신혼가전",
+      "웨딩드레스피팅"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 이번 주말에 서울 강서구에서 열리는 대형 웨딩박람회 다녀온 후기 공유해요~ 결혼 준비 이제 막 시작해서 막막했는데, 여기 진짜 알차더라고요! 스드메부터 혼수 가전까지 한 번에 상담받을 수 있어서 시간 절약 제대로 했답니다.",
+    "benefits_description": "방문만 해도 스타벅스 기프티콘을 챙겨주는데, 이게 소소하지만 기분 좋더라고요! 계약자분들에게는 웨딩 다이어리 증정은 물론, 스드메 패키지 특가까지 있어서 눈이 번쩍 뜨였어요. 특히 드레스 피팅이랑 스튜디오 촬영 샘플 직접 보고 고를 수 있어서 만족스러웠고요. 계약 시 혜택이 워낙 많으니까 미리 상담 예약하고 가시는 걸 강추드려요!",
+    "summary_for_search": "서울 강서 더베뉴지서울에서 진행하는 웨딩박람회! 스드메 특가부터 혼수 가전 혜택, 방문 시 스타벅스 쿠폰까지. 예비부부를 위한 실속 있는 혜택을 지금 확인해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 시작, 서울 강서 대형 웨딩박람회에서 최대 혜택 받으세요!",
+    "secondary_headline": "스드메 패키지부터 혼수 가전, 허니문까지 한곳에서 비교하는 최적의 기회",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 지금 신청하세요!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 스타벅스 기프티콘 증정",
+      "웨딩 다이어리 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 특가 할인",
+      "청첩장 15% 할인권",
+      "예물(예복) 계약 시 할인 및 추가 증정품",
+      "삼성 가전 구매 시 최대 440만원 상당 혜택"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "스튜디오 샘플 전시",
+      "허니문 최저가 상담",
+      "전문가 1:1 웨딩 플래닝 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "display_date": "06월 27일(토) ~ 06월 28일(일)",
+      "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강서구",
+      "sigungu_en": "gangseo",
+      "address": "서울 강서구 강서로 388",
+      "venue": "더베뉴지서울 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "신혼집 입주 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "전국 최대 규모 박람회",
+      "1:1 전문 웨딩 플래너 상담",
+      "검증된 스드메 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울(강서) 대형 웨딩박람회",
+      "startDate": "2025-06-27T10:00:00",
+      "endDate": "2025-06-28T19:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "더베뉴지서울",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강서로 388",
+          "addressLocality": "서울 강서구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd47/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "방문만 해도 혜택이 있나요?",
+        "answer": "네, 현장 방문 상담 시 스타벅스 기프티콘과 웨딩 다이어리를 증정합니다."
+      },
+      {
+        "question": "스드메 패키지는 어떻게 구성되나요?",
+        "answer": "스튜디오, 드레스, 메이크업을 원스톱으로 비교하고 전문가와 함께 합리적인 가격대로 패키지를 구성할 수 있습니다."
+      },
+      {
+        "question": "혼수 가전 상담도 가능한가요?",
+        "answer": "네, 삼성전자 혼수 가전 전문 상담사가 상주하여 최신 가전 혜택 및 견적 비교를 도와드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업샵, 예물, 예복, 혼수 가전, 허니문 여행사 등 결혼 준비의 모든 분야 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜는 정했지만 무엇부터 해야 할지 막막한 예비부부, 효율적인 스드메 준비를 원하는 커플, 합리적인 예산으로 고퀄리티의 웨딩을 계획 중인 신랑신부님을 위한 행사입니다. 서울 강서 지역에서 접근성이 좋고, 혼수 가전부터 신혼여행까지 한곳에서 해결하고 싶은 바쁜 직장인 예비부부에게 특히 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 상담 부스",
+      "스드메 패키지 전문 업체",
+      "웨딩 주얼리(예물)",
+      "맞춤 정장 및 한복",
+      "허니문 여행사",
+      "삼성전자 가전"
+    ],
+    "comparison_hooks": [
+      "타 박람회와 차별화된 1:1 맞춤형 웨딩 플래닝 제공",
+      "최신 트렌드 웨딩홀부터 가전까지 한 번에 해결",
+      "현장 계약자 대상 최대 규모의 상품 및 추가 할인 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "웨딩박람회 뭐 받나요",
+      "서울 웨딩홀 견적 비교",
+      "스드메 평균 비용",
+      "신혼여행 박람회 추천",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 예약 방법",
+      "삼성 혼수 가전 혜택",
+      "웨딩 드레스 투어 팁",
+      "맞춤 예복 브랜드 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "스드메 패키지 고르는 법",
+        "category": "wedding_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩드레스",
+      "신혼여행",
+      "예물",
+      "예복",
+      "한복",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 강서 웨딩박람회, 지금 무료신청하고 혜택 챙기세요!",
+    "og_description": "스드메 특가부터 혼수 가전 혜택까지! 이번 주말 서울 강서 더베뉴지서울에서 결혼 준비 끝내보세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#강서웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#웨딩홀",
+      "#혼수가전",
+      "#신혼여행",
+      "#더베뉴지서울"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd47/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_jlhS4iUcdrhCst.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_qqtCJ1KZMl.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_xUlixywITBk1ZsznansuI.jpg"
+  }
+}
