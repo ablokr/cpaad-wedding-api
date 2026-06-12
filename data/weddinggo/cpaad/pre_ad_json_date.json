@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-11T16:00:04Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-06-12T10:00:02Z",
+  "total_ad_count": 156,
   "advertisements": {
     "howto01": {
       "idx": 721,
@@ -239,7 +239,6 @@
       "revenue": 30000
     },
     "weddingdc03": {
-      "idx": 586,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_qKGohH2PDM1oRZWFZOF3nZaISfdb.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Q6GZBmRE7QToodr.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ydkxWEm95F68WfKpH.jpg",
@@ -261,8 +260,7 @@
           "address": "서울 강남구 테헤란로7길 22",
           "venue": "SC컨벤션센터 12F (한국과학기술회관 內)"
         }
-      },
-      "revenue": 40000
+      }
     },
     "planon45": {
       "idx": 1443,
@@ -395,7 +393,6 @@
       "revenue": 30000
     },
     "planon61": {
-      "idx": 1798,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_wmxDIA9M2GvO9ukE81.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_X9JEXuCKGC.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lrXzRSHnvurj7ygvugMCv1.jpg",
@@ -417,8 +414,7 @@
           "address": "서울 용산구 한강대로23길 55",
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
         }
-      },
-      "revenue": 40000
+      }
     },
     "planon53": {
       "idx": 1609,
@@ -603,7 +599,6 @@
       "revenue": 30000
     },
     "planon54": {
-      "idx": 1610,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_M36VBDcwW78Q4rsLSFtpg.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_EDyaP8j2X4vh8ejTfUbvu3p.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_zTEf4j5eTY.jpg",
@@ -625,11 +620,9 @@
           "address": "서울 강남구 남부순환로 3104",
           "venue": "SETEC 2층 전시실"
         }
-      },
-      "revenue": 40000
+      }
     },
     "planon46": {
-      "idx": 1497,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg",
@@ -651,8 +644,7 @@
           "address": "서울 강남구 테헤란로 518",
           "venue": "섬유센터 2층"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd13": {
       "idx": 1233,
@@ -1565,7 +1557,6 @@
       "revenue": 30000
     },
     "familywedding12": {
-      "idx": 1339,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_AeBaFGUvrqUKbD7uQbB.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_T9vQKb2irfmzvBaECkSDu3u8cAMl.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_st14gANneAigmxcof.jpg",
@@ -1587,8 +1578,7 @@
           "address": "경기 파주시 와석순환로515번길 70 B동 1층 2187호",
           "venue": "LG전자베스트샵 스타필드 운정점"
         }
-      },
-      "revenue": 30000
+      }
     },
     "withyouwedding43": {
       "idx": 1648,
@@ -2111,7 +2101,6 @@
       "revenue": 30000
     },
     "wwedding05": {
-      "idx": 1228,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_3I8IHYsGmC4rHCN.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_kGekdZ3e3O528ArOvV7R.jpg",
@@ -2133,8 +2122,7 @@
           "address": "부산광역시 부산진구 자유평화로 11",
           "venue": "W웨딩시티"
         }
-      },
-      "revenue": 30000
+      }
     },
     "tourmin01": {
       "idx": 1738,
@@ -3203,7 +3191,6 @@
       "revenue": 30000
     },
     "wedingcrowd08": {
-      "idx": 1082,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_x1I2CHmSafGb4dB47OmkxrbE.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_gUXVb7Whr3.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_igPYCiA1YHaX9ZqbjysW.jpg",
@@ -3225,8 +3212,7 @@
           "address": "강원특별자치도 강릉시 경강로 2380",
           "venue": "삼성스토어 강릉"
         }
-      },
-      "revenue": 30000
+      }
     },
     "reveweddingE29": {
       "idx": 1839,
@@ -3383,6 +3369,30 @@
         }
       },
       "revenue": 30000
+    },
+    "connectwedding11": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vWLa7REiAQvJW4I.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4JHeux89HlEPnGnymMHjtYwTu96y3x.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5YXMflz5gZ8DpdFrjeD2ROeb6WfFkl.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding11/",
+      "region": "gangwon",
+      "gather_name": "속초강원 브랜드 웨딩박람회",
+      "ad_info": "카시아 속초와 함께하는!",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "강원특별자치도 속초시 대포항희망길 120||(대포동 937)|| 카시아 속초 4층 그랜드 볼룸",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "preprocessed": {
+        "location": {
+          "sido": "강원",
+          "sido_en": "gangwon",
+          "sigungu": "속초시",
+          "sigungu_en": "sokcho",
+          "address": "강원특별자치도 속초시 대포항희망길 120",
+          "venue": "카시아 속초 4층 그랜드 볼룸"
+        }
+      }
     },
     "wwedding12": {
       "idx": 1440,
@@ -3775,7 +3785,6 @@
       "revenue": 30000
     },
     "banhana13": {
-      "idx": 1717,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_tGAU49qKbO8nbkRn9qoyFE.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_lHTEKgcDMJkXNTb.jpg",
@@ -3797,8 +3806,7 @@
           "address": "제주특별자치도 제주시 동광로 34",
           "venue": "호텔샬롬 제주"
         }
-      },
-      "revenue": 50000
+      }
     },
     "palmfair05": {
       "idx": 1726,
