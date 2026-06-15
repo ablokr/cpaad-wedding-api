@@ -1,0 +1,209 @@
+{
+  "campaign_id": "wedingcrowd103",
+  "gather_name": "서울 영등포 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "서울 영등포 웨딩박람회 | 삼성스토어 타임스퀘어 단독 혜택 및 혼수 할인",
+    "meta_description": "서울 영등포 대형 웨딩박람회 개최! 삼성스토어 신세계타임스퀘어에서 스드메 패키지, 혼수가전 최대 할인과 예비부부를 위한 파격적인 방문/계약 선물을 확인하세요. 지금 무료 참가 신청하고 결혼 준비 혜택을 모두 챙기세요.",
+    "keywords": [
+      "서울웨딩박람회",
+      "영등포웨딩박람회",
+      "결혼준비박람회",
+      "스드메패키지",
+      "혼수가전할인",
+      "웨딩박람회방문혜택",
+      "신혼부부혼수",
+      "웨딩홀비교",
+      "결혼준비비용",
+      "타임스퀘어웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 서울 영등포의 중심, 삼성스토어 신세계타임스퀘어에서 개최되는 이번 대형 웨딩박람회는 예비부부님들의 고민을 한 번에 해결해 드릴 최고의 선택지입니다.",
+    "benefits_description": "방문만 하셔도 스타벅스 기프트카드와 청첩장 할인쿠폰 등 알찬 선물이 쏟아집니다. 또한, 현장 계약 시 웨딩 다이어리 증정은 물론, 스드메 패키지 69만 원 초특가 구성과 혼수가전 최대 440만 원 할인 혜택까지 준비되어 있습니다. 전문 웨딩 플래너의 1:1 맞춤 상담을 통해 복잡한 결혼 준비를 더욱 스마트하고 경제적으로 완성해 보세요.",
+    "summary_for_search": "서울 영등포 삼성스토어 신세계타임스퀘어에서 열리는 대형 웨딩박람회! 스드메 패키지 69만원부터 혼수가전 최대 440만원 할인까지, 예비부부를 위한 특별한 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 69만 원! 영등포 웨딩박람회 단독 초특가",
+    "secondary_headline": "방문객 전원 스타벅스 쿠폰 증정, 지금 바로 신청하세요",
+    "urgency_text": "선착순 방문객 대상 경품 증정 및 한정 상담 패키지 마감 임박",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 기프트카드",
+      "청첩장 할인 쿠폰"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 69만 원부터",
+      "혼수가전 최대 440만 원 할인",
+      "웨딩 다이어리 증정",
+      "예물/예복/한복 계약 시 특별 할인"
+    ],
+    "special_events": [
+      "웨딩 스튜디오 촬영 체험",
+      "1:1 맞춤 전문 상담 서비스",
+      "혼수가전 큐레이션 및 설계 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "display_date": "06월 27일(토) ~ 06월 28일(일)",
+      "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "영등포구",
+      "sigungu_en": "yeongdeungpo",
+      "address": "서울 영등포구 영중로 9 리빙관 3층",
+      "venue": "삼성스토어 신세계타임스퀘어",
+      "parking_info": "타임스퀘어 주차장 이용 가능 (상세 확인 필요)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부 구분",
+      "결혼예정일",
+      "신청시점예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 고객 대상 (선착순 증정)",
+    "trust_indicators": [
+      "서울 영등포 대형 웨딩 박람회",
+      "삼성스토어 단독 개최",
+      "1:1 전문 웨딩 플래너 상담",
+      "53,604쌍의 신혼부부가 선택한 검증된 곳"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 영등포 대형 웨딩박람회",
+      "startDate": "2026-06-27",
+      "endDate": "2026-06-28",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 신세계타임스퀘어",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "영등포구 영중로 9",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd103/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "방문하시는 모든 분께 스타벅스 기프트카드와 청첩장 할인 쿠폰을 드립니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사가 진행되는 타임스퀘어 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "결혼 날짜가 확정되지 않았는데 가도 되나요?",
+        "answer": "네, 예비 부부라면 누구나 상담받으실 수 있습니다. 대략적인 일정을 바탕으로 최적의 설계를 도와드립니다."
+      },
+      {
+        "question": "박람회 현장에서 상담받으면 비용이 드나요?",
+        "answer": "아니요, 박람회 입장은 무료이며 전문 플래너의 상담 서비스 또한 무료로 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 입점해 있나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메)을 비롯해 웨딩홀, 예물, 예복, 한복, 가전 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 혼수 가전과 예물 등 결혼 준비 리스트를 한곳에서 해결하고 싶은 분들을 위해 준비했습니다. 결혼 준비 6개월 이내의 커플이라면 필수적으로 방문해야 하며, 1:1 맞춤 상담을 통해 개인의 취향과 예산에 딱 맞는 웨딩 플랜을 완성할 수 있습니다. 어떻게 시작할지 고민하는 분들에게 전문적인 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "드레스/메이크업 전문샵",
+      "허니문 여행사",
+      "예물/예복 브랜드",
+      "혼수 가전(삼성스토어)"
+    ],
+    "comparison_hooks": [
+      "국내 최대 규모의 웨딩 업체 입점으로 폭넓은 비교 가능",
+      "삼성스토어만의 혼수가전 단독 파격 할인 혜택",
+      "검증된 플래너의 1:1 맞춤 동행 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "결혼 준비 체크리스트",
+      "삼성스토어 혼수가전 이벤트",
+      "웨딩플래너 상담 예약",
+      "서울 웨딩홀 비교",
+      "허니문 패키지 추천",
+      "웨딩박람회 후기",
+      "혼수 리스트 작성법",
+      "예물 예복 브랜드 순위"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 추천 리스트 바로가기",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 혜택 자세히 보기",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "부케",
+      "웨딩촬영",
+      "결혼식 비용",
+      "허니문",
+      "청첩장",
+      "혼수가전",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "영등포 웨딩박람회 | 스드메 69만원 실화?",
+    "og_description": "방문객 전원 스타벅스 카드 증정! 서울 영등포 삼성스토어에서 열리는 초특가 웨딩박람회 지금 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#신혼부부",
+      "#예비부부",
+      "#혼수가전",
+      "#삼성스토어",
+      "#타임스퀘어",
+      "#결혼식준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd103/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hUDQYVdDoPRmj.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_o8NQX8tNQvH6lCHP.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_J79651oP.jpg"
+  }
+}
