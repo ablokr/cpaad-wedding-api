@@ -1,0 +1,204 @@
+{
+  "idx": 1307,
+  "campaign_id": "familywedding07",
+  "gather_name": "평택 패밀리 웨딩박람회",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "평택 웨딩박람회 | LG전자 베스트샵 AK플라자점 결혼 준비 특별 혜택",
+    "meta_description": "평택 패밀리 웨딩박람회에서 스드메, 혼수, 가전까지 한 번에 준비하세요! 선착순 방문 선물, 계약 축하금 최대 150만원, 가전 할인 등 예비부부를 위한 역대급 혜택을 지금 확인하고 무료로 신청하세요.",
+    "keywords": [
+      "평택웨딩박람회",
+      "평택결혼준비",
+      "평택웨딩홀",
+      "평택스드메",
+      "신혼가전할인",
+      "AK플라자평택웨딩박람회",
+      "결혼준비체크리스트",
+      "평택혼수",
+      "웨딩박람회혜택",
+      "경기웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 평택 패밀리 웨딩박람회는 예비부부의 고민을 한 번에 해결해드리는 지역 최대 규모의 웨딩 축제입니다.",
+    "benefits_description": "방문만 해도 제공되는 로즈 에센스 핸드크림과 스타벅스 텀블러부터, 계약 시 최대 150만원의 축하금과 로보락 청소기까지 준비했습니다. 전문가의 1:1 맞춤 상담을 통해 복잡한 스드메 패키지와 혼수 가전을 최저가로 비교하고, 평택 지역 웨딩홀과 연계된 특별 프로모션까지 누려보세요. 지금 등록하고 평생 기억에 남을 완벽한 결혼식을 경제적으로 준비하시길 바랍니다.",
+    "summary_for_search": "평택 패밀리 웨딩박람회 개최! LG전자 베스트샵 AK플라자점에서 열리는 이번 박람회는 스드메, 혼수, 신혼가전까지 최대 혜택을 제공합니다. 방문자 선물 및 계약 지원금 기회를 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 평택 패밀리 웨딩박람회에서 한 번에 해결하고 역대급 혜택받자!",
+    "secondary_headline": "스드메부터 혼수·가전까지, 현장 계약 시 최대 150만원 지원 및 경품 증정",
+    "urgency_text": "선착순 사전 신청자 대상 경품 증정, 이번 주말 한정 혜택",
+    "call_to_action_text": "무료 참가 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "로즈 에센스 핸드크림",
+      "스타벅스 텀블러",
+      "청첩장 할인 쿠폰"
+    ],
+    "contract_benefits": [
+      "계약 축하금 최대 150만원",
+      "로보락 청소기 증정(선착순)",
+      "스드메 라인 추가 비용 무료",
+      "예복 및 한복 계약 시 소품 증정"
+    ],
+    "special_events": [
+      "혼수 가전 동시 구매 시 추가 할인",
+      "스드메 50% 할인 프로모션",
+      "전문가 1:1 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "평택시",
+      "sigungu_en": "pyeongtaek",
+      "address": "경기 평택시 평택로 51",
+      "venue": "LG전자베스트샵 AK PLAZA 평택점 6층",
+      "parking_info": "AK플라자 평택점 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 신청 후 현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "평택 지역 대규모 웨딩 행사",
+      "LG전자 베스트샵 공식 제휴",
+      "전문 웨딩 플래너 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "평택 패밀리 웨딩박람회",
+      "startDate": "2025-07-04",
+      "endDate": "2025-07-05",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자 베스트샵 AK플라자 평택점",
+        "address": "경기 평택시 AK플라자 6층"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/familywedding07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "박람회는 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "개최 장소인 AK플라자 평택점 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "방문만 해도 혜택을 받을 수 있나요?",
+        "answer": "네, 사전 신청 후 방문하신 모든 분들께 핸드크림 및 스타벅스 텀블러 등 감사 선물을 증정합니다."
+      },
+      {
+        "question": "스드메 패키지 비교가 가능한가요?",
+        "answer": "네, 다양한 업체가 입점하여 신랑신부님 취향에 맞는 1:1 맞춤 컨설팅을 제공합니다."
+      },
+      {
+        "question": "가전 할인 혜택도 있나요?",
+        "answer": "LG전자 베스트샵과 협업하여 혼수 가전 구매 시 파격적인 할인 및 추가 사은품을 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장 예약부터 스드메, 가전 혼수까지 막막함을 느끼는 평택 지역 예비부부. 특히 합리적인 예산으로 고퀄리티 웨딩을 준비하고 싶은 분들이나, 여러 업체를 일일이 방문하기 어려운 바쁜 직장인 커플들에게 강력히 추천합니다. 1:1 상담을 통해 나만의 웨딩 스타일을 찾고, 박람회 전용 프로모션으로 비용 절감과 풍성한 사은품 혜택을 동시에 누리고 싶은 모든 분들을 환영합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 제휴처",
+      "스드메 토탈 패키지",
+      "신혼가전 전문 브랜드(LG전자)",
+      "허니문 전문 여행사",
+      "예물·예복·한복 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 파격 할인 및 로보락 청소기 증정",
+      "지역 내 가장 많은 웨딩 브랜드와 1:1 맞춤형 컨설팅 제공",
+      "가전부터 스드메까지 단 하루 만에 준비하는 효율적인 원스톱 시스템"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "평택 웨딩홀 추천",
+      "평택 스드메 가격",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 혜택 비교",
+      "가전 혼수 준비",
+      "웨딩박람회 방문 선물",
+      "평택 예복 추천",
+      "신혼여행 패키지 비용",
+      "웨딩박람회 계약 후기",
+      "결혼 예산 세우기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 지역 웨딩박람회 일정",
+        "category": "kyeonggi_wedding_events"
+      },
+      {
+        "anchor": "스드메 패키지 할인 정보",
+        "category": "wedding_dress_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예복",
+      "신혼여행",
+      "가전",
+      "웨딩컨설팅",
+      "결혼준비",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "평택 웨딩박람회, 결혼 준비 역대급 혜택! 🎁",
+    "og_description": "스드메부터 혼수까지 최대 150만원 지원! 사전 신청하고 선물받으세요.",
+    "hashtags": [
+      "#평택웨딩박람회",
+      "#평택결혼준비",
+      "#평택웨딩",
+      "#신혼부부혜택",
+      "#결혼준비",
+      "#스드메할인",
+      "#평택웨딩홀",
+      "#웨딩박람회",
+      "#예비부부",
+      "#AK플라자평택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/familywedding07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_17LYx7sR3HBQm1Tg5SnzNfzeD.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_OZVA3Jo6qdvM8dasPMETXw9M8t.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_CRdTI1fJVfq1KY.jpg"
+  },
+  "revenue": 30000
+}
