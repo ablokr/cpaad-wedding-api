@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-16T13:00:03Z",
-  "total_ad_count": 139,
+  "last_updated": "2026-06-16T16:00:02Z",
+  "total_ad_count": 140,
   "advertisements": {
     "howto01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
@@ -155,20 +155,6 @@
       "ad_year": "2026",
       "ad_date": "06월 27일(토) ~ 06월 28일(일)",
       "ad_location": "서울 강남구 테헤란로 518||(대치동 944-31)||섬유센터 2층",
-      "start_date": "2026-06-27",
-      "end_date": "2026-06-28"
-    },
-    "wedingcrowd103": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hUDQYVdDoPRmj.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_o8NQX8tNQvH6lCHP.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_J79651oP.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd103/",
-      "region": "capital",
-      "gather_name": "서울 영등포 대형 웨딩박람회",
-      "ad_info": "타임스퀘어에서 열리는 서울 대형 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
-      "ad_location": "서울 영등포구 영중로 9 리빙관 3층||(영등포동4가 434-5)||삼성스토어 신세계타임스퀘어",
       "start_date": "2026-06-27",
       "end_date": "2026-06-28"
     },
@@ -745,6 +731,34 @@
       "ad_location": "경기 이천시 이섭대천로 1430||(증포동 51-9)||LG전자베스트샵 이천본점",
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
+    },
+    "weddingplus09": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wlJshU4x37MwCtVA7HqPHiG8s6g.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4nKpkxoolaFonVY7Xq2kZRI2W5LKM.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_JcgwHM9GD1weln4VV49R8YLFiRnyk.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingplus09/",
+      "region": "gyeonggi",
+      "gather_name": "웨딩더하기 동탄롯데백화점 웨딩박람회",
+      "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
+      "ad_year": "2026",
+      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
+      "ad_location": "경기 화성시 동탄역로 160||롯데백화점 동탄점 6층||LG전자베스트샵",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28"
+    },
+    "connectwedding12": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_qoDHsWm9BirjBc.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ihEzTX6J7Et7Bb.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_pstNsOEXAA8DQDquoEbSbH554oa3YF.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding12/",
+      "region": "gyeonggi",
+      "gather_name": "라멜드 웨딩박람회 구리",
+      "ad_info": "가격이 아닌 ‘가치’로 완성하는 웨딩 경험으로 설계하는 웨딩 컨설팅",
+      "ad_year": "2026",
+      "ad_date": "06월 27일(토) ~ 06월 28일(일)",
+      "ad_location": "경기 구리시 건원대로 44 태영빌딩 8,9층||(인창동 670-1)||아르비아웨딩홀",
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28"
     },
     "reveweddingE06": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_2QoURXV6sfi52C4Z2I9iGHearwr9hqsl.jpg",
