@@ -1,0 +1,209 @@
+{
+  "campaign_id": "labelleellin05",
+  "gather_name": "수원 AK플라자 웨딩박람회",
+  "organizer_name": "파리스 라벨르엘린",
+  "seo_metadata": {
+    "title": "수원 AK플라자 웨딩박람회 | 스드메 혜택 및 가전 할인 후기",
+    "meta_description": "안녕하세요! 이번 주말 수원 AK플라자 웨딩박람회 다녀온 솔직 후기 공유해요. 스드메 계약 혜택부터 LG전자 가전 특별 할인까지! 결혼 준비하시는 분들 꼭 확인해보세요.",
+    "keywords": [
+      "수원웨딩박람회",
+      "결혼준비",
+      "수원결혼박람회",
+      "AK플라자웨딩박람회",
+      "스드메견적",
+      "웨딩홀할인",
+      "수원혼수가전",
+      "결혼준비꿀팁",
+      "웨딩박람회후기",
+      "신혼부부혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주말에 수원 AK플라자에서 열린 웨딩박람회 다녀왔는데 생각보다 알차서 정보 공유하러 왔어요~ 결혼 준비 시작하면서 어디서부터 해야 할지 막막했는데, 여기서 한 번에 비교하니까 너무 편하더라고요!",
+    "benefits_description": "제가 제일 만족했던 건 역시 계약 혜택이었어요! 스드메 패키지 계약하면 드레스 업그레이드랑 혼주 메이크업 할인까지 챙겨주시더라고요. 특히 이번엔 LG전자 베스트샵이랑 제휴를 맺어서 가전 할인 폭이 진짜 컸어요. 상담만 받아도 사은품 챙겨주시니 가벼운 마음으로 다녀오기 정말 좋았답니다! 현장에서 직접 눈으로 보고 견적 받으니 확실히 온라인 검색보다 신뢰가 가더라고요.",
+    "summary_for_search": "수원 AK플라자 웨딩박람회 방문 후기! 스드메 패키지부터 혼수 가전 특별 할인까지 한곳에서 해결하는 결혼 준비 꿀팁을 확인하세요. 예비부부를 위한 다양한 계약 사은품 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 수원 AK플라자 웨딩박람회 지금 신청하세요",
+    "secondary_headline": "스드메 패키지부터 가전 할인까지, 예비부부를 위한 단 하나의 선택",
+    "urgency_text": "이번 주말 딱 이틀간만 진행되는 특별 프로모션!",
+    "call_to_action_text": "지금 무료 초대권 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 완료 시 사은품 증정",
+      "사전 예약 시 무료입장 및 상담 가능"
+    ],
+    "contract_benefits": [
+      "혼주 한복 대여 할인",
+      "혼주 메이크업 할인",
+      "웨딩액자 업그레이드 및 1점 추가 증정",
+      "LG전자 가전 구매 시 최대 500만원 상당 혜택",
+      "웨딩홀 대관료 및 식대 할인 혜택"
+    ],
+    "special_events": [
+      "2025 신상 드레스 전시",
+      "웨딩 스튜디오 30개 업체 비교",
+      "LG전자 으뜸효율 가전 페스타"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-27",
+      "end_date": "2026-06-28",
+      "display_date": "06월 27일(토) ~ 06월 28일(일)",
+      "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 팔달구 덕영대로 924",
+      "venue": "AK플라자 수원점 6층 아트홀",
+      "parking_info": "AK플라자 수원점 주차장 이용",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신부이름",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 혜택 적용 및 수령 가능",
+    "trust_indicators": [
+      "웨딩 스튜디오 30개 업체 입점",
+      "LG전자 베스트샵 공식 제휴",
+      "전문 컨설턴트 1:1 상담 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 AK플라자 웨딩박람회",
+      "startDate": "2025-06-27T11:00:00",
+      "endDate": "2025-06-28T19:00:00",
+      "location": {
+        "@type": "Place",
+        "name": "AK플라자 수원점 6층 아트홀",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6층 아트홀",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파리스 라벨르엘린",
+        "url": "https://ad.cpaad.co.kr/labelleellin05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "네, 사전 예약을 통해 방문하시면 기다림 없이 상담이 가능하며 방문 사은품 혜택도 챙기실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 계약 시 어떤 혜택이 있나요?",
+        "answer": "드레스 업그레이드, 혼주 메이크업 및 한복 할인 등 다양한 현장 계약 한정 혜택을 제공합니다."
+      },
+      {
+        "question": "가전 제품도 여기서 상담받을 수 있나요?",
+        "answer": "네, LG전자 베스트샵과 제휴하여 혼수 가전 특별 할인 및 금액대별 사은품 혜택을 제공받으실 수 있습니다."
+      },
+      {
+        "question": "참가 업체는 몇 곳이나 되나요?",
+        "answer": "스튜디오 업체만 30여 곳이 참여하며, 드레스, 예물, 예복 등 결혼 준비 전반에 걸친 다양한 업체가 입점해 있습니다."
+      },
+      {
+        "question": "주차는 편리한가요?",
+        "answer": "AK플라자 수원점 내 주차장을 이용하실 수 있어 접근성이 매우 좋습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 패키지 비용과 퀄리티를 한눈에 비교하고 싶은 커플, 그리고 혼수 가전까지 한 번에 합리적으로 해결하고 싶은 신혼부부를 대상으로 합니다. 정보 과부하로 무엇을 먼저 선택해야 할지 고민하는 분들에게 실질적인 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 웨딩 패키지",
+      "웨딩 스튜디오",
+      "드레스샵",
+      "혼수 가전",
+      "허니문 여행사",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "백화점 제휴를 통한 신뢰도 높은 업체 입점",
+      "단 이틀간의 현장 계약 파격 할인 프로모션",
+      "스드메부터 가전까지 올인원 상담 환경 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "수원 웨딩홀 추천",
+      "스드메 견적 비교",
+      "결혼 준비 체크리스트",
+      "혼수 가전 싸게 사는 법",
+      "웨딩박람회 사기 방지",
+      "결혼식 비용 절약 팁",
+      "수원 신혼여행 패키지",
+      "2026년 결혼 트렌드",
+      "웨딩박람회 방문 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩 준비 가이드 전체보기",
+        "category": "wedding_guide"
+      },
+      {
+        "anchor": "수원 지역 웨딩홀 리스트",
+        "category": "venue_list"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "신혼여행",
+      "결혼준비",
+      "웨딩액자",
+      "가전페스타"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 예비부부 필수템! AK플라자 웨딩박람회 후기",
+    "og_description": "스드메 고민 끝! 이번 주말 수원 AK플라자에서 웨딩 혜택 다 챙겨가세요. 계약 사은품이랑 가전 할인까지 대박입니다!",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#예신예랑",
+      "#스드메",
+      "#웨딩박람회후기",
+      "#수원결혼준비",
+      "#혼수가전",
+      "#AK플라자",
+      "#웨딩준비꿀팁",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/labelleellin05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vxqMPnVTv8jhduTd57D5u16KxRkM.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_567PbY7CtrzA1P.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Br3RpxEfq.jpg"
+  }
+}
