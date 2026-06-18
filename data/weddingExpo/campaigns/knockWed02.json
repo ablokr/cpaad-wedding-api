@@ -1,0 +1,205 @@
+{
+  "idx": 1067,
+  "campaign_id": "knockWed02",
+  "gather_name": "광주 시스템웨딩 공동구매전",
+  "organizer_name": "광주웨딩연합회",
+  "seo_metadata": {
+    "title": "광주 시스템웨딩 공동구매전 | 웨딩박람회 혜택 및 후기",
+    "meta_description": "안녕하세요! 광주 시스템웨딩 박람회 다녀온 찐후기 공유해요. 최대 50만원 할인 혜택부터 백화점 상품권, 포토박스까지! 예비 부부라면 놓치지 말고 알뜰하게 결혼 준비 시작하세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "시스템웨딩",
+      "광주스드메",
+      "웨딩공동구매",
+      "결혼준비꿀팁",
+      "광주예식장",
+      "광주웨딩홀추천",
+      "스드메견적",
+      "예비부부후기"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 광주 시스템웨딩 공동구매전에 다녀왔는데, 생각보다 너무 알차서 후기 남겨봐요. 결혼 준비 이제 막 시작하시는 예비 부부님들, 고민만 하지 마시고 이런 박람회 잘 활용하시면 스드메부터 예식장까지 한 번에 해결할 수 있어요!",
+    "benefits_description": "이번 박람회는 정말 혜택이 대박이었어요! 26년 예식 예정이면 최대 50만원 할인, 27년은 30만원 할인까지 지원해주더라고요. 무엇보다 상담만 받아도 백화점 상품권을 챙겨주는데, 계약하면 포토박스 10만원 상당까지 증정해주니까 이게 진짜 쏠쏠해요. 현장에서 전문가 플래너님들이 1:1로 견적 비교해주시니까 막막했던 결혼 예산 계획도 훨씬 수월해졌답니다. 웨딩홀 대관료나 식대 프로모션도 잘 챙겨보세요!",
+    "summary_for_search": "광주 시스템웨딩 공동구매전 방문 후기 공유! 최대 50만원 할인, 백화점 상품권 증정 등 풍성한 혜택 확인하고 알뜰한 결혼 준비를 시작해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "광주 시스템웨딩 공동구매전, 최대 50만원 할인!",
+    "secondary_headline": "상담만 받아도 백화점 상품권 증정, 10쌍 한정 공동구매로 더 저렴하게!",
+    "urgency_text": "상반기 마지막 혜택, 선착순 한정!",
+    "call_to_action_text": "지금 무료 초대장 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 백화점 상품권 증정"
+    ],
+    "contract_benefits": [
+      "26년 예식 최대 50만원 할인",
+      "27년 예식 최대 30만원 할인",
+      "계약자 전원 10만원 상당 포토박스 증정",
+      "웨딩홀+스드메 계약 시 예약금 10만원 지원"
+    ],
+    "special_events": [
+      "시크릿 & 수 & 마리브 최고급 드레스샵 투어",
+      "1:1 전문 플래너 컨설팅",
+      "원장지정비 0원 패키지"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-19",
+      "end_date": "2026-06-21",
+      "display_date": "06월 19일(금) ~ 06월 21일(일) 06월 26일(금) ~ 06월 28일(일)",
+      "original_display_date": "06월 19일(금) ~ 06월 21일(일) 06월 26일(금) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "광주 동구 서석로 9 2층",
+      "venue": "광주 시스템웨딩 컨설팅",
+      "parking_info": "별도 기재 없음",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "방문예정일"
+    ],
+    "gift_conditions": "상담 완료 후 수령 가능",
+    "trust_indicators": [
+      "광주웨딩연합회 공식 프로모션",
+      "10인 베테랑 웨딩 플래너 상주",
+      "계약 강요 없는 투명한 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 시스템웨딩 공동구매전",
+      "startDate": "2025-06-19",
+      "endDate": "2025-06-28",
+      "location": {
+        "@type": "Place",
+        "name": "광주 시스템웨딩 컨설팅",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서석로 9 2층",
+          "addressLocality": "광주 동구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "시스템웨딩 공동구매전은 무료로 진행되며, 홈페이지를 통해 사전 신청이 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 혜택이 있나요?",
+        "answer": "네, 방문하여 상담만 받으셔도 백화점 상품권 등 소정의 혜택이 증정됩니다."
+      },
+      {
+        "question": "계약 강요가 걱정되는데 괜찮을까요?",
+        "answer": "해당 박람회는 계약 강요 없는 편안한 분위기를 지향하며 1:1 전문 컨설팅 위주로 진행됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 드레스, 스튜디오, 메이크업 등 결혼 준비에 필요한 전 분야의 대표 업체들이 참여합니다."
+      },
+      {
+        "question": "예식 날짜가 멀었는데 가도 되나요?",
+        "answer": "그럼요! 예식 예정일에 따라 최대 30~50만원까지 할인 혜택이 달라지니 미리 상담받고 준비하시는 것을 추천합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "광주 지역에서 결혼을 앞두고 있는 예비 신랑, 신부님을 위한 박람회입니다. 결혼 준비를 어디서부터 시작해야 할지 모르는 초보 커플, 스드메 견적을 합리적으로 비교하고 싶은 분, 예식장 대관료와 식대 할인 정보를 얻고 싶은 분들께 최적의 행사입니다. 1:1 플래너 컨설팅이 제공되어 맞춤형 예산 설계가 필요한 커플이라면 더욱 유용합니다.",
+    "exhibitor_highlights": [
+      "광주 프리미엄 스튜디오",
+      "시크릿 & 수 & 마리브 드레스샵",
+      "웨딩홀 전문 예약 센터",
+      "전문 웨딩 플래너 10인 상주"
+    ],
+    "comparison_hooks": [
+      "현장 공동구매를 통한 가격 거품 제거",
+      "계약 강요 없는 데이트형 편안한 박람회",
+      "최고급 드레스샵 실물 투어 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 가격",
+      "웨딩박람회 예약 팁",
+      "광주 웨딩홀 투어",
+      "신혼부부 가전 혜택",
+      "드레스 피팅 시 주의사항",
+      "광주 결혼 예산 짜기",
+      "웨딩 플래너 상담 내용",
+      "박람회 사은품 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 추천",
+        "category": "venue_info"
+      },
+      {
+        "anchor": "스드메 등급표 확인",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "결혼준비",
+      "혼수",
+      "예물",
+      "예복",
+      "웨딩플래너",
+      "허니문",
+      "드레스투어",
+      "광주결혼"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 예신 주목! 시스템웨딩 박람회 꿀혜택",
+    "og_description": "상담만 받아도 상품권 증정! 지금 무료 신청하고 최대 50만원 할인받으세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#광주스드메",
+      "#시스템웨딩",
+      "#예신스타그램",
+      "#결혼준비시작",
+      "#광주예비부부",
+      "#웨딩박람회후기",
+      "#알뜰결혼준비",
+      "#광주웨딩홀"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/knockWed02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_9scTdNzFSGUFeLqFvQ.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_XnXg5YjR99j32ajTZizlKA14zs.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Adrt8Zysw7D7MJm7IZgEm.jpg"
+  },
+  "revenue": 40000
+}
