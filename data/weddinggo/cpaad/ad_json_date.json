@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-18T10:00:03Z",
-  "total_ad_count": 144,
+  "last_updated": "2026-06-18T13:00:02Z",
+  "total_ad_count": 148,
   "advertisements": {
     "howto01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
@@ -564,6 +564,20 @@
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
     },
+    "revewedding24": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_MJXfang7GZgdQYcpR1PmM9kUyAExkl.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_BHZMbXVY3LZRlU1ZMvbtPE2wuF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5nXM3cUxBbXxpkVM8H9igr8.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding24/",
+      "region": "gyeonggi",
+      "gather_name": "부천 롯데백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 부천 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "경기 부천시 원미구 길주로 300||(중동 1140)||롯데백화점 중동점 9층",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
+    },
     "wncowedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_peAk7krRTYN9uKO3cYQVdTtQ3Lc3.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_H35nrpVGxxYIrA.jpg",
@@ -787,6 +801,20 @@
       "ad_location": "경기 안양시 동안구 시민대로 180||(호계동 1039)||롯데백화점 평촌점 7층 LG전자",
       "start_date": "2026-07-04",
       "end_date": "2026-07-05"
+    },
+    "reveweddingE24": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_xtVuFfXr1OfbjK3q9wa7wvMdtfAAe.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_oDSnqhi7UkvhTbBOjg4VUTpsjO.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_tHyrKcUsgCFSUkEmc22.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE24/",
+      "region": "gyeonggi",
+      "gather_name": "부천 롯데백화점 혼수가전박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 부천 최대규모 혼수가전박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "경기 부천시 원미구 길주로 300||(중동 1140)||롯데백화점 중동점 9층 LG전자",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
     },
     "connectwedding08": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_WNd2bJStL1eF6aZttQLDAna.jpg",
@@ -1530,6 +1558,20 @@
       "start_date": "2026-06-20",
       "end_date": "2026-06-21"
     },
+    "theBW03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wUpqrh9YY.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TI33UMYcfSI2F5xw9mXlb.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_K2qYuJcbIrSPc.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBW03/",
+      "region": "jeolla",
+      "gather_name": "광주웨딩페어",
+      "ad_info": "광주 최대 규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
+      "ad_location": "광주 서구 상무누리로 30||(치평동 1159-2)||김대중컨벤션센터",
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05"
+    },
     "jwc01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_dB4onJl1G2lfbHpTin6rQTO.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_1HJZut74YNkA5YW9lfLKX9s6p7g.jpg",
@@ -1585,6 +1627,20 @@
       "ad_location": "강원특별자치도 원주시 봉화로 1 6층||(단계동 1123)||LG전자베스트샵 AKPLAZA원주점",
       "start_date": "2026-06-27",
       "end_date": "2026-06-28"
+    },
+    "revewedding01tw": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_G9ITjdjhHQrTDsSjq.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_kFTSFZPuS2mATr834j9Hwwc3bkuse.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_tr1L2EBbQkoYpqrx.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding01tw/",
+      "region": "gangwon",
+      "gather_name": "강릉 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "강원특별자치도 강릉시 창해로 307||(강문동 1-1)||세인트존스호텔 특별행사장",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
     },
     "wncowedding04": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_BgAXbRSKqqYGsC.jpg",
