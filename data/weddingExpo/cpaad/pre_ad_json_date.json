@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-20T19:30:03Z",
-  "total_ad_count": 155,
+  "last_updated": "2026-06-21T19:30:02Z",
+  "total_ad_count": 154,
   "advertisements": {
     "howto01": {
       "idx": 721,
@@ -29,32 +29,6 @@
         }
       },
       "revenue": 35000
-    },
-    "iniwedding05": {
-      "idx": 128,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_gSxCgmohd9xfQq6knzNDzVWwHwxo3fe.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_cXB6TrBlvyzkSPp4qzkX9V9kaKIOJK4.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_m75v8DJmvaHW1bGenOKuYvko.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/iniwedding05/",
-      "region": "capital",
-      "gather_name": "서울웨딩쇼 2026",
-      "ad_info": "당신이 생각하던 웨딩테마파크 서울 웨딩쇼를 만나보세요",
-      "ad_year": "2026",
-      "ad_date": "06월 20일(토) 단, 하루!",
-      "ad_location": "경기 고양시 일산서구 킨텍스로 217-59 ||(대화동 2700)||킨텍스 1전시장",
-      "start_date": "2026-06-20",
-      "end_date": "2026-06-20",
-      "preprocessed": {
-        "location": {
-          "sido": "경기",
-          "sido_en": "gyeonggi",
-          "sigungu": "고양시",
-          "sigungu_en": "goyang",
-          "address": "경기 고양시 일산서구 킨텍스로 217-59",
-          "venue": "킨텍스 1전시장"
-        }
-      },
-      "revenue": 30000
     },
     "wedingcrowd22": {
       "idx": 1249,
@@ -158,7 +132,7 @@
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
         }
       },
-      "revenue": 40000
+      "revenue": 30000
     },
     "planon52": {
       "idx": 1608,
@@ -184,7 +158,7 @@
           "venue": "SETEC 2층 전시실"
         }
       },
-      "revenue": 40000
+      "revenue": 30000
     },
     "planon43": {
       "idx": 1392,
@@ -442,7 +416,7 @@
           "venue": "용산 아이파크몰 리빙파크 5층 특별행사장"
         }
       },
-      "revenue": 40000
+      "revenue": 30000
     },
     "planon53": {
       "idx": 1609,
@@ -468,7 +442,7 @@
           "venue": "SETEC 2층 전시실"
         }
       },
-      "revenue": 40000
+      "revenue": 30000
     },
     "wedingcrowd47": {
       "idx": 1379,
@@ -572,7 +546,7 @@
           "venue": "SETEC 2층 전시실"
         }
       },
-      "revenue": 40000
+      "revenue": 30000
     },
     "planon46": {
       "idx": 1497,
