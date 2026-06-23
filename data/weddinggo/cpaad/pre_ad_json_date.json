@@ -1,9 +1,35 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-23T16:00:02Z",
-  "total_ad_count": 147,
+  "last_updated": "2026-06-23T19:00:02Z",
+  "total_ad_count": 149,
   "advertisements": {
+    "iniwedding05": {
+      "idx": 128,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ePnt1SbWi.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5UgYyTHUpGyf.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_NTAO7MTTGvJVr9j9VwNuSK2.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/iniwedding05/",
+      "region": "capital",
+      "gather_name": "서울웨딩쇼 2026 in 코엑스",
+      "ad_info": "당신이 생각하던 웨딩테마파크 서울 웨딩쇼를 만나보세요",
+      "ad_year": "2026",
+      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_location": "서울 강남구 영동대로 513||(삼성동 159)||코엑스 3층 컨퍼런스룸 E",
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "preprocessed": {
+        "location": {
+          "sido": "서울",
+          "sido_en": "seoul",
+          "sigungu": "강남구",
+          "sigungu_en": "gangnam",
+          "address": "서울 강남구 영동대로 513",
+          "venue": "코엑스 3층 컨퍼런스룸 E"
+        }
+      },
+      "revenue": 30000
+    },
     "howto01": {
       "idx": 721,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
@@ -1589,7 +1615,6 @@
       "revenue": 30000
     },
     "labelleellin07": {
-      "idx": 1171,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Y5ijBkOAGGpelZxifkR8nsW.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_BdomXWZiM4Sxy.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ETGv9ct6oXI9WOx.jpg",
@@ -1611,8 +1636,7 @@
           "address": "경기 수원시 팔달구 덕영대로 924",
           "venue": "AK플라자 수원점 6층 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wncowedding08": {
       "idx": 1575,
@@ -2106,6 +2130,32 @@
       },
       "revenue": 30000
     },
+    "wwedding05": {
+      "idx": 1228,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_3I8IHYsGmC4rHCN.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_kGekdZ3e3O528ArOvV7R.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding05/",
+      "region": "busan",
+      "gather_name": "부산 프라이빗 평일웨딩박람회",
+      "ad_info": "전국 어디에도 없는 프라이빗 평일 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 16일(목) 단 하루!",
+      "ad_location": "부산광역시 부산진구 자유평화로 11||(범천동 839-48)||W웨딩시티",
+      "start_date": "2026-07-16",
+      "end_date": "2026-07-16",
+      "preprocessed": {
+        "location": {
+          "sido": "부산",
+          "sido_en": "busan",
+          "sigungu": "부산진구",
+          "sigungu_en": "busanjin",
+          "address": "부산광역시 부산진구 자유평화로 11",
+          "venue": "W웨딩시티"
+        }
+      },
+      "revenue": 30000
+    },
     "bwbfair01": {
       "idx": 1357,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202502/a0306c07cfce0aa955cf39a185c2ff26_5MFFYHFAb.jpg",
@@ -2117,7 +2167,7 @@
       "ad_info": "완벽한 결혼준비 / 부산결혼출산장려협회",
       "ad_year": "2026",
       "ad_date": "07월 17일(금) ~ 07월 19일(일)",
-      "ad_location": "부산 해운대구 APEC로 30||(우동 1413-4)||벡스코 제2전시장 4F홀",
+      "ad_location": "부산 해운대구 APEC로 30||(우동 1413-4)||벡스코 제2 전시장 1층 4B홀",
       "start_date": "2026-07-17",
       "end_date": "2026-07-19",
       "preprocessed": {
@@ -2127,7 +2177,7 @@
           "sigungu": "해운대구",
           "sigungu_en": "haeundae",
           "address": "부산 해운대구 APEC로 30",
-          "venue": "벡스코 제2전시장 4F홀"
+          "venue": "벡스코 제2 전시장 1층 4B홀"
         }
       },
       "revenue": 30000
@@ -2443,6 +2493,7 @@
       "revenue": 30000
     },
     "withyouwedding03": {
+      "idx": 1170,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Xbz7Sr7YF6hEAtadaywP8WI.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_fjm6BOSC2mKRhHJ4rN3RFAjFyYm.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_pIpb5G71.jpg",
@@ -2464,7 +2515,8 @@
           "address": "충북 청주시 청원구 사천로17번길 37 1~3층",
           "venue": "LG전자베스트샵 율량점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wedingcrowd60": {
       "idx": 1453,
@@ -2777,7 +2829,6 @@
       "revenue": 30000
     },
     "whw01": {
-      "idx": 1024,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_NDGQfbt6kYtOiW3tahYxh.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cLMAdT6ZDexfhXxDoy6K.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_IaQWNKZpPfbvyMHlMECf11jbui5SEJ.jpg",
@@ -2799,8 +2850,7 @@
           "address": "전북 전주시 완산구 백제대로 311길",
           "venue": "웨딩스퀘어"
         }
-      },
-      "revenue": 40000
+      }
     },
     "whw05": {
       "idx": 1634,
@@ -2881,6 +2931,7 @@
       "revenue": 40000
     },
     "theBW03": {
+      "idx": 952,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wUpqrh9YY.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TI33UMYcfSI2F5xw9mXlb.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_K2qYuJcbIrSPc.jpg",
@@ -2902,7 +2953,8 @@
           "address": "광주 서구 상무누리로 30",
           "venue": "김대중컨벤션센터"
         }
-      }
+      },
+      "revenue": 30000
     },
     "jwc01": {
       "idx": 678,
