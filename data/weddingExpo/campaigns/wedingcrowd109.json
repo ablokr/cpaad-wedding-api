@@ -1,0 +1,207 @@
+{
+  "idx": 1789,
+  "campaign_id": "wedingcrowd109",
+  "gather_name": "원주 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "원주 웨딩크라우드 웨딩박람회 | 호텔인터불고 상담 혜택 및 경품 총정리",
+    "meta_description": "원주 웨딩크라우드 웨딩박람회 방문 후기! 호텔인터불고 원주에서 열리는 이번 행사, 상담 및 계약 시 증정되는 다이어리, 청첩장 할인, 혼수 가전 혜택까지 예비부부를 위한 꿀팁을 확인하세요.",
+    "keywords": [
+      "원주웨딩박람회",
+      "원주결혼준비",
+      "호텔인터불고원주박람회",
+      "원주스드메",
+      "웨딩크라우드",
+      "강원도웨딩박람회",
+      "원주예식장",
+      "신혼여행박람회",
+      "원주혼수",
+      "결혼준비꿀팁"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 다녀온 원주 웨딩크라우드 웨딩박람회 후기 공유해요~ 결혼 준비 이제 막 시작하신 예신님들 많으시죠? 저도 막막했는데, 이번에 인터불고 호텔에서 열린 박람회 다녀오니 고민이 싹 해결되더라고요!",
+    "benefits_description": "이번 박람회 혜택 진짜 알차요! 일단 방문만 해도 스타벅스 기프트카드 증정하고, 청첩장 15% 할인권까지 챙겨주시더라고요. 저는 특히 계약자 전원에게 증정하는 웨딩다이어리가 너무 맘에 들었어요! 스드메 패키지 상담받으니 촬영 무료 업그레이드 혜택도 있어서 예산 절약에 진짜 도움 됐답니다. 현장에서 상담받으면서 비교하니까 플래너님들 설명도 쏙쏙 들어오고 훨씬 효율적이더라고요.",
+    "summary_for_search": "원주 웨딩크라우드 웨딩박람회 후기! 07월 04일~05일 호텔인터불고에서 열리는 이번 행사에서 스드메 패키지, 신혼여행, 혼수 가전 혜택을 비교해보세요. 방문 시 스타벅스 쿠폰과 웨딩다이어리 등 풍성한 선물까지!"
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 100% 증정! 원주 최대 웨딩박람회 혜택",
+    "secondary_headline": "스드메부터 혼수, 신혼여행까지! 전문가와 1:1 맞춤 상담으로 완벽한 결혼 준비 시작하세요.",
+    "urgency_text": "선착순 방문객 한정 선물 증정 중!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 기프트카드 증정",
+      "청첩장 15% 할인권"
+    ],
+    "contract_benefits": [
+      "계약자 전원 웨딩다이어리 증정",
+      "스드메 촬영 무료 업그레이드",
+      "예복 계약 시 추가 혜택",
+      "예물 상담 시 혼주 귀걸이 증정"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 맞춤형 웨딩 플래닝 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 동부순환로 200",
+      "venue": "호텔인터불고 원주 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "신혼집 입주 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "웨딩크라우드 공식 주관",
+      "전국 최대 규모 박람회 노하우",
+      "1:1 전문가 상담 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 웨딩크라우드 웨딩박람회",
+      "startDate": "2025-07-04",
+      "endDate": "2025-07-05",
+      "location": {
+        "@type": "Place",
+        "name": "호텔인터불고 원주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강원 원주시",
+          "addressLocality": "원주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd109/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "원주 웨딩크라우드 웨딩박람회는 사전 신청 시 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 현장 방문 및 상담 완료 시 스타벅스 기프트카드와 웨딩다이어리 등 소정의 사은품을 증정합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메)부터 혼수, 예물, 예복, 신혼여행사 등 결혼 준비에 필요한 모든 업체가 참여합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "호텔인터불고 원주 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "온라인 공식 홈페이지를 통해 사전 신청을 하시면 무료 초대권과 함께 다양한 현장 혜택을 받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장부터 스드메, 혼수까지 한 번에 해결하고 싶은 예비부부를 위한 행사입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 예비 신랑신부님, 개별적으로 업체를 알아보느라 시간 소모가 큰 커플에게 추천합니다. 전문가의 1:1 맞춤 컨설팅을 통해 자신들의 예산과 취향에 딱 맞는 웨딩 플랜을 제안받고 싶다면 반드시 방문해야 할 필수 코스입니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 브랜드",
+      "웨딩홀 섭외 및 상담 코너",
+      "허니문 전문 여행사",
+      "예물 및 명품 예복 브랜드",
+      "삼성 가전 혼수 상담 존"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 추가 할인 및 업그레이드 혜택",
+      "1:1 전담 플래너 배치로 맞춤형 웨딩 서비스 제공",
+      "지역 내 가장 많은 업체가 참여하는 대규모 웨딩 박람회"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 비용 절약법",
+      "원주 예식장 추천",
+      "웨딩박람회 방문 꿀팁",
+      "혼수 가전 박람회 혜택",
+      "원주 웨딩플래너 추천",
+      "셀프 웨딩 준비 방법",
+      "웨딩 다이어리 받는 법",
+      "결혼 박람회 상담 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "원주 웨딩홀 투어 팁",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 가격 비교",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "웨딩플래너",
+      "맞춤정장",
+      "웨딩한복",
+      "예물",
+      "본식스냅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 예신 필독! 웨딩박람회 방문 혜택",
+    "og_description": "원주 웨딩크라우드 박람회 100% 증정 이벤트 받고 알뜰하게 결혼 준비하세요!",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#원주결혼준비",
+      "#웨딩박람회",
+      "#원주예신",
+      "#결혼준비시작",
+      "#스드메",
+      "#웨딩크라우드",
+      "#예비부부",
+      "#원주웨딩홀",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd109/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_zMIvdhUQvSJGMCCYfRD4ppMLDa2A1LD.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_apX5IRxt6xouKu7fpaRAh.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_MQDvbwZgZ4lsCJgDUD8Ufs.jpg"
+  },
+  "revenue": 30000
+}
