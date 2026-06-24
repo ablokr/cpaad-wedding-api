@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-06-24T16:00:02Z",
-  "total_ad_count": 156,
+  "last_updated": "2026-06-24T19:00:03Z",
+  "total_ad_count": 155,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -239,6 +239,7 @@
       "revenue": 30000
     },
     "weddingdc03": {
+      "idx": 586,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_H4QxpPSe.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_PobpkJ9OjFhZFkPnfxSpRn4UTAfYpbE.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_qgRQorhYgpAJhTStdn.jpg",
@@ -260,7 +261,8 @@
           "address": "서울 용산구 한강대로23길 25",
           "venue": "나인트리 프리미어 로카우스 호텔 6층"
         }
-      }
+      },
+      "revenue": 40000
     },
     "wedingcrowd67": {
       "idx": 1557,
@@ -1272,6 +1274,32 @@
       },
       "revenue": 30000
     },
+    "weddingan01": {
+      "idx": 1612,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TiIPcfPDRvF3ypUlvKwpq28.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_P1LYEYW96TQJrBCA5YzNlswzGTcd.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_V7QdhcBBcysUyD61Gz3HetFuAQjzoHQO.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingan01/",
+      "region": "gyeonggi",
+      "gather_name": "부천웨딩박람회",
+      "ad_info": "웨딩은 쇼핑이 아닙니다! 20년차 웨딩디렉터와 함께!",
+      "ad_year": "2026",
+      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
+      "ad_location": "경기 부천시 원미구 길주로 245||(중동 1056-1)||전자랜드파워센터 중동점",
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "부천시",
+          "sigungu_en": "bucheon",
+          "address": "경기 부천시 원미구 길주로 245",
+          "venue": "전자랜드파워센터 중동점"
+        }
+      },
+      "revenue": 30000
+    },
     "theshirleywedding04": {
       "idx": 1316,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_8AkAwv7Zkb.jpg",
@@ -1372,32 +1400,6 @@
           "sigungu_en": "suwon",
           "address": "경기 수원시 팔달구 덕영대로 924",
           "venue": "AK플라자 수원점 6층 아트홀"
-        }
-      },
-      "revenue": 30000
-    },
-    "withyouwedding16": {
-      "idx": 1196,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_lgoRDRArS1Yj16HBJSmc4F7qY2A.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_yboBnXrlqweMaEiNOXV3K1SwHw.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_kWYbkbuImOUjIYpnWq5I.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/withyouwedding16/",
-      "region": "gyeonggi",
-      "gather_name": "광명 위드유 웨딩박람회",
-      "ad_info": "삼성스토어 광명소하점에서 진행하는 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
-      "ad_location": "경기 광명시 금하로 454||(소하동 1340-4)||삼성스토어 광명소하점",
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-05",
-      "preprocessed": {
-        "location": {
-          "sido": "경기",
-          "sido_en": "gyeonggi",
-          "sigungu": "광명시",
-          "sigungu_en": "gwangmyeong",
-          "address": "경기 광명시 금하로 454",
-          "venue": "삼성스토어 광명소하점"
         }
       },
       "revenue": 30000
@@ -1784,32 +1786,6 @@
           "sigungu_en": "yeonsu",
           "address": "인천 연수구 센트럴로 123",
           "venue": "송도컨벤시아 특별행사장"
-        }
-      },
-      "revenue": 30000
-    },
-    "weddingan01": {
-      "idx": 1612,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TiIPcfPDRvF3ypUlvKwpq28.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_P1LYEYW96TQJrBCA5YzNlswzGTcd.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_V7QdhcBBcysUyD61Gz3HetFuAQjzoHQO.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/weddingan01/",
-      "region": "incheon",
-      "gather_name": "부천웨딩박람회",
-      "ad_info": "웨딩은 쇼핑이 아닙니다! 20년차 웨딩디렉터와 함께!",
-      "ad_year": "2026",
-      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
-      "ad_location": "경기 부천시 원미구 길주로 245||(중동 1056-1)||전자랜드파워센터 중동점",
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-05",
-      "preprocessed": {
-        "location": {
-          "sido": "경기",
-          "sido_en": "gyeonggi",
-          "sigungu": "부천시",
-          "sigungu_en": "bucheon",
-          "address": "경기 부천시 원미구 길주로 245",
-          "venue": "전자랜드파워센터 중동점"
         }
       },
       "revenue": 30000
@@ -2461,7 +2437,6 @@
       "revenue": 30000
     },
     "palmfair03": {
-      "idx": 583,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_FT1jvBNV.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_o6Pqa5U4bJdRAwgllaG9.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_zGis18n9Zh6uX5xWhuaz1.jpg",
@@ -2483,8 +2458,7 @@
           "address": "대전 서구 둔산로 63",
           "venue": "대자빌딩 4층"
         }
-      },
-      "revenue": 35000
+      }
     },
     "wncowedding09": {
       "idx": 1578,
@@ -2825,6 +2799,7 @@
       "revenue": 35000
     },
     "wedingcrowd05": {
+      "idx": 1074,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_lDEQNUhN6hDsOMelACYRnTy.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TjtLG8O3GWhmYHCeTh.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Zp8aXcptoudF5m6HmbwJjoAz.jpg",
@@ -2846,7 +2821,8 @@
           "address": "충북 청주시 서원구 1순환로 1066",
           "venue": "삼성스토어 청주점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "revewedding25": {
       "idx": 1795,
@@ -3291,7 +3267,6 @@
       "revenue": 30000
     },
     "wedingcrowd02": {
-      "idx": 1069,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_gBAliBi2Eiuj1gBIk5.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Hv6B1HYXzaubOiH6qVY6.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_j6ekgwyGDWAiqdjMXFsB1bNs7S9I3on.jpg",
@@ -3313,8 +3288,7 @@
           "address": "강원특별자치도 춘천시 퇴계로 118 미래타워",
           "venue": "미래컨벤션센타웨딩홀"
         }
-      },
-      "revenue": 30000
+      }
     },
     "withyouwedding25": {
       "idx": 1354,
