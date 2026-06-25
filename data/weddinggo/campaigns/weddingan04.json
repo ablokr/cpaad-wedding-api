@@ -1,0 +1,209 @@
+{
+  "idx": 1718,
+  "campaign_id": "weddingan04",
+  "gather_name": "영등포 웨딩박람회",
+  "organizer_name": "웨딩소담",
+  "seo_metadata": {
+    "title": "영등포 웨딩박람회 | 스드메 최저가 및 방문 시 선물 증정 이벤트",
+    "meta_description": "영등포 웨딩박람회에서 스드메 최저가 보장 혜택과 맞춤형 상담을 경험하세요. 방문만 해도 드리는 특별 선물부터 예복, 허니문 할인까지 결혼 준비의 모든 것을 해결할 수 있습니다. 지금 사전 예약하고 혜택을 확인하세요.",
+    "keywords": [
+      "영등포 웨딩박람회",
+      "서울 웨딩박람회",
+      "결혼준비 체크리스트",
+      "스드메 패키지",
+      "웨딩홀 추천",
+      "신혼부부 혜택",
+      "예복 브랜드",
+      "허니문 여행사",
+      "롯데백화점 영등포점 웨딩",
+      "스드메 최저가"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 롯데백화점 영등포점에서 개최되는 이번 웨딩박람회는 20년 차 웨딩 디렉터가 예비 부부의 스타일과 예산에 딱 맞는 합리적인 결혼 준비를 도와드립니다.",
+    "benefits_description": "이번 박람회에서는 스드메 국내 최저가 도전 혜택과 함께 블랙라벨 무료 업그레이드 등 파격적인 서비스가 제공됩니다. 촬영 스냅부터 본식 드레스, 맞춤 예복까지 예비 부부의 경제적 부담을 덜어드리기 위한 최상의 패키지를 구성했습니다. 방문만 해도 드리는 풍성한 선물과 계약 시 제공되는 특별 할인 혜택으로 소중한 결혼 준비를 더욱 알뜰하고 완벽하게 시작해보세요.",
+    "summary_for_search": "영등포 웨딩박람회에서 스드메 최저가 보장과 전문가 1:1 상담을 경험하세요. 롯데백화점 영등포점에서 진행되는 이번 행사는 맞춤 예복, 허니문, 웨딩홀 등 결혼 준비 전 과정을 합리적인 비용으로 제안합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "영등포 웨딩박람회, 스드메 최저가 보장 & 방문 시 선물 증정",
+    "secondary_headline": "20년 차 웨딩 디렉터가 제안하는 가성비 최고의 맞춤 결혼 준비 솔루션",
+    "urgency_text": "하루 30쌍만 모집합니다! 지금 바로 사전 신청하세요.",
+    "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 특별 선물 증정"
+    ],
+    "contract_benefits": [
+      "스드메 최저가 보장",
+      "웨딩홀 무료 섭외",
+      "블랙라벨 무료 업그레이드 및 2부 드레스 서비스",
+      "맞춤정장 패키지 할인",
+      "허니문 최저가 보장"
+    ],
+    "special_events": [
+      "20년 차 웨딩 디렉터 1:1 맞춤 상담",
+      "예산/스타일별 맞춤 웨딩홀 추천",
+      "셀프 사진 촬영 최저가 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "영등포구",
+      "sigungu_en": "yeongdeungpo",
+      "address": "서울 영등포구 경인로 846",
+      "venue": "롯데백화점 영등포점 9층",
+      "parking_info": "백화점 주차장 이용 가능(상세 내용은 현장 문의)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "방문 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 현장 방문 시 증정",
+    "trust_indicators": [
+      "20년 경력의 전문 웨딩 디렉터",
+      "국내 최저가 보장제",
+      "매일 30쌍 한정 밀착 케어 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "영등포 웨딩박람회",
+      "startDate": "2025-07-04",
+      "endDate": "2025-07-05",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 영등포점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "9층",
+          "addressLocality": "서울 영등포구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩소담",
+        "url": "https://ad.cpaad.co.kr/weddingan04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 예약은 어떻게 하나요?",
+        "answer": "페이지 내 무료 초대장 신청 폼에 성함과 연락처, 예식 예정일을 입력하시면 간편하게 예약이 완료됩니다."
+      },
+      {
+        "question": "방문만 해도 선물을 주나요?",
+        "answer": "네, 사전 예약 후 박람회에 방문하시는 모든 분들께 감사의 의미로 특별한 방문 선물을 증정하고 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스샵, 메이크업샵, 예복, 한복, 예물, 허니문 전문 여행사 등 결혼 준비 필수 업체들이 다양하게 참여합니다."
+      },
+      {
+        "question": "스드메 비용은 어느 정도인가요?",
+        "answer": "이번 박람회는 국내 최저가 보장제를 실시하고 있습니다. 예산에 맞춰 최적의 스드메 패키지를 디렉터가 1:1로 설계해 드립니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+        "answer": "물론입니다. 20년 경력의 웨딩 디렉터가 예식장 섭외부터 허니문까지 처음부터 끝까지 친절하게 가이드해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 준비의 첫걸음을 떼려는 예비 신랑·신부님을 위한 박람회입니다. 무엇을 준비해야 할지 모르는 커플, 합리적인 예산으로 고퀄리티 결혼식을 꿈꾸는 신혼부부, 바쁜 직장 생활로 인해 시간 효율적인 웨딩 준비를 원하는 예비부부를 대상으로 합니다. 결혼 준비 과정의 복잡함을 20년 경력 디렉터의 맞춤형 케어로 해결해 드리며, 업체별 비용 비교의 수고를 덜어드리고자 하는 분들에게 최적의 기회가 될 것입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 섭외 전문 업체",
+      "인기 웨딩 스튜디오",
+      "프리미엄 드레스샵 및 메이크업",
+      "맞춤 예복 브랜드",
+      "신혼여행 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "검증된 20년 차 디렉터의 1:1 맞춤형 큐레이션 제공",
+      "하루 30쌍만 한정 상담하여 꼼꼼하고 밀도 높은 케어 보장",
+      "국내 최저가 보장제 실시로 가격 거품 없는 투명한 견적 확인"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 비용 절약법",
+      "서울 웨딩홀 견적 비교",
+      "웨딩박람회 예약 후기",
+      "신혼여행 예약 팁",
+      "예복 맞춤 가격",
+      "2026 웨딩 트렌드",
+      "웨딩플래너 필요성",
+      "결혼식 예산 짜기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩홀 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 구성 확인",
+        "category": "studi_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩플래너",
+      "결혼준비",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "영등포 웨딩박람회 - 스드메 최저가 보장",
+    "og_description": "지금 사전 예약하고 스드메 최저가 혜택과 방문 선물을 받아가세요! 20년 경력의 디렉터가 함께하는 완벽한 결혼 준비.",
+    "hashtags": [
+      "#영등포웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#웨딩박람회",
+      "#예비부부",
+      "#신혼부부",
+      "#서울웨딩박람회",
+      "#웨딩드레스",
+      "#결혼준비체크리스트",
+      "#스드메최저가"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingan04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_BtDxZEV7epChwk8mZtRlPtuh.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hsWNotfq6yfW.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_I4uiw8uIB8ebKBS5BV.jpg"
+  },
+  "revenue": 30000
+}

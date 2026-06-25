@@ -1,0 +1,206 @@
+{
+  "idx": 1067,
+  "campaign_id": "knockWed02",
+  "gather_name": "광주 시스템웨딩 공동구매전",
+  "organizer_name": "광주웨딩연합회",
+  "seo_metadata": {
+    "title": "광주 웨딩박람회 | 시스템웨딩 공동구매전 최대 50만원 할인 혜택",
+    "meta_description": "광주 동구 시스템웨딩 공동구매전! 2026 예식 고객을 위한 스드메 패키지 최대 50만원 할인 및 백화점 상품권 증정. 선착순 한정 혜택을 지금 무료 초대장 신청으로 확인하세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "광주스드메",
+      "광주웨딩컨설팅",
+      "광주웨딩홀",
+      "시스템웨딩",
+      "신혼부부혜택",
+      "광주예식장",
+      "결혼준비체크리스트",
+      "웨딩패키지할인"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 광주 시스템웨딩 공동구매전은 합리적인 가격과 차별화된 서비스를 원하는 예비부부를 위해 마련된 특별한 자리입니다. 10쌍 한정으로 진행되는 공동구매 혜택을 통해 예산 부담은 낮추고, 퀄리티 높은 웨딩을 완성해 보세요.",
+    "benefits_description": "이번 박람회에서는 상담만 받아도 백화점 상품권을 증정하며, 계약 시 최대 50만 원의 할인 혜택을 제공합니다. 특히 포토박스 서비스(10만 원 상당)를 계약자 전원에게 지원하여 생애 가장 아름다운 순간을 특별하게 기록할 수 있습니다. 10인의 전문 웨딩 플래너가 1:1 맞춤 상담을 통해 드레스, 스튜디오, 메이크업까지 예비부부의 취향을 완벽하게 반영한 최적의 패키지를 설계해 드립니다.",
+    "summary_for_search": "광주 동구 시스템웨딩 공동구매전 개최! 상담 및 계약 시 최대 50만원 할인, 백화점 상품권 증정, 포토박스 제공 등 풍성한 혜택을 놓치지 마세요. 지금 무료 초대장을 신청하고 알뜰한 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "10쌍 한정, 모이면 가격이 Down! 광주 상반기 마지막 웨딩 혜택",
+    "secondary_headline": "계약자 전원 포토박스 증정 및 최대 50만원 할인 혜택 제공",
+    "urgency_text": "상반기 마지막 혜택, 10쌍 한정 공동구매 종료 임박!",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 백화점 상품권 증정"
+    ],
+    "contract_benefits": [
+      "최대 50만원 할인 혜택",
+      "포토박스(10만원 상당) 계약자 전원 증정",
+      "웨딩홀 대관료 및 식대 프로모션"
+    ],
+    "special_events": [
+      "10인의 전문 웨딩 플래너 1:1 상담",
+      "시크릿 웨딩드레스 쇼케이스",
+      "공동구매전 가격 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-06-26",
+      "end_date": "2026-06-28",
+      "display_date": "06월 26일(금) ~ 06월 28일(일)",
+      "original_display_date": "06월 26일(금) ~ 06월 28일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "광주 동구 서석로 9 2층",
+      "venue": "광주 시스템웨딩 컨설팅",
+      "parking_info": "별도 기재 안됨",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "방문예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 시 상품권 증정, 계약 시 할인 및 포토박스 혜택 적용",
+    "trust_indicators": [
+      "시스템웨딩 대표 플래너 10인 상주",
+      "검증된 웨딩업체 공동구매",
+      "계약 강요 없는 쾌적한 상담 환경"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 시스템웨딩 공동구매전",
+      "startDate": "2025-06-26",
+      "endDate": "2025-06-28",
+      "location": {
+        "@type": "Place",
+        "name": "광주 시스템웨딩 컨설팅",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서석로 9",
+          "addressLocality": "광주광역시 동구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "url": "https://example.com/apply"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "상담만 받으셔도 백화점 상품권을 증정하며, 계약 시 최대 50만 원 할인과 10만 원 상당의 포토박스를 전원 제공합니다."
+      },
+      {
+        "question": "공동구매는 어떻게 진행되나요?",
+        "answer": "10쌍의 커플이 모이면 가격이 낮아지는 공동구매 방식을 도입하여 더욱 합리적인 비용으로 스드메 패키지를 계약하실 수 있습니다."
+      },
+      {
+        "question": "플래너 상담은 유료인가요?",
+        "answer": "아니요. 10인의 전문 플래너가 1:1로 진행하는 상담은 무료이며, 강요 없는 편안한 분위기에서 전문적인 견적 비교를 도와드립니다."
+      },
+      {
+        "question": "예식장은 어떻게 알아볼 수 있나요?",
+        "answer": "박람회 현장에서 웨딩홀 대관료 할인 및 식대 프로모션을 확인하고, 각 예식장의 상세 견적을 비교해 보실 수 있습니다."
+      },
+      {
+        "question": "신청은 어떻게 하나요?",
+        "answer": "상단 또는 하단의 무료 초대장 신청 폼에 성함과 연락처, 방문 예정일을 남겨주시면 신청이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "광주 지역에서 결혼을 준비 중인 예비부부들을 위한 맞춤형 박람회입니다. '결혼 준비는 어디서부터 시작해야 할까?', '스드메 비용을 얼마나 줄일 수 있을까?' 고민하는 커플들에게 적합합니다. 특히 2026년 예식을 앞두고 예식장, 스튜디오, 드레스샵 정보를 한곳에서 비교하고 싶거나, 웨딩 플래너의 전문적인 가이드를 통해 시행착오를 줄이고 합리적인 패키지를 찾는 분들께 필수적인 행사입니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 업체",
+      "웨딩홀 추천 및 대관 프로모션",
+      "허니문 여행사",
+      "프리미엄 드레스샵",
+      "혼수 및 예물 업체"
+    ],
+    "comparison_hooks": [
+      "10쌍 한정 공동구매로 거품 없는 가격 제시",
+      "10인의 검증된 전문 웨딩 플래너 1:1 밀착 케어",
+      "계약 강요 없는 데이터 기반의 투명한 견적 상담"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "결혼 준비 비용 절약 방법",
+      "광주 웨딩 플래너 추천",
+      "광주 스드메 업체 순위",
+      "웨딩홀 대관료 할인 팁",
+      "공동구매 웨딩박람회 장점",
+      "신혼여행 견적 비교",
+      "예식장 식대 프로모션",
+      "결혼 준비 체크리스트 엑셀",
+      "광주 혼수 가전 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "2026 웨딩 박람회 일정",
+        "category": "event_schedule"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩플래너",
+      "본식메이크업",
+      "신혼여행",
+      "웨딩드레스",
+      "예물",
+      "견적비교"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 웨딩박람회: 최대 50만원 할인 혜택받기",
+    "og_description": "상반기 마지막 혜택! 상담만 받아도 상품권 증정, 계약 시 최대 50만원 할인 및 포토박스 제공. 지금 바로 무료 초대장을 신청하세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#광주스드메",
+      "#광주웨딩홀",
+      "#시스템웨딩",
+      "#결혼준비시작",
+      "#예비부부",
+      "#광주예식",
+      "#웨딩혜택",
+      "#스드메할인"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/knockWed02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4UqjoWwb3ZbS7bu.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_U17vS75RGVY1De5m8I4s.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Adrt8Zysw7D7MJm7IZgEm.jpg"
+  },
+  "revenue": 40000
+}
