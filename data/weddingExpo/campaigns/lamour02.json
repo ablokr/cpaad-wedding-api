@@ -1,0 +1,208 @@
+{
+  "idx": 1763,
+  "campaign_id": "lamour02",
+  "gather_name": "부산 라모르 웨딩박람회",
+  "organizer_name": "라모르웨딩 주식회사",
+  "seo_metadata": {
+    "title": "부산 라모르 웨딩박람회 | 스드메 패키지 최대 할인 & 방문 선물 증정",
+    "meta_description": "안녕하세요! 부산 예비부부라면 꼭 가야 할 라모르 웨딩박람회 후기 공유해요. 스드메 패키지 최대 50% 할인에 방문만 해도 드리는 혜택까지 알차게 챙겨왔으니 결혼 준비 중이라면 이번 주말 꼭 방문해보세요!",
+    "keywords": [
+      "부산웨딩박람회",
+      "부산결혼준비",
+      "라모르웨딩박람회",
+      "부산스드메",
+      "부산웨딩홀추천",
+      "부산예식장",
+      "부산결혼박람회",
+      "부산혼수",
+      "웨딩박람회혜택",
+      "결혼준비꿀팁"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 저번 주에 부산 라모르 웨딩박람회 다녀온 새내기 예신입니다~ 결혼 준비 시작하려니 막막했는데, 여기 진짜 생각보다 알차더라고요! 스드메부터 혼수까지 한자리에서 다 비교해볼 수 있어서 시간 절약 제대로 했어요.",
+    "benefits_description": "특히 이번에 방문하면서 혜택 챙기는 재미가 쏠쏠했는데요! 박람회 방문만 해도 주는 소소한 사은품부터, 현장 계약 시 최대 50% 할인되는 스드메 패키지까지 정말 실속 있더라고요. 플래너님이랑 1:1 상담하면서 제 취향에 딱 맞는 웨딩홀이랑 드레스 추천받았는데, 인터넷 검색만 할 때보다 훨씬 명확해졌어요. 아, 그리고 혼수나 예물도 박람회 전용 프로모션이 있어서 예산 절약에도 큰 도움 됐답니다. 현장 분위기 자체가 엄청 북적거리진 않아도 꼼꼼하게 상담받기 딱 좋았어요!",
+    "summary_for_search": "부산 라모르 웨딩박람회에서 스드메 패키지 할인과 다양한 혼수 혜택을 확인하세요. 예비부부를 위한 1:1 맞춤 컨설팅과 방문 선물까지, 부산 결혼 준비의 시작을 알차게 도와드립니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 지금 등록하면 최대 50% 할인!",
+    "secondary_headline": "부산 라모르 웨딩박람회에서 실속 있는 스드메 패키지와 혼수 프로모션을 만나보세요.",
+    "urgency_text": "선착순 예약 한정 이벤트 진행 중!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 완료 시 웨딩 준비 필수 스페셜 쿠폰팩",
+      "방문 상담객 대상 선착순 선물 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 50% 할인",
+      "혼수/예물 박람회 전용 프로모션 및 추가 할인",
+      "현장 계약 시 허니문 여행권 혜택"
+    ],
+    "special_events": [
+      "웨딩홀 1:1 맞춤 컨설팅",
+      "웨딩 드레스 스타일링 체험",
+      "스튜디오 촬영 샘플 전시 및 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "연제구",
+      "sigungu_en": "yeonje",
+      "address": "부산 연제구 법원로8번길 10 3-4층",
+      "venue": "라모르웨딩 부산본점",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 상담 카드 작성 시 증정",
+    "trust_indicators": [
+      "부산 지역 전문 웨딩 컨설팅",
+      "롯데호텔 등 프리미엄 제휴처 보유",
+      "1:1 맞춤형 웨딩 플래닝 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "부산 라모르 웨딩박람회",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-05",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "라모르웨딩 부산본점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "부산 연제구",
+          "addressLocality": "부산",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "라모르웨딩 주식회사",
+        "url": "https://ad.cpaad.co.kr/lamour02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 꼭 해야 하나요?",
+        "answer": "원활한 1:1 상담과 방문 선물 증정을 위해 사전 예약 후 방문하시는 것을 권장합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 상담 완료 시 다양한 스페셜 쿠폰팩과 방문 사은품을 제공해 드리고 있습니다."
+      },
+      {
+        "question": "스드메 비용은 얼마나 절약할 수 있나요?",
+        "answer": "박람회 전용 패키지를 이용하시면 일반 진행보다 최대 50%까지 합리적인 비용으로 준비가 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스샵, 메이크업, 허니문 여행사, 예물, 예복, 가전 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "현장 계약을 꼭 해야 하나요?",
+        "answer": "필수는 아닙니다. 박람회는 정보를 비교하고 컨설팅을 받는 자리이므로 편하게 상담받으시고 결정하세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜는 정해졌지만 어디서부터 시작해야 할지 막막한 부산 지역 예비부부. 특히 인터넷 정보만으로는 업체별 차이점을 알기 어려워 직접 눈으로 보고 비교하고 싶은 커플. 웨딩홀 투어, 스드메 패키지 구성, 혼수 예산 절감 방법을 한꺼번에 해결하고 싶은 알뜰한 예비부부들을 위한 맞춤형 컨설팅 현장입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 추천 및 대관 상담",
+      "스드메 패키지 업체",
+      "프리미엄 웨딩 드레스샵",
+      "허니문 여행 컨설팅",
+      "예물 및 예복 브랜드",
+      "혼수 가전 전문점"
+    ],
+    "comparison_hooks": [
+      "플래너와의 1:1 맞춤형 밀착 컨설팅 제공",
+      "박람회 전용 독점 할인 패키지 보유",
+      "롯데호텔 등 검증된 프리미엄 제휴 업체 라인업"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 웨딩홀 견적 비교",
+      "부산 스드메 패키지 가격",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 꿀팁",
+      "부산 혼수 가전 할인",
+      "결혼 준비 시작 순서",
+      "웨딩박람회 사기 방지",
+      "부산 웨딩드레스샵 투어",
+      "허니문 박람회 혜택",
+      "부산 예복 예물 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩홀 전체 리스트",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "스드메 비용 절약법",
+        "category": "tips"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 결혼 준비 필수! 라모르 웨딩박람회 후기",
+    "og_description": "스드메 최대 50% 할인받고 선물까지 챙기는 꿀팁! 부산 예비부부라면 꼭 방문해보세요.",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#결혼준비",
+      "#부산결혼",
+      "#예신",
+      "#부산스드메",
+      "#라모르웨딩",
+      "#웨딩박람회후기",
+      "#부산예식장",
+      "#신혼부부",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/lamour02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_DwVwJBhNXgB.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_zdr3oYB7R2MBtKyGQlNAYwi5ULB.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_Dt4amMNWE.jpg"
+  },
+  "revenue": 30000
+}
