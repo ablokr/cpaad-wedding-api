@@ -205,20 +205,22 @@ async def main_optimized():
             is_file_exists = storage.is_campaign_exists(cid)
             cached_data = cached_ads_dict.get(cid)
 
-            if cached_data and "campaign_id" in cached_data:
-                cached_data = {k: v for k, v in cached_data.items() if k != "campaign_id"}
-                cached_ads_dict[cid] = cached_data
+            # 비교를 위해 캐시에만 임의 주입되는 필드들(campaign_id, idx, revenue)을 제외하고 비교 대상 정제
+            if cached_data:
+                cached_compare = {k: v for k, v in cached_data.items() if k not in ["campaign_id", "idx", "revenue"]}
+            else:
+                cached_compare = None
 
             if not is_file_exists:
                 ad_copy = copy.deepcopy(new_data)
                 ad_copy["campaign_id"] = cid
                 target_ads.append(ad_copy)
             else:
-                if cached_data is None:
+                if cached_compare is None:
                     storage.update_api_cache(cid, new_data)
                     skip_count += 1
                 else:
-                    if new_data != cached_data:
+                    if new_data != cached_compare:
                         ad_copy = copy.deepcopy(new_data)
                         ad_copy["campaign_id"] = cid
                         target_ads.append(ad_copy)
