@@ -83,21 +83,39 @@ class WeddingDataStorage:
             try:
                 with open(path, 'r', encoding='utf-8') as f:
                     return json.load(f)
-            except (json.JSONDecodeError, ValueError):
+            except (json.JSONDecodeError, ValueError) as e:
                 # 빈 파일이거나 손상된 경우 빈 딕셔너리로 복구
-                print(f"[!] [Storage] {path} 파싱 실패 (빈 파일 또는 손상). 빈 캐시로 초기화합니다.")
+                print(f"[!] [Storage] {path} 파싱 실패 (빈 파일 또는 손상): {e}. 빈 캐시로 초기화합니다.")
                 return {}
         return {}
 
     def read_json_list(self, path):
         """배열 형태 [] 또는 통계 포함 객체 {"items": []} 형태 모두 지원하도록 확장"""
         if os.path.exists(path):
-            with open(path, 'r', encoding='utf-8') as f:
-                data = json.load(f)
-                if isinstance(data, list):
-                    return data
-                if isinstance(data, dict) and "items" in data:
-                    return data["items"]
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    data = json.load(f)
+                    if isinstance(data, list):
+                        return data
+                    if isinstance(data, dict) and "items" in data:
+                        return data["items"]
+                    return []
+            except (json.JSONDecodeError, ValueError) as e:
+                print(f"[!] [Storage] {path} 파싱 실패 (손상된 JSON): {e}")
+                # 만약 전체 색인 파일 또는 지역 색인 파일이 깨진 경우 자동 재구축 시도
+                filename = os.path.basename(path)
+                if filename in ["all.json", "all_index.json"] or path.startswith(os.path.join(self.base_dir, "regions")):
+                    self.rebuild_all_indices()
+                    # 재구축 후 다시 읽기 시도
+                    try:
+                        with open(path, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            if isinstance(data, list):
+                                return data
+                            if isinstance(data, dict) and "items" in data:
+                                return data["items"]
+                    except Exception as re_err:
+                        print(f"[ERROR] [Storage] 재구축 후에도 {path} 읽기 실패: {re_err}")
                 return []
         return []
 
@@ -131,8 +149,18 @@ class WeddingDataStorage:
 
     def write_json(self, path, data):
         os.makedirs(os.path.dirname(path), exist_ok=True)
-        with open(path, 'w', encoding='utf-8') as f:
-            json.dump(data, f, indent=2, ensure_ascii=False)
+        temp_path = path + ".tmp"
+        try:
+            with open(temp_path, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            os.replace(temp_path, path)
+        except Exception as e:
+            if os.path.exists(temp_path):
+                try:
+                    os.remove(temp_path)
+                except:
+                    pass
+            raise e
 
     def _update_list(self, list_data, new_item):
         if not isinstance(list_data, list): return [new_item]
@@ -203,7 +231,7 @@ class WeddingDataStorage:
             # 전체 데이터는 항상 통계와 함께 래핑하여 저장
             self.write_json(path, self._wrap_with_stats(updated_list))
 
-        print(f"[✔] [Storage] 데이터 저장 완료: {cid} (Region: {region_en})")
+        print(f"[OK] [Storage] 데이터 저장 완료: {cid} (Region: {region_en})")
 
     def get_capture_path(self, campaign_id: str):
         """해당 캠페인의 스크린샷 저장 경로 반환 (shared capture_dir 사용)"""
@@ -246,13 +274,13 @@ class WeddingDataStorage:
         """API 원본 응답 데이터를 data/.../cpaad/ad_json_date.json에 저장합니다."""
         path = os.path.join(self.base_dir, "cpaad", "ad_json_date.json")
         self.write_json(path, data)
-        print(f"[✔] [Storage] API 원본 백업 완료: {path}")
+        print(f"[OK] [Storage] API 원본 백업 완료: {path}")
 
     def save_preprocessed_api_data(self, data):
         """API 응답 데이터를 전처리하여 data/.../cpaad/pre_ad_json_date.json에 저장합니다."""
         path = os.path.join(self.base_dir, "cpaad", "pre_ad_json_date.json")
         self.write_json(path, data)
-        print(f"[✔] [Storage] API 대상 전처리 백업 완료: {path}")
+        print(f"[OK] [Storage] API 대상 전처리 백업 완료: {path}")
 
     def delete_campaign_data(self, cid):
         """특정 캠페인 관련 데이터(JSON, 이미지, 검색 색인 등)를 모두 삭제합니다."""
@@ -382,7 +410,7 @@ class WeddingDataStorage:
             os.makedirs(mapping_dir, exist_ok=True)
             with open(mapping_path, 'w', encoding='utf-8') as f:
                 json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
-            print(f"[✔] [Storage] organizerMapping.json 업데이트 완료.")
+            print(f"[OK] [Storage] organizerMapping.json 업데이트 완료.")
             # [추가] data 폴더로 복사
             self._copy_organizer_mapping_to_data()
         else:
@@ -467,7 +495,7 @@ class WeddingDataStorage:
                         # 정렬하여 정돈된 상태로 저장
                         sorted_mapping = {k: mapping[k] for k in sorted(mapping.keys())}
                         json.dump(sorted_mapping, f, indent=2, ensure_ascii=False)
-                    print(f"[✔] [Storage] 주관사 이름 실시간 업데이트 및 자동 통합 완료: {target_id} -> {brand_name}")
+                    print(f"[OK] [Storage] 주관사 이름 실시간 업데이트 및 자동 통합 완료: {target_id} -> {brand_name}")
                     # [추가] data 폴더로 복사
                     self._copy_organizer_mapping_to_data()
         except Exception as e:
@@ -519,7 +547,84 @@ class WeddingDataStorage:
             import shutil
             os.makedirs(os.path.dirname(dst_path), exist_ok=True)
             shutil.copy2(src_path, dst_path)
-            print(f"[✔] [Storage] organizerMapping.json을 {dst_path}로 복사했습니다.")
+            print(f"[OK] [Storage] organizerMapping.json을 {dst_path}로 복사했습니다.")
         except Exception as e:
             print(f"[!] [Storage] organizerMapping.json 복사 실패: {e}")
+
+    def rebuild_all_indices(self):
+        """캠페인 상세 파일(campaigns/*.json)들을 기반으로 all.json 및 all_index.json을 재구축합니다."""
+        print("[*] [Storage] 전체 색인(all.json, all_index.json) 재구축을 시작합니다...")
+        campaigns_dir = os.path.join(self.base_dir, "campaigns")
+        if not os.path.exists(campaigns_dir):
+            print("[!] [Storage] campaigns 디렉토리가 존재하지 않습니다. 재구축을 취소합니다.")
+            return
+
+        all_items = []
+        all_summaries = []
+        region_items = {}
+        region_summaries = {}
+
+        for filename in sorted(os.listdir(campaigns_dir)):
+            if not filename.endswith(".json"):
+                continue
+            path = os.path.join(campaigns_dir, filename)
+            try:
+                with open(path, 'r', encoding='utf-8') as f:
+                    full_data = json.load(f)
+            except Exception as e:
+                print(f"[!] [Storage] {filename} 로드 실패: {e}")
+                continue
+
+            cid = full_data.get("campaign_id")
+            if not cid:
+                continue
+
+            idx_val = self.revenue_data.get(cid, {}).get("idx")
+            if idx_val is not None:
+                full_data["idx"] = idx_val
+
+            sido_ko = full_data.get("event_details", {}).get("location", {}).get("sido", "기타")
+            region_en = self.get_region_en(sido_ko)
+
+            if idx_val is not None:
+                summary = {"idx": idx_val, "campaign_id": cid}
+            else:
+                summary = {"campaign_id": cid}
+
+            summary.update({
+                "gather_name": full_data.get("gather_name"),
+                "display_date": full_data.get("event_details", {}).get("event", {}).get("display_date"),
+                "venue": full_data.get("event_details", {}).get("location", {}).get("venue"),
+                "sido": sido_ko,
+                "sigungu": full_data.get("event_details", {}).get("location", {}).get("sigungu"),
+                "region_en": region_en,
+                "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
+                "updated_at": full_data.get("updated_at") or time.strftime("%Y-%m-%d %H:%M:%S")
+            })
+
+            all_items.append(full_data)
+            all_summaries.append(summary)
+
+            if region_en not in region_items:
+                region_items[region_en] = []
+                region_summaries[region_en] = []
+            region_items[region_en].append(full_data)
+            region_summaries[region_en].append(summary)
+
+        # 1. 전체 색인 저장
+        all_path = os.path.join(self.base_dir, "all.json")
+        all_index_path = os.path.join(self.base_dir, "all_index.json")
+        
+        self.write_json(all_path, self._wrap_with_stats(all_items))
+        self.write_json(all_index_path, self._wrap_with_stats(all_summaries))
+
+        # 2. 지역 색인 저장
+        for r_en, items in region_items.items():
+            path = os.path.join(self.base_dir, "regions", f"{r_en}.json")
+            self.write_json(path, items)
+        for r_en, summaries in region_summaries.items():
+            path = os.path.join(self.base_dir, "regions", f"{r_en}_index.json")
+            self.write_json(path, summaries)
+
+        print(f"[OK] [Storage] 전체 색인 재구축 완료. 총 {len(all_items)}개 캠페인 반영.")
 

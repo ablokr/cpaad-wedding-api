@@ -1,5 +1,199 @@
 [
   {
+    "idx": 1653,
+    "campaign_id": "banhanaH06",
+    "gather_name": "울산 반하나 허니문 박람회",
+    "organizer_name": "반하나웨딩 컨설팅",
+    "seo_metadata": {
+      "title": "울산 허니문 박람회 | 신선도원몰 반하나투어 상담 시 스벅 쿠폰 증정",
+      "meta_description": "울산 신혼여행 준비, 고민하지 마세요! 울산 반하나 허니문 박람회에서 평균 10% 저렴한 가격과 최대 100만원 혜택을 확인하세요. 사전 예약 시 무료 입장 및 스타벅스 쿠폰 증정 이벤트 진행 중.",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산신혼여행",
+        "반하나투어박람회",
+        "울산허니문",
+        "신혼여행준비",
+        "허니문박람회",
+        "결혼준비혜택",
+        "울산여행사",
+        "신선도원몰",
+        "신혼여행비교"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설렘, 완벽한 신혼여행으로 완성하세요. 울산 신선도원몰에서 열리는 '반하나 허니문 박람회'는 12만여 쌍이 선택한 신뢰의 여행 브랜드가 제안하는 프리미엄 허니문 솔루션입니다. 유럽부터 발리, 하와이까지, 가장 인기 있는 신혼여행지를 가장 합리적인 비용으로 설계해 드립니다.",
+      "benefits_description": "이번 박람회에서는 상담만 받아도 스타벅스 커피 쿠폰을 100% 증정하며, 현장 계약 시 실제 달러북을 지급하는 파격적인 혜택을 제공합니다. 또한 일반 여행사 대비 평균 10% 이상 저렴한 가격 경쟁력을 갖추었으며, 지점별 단독 프로모션을 통해 최대 100만원 상당의 추가 혜택까지 누릴 수 있습니다. 복잡한 허니문 준비, 믿을 수 있는 보증 보험 시스템을 갖춘 전문가들과 함께 2026년 봄 시즌 최저가로 준비해 보세요.",
+      "summary_for_search": "울산 신선도원몰 반하나 허니문 박람회 개최! 상담만 받아도 스타벅스 쿠폰 증정 및 계약 시 현금 혜택 등 울산 예비부부를 위한 최대 허니문 혜택을 만나보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 예약하면 평균 10% 할인! 울산 허니문 박람회",
+      "secondary_headline": "상담 시 스타벅스 쿠폰 지급, 계약 시 현금 혜택까지 신혼여행 고민 끝!",
+      "urgency_text": "사전 신청 시 입장료 무료! 이번 주말 한정 혜택을 놓치지 마세요.",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 스타벅스 커피 쿠폰 증정"
+      ],
+      "contract_benefits": [
+        "평균 10% 이상 저렴한 허니문 패키지",
+        "현장 계약 시 실제 달러북 지급",
+        "최대 100만원 상당 단독 프로모션 혜택"
+      ],
+      "special_events": [
+        "신선도원점 오픈 기념 이벤트",
+        "인기 허니문 지역 BEST 4 특별전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-06-20",
+        "end_date": "2026-06-21",
+        "display_date": "06월 20일(토) ~ 06월 21일(일)",
+        "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "북구",
+        "sigungu_en": "buk",
+        "address": "울산 북구 진장17길 10 (진장동 705)",
+        "venue": "신선도원몰 1층 반하나투어",
+        "parking_info": "신선도원몰 주차장 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "희망 날짜"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "122,876명 이용 완료",
+        "소비자 만족도 1위 브랜드",
+        "여행자보험/배상보증보험 가입 완료",
+        "메리츠화재 증권번호 14850-354"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 반하나 허니문 박람회",
+        "startDate": "2025-06-20",
+        "endDate": "2025-06-21",
+        "location": {
+          "@type": "Place",
+          "name": "신선도원몰 1층 반하나투어",
+          "address": "울산광역시 북구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "반하나웨딩 컨설팅",
+          "url": "https://ad.cpaad.co.kr/banhanaH06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장 가능한가요?",
+          "answer": "네, 홈페이지를 통해 사전 참가 신청을 하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "주차는 어디에 하나요?",
+          "answer": "박람회가 열리는 신선도원몰 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 혜택이 있나요?",
+          "answer": "네, 현장에서 전문가와 상담만 진행하셔도 스타벅스 커피 쿠폰을 증정해 드립니다."
+        },
+        {
+          "question": "타 여행사보다 저렴한가요?",
+          "answer": "반하나투어는 중간 유통 과정을 줄여 일반 여행사 대비 평균 10% 이상 저렴한 가격을 보장합니다."
+        },
+        {
+          "question": "신혼여행 준비 시 보증 보험이 있나요?",
+          "answer": "여행자보험 및 배상보증보험 등 고객 안심 플랜이 가입되어 있어 안심하고 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 신혼여행지 선정에 고민이 많은 울산 거주 예비부부를 위한 전문 행사입니다. 특히 '스드메'와 함께 신혼여행 비용을 합리적으로 비교하고 싶은 분, 유럽·발리·하와이 등 인기 여행지의 상세 견적이 궁금하신 분들께 최적의 정보를 제공합니다. 2026년 웨딩 시즌을 맞이하여 복잡한 결혼 준비를 체계적으로 시작하고 싶거나, 전문가의 1:1 맞춤형 여행 설계를 원하는 커플들에게 필수적인 자리입니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행 상담사",
+        "발리/하와이/유럽/코사무이 패키지 전문 브랜드",
+        "신혼여행 보증 보험 담당사"
+      ],
+      "comparison_hooks": [
+        "일반 여행사 대비 평균 10% 저렴한 정찰제 가격 보장",
+        "12만 명 이상 검증된 안전한 여행 브랜드 신뢰도",
+        "상담부터 계약까지 즉각적인 현장 혜택 및 안심 플랜 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "울산 웨딩박람회 추천",
+        "신혼여행 비용 절약법",
+        "허니문 패키지 장단점",
+        "2026 신혼여행 트렌드",
+        "발리 신혼여행 견적",
+        "하와이 허니문 준비물",
+        "울산 여행사 추천",
+        "신혼여행 보증보험 중요성",
+        "웨딩박람회 상담 팁",
+        "예비부부 결혼 준비 체크리스트"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 지역 예식 정보 바로가기",
+          "category": "울산웨딩"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행지",
+        "허니문패키지",
+        "웨딩박람회",
+        "결혼준비",
+        "예비부부",
+        "여행보증보험"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 허니문 박람회! 최대 100만원 혜택",
+      "og_description": "상담 시 스타벅스 쿠폰 지급! 신선도원몰 반하나투어 박람회에서 신혼여행 경비 10% 아끼는 꿀팁 공유.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#울산신혼여행",
+        "#반하나투어",
+        "#결혼준비",
+        "#울산예비부부",
+        "#신혼여행지추천",
+        "#허니문박람회",
+        "#울산여행사",
+        "#신혼여행비교",
+        "#2026결혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/banhanaH06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_pF6SITuWj7gexiFiTMkOsIe.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_MehLQPnBsyzFNlAAk.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_k9MeCg4w2CK1sZTIx8dog3.jpg"
+    },
+    "revenue": 30000
+  },
+  {
     "idx": 1440,
     "campaign_id": "wwedding12",
     "gather_name": "울산 롯데백화점 W웨딩박람회",
@@ -203,200 +397,6 @@
       "mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_T8eN4ayw1pL23JqxFyGg6m7QU.png",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_kND9pMSWGo6OU2V7i4M.png"
-    },
-    "revenue": 30000
-  },
-  {
-    "idx": 1653,
-    "campaign_id": "banhanaH06",
-    "gather_name": "울산 반하나 허니문 박람회",
-    "organizer_name": "반하나웨딩 컨설팅",
-    "seo_metadata": {
-      "title": "울산 허니문 박람회 | 신선도원몰 반하나투어 상담 시 스벅 쿠폰 증정",
-      "meta_description": "울산 신혼여행 준비, 고민하지 마세요! 울산 반하나 허니문 박람회에서 평균 10% 저렴한 가격과 최대 100만원 혜택을 확인하세요. 사전 예약 시 무료 입장 및 스타벅스 쿠폰 증정 이벤트 진행 중.",
-      "keywords": [
-        "울산웨딩박람회",
-        "울산신혼여행",
-        "반하나투어박람회",
-        "울산허니문",
-        "신혼여행준비",
-        "허니문박람회",
-        "결혼준비혜택",
-        "울산여행사",
-        "신선도원몰",
-        "신혼여행비교"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "결혼 준비의 설렘, 완벽한 신혼여행으로 완성하세요. 울산 신선도원몰에서 열리는 '반하나 허니문 박람회'는 12만여 쌍이 선택한 신뢰의 여행 브랜드가 제안하는 프리미엄 허니문 솔루션입니다. 유럽부터 발리, 하와이까지, 가장 인기 있는 신혼여행지를 가장 합리적인 비용으로 설계해 드립니다.",
-      "benefits_description": "이번 박람회에서는 상담만 받아도 스타벅스 커피 쿠폰을 100% 증정하며, 현장 계약 시 실제 달러북을 지급하는 파격적인 혜택을 제공합니다. 또한 일반 여행사 대비 평균 10% 이상 저렴한 가격 경쟁력을 갖추었으며, 지점별 단독 프로모션을 통해 최대 100만원 상당의 추가 혜택까지 누릴 수 있습니다. 복잡한 허니문 준비, 믿을 수 있는 보증 보험 시스템을 갖춘 전문가들과 함께 2026년 봄 시즌 최저가로 준비해 보세요.",
-      "summary_for_search": "울산 신선도원몰 반하나 허니문 박람회 개최! 상담만 받아도 스타벅스 쿠폰 증정 및 계약 시 현금 혜택 등 울산 예비부부를 위한 최대 허니문 혜택을 만나보세요."
-    },
-    "marketing_hooks": {
-      "primary_headline": "지금 예약하면 평균 10% 할인! 울산 허니문 박람회",
-      "secondary_headline": "상담 시 스타벅스 쿠폰 지급, 계약 시 현금 혜택까지 신혼여행 고민 끝!",
-      "urgency_text": "사전 신청 시 입장료 무료! 이번 주말 한정 혜택을 놓치지 마세요.",
-      "call_to_action_text": "지금 무료 상담 신청하기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "현장 방문 상담 시 스타벅스 커피 쿠폰 증정"
-      ],
-      "contract_benefits": [
-        "평균 10% 이상 저렴한 허니문 패키지",
-        "현장 계약 시 실제 달러북 지급",
-        "최대 100만원 상당 단독 프로모션 혜택"
-      ],
-      "special_events": [
-        "신선도원점 오픈 기념 이벤트",
-        "인기 허니문 지역 BEST 4 특별전"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-06-20",
-        "end_date": "2026-06-21",
-        "display_date": "06월 20일(토) ~ 06월 21일(일)",
-        "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
-      },
-      "location": {
-        "sido": "울산",
-        "sido_en": "ulsan",
-        "sigungu": "북구",
-        "sigungu_en": "buk",
-        "address": "울산 북구 진장17길 10 (진장동 705)",
-        "venue": "신선도원몰 1층 반하나투어",
-        "parking_info": "신선도원몰 주차장 이용 가능",
-        "region_code": "gyeongsang"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "이름",
-        "연락처",
-        "희망 날짜"
-      ],
-      "gift_conditions": "현장 방문 및 상담 완료 시 증정",
-      "trust_indicators": [
-        "122,876명 이용 완료",
-        "소비자 만족도 1위 브랜드",
-        "여행자보험/배상보증보험 가입 완료",
-        "메리츠화재 증권번호 14850-354"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "울산 반하나 허니문 박람회",
-        "startDate": "2025-06-20",
-        "endDate": "2025-06-21",
-        "location": {
-          "@type": "Place",
-          "name": "신선도원몰 1층 반하나투어",
-          "address": "울산광역시 북구"
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "반하나웨딩 컨설팅",
-          "url": "https://ad.cpaad.co.kr/banhanaH06/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "박람회 무료 입장 가능한가요?",
-          "answer": "네, 홈페이지를 통해 사전 참가 신청을 하시면 무료로 입장이 가능합니다."
-        },
-        {
-          "question": "주차는 어디에 하나요?",
-          "answer": "박람회가 열리는 신선도원몰 주차장을 편리하게 이용하실 수 있습니다."
-        },
-        {
-          "question": "상담만 받아도 혜택이 있나요?",
-          "answer": "네, 현장에서 전문가와 상담만 진행하셔도 스타벅스 커피 쿠폰을 증정해 드립니다."
-        },
-        {
-          "question": "타 여행사보다 저렴한가요?",
-          "answer": "반하나투어는 중간 유통 과정을 줄여 일반 여행사 대비 평균 10% 이상 저렴한 가격을 보장합니다."
-        },
-        {
-          "question": "신혼여행 준비 시 보증 보험이 있나요?",
-          "answer": "여행자보험 및 배상보증보험 등 고객 안심 플랜이 가입되어 있어 안심하고 상담받으실 수 있습니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "본 박람회는 결혼을 앞두고 신혼여행지 선정에 고민이 많은 울산 거주 예비부부를 위한 전문 행사입니다. 특히 '스드메'와 함께 신혼여행 비용을 합리적으로 비교하고 싶은 분, 유럽·발리·하와이 등 인기 여행지의 상세 견적이 궁금하신 분들께 최적의 정보를 제공합니다. 2026년 웨딩 시즌을 맞이하여 복잡한 결혼 준비를 체계적으로 시작하고 싶거나, 전문가의 1:1 맞춤형 여행 설계를 원하는 커플들에게 필수적인 자리입니다.",
-      "exhibitor_highlights": [
-        "허니문 전문 여행 상담사",
-        "발리/하와이/유럽/코사무이 패키지 전문 브랜드",
-        "신혼여행 보증 보험 담당사"
-      ],
-      "comparison_hooks": [
-        "일반 여행사 대비 평균 10% 저렴한 정찰제 가격 보장",
-        "12만 명 이상 검증된 안전한 여행 브랜드 신뢰도",
-        "상담부터 계약까지 즉각적인 현장 혜택 및 안심 플랜 제공"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "울산 웨딩박람회 추천",
-        "신혼여행 비용 절약법",
-        "허니문 패키지 장단점",
-        "2026 신혼여행 트렌드",
-        "발리 신혼여행 견적",
-        "하와이 허니문 준비물",
-        "울산 여행사 추천",
-        "신혼여행 보증보험 중요성",
-        "웨딩박람회 상담 팁",
-        "예비부부 결혼 준비 체크리스트"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "울산 지역 예식 정보 바로가기",
-          "category": "울산웨딩"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "혼수",
-        "예식장",
-        "웨딩홀",
-        "신혼여행지",
-        "허니문패키지",
-        "웨딩박람회",
-        "결혼준비",
-        "예비부부",
-        "여행보증보험"
-      ]
-    },
-    "social_meta": {
-      "og_title": "울산 허니문 박람회! 최대 100만원 혜택",
-      "og_description": "상담 시 스타벅스 쿠폰 지급! 신선도원몰 반하나투어 박람회에서 신혼여행 경비 10% 아끼는 꿀팁 공유.",
-      "hashtags": [
-        "#울산웨딩박람회",
-        "#울산신혼여행",
-        "#반하나투어",
-        "#결혼준비",
-        "#울산예비부부",
-        "#신혼여행지추천",
-        "#허니문박람회",
-        "#울산여행사",
-        "#신혼여행비교",
-        "#2026결혼준비"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/banhanaH06/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_pF6SITuWj7gexiFiTMkOsIe.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_MehLQPnBsyzFNlAAk.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_k9MeCg4w2CK1sZTIx8dog3.jpg"
     },
     "revenue": 30000
   }
