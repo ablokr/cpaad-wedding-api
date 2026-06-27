@@ -204,7 +204,423 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_2UMkLWvcwvkhjkMCZ1p36LPix.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_y8rpLRbELsAZKeK1kd7tR1HTT7ovUHa.jpg"
     },
-    "revenue": 35000
+    "revenue": 35000,
+    "updated_at": "2026-06-27 21:09:02"
+  },
+  {
+    "idx": 1460,
+    "campaign_id": "paranfair01",
+    "gather_name": "창원 웨딩박람회",
+    "organizer_name": "파란애드컴퍼니",
+    "seo_metadata": {
+      "title": "창원 웨딩박람회 | LG전자 상남본점 결혼준비 상담 시 최대 혜택",
+      "meta_description": "창원 웨딩박람회 개최! LG전자 베스트샵 상남본점에서 스드메 최대 34% 할인과 혼수 가전 혜택을 만나보세요. 결혼 준비의 시작, 지금 무료 초대권 신청하고 특별 프로모션을 확인하세요.",
+      "keywords": [
+        "창원웨딩박람회",
+        "창원결혼준비",
+        "창원스드메",
+        "창원웨딩홀",
+        "LG전자베스트샵상남본점",
+        "경남웨딩박람회",
+        "창원혼수",
+        "예비부부결혼준비",
+        "창원웨딩컨설팅",
+        "결혼준비체크리스트"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "복잡한 결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 창원 최대 규모로 개최되는 이번 웨딩박람회는 예비부부님들의 합리적이고 알뜰한 결혼 준비를 위해 검증된 업체들과 함께 특별한 혜택을 준비했습니다.",
+      "benefits_description": "이번 박람회에서는 스드메 패키지 계약 시 최대 34% 할인이라는 파격적인 혜택을 제공합니다. 또한 웨딩홀 최대 할인, 허니문 최대 150만 원 지원, 혼수 가전 구매 시 금액대별 사은품 증정 등 박람회에서만 누릴 수 있는 다양한 이벤트가 마련되어 있습니다. 방문만 해도 드리는 선물부터 현장 계약 시 제공되는 특별 서비스까지, 결혼 준비의 모든 과정을 원스톱으로 해결하고 비용은 획기적으로 낮춰보세요.",
+      "summary_for_search": "창원 LG전자 베스트샵 상남본점에서 개최되는 최대 규모 웨딩박람회! 스드메 34% 할인, 허니문 150만 원 지원 및 혼수 가전 프로모션 혜택을 지금 바로 무료 초대권 신청으로 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "창원 최대 규모 웨딩박람회, 지금 신청하면 최대 혜택 증정!",
+      "secondary_headline": "스드메 34% 할인부터 혼수 가전 혜택까지, 알뜰한 결혼 준비를 시작하세요.",
+      "urgency_text": "선착순 무료 초대권 마감 임박!",
+      "call_to_action_text": "무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 선착순 증정 혜택(내부 규정에 따름)"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 계약 시 최대 34% 할인",
+        "허니문 최대 150만원 지원",
+        "혼수 가전 금액대별 사은품 증정",
+        "웨딩홀 최대 할인 제공"
+      ],
+      "special_events": [
+        "웨딩드레스 무료 피팅 및 업그레이드",
+        "1:1 맞춤 웨딩 컨설팅",
+        "웨딩홀 투어 및 무료 시식 지원"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-06-20",
+        "end_date": "2026-06-21",
+        "display_date": "06월 20일(토) ~ 06월 21일(일)",
+        "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "창원시",
+        "sigungu_en": "changwon",
+        "address": "경남 창원시 성산구 중앙대로100번길 13 1층",
+        "venue": "LG전자베스트샵 상남본점",
+        "parking_info": "매장 주차장 이용 가능 (이미지 내 지도 참조)",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 후 혜택 증정 및 경품 추첨 자격 부여",
+      "trust_indicators": [
+        "창원 최대 규모 박람회",
+        "LG전자 베스트샵 공식 개최",
+        "검증된 스드메/웨딩홀 업체 입점",
+        "1:1 전문 웨딩 플래너 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "창원 웨딩박람회",
+        "startDate": "2025-06-20",
+        "endDate": "2025-06-21",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 상남본점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "창원시 성산구 중앙대로 100번길 13",
+            "addressLocality": "창원시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "파란애드컴퍼니",
+          "url": "https://ad.cpaad.co.kr/paranfair01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회는 무료로 입장할 수 있나요?",
+          "answer": "네, 사전 무료 초대권을 신청하시면 무료로 입장하여 모든 상담 서비스를 받으실 수 있습니다."
+        },
+        {
+          "question": "주차 공간은 충분한가요?",
+          "answer": "행사장인 LG전자 베스트샵 상남본점 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담 시 소요 시간은 얼마나 걸리나요?",
+          "answer": "개인별 차이가 있지만, 전체적인 스드메 및 웨딩홀 상담을 위해 1시간 30분에서 2시간 정도 여유 있게 방문하시는 것을 추천합니다."
+        },
+        {
+          "question": "입점 업체는 어떤 곳들이 있나요?",
+          "answer": "웨딩홀, 스튜디오, 드레스샵, 메이크업샵, 예물, 예복, 허니문 여행사 등 결혼 준비의 모든 카테고리 업체가 입점해 있습니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것들이 있나요?",
+          "answer": "스드메 34% 할인, 허니문 지원금, 웨딩홀 할인 및 혼수 가전 사은품 등 박람회 현장에서만 제공되는 특별한 혜택이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 예비 신랑 신부님, 효율적인 비용으로 고품질의 웨딩 서비스를 준비하고 싶은 분들께 권장합니다. 특히 스드메 패키지 구성이 막막하거나 창원 지역 웨딩홀 정보를 한눈에 비교하고 싶은 커플, 결혼 준비 예산을 절약하고 사은품 혜택까지 챙기고 싶은 스마트한 신혼부부에게 최적의 박람회입니다. 전문가의 1:1 상담을 통해 나만의 맞춤 웨딩 스타일을 찾아보세요.",
+      "exhibitor_highlights": [
+        "웨딩 스튜디오",
+        "웨딩 드레스 샵",
+        "메이크업 전문 업체",
+        "웨딩홀 전문 업체",
+        "허니문 여행사",
+        "예물 및 예복 브랜드"
+      ],
+      "comparison_hooks": [
+        "LG전자 베스트샵 공식 개최로 신뢰도 높은 상담 보장",
+        "타 박람회 대비 스드메 34%라는 파격적 할인율 제공",
+        "현장 즉시 혜택 및 사은품 프로모션 최다 규모 운영"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "창원 웨딩박람회 일정",
+        "창원 스드메 비용",
+        "웨딩박람회 준비물",
+        "경남 결혼 준비",
+        "창원 예식장 추천",
+        "신혼여행 패키지 할인",
+        "혼수 가전 이벤트",
+        "웨딩드레스 피팅 예약",
+        "창원 웨딩컨설팅 상담",
+        "결혼 비용 절약 방법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "창원 웨딩홀 비교 분석",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "스드메 패키지 가격대 확인",
+          "category": "studio_dress_makeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "웨딩 컨설팅",
+        "예복",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "창원 최대 규모 웨딩박람회! 34% 할인 혜택",
+      "og_description": "예비부부 필독! 스드메, 혼수, 웨딩홀까지 박람회 특별 혜택을 놓치지 마세요.",
+      "hashtags": [
+        "#창원웨딩박람회",
+        "#창원결혼준비",
+        "#창원웨딩홀",
+        "#창원스드메",
+        "#경남웨딩박람회",
+        "#신혼부부혜택",
+        "#결혼준비",
+        "#LG전자베스트샵",
+        "#웨딩박람회후기",
+        "#예비신부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/paranfair01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_nJb9TShOKAnjIN8hckPiAIO1criErt.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_RlkTOUttASpEYtWjfIMbY.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_KwOlU4X2.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:05:56"
+  },
+  {
+    "idx": 1510,
+    "campaign_id": "paranfair02",
+    "gather_name": "진주 웨딩박람회",
+    "organizer_name": "파란애드컴퍼니",
+    "seo_metadata": {
+      "title": "진주 웨딩박람회 | 스드메 최대 34% 할인 및 혼수 특별 혜택 안내",
+      "meta_description": "진주 LG전자베스트샵에서 열리는 최대 규모 웨딩박람회! 스드메 계약 시 최대 34% 할인과 허니문 최대 150만원 지원 등 예비부부를 위한 파격적인 결혼 준비 혜택을 지금 확인하고 무료 초대권을 신청하세요.",
+      "keywords": [
+        "진주웨딩박람회",
+        "진주결혼준비",
+        "경남웨딩박람회",
+        "스드메패키지",
+        "진주웨딩홀",
+        "결혼준비혜택",
+        "신혼부부가전",
+        "진주혼수",
+        "웨딩박람회일정",
+        "진주스드메"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "복잡하고 막막한 결혼 준비, 어디서부터 시작해야 할지 고민이신가요? 진주 최대 규모로 개최되는 이번 웨딩박람회에서 합리적인 예산으로 완벽한 결혼식을 준비할 수 있는 모든 노하우를 공개합니다.",
+      "benefits_description": "이번 박람회에서는 스드메 패키지 계약 시 최대 34% 할인이라는 압도적인 혜택을 제공합니다. 웨딩 드레스 무료 업그레이드부터 웨딩홀 대관료 할인, 신혼여행 최대 150만원 지원까지 예비부부의 경제적 부담을 덜어줄 실질적인 이벤트가 가득합니다. 또한, 혼수 가전 구매 시 최대 675만원 상당의 혜택과 맞춤 정장, 결혼 예물, 한복 등 각 분야 전문가의 1:1 맞춤 상담을 통해 당신만을 위한 특별한 웨딩을 완성하세요.",
+      "summary_for_search": "진주 LG전자베스트샵에서 열리는 진주 웨딩박람회! 스드메 최대 34% 할인과 신혼여행, 혼수가전 특별 혜택을 한자리에서 만나보세요. 예비부부를 위한 맞춤 상담과 경품 이벤트까지 지금 바로 무료 초대권을 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "진주 최대 규모 웨딩박람회, 스드메 패키지 최대 34% 파격 할인",
+      "secondary_headline": "복잡한 결혼 준비, 전문가 1:1 맞춤 상담으로 한 번에 끝내세요",
+      "urgency_text": "선착순 무료 초대권 신청 마감 임박",
+      "call_to_action_text": "무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 웨딩 전문가 1:1 맞춤 컨설팅 제공",
+        "현장 등록 시 박람회 전용 특별 할인 혜택 제공"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 계약 시 최대 34% 할인",
+        "웨딩 드레스 무료 업그레이드 및 피팅 제공",
+        "허니문 계약 시 최대 150만원 할인 지원",
+        "혼수 가전 구매 시 최대 675만원 상당 혜택",
+        "혼수 정장/예물/한복 계약 시 분야별 특전 제공"
+      ],
+      "special_events": [
+        "웨딩 드레스 신상 브랜드 쇼케이스",
+        "웨딩홀 비교 및 실시간 예약 서비스",
+        "3D 가상 웨딩 컨설팅 체험"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-12",
+        "display_date": "07월 11일(토) ~ 07월 12일(일)",
+        "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "진주시",
+        "sigungu_en": "jinju",
+        "address": "경남 진주시 동진로 230 1~3층",
+        "venue": "LG전자베스트샵 진주시청점 특별행사장",
+        "parking_info": "매장 주차장 이용 가능 (이미지 내 주차 위치 정보 확인)",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일",
+        "방문 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 업체 상담 완료 시 혜택 적용",
+      "trust_indicators": [
+        "진주 최대 규모 웨딩 박람회",
+        "입점 업체별 전문가 1:1 상담",
+        "LG전자베스트샵 특별 행사장 공동 주최"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "진주 웨딩박람회",
+        "startDate": "2025-07-11",
+        "endDate": "2025-07-12",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 진주시청점",
+          "address": "진주시"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "파란애드컴퍼니",
+          "url": "https://ad.cpaad.co.kr/paranfair02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장료는 얼마인가요?",
+          "answer": "해당 박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메, 웨딩홀, 허니문 여행사, 예물, 예복, 한복, 혼수가전 등 결혼 준비에 필요한 모든 카테고리의 엄선된 업체가 참여합니다."
+        },
+        {
+          "question": "방문하면 무엇을 상담받을 수 있나요?",
+          "answer": "웨딩 전문가와 함께 예식장 비교, 스드메 예산 설정, 신혼여행지 추천, 혼수 가전 견적 등 1:1 맞춤 상담을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "LG전자베스트샵 진주시청점 내 주차 시설을 이용하실 수 있습니다."
+        },
+        {
+          "question": "박람회 혜택을 받으려면 어떻게 해야 하나요?",
+          "answer": "사전 무료 초대권을 신청하신 후 현장을 방문하여 각 부스에서 전문가 상담을 진행하시면 할인 및 증정 혜택을 받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비 신랑신부님, 합리적인 예산으로 최상의 스드메 패키지를 찾고 계신 커플, 혹은 결혼 준비를 체계적으로 시작하고 싶은 분들을 대상으로 합니다. 특히 진주 지역 내 웨딩홀 투어부터 혼수 가전까지 한 번의 방문으로 시간과 비용을 동시에 절약하고 싶은 실속파 예비부부에게 가장 적합한 행사입니다. 복잡한 웨딩 준비 과정을 전문가의 1:1 컨설팅으로 해결하고 싶은 모든 커플을 초대합니다.",
+      "exhibitor_highlights": [
+        "프리미엄 웨딩 드레스샵",
+        "인기 웨딩 스튜디오",
+        "지역 내 인기 웨딩홀",
+        "허니문 전문 여행사",
+        "예물 및 예복 맞춤 브랜드",
+        "혼수 가전 브랜드(LG전자)"
+      ],
+      "comparison_hooks": [
+        "현장 계약 시 즉시 적용되는 스드메 34% 할인",
+        "진주 최대 규모로 비교 가능한 다양한 웨딩홀 리스트",
+        "분야별 전문 컨설턴트와의 1:1 맞춤형 동행 상담 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "진주 결혼준비 순서",
+        "스드메 평균 비용",
+        "결혼 박람회 예약 팁",
+        "신혼여행지 추천",
+        "혼수가전 견적 비교",
+        "웨딩홀 대관료 할인",
+        "예물 예복 브랜드 추천",
+        "박람회 계약 혜택 확인",
+        "웨딩 플래너 상담 비용"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "진주 웨딩박람회 일정 확인",
+          "category": "event_schedule"
+        },
+        {
+          "anchor": "스드메 패키지 상세 보기",
+          "category": "wedding_service"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "결혼준비",
+        "허니문",
+        "예물",
+        "맞춤정장",
+        "웨딩드레스",
+        "혼수가전",
+        "결혼식준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "진주 최대 웨딩박람회! 스드메 34% 할인 혜택",
+      "og_description": "진주 예비부부 필수 코스! 무료 초대권 신청하고 스드메 할인부터 허니문, 혼수 혜택까지 모두 챙겨가세요.",
+      "hashtags": [
+        "#진주웨딩박람회",
+        "#진주결혼준비",
+        "#경남웨딩",
+        "#진주스드메",
+        "#웨딩박람회",
+        "#결혼준비",
+        "#신혼부부혜택",
+        "#진주웨딩홀",
+        "#혼수준비",
+        "#예신"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/paranfair02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_3H7Ze3hD2GvwJLyoASgOqfqW3.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_EH5ZZCLYqeTel8GFBdVNrZHB2.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vJogjaqF6qn6lGDLH1UHDCysfrayVLid.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:02"
   },
   {
     "idx": 1525,
@@ -410,836 +826,8 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_fxIVoTnDZN.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_mnR3OYgz.jpg"
     },
-    "revenue": 30000
-  },
-  {
-    "idx": 1822,
-    "campaign_id": "paranfair06",
-    "gather_name": "창원 허니문박람회",
-    "organizer_name": "파란애드컴퍼니",
-    "seo_metadata": {
-      "title": "창원 허니문박람회 | 썸투어 신혼여행 최저가 보장 및 상담 혜택",
-      "meta_description": "창원 썸투어 허니문박람회에서 준비하는 특별한 신혼여행! 계약 시 여행용 캐리어 증정 및 오프라인 최저가 보장 혜택을 확인하세요. 예비부부를 위한 맞춤형 1:1 상담까지 지금 바로 신청하세요.",
-      "keywords": [
-        "창원허니문박람회",
-        "창원결혼준비",
-        "썸투어박람회",
-        "신혼여행패키지",
-        "창원웨딩박람회",
-        "허니문특가",
-        "결혼준비꿀팁",
-        "신혼부부여행",
-        "유럽허니문",
-        "발리신혼여행",
-        "하와이허니문"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "결혼 준비의 설레는 시작, 완벽한 신혼여행을 위한 창원 썸투어 허니문박람회가 개최됩니다. 20년 경력의 전문 여행가이드가 제안하는 맞춤형 허니문 코스로 둘만의 소중한 시간을 더욱 특별하게 채워보세요.",
-      "benefits_description": "박람회 현장 계약 시 여행용 고급 캐리어를 증정하며, 오프라인 최저가 보장 및 환율 고정 혜택을 제공합니다. 또한 유럽, 하와이, 발리 등 인기 신혼여행지별 5성급 호텔 숙박, 단독 투어, 스냅 촬영 등 업그레이드된 특전을 누릴 수 있습니다. 지금 상담을 신청하고 예비부부만을 위한 특별한 여행 설계와 경품 기회를 놓치지 마세요.",
-      "summary_for_search": "창원 썸투어 허니문박람회에서 완벽한 신혼여행을 준비하세요! 오프라인 최저가 보장, 계약 시 캐리어 증정 및 맞춤형 1:1 전문 상담 제공. 경남 지역 예비부부를 위한 최고의 허니문 혜택을 지금 확인하세요."
-    },
-    "marketing_hooks": {
-      "primary_headline": "결혼 준비의 완성, 썸투어 허니문박람회에서 누리는 오프라인 최저가 보장!",
-      "secondary_headline": "20년 경력의 전문가가 1:1로 맞춤 설계하는 세상에 단 하나뿐인 우리만의 신혼여행",
-      "urgency_text": "계약 시 고급 여행용 캐리어 증정 및 환율 고정 혜택 (선착순 한정)",
-      "call_to_action_text": "허니문 박람회 신청하기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "방문 후기 작성 시 스타벅스 커피 쿠폰",
-        "상담 완료 후 백화점 상품권 증정 이벤트"
-      ],
-      "contract_benefits": [
-        "현장 계약 시 고급 여행용 캐리어 증정",
-        "오프라인 최저가 보장 제도",
-        "환율 인상 걱정 없는 환율 고정 혜택",
-        "유럽/발리/하와이 등 지역별 5성급 호텔 숙박 및 단독 투어 포함"
-      ],
-      "special_events": [
-        "직장인을 위한 평일 야간 상담 지원(월-금 19:00-21:00)",
-        "전문가의 1:1 맞춤형 여행지 컨설팅"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-06-27",
-        "end_date": "2026-06-28",
-        "display_date": "06월 27일(토) ~ 06월 28일(일)",
-        "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
-      },
-      "location": {
-        "sido": "경남",
-        "sido_en": "gyeongnam",
-        "sigungu": "창원시",
-        "sigungu_en": "changwon",
-        "address": "경남 창원시 성산구 마디미서로 30 2층",
-        "venue": "썸그룹 본사 사옥",
-        "parking_info": "별도 안내 없음",
-        "region_code": "gyeongsang"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "이름",
-        "연락처",
-        "결혼예정일",
-        "방문예정일"
-      ],
-      "gift_conditions": "박람회 현장 상담 완료 및 계약 조건 충족 시 증정",
-      "trust_indicators": [
-        "20년 경력의 베테랑 여행 전문가 상주",
-        "경남 최대 신혼여행 진행 (연간 1,500쌍)",
-        "경남 최대 규모 오프라인 매장(200평)",
-        "썸그룹 직접 운영(썸문/썸랜드/썸투어)"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "창원 썸투어 허니문박람회",
-        "startDate": "2025-06-27",
-        "endDate": "2025-06-28",
-        "location": {
-          "@type": "Place",
-          "name": "썸그룹 본사 사옥",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "창원시",
-            "addressCountry": "KR"
-          }
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "파란애드컴퍼니",
-          "url": "https://ad.cpaad.co.kr/paranfair06/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "박람회 방문 시 어떤 상담을 받을 수 있나요?",
-          "answer": "20년 경력의 허니문 전문가가 예비부부의 취향과 예산에 맞춘 1:1 맞춤형 신혼여행지 추천 및 일정 설계를 도와드립니다."
-        },
-        {
-          "question": "박람회 현장 계약 시 혜택은 무엇인가요?",
-          "answer": "오프라인 최저가 보장제, 환율 고정 혜택, 고급 여행용 캐리어 증정 등 박람회장에서만 제공되는 특별한 혜택이 준비되어 있습니다."
-        },
-        {
-          "question": "평일 야간에도 상담이 가능한가요?",
-          "answer": "네, 직장인들을 위해 평일 월요일부터 금요일, 저녁 7시부터 9시까지 야간 상담을 운영하고 있습니다. 사전 예약은 필수입니다."
-        },
-        {
-          "question": "어떤 여행지를 주로 다루나요?",
-          "answer": "유럽, 하와이, 발리, 칸쿤, 몰디브, 모리셔스, 코사무이 등 인기 신혼여행지를 포함한 전 세계 맞춤형 여행지를 전문으로 합니다."
-        },
-        {
-          "question": "여행사 선택 시 왜 썸투어인가요?",
-          "answer": "썸투어는 20년 경력의 베테랑 전문가가 상주하며, 경남 최대 규모의 오프라인 매장을 직접 운영하여 신뢰할 수 있는 사후 관리와 보장된 여행 품질을 제공합니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "본 박람회는 결혼을 앞두고 완벽한 신혼여행을 고민하는 예비부부를 위한 최적의 장소입니다. '결혼 준비는 어디서부터 시작해야 할까?', '패키지 여행은 믿을 수 있을까?' 고민하는 커플들에게 전문가의 1:1 맞춤 상담을 제공합니다. 특히 바쁜 일상으로 주말 방문이 어려운 직장인 예비부부와, 남들과는 다른 특별하고 안전한 신혼여행을 계획 중인 신혼부부에게 강력히 추천합니다.",
-      "exhibitor_highlights": [
-        "허니문 전문 여행사 썸투어",
-        "신혼여행지별 전문 컨설팅 데스크",
-        "웨딩 스냅/단독 투어 업체",
-        "5성급 호텔 및 리조트 제휴처"
-      ],
-      "comparison_hooks": [
-        "온라인 기반의 불확실한 여행사가 아닌, 경남 최대 규모 오프라인 사옥 보유",
-        "환율 변동에 민감한 신혼부부를 위한 환율 고정 혜택 보장",
-        "현장 즉시 계약 시 최저가 보장제 실시로 가격 거품 제거"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "신혼여행지 추천",
-        "허니문 박람회 혜택",
-        "창원 웨딩 상담",
-        "유럽 신혼여행 준비",
-        "발리 허니문 패키지",
-        "하와이 신혼여행 경비",
-        "웨딩박람회 캐리어 증정",
-        "직장인 결혼 준비",
-        "신혼여행 사기 주의사항",
-        "맞춤형 신혼여행 일정"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "창원 웨딩 박람회 일정 전체보기",
-          "category": "local_events"
-        },
-        {
-          "anchor": "허니문 여행지 베스트 10",
-          "category": "honeymoon_guide"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "허니문",
-        "신혼여행지",
-        "풀빌라",
-        "리조트",
-        "여행가이드",
-        "오프라인상담",
-        "환율고정",
-        "신혼부부혜택",
-        "스냅촬영"
-      ]
-    },
-    "social_meta": {
-      "og_title": "창원 썸투어 허니문박람회 | 신혼여행 혜택",
-      "og_description": "오프라인 최저가 보장 및 캐리어 증정! 썸투어 허니문박람회에서 우리만의 특별한 신혼여행을 준비하세요.",
-      "hashtags": [
-        "#창원허니문박람회",
-        "#썸투어",
-        "#결혼준비",
-        "#신혼여행",
-        "#허니문",
-        "#창원웨딩",
-        "#신혼부부혜택",
-        "#신혼여행준비",
-        "#웨딩박람회",
-        "#창원결혼준비"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/paranfair06/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_9SW9eF9QEDg.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hCtHyOGeT.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_uzm3Akx9Vvi2JSdPYYURPchFUvzmlTN.jpg"
-    },
-    "revenue": 30000
-  },
-  {
-    "idx": 1319,
-    "campaign_id": "wwedding07",
-    "gather_name": "창원 프리마베라 웨딩박람회",
-    "organizer_name": "더리본 주식회사",
-    "seo_metadata": {
-      "title": "창원 프리마베라 웨딩박람회 | 스드메 최대 혜택 및 삼성가전 할인",
-      "meta_description": "창원 프리마베라 웨딩박람회에서 스드메 패키지 특가와 삼성스토어 최대 50% 할인 혜택을 만나보세요. 예비부부를 위한 1:1 맞춤 컨설팅과 혼수, 예물 특별 이벤트를 제공합니다. 지금 무료 사전 신청하세요.",
-      "keywords": [
-        "창원웨딩박람회",
-        "창원결혼준비",
-        "창원스드메",
-        "창원웨딩홀",
-        "창원혼수",
-        "프리마베라웨딩",
-        "예비부부혜택",
-        "창원예물",
-        "창원한복",
-        "창원허니문"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "결혼 준비의 시작부터 완성까지, 창원 프리마베라 웨딩박람회가 여러분의 특별한 순간을 함께합니다. 수많은 예비부부가 선택한 공신력 있는 박람회에서 합리적인 스드메 패키지와 프리미엄 웨딩홀 정보를 한눈에 비교해 보세요.",
-      "benefits_description": "이번 웨딩박람회에서는 계약 고객을 위한 파격적인 혜택을 준비했습니다. 삼성스토어 제휴를 통해 최대 50% 할인 혜택을 제공하며, 계약 시 추가 축하금 지원 및 무상 AS 기간을 최대 3년까지 보장합니다. 또한 예물, 예복, 한복, 허니문 등 각 분야 전문 업체가 참여하여 예산에 맞춘 최적의 맞춤 견적을 제시합니다. 방문만 해도 얻을 수 있는 정보와 1:1 상담을 통해 복잡한 결혼 준비를 더욱 스마트하고 즐겁게 완성해 보세요.",
-      "summary_for_search": "창원 프리마베라 웨딩박람회에서 준비한 특별 혜택! 스드메 패키지 특가, 삼성가전 최대 50% 할인 및 예물·예복 상담 혜택을 확인하세요. 창원 지역 예비부부를 위한 최고의 결혼 준비 솔루션을 제공합니다."
-    },
-    "marketing_hooks": {
-      "primary_headline": "창원 웨딩 박람회 | 스드메 패키지 및 삼성가전 최대 50% 할인",
-      "secondary_headline": "20만 쌍이 선택한 압도적인 혜택, 프리마베라 × 청담 순수 창원에서 만나는 완벽한 웨딩",
-      "urgency_text": "선착순 방문객 대상 특별 선물 증정, 이번 주말 한정 상담 혜택",
-      "call_to_action_text": "지금 무료 사전 신청하고 혜택받기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "방문객 대상 웨딩 퍼스널 컬러 무료 진단"
-      ],
-      "contract_benefits": [
-        "삼성스토어 제휴 계약 시 최대 50% 할인",
-        "무상 AS 기간 최대 1년에서 3년으로 연장",
-        "계약 고객 24~36개월 무이자 할부 혜택",
-        "예물 계약 시 20% 추가 할인 및 혼수 세트 증정",
-        "예복 계약 시 고급 넥타이 증정 및 맞춤 셔츠 1+1 제공",
-        "한복 계약 시 20% 할인 및 함 포장 혜택"
-      ],
-      "special_events": [
-        "웨딩 퍼스널 컬러 진단 이벤트",
-        "스튜디오/드레스/웨딩홀 1:1 맞춤 상담"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-06-27",
-        "end_date": "2026-06-28",
-        "display_date": "06월 27일(토) ~ 06월 28일(일) 07월 04일(토) ~ 07월 05일(일)",
-        "original_display_date": "06월 27일(토) ~ 06월 28일(일) 07월 04일(토) ~ 07월 05일(일)"
-      },
-      "location": {
-        "sido": "경남",
-        "sido_en": "gyeongnam",
-        "sigungu": "창원시",
-        "sigungu_en": "changwon",
-        "address": "경남 창원시 성산구 용지로 112",
-        "venue": "프리마베라×청담 순수 창원점(중앙동)",
-        "parking_info": "별도 주차 정보 없음",
-        "region_code": "gyeongsang"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "이름",
-        "연락처",
-        "결혼 예정일"
-      ],
-      "gift_conditions": "현장 상담 완료 후 증정",
-      "trust_indicators": [
-        "20만 쌍이 선택한 신뢰의 브랜드",
-        "삼성스토어 공식 제휴",
-        "1:1 맞춤 상담 보장"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "창원 프리마베라 웨딩박람회",
-        "startDate": "2025-06-27",
-        "endDate": "2025-07-05",
-        "location": {
-          "@type": "Place",
-          "name": "프리마베라 × 청담 순수 창원점",
-          "address": {
-            "@type": "PostalAddress",
-            "streetAddress": "창원시 성산구 중앙대로 112 3층",
-            "addressLocality": "창원시",
-            "addressCountry": "KR"
-          }
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW",
-          "availability": "https://schema.org/InStock"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "더리본 주식회사",
-          "url": "https://ad.cpaad.co.kr/wwedding07/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "박람회 입장은 무료인가요?",
-          "answer": "네, 사전 신청을 하시면 무료로 입장이 가능하며 상담 혜택을 받으실 수 있습니다."
-        },
-        {
-          "question": "어떤 업체들이 참여하나요?",
-          "answer": "스튜디오, 드레스, 웨딩홀, 예물, 예복, 한복, 허니문 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
-        },
-        {
-          "question": "상담 시 혜택은 무엇인가요?",
-          "answer": "계약 시 삼성가전 최대 50% 할인, 스드메 패키지 특가, 예물/한복 할인 등 다양한 추가 혜택이 제공됩니다."
-        },
-        {
-          "question": "주차는 가능한가요?",
-          "answer": "행사장 인근 주차장을 이용하실 수 있습니다. 상세 위치는 안내 페이지 지도를 참고해 주세요."
-        },
-        {
-          "question": "결혼 날짜가 아직 확정되지 않았는데 가도 될까요?",
-          "answer": "네, 결혼 준비의 전반적인 과정과 예산 계획을 세우는 데 큰 도움이 되므로 언제든 방문 상담 가능합니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "결혼을 막연하게 생각하고 계신 예비부부, 스드메 비용과 웨딩홀 선정에 고민이 많은 신혼부부에게 필수적인 박람회입니다. 결혼 준비 과정을 체계적으로 알고 싶거나, 검증된 업체들로부터 합리적인 맞춤 견적을 비교하고 싶은 분들에게 최적화되어 있습니다. 복잡한 결혼 준비를 전문가의 도움을 받아 시간과 비용을 동시에 절약하고 싶은 모든 커플을 대상으로 합니다.",
-      "exhibitor_highlights": [
-        "스튜디오 10곳 이상",
-        "프리미엄 웨딩홀 리스트",
-        "고급 웨딩 드레스샵",
-        "혼수 가전(삼성스토어)",
-        "예물 및 명품 주얼리",
-        "맞춤 정장 및 한복"
-      ],
-      "comparison_hooks": [
-        "대기업 가전(삼성) 제휴로 실질적인 혼수 할인 제공",
-        "다양한 스튜디오/드레스 선택지 보유로 1:1 맞춤형 서비스",
-        "박람회 기간 한정 계약 축하금 및 최대 3년 무상 AS 보장"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "웨딩박람회 준비물",
-        "결혼준비 순서",
-        "스드메 평균 비용",
-        "웨딩홀 투어 체크리스트",
-        "창원 예식장 추천",
-        "혼수가전 할인 팁",
-        "결혼 예물 고르는 법",
-        "웨딩박람회 예약방법",
-        "결혼박람회 사기 방지",
-        "웨딩 퍼스널 컬러 진단"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "창원 웨딩홀 정보 확인하기",
-          "category": "wedding_halls"
-        },
-        {
-          "anchor": "스드메 패키지 실시간 상담",
-          "category": "consulting"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "웨딩홀",
-        "혼수",
-        "결혼준비",
-        "예물",
-        "허니문",
-        "예복",
-        "한복",
-        "웨딩패키지"
-      ]
-    },
-    "social_meta": {
-      "og_title": "창원 프리마베라 웨딩박람회 - 결혼준비의 모든 것",
-      "og_description": "스드메 최대 할인부터 삼성가전 혜택까지! 창원 예비부부를 위한 최고의 결혼 준비 박람회.",
-      "hashtags": [
-        "#창원웨딩박람회",
-        "#창원결혼준비",
-        "#창원스드메",
-        "#프리마베라웨딩",
-        "#경남결혼",
-        "#신혼부부혜택",
-        "#웨딩박람회일정",
-        "#창원웨딩홀",
-        "#결혼준비시작",
-        "#예신예랑"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/wwedding07/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg"
-    },
-    "revenue": 30000
-  },
-  {
-    "idx": 1334,
-    "campaign_id": "wwedding09",
-    "gather_name": "창원 롯데백화점 웨딩박람회",
-    "organizer_name": "더리본 주식회사",
-    "seo_metadata": {
-      "title": "창원 롯데백화점 웨딩박람회 | 결혼준비 스드메 혜택 최대 지원",
-      "meta_description": "창원 롯데백화점에서 열리는 대규모 웨딩박람회! 스드메 패키지 할인부터 가전, 예물, 예복까지 신혼부부를 위한 파격적인 계약 혜택을 확인하세요. 지금 사전 등록하고 방문 혜택을 챙겨가세요.",
-      "keywords": [
-        "창원웨딩박람회",
-        "롯데백화점웨딩박람회",
-        "창원결혼준비",
-        "창원스드메",
-        "경남웨딩박람회",
-        "창원웨딩홀추천",
-        "신혼부부혜택",
-        "창원예물",
-        "창원맞춤정장",
-        "창원허니문"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "결혼 준비의 시작, 막막함은 덜어내고 혜택은 더하는 '창원 롯데백화점 웨딩박람회'가 찾아옵니다. 창원 및 경남 지역 예비부부를 위해 준비된 이번 박람회는 전문 웨딩 컨설턴트와의 1:1 상담을 통해 나만의 맞춤 웨딩 플랜을 설계할 수 있는 최적의 기회입니다.",
-      "benefits_description": "이번 박람회는 단순한 정보 제공을 넘어 실질적인 비용 절감을 돕는 강력한 혜택을 제공합니다. 스드메 패키지 계약 시 최대 50% 할인과 더불어 삼성스토어 가전 할인, LG전자 가전 구매 시 최대 520만원 상당의 지원 혜택을 누릴 수 있습니다. 또한, 혼수 예물과 예복, 허니문까지 각 분야 전문가들이 대거 참여하여 비교 견적을 한자리에서 받아보실 수 있습니다. 방문만 해도 드리는 특별 선물부터 계약 고객을 위한 파격적인 축하금까지, 예비부부의 예산을 지켜드리는 다양한 이벤트가 현장에서 기다리고 있습니다.",
-      "summary_for_search": "창원 롯데백화점 웨딩박람회에서 스드메, 가전, 혼수까지 한 번에 준비하세요. 최대 50% 할인 및 가전 구매 지원금 등 다양한 혜택을 제공합니다. 지금 무료 사전 등록하고 상담 받아보세요."
-    },
-    "marketing_hooks": {
-      "primary_headline": "경남 최대 규모, 창원 롯데백화점 웨딩박람회 초대",
-      "secondary_headline": "스드메부터 가전, 혼수까지 최대 50% 할인 혜택을 한자리에서 확인하세요.",
-      "urgency_text": "사전 등록 시 방문 상담 경품 증정 (선착순 마감)",
-      "call_to_action_text": "지금 무료 사전 등록하기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "현장 상담 시 웨딩 다이어리 증정",
-        "사전 예약 방문객 대상 경품 추첨"
-      ],
-      "contract_benefits": [
-        "스드메 계약 시 최대 50% 할인",
-        "삼성스토어 가전 계약 시 최대 50% 할인 및 무상 AS 3년",
-        "LG전자 가전 구매 시 최대 520만원 혜택",
-        "예물 계약 시 20% 추가 할인 및 업그레이드",
-        "허니문 계약 시 추가 할인 및 특전 제공"
-      ],
-      "special_events": [
-        "웨딩홀 1:1 맞춤 상담 및 무료 섭외",
-        "최신 드레스 전시 및 스타일링 체험",
-        "맞춤 정장 계약 시 수제화 및 넥타이 증정"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-07-04",
-        "end_date": "2026-07-05",
-        "display_date": "07월 04일(토) ~ 07월 05일(일)",
-        "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
-      },
-      "location": {
-        "sido": "경남",
-        "sido_en": "gyeongnam",
-        "sigungu": "창원시",
-        "sigungu_en": "changwon",
-        "address": "경남 창원시 성산구 중앙대로 124",
-        "venue": "롯데백화점 창원점",
-        "parking_info": "롯데백화점 창원점 주차장 이용 가능",
-        "region_code": "gyeongsang"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "성함",
-        "연락처",
-        "결혼 예정일"
-      ],
-      "gift_conditions": "박람회 현장 방문 및 웨딩 컨설팅 상담 완료 시 증정",
-      "trust_indicators": [
-        "경남 최대 규모 입점 업체",
-        "전문 컨설턴트 1:1 맞춤 상담",
-        "정찰제 운영으로 투명한 비용 안내",
-        "안전 보장 시스템 도입"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "창원 롯데백화점 웨딩박람회",
-        "startDate": "2025-07-04",
-        "endDate": "2025-07-05",
-        "location": {
-          "@type": "Place",
-          "name": "롯데백화점 창원점",
-          "address": {
-            "@type": "PostalAddress",
-            "addressLocality": "창원시",
-            "addressCountry": "KR"
-          }
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "더리본 주식회사",
-          "url": "https://ad.cpaad.co.kr/wwedding09/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "박람회 참가비가 있나요?",
-          "answer": "아니요, 창원 롯데백화점 웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
-        },
-        {
-          "question": "주차는 가능한가요?",
-          "answer": "롯데백화점 창원점 주차장을 이용하실 수 있으며, 박람회 상담 시 주차 지원 혜택을 확인하세요."
-        },
-        {
-          "question": "어떤 업체들이 참여하나요?",
-          "answer": "스드메, 웨딩홀, 예물, 예복, 허니문 여행사, 가전 등 결혼 준비에 필요한 전 품목의 우수 업체들이 참여합니다."
-        },
-        {
-          "question": "사전 등록을 꼭 해야 하나요?",
-          "answer": "사전 등록 시 방문 혜택 및 대기 없는 상담이 가능하므로 반드시 사전 신청을 권장합니다."
-        },
-        {
-          "question": "혼수 가전 혜택은 어떤 것이 있나요?",
-          "answer": "가전 제품별 추가 할인 및 구매 금액별 상품권 증정 등 박람회 전용 프로모션 혜택이 준비되어 있습니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "이제 막 결혼을 결심하고 구체적인 계획을 세우는 예비부부, 스드메 패키지 비용과 퀄리티를 두고 고민 중인 커플, 가전과 혼수를 합리적인 가격에 구매하고 싶은 신혼부부를 대상으로 합니다. 결혼 준비의 전체적인 로드맵을 잡고 싶거나, 다이렉트 웨딩 준비를 통해 불필요한 거품을 줄이고 실속을 챙기고 싶은 분들에게 최적화된 행사입니다.",
-      "exhibitor_highlights": [
-        "스드메 토탈 웨딩 스튜디오",
-        "유명 웨딩드레스샵",
-        "창원 인기 웨딩홀",
-        "명품 주얼리 예물 브랜드",
-        "맞춤 정장 테일러샵",
-        "가전 및 허니문 여행사"
-      ],
-      "comparison_hooks": [
-        "정찰제 운영으로 투명한 웨딩 견적 제공",
-        "현장 즉시 계약 시 추가 할인 및 축하금 지원",
-        "1:1 밀착 상담을 통한 나만의 맞춤 웨딩 솔루션"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "창원 웨딩홀 대관료 비교",
-        "결혼 준비 체크리스트",
-        "창원 스드메 비용",
-        "웨딩박람회 방문 혜택",
-        "스드메 뜻과 패키지 구성",
-        "창원 맞춤정장 추천",
-        "신혼여행 예약 시기",
-        "웨딩 다이어리 받는 법",
-        "박람회 상담 시간",
-        "결혼 가전 구매 팁"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "창원 웨딩홀 추천 리스트",
-          "category": "wedding_hall"
-        },
-        {
-          "anchor": "스드메 견적 비교하기",
-          "category": "studio_dress_makeup"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "혼수",
-        "예식장",
-        "웨딩홀",
-        "신혼가전",
-        "예물",
-        "허니문",
-        "웨딩플래너",
-        "결혼준비",
-        "웨딩드레스"
-      ]
-    },
-    "social_meta": {
-      "og_title": "창원 롯데백화점 웨딩박람회 | 최대 혜택 받고 준비 끝!",
-      "og_description": "결혼 준비, 고민하지 마세요! 창원 롯데백화점 웨딩박람회에서 스드메부터 가전까지 알뜰하게 준비하세요.",
-      "hashtags": [
-        "#창원웨딩박람회",
-        "#롯데백화점창원점",
-        "#창원결혼준비",
-        "#창원스드메",
-        "#창원웨딩홀",
-        "#신혼부부혜택",
-        "#경남웨딩박람회",
-        "#창원예물",
-        "#창원맞춤정장",
-        "#결혼준비꿀팁"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/wwedding09/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_MTMFLAidO6hL8yWBKyfXl.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_RwDmzMGOi44XTMkq8aEOap2F6G.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_xs9LUaFjnfZe12WWRhR.jpg"
-    },
-    "revenue": 30000
-  },
-  {
-    "idx": 1510,
-    "campaign_id": "paranfair02",
-    "gather_name": "진주 웨딩박람회",
-    "organizer_name": "파란애드컴퍼니",
-    "seo_metadata": {
-      "title": "진주 웨딩박람회 | 스드메 최대 34% 할인 및 혼수 특별 혜택 안내",
-      "meta_description": "진주 LG전자베스트샵에서 열리는 최대 규모 웨딩박람회! 스드메 계약 시 최대 34% 할인과 허니문 최대 150만원 지원 등 예비부부를 위한 파격적인 결혼 준비 혜택을 지금 확인하고 무료 초대권을 신청하세요.",
-      "keywords": [
-        "진주웨딩박람회",
-        "진주결혼준비",
-        "경남웨딩박람회",
-        "스드메패키지",
-        "진주웨딩홀",
-        "결혼준비혜택",
-        "신혼부부가전",
-        "진주혼수",
-        "웨딩박람회일정",
-        "진주스드메"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "복잡하고 막막한 결혼 준비, 어디서부터 시작해야 할지 고민이신가요? 진주 최대 규모로 개최되는 이번 웨딩박람회에서 합리적인 예산으로 완벽한 결혼식을 준비할 수 있는 모든 노하우를 공개합니다.",
-      "benefits_description": "이번 박람회에서는 스드메 패키지 계약 시 최대 34% 할인이라는 압도적인 혜택을 제공합니다. 웨딩 드레스 무료 업그레이드부터 웨딩홀 대관료 할인, 신혼여행 최대 150만원 지원까지 예비부부의 경제적 부담을 덜어줄 실질적인 이벤트가 가득합니다. 또한, 혼수 가전 구매 시 최대 675만원 상당의 혜택과 맞춤 정장, 결혼 예물, 한복 등 각 분야 전문가의 1:1 맞춤 상담을 통해 당신만을 위한 특별한 웨딩을 완성하세요.",
-      "summary_for_search": "진주 LG전자베스트샵에서 열리는 진주 웨딩박람회! 스드메 최대 34% 할인과 신혼여행, 혼수가전 특별 혜택을 한자리에서 만나보세요. 예비부부를 위한 맞춤 상담과 경품 이벤트까지 지금 바로 무료 초대권을 신청하세요."
-    },
-    "marketing_hooks": {
-      "primary_headline": "진주 최대 규모 웨딩박람회, 스드메 패키지 최대 34% 파격 할인",
-      "secondary_headline": "복잡한 결혼 준비, 전문가 1:1 맞춤 상담으로 한 번에 끝내세요",
-      "urgency_text": "선착순 무료 초대권 신청 마감 임박",
-      "call_to_action_text": "무료 초대권 신청하기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "방문 상담 시 웨딩 전문가 1:1 맞춤 컨설팅 제공",
-        "현장 등록 시 박람회 전용 특별 할인 혜택 제공"
-      ],
-      "contract_benefits": [
-        "스드메 패키지 계약 시 최대 34% 할인",
-        "웨딩 드레스 무료 업그레이드 및 피팅 제공",
-        "허니문 계약 시 최대 150만원 할인 지원",
-        "혼수 가전 구매 시 최대 675만원 상당 혜택",
-        "혼수 정장/예물/한복 계약 시 분야별 특전 제공"
-      ],
-      "special_events": [
-        "웨딩 드레스 신상 브랜드 쇼케이스",
-        "웨딩홀 비교 및 실시간 예약 서비스",
-        "3D 가상 웨딩 컨설팅 체험"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-07-11",
-        "end_date": "2026-07-12",
-        "display_date": "07월 11일(토) ~ 07월 12일(일)",
-        "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
-      },
-      "location": {
-        "sido": "경남",
-        "sido_en": "gyeongnam",
-        "sigungu": "진주시",
-        "sigungu_en": "jinju",
-        "address": "경남 진주시 동진로 230 1~3층",
-        "venue": "LG전자베스트샵 진주시청점 특별행사장",
-        "parking_info": "매장 주차장 이용 가능 (이미지 내 주차 위치 정보 확인)",
-        "region_code": "gyeongsang"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "이름",
-        "연락처",
-        "예식 예정일",
-        "방문 예정일"
-      ],
-      "gift_conditions": "박람회 현장 방문 및 업체 상담 완료 시 혜택 적용",
-      "trust_indicators": [
-        "진주 최대 규모 웨딩 박람회",
-        "입점 업체별 전문가 1:1 상담",
-        "LG전자베스트샵 특별 행사장 공동 주최"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "진주 웨딩박람회",
-        "startDate": "2025-07-11",
-        "endDate": "2025-07-12",
-        "location": {
-          "@type": "Place",
-          "name": "LG전자베스트샵 진주시청점",
-          "address": "진주시"
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "파란애드컴퍼니",
-          "url": "https://ad.cpaad.co.kr/paranfair02/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "웨딩박람회 입장료는 얼마인가요?",
-          "answer": "해당 박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
-        },
-        {
-          "question": "어떤 업체들이 참여하나요?",
-          "answer": "스드메, 웨딩홀, 허니문 여행사, 예물, 예복, 한복, 혼수가전 등 결혼 준비에 필요한 모든 카테고리의 엄선된 업체가 참여합니다."
-        },
-        {
-          "question": "방문하면 무엇을 상담받을 수 있나요?",
-          "answer": "웨딩 전문가와 함께 예식장 비교, 스드메 예산 설정, 신혼여행지 추천, 혼수 가전 견적 등 1:1 맞춤 상담을 받으실 수 있습니다."
-        },
-        {
-          "question": "주차가 가능한가요?",
-          "answer": "LG전자베스트샵 진주시청점 내 주차 시설을 이용하실 수 있습니다."
-        },
-        {
-          "question": "박람회 혜택을 받으려면 어떻게 해야 하나요?",
-          "answer": "사전 무료 초대권을 신청하신 후 현장을 방문하여 각 부스에서 전문가 상담을 진행하시면 할인 및 증정 혜택을 받으실 수 있습니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비 신랑신부님, 합리적인 예산으로 최상의 스드메 패키지를 찾고 계신 커플, 혹은 결혼 준비를 체계적으로 시작하고 싶은 분들을 대상으로 합니다. 특히 진주 지역 내 웨딩홀 투어부터 혼수 가전까지 한 번의 방문으로 시간과 비용을 동시에 절약하고 싶은 실속파 예비부부에게 가장 적합한 행사입니다. 복잡한 웨딩 준비 과정을 전문가의 1:1 컨설팅으로 해결하고 싶은 모든 커플을 초대합니다.",
-      "exhibitor_highlights": [
-        "프리미엄 웨딩 드레스샵",
-        "인기 웨딩 스튜디오",
-        "지역 내 인기 웨딩홀",
-        "허니문 전문 여행사",
-        "예물 및 예복 맞춤 브랜드",
-        "혼수 가전 브랜드(LG전자)"
-      ],
-      "comparison_hooks": [
-        "현장 계약 시 즉시 적용되는 스드메 34% 할인",
-        "진주 최대 규모로 비교 가능한 다양한 웨딩홀 리스트",
-        "분야별 전문 컨설턴트와의 1:1 맞춤형 동행 상담 제공"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "웨딩박람회 준비물",
-        "진주 결혼준비 순서",
-        "스드메 평균 비용",
-        "결혼 박람회 예약 팁",
-        "신혼여행지 추천",
-        "혼수가전 견적 비교",
-        "웨딩홀 대관료 할인",
-        "예물 예복 브랜드 추천",
-        "박람회 계약 혜택 확인",
-        "웨딩 플래너 상담 비용"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "진주 웨딩박람회 일정 확인",
-          "category": "event_schedule"
-        },
-        {
-          "anchor": "스드메 패키지 상세 보기",
-          "category": "wedding_service"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "웨딩홀",
-        "혼수",
-        "결혼준비",
-        "허니문",
-        "예물",
-        "맞춤정장",
-        "웨딩드레스",
-        "혼수가전",
-        "결혼식준비"
-      ]
-    },
-    "social_meta": {
-      "og_title": "진주 최대 웨딩박람회! 스드메 34% 할인 혜택",
-      "og_description": "진주 예비부부 필수 코스! 무료 초대권 신청하고 스드메 할인부터 허니문, 혼수 혜택까지 모두 챙겨가세요.",
-      "hashtags": [
-        "#진주웨딩박람회",
-        "#진주결혼준비",
-        "#경남웨딩",
-        "#진주스드메",
-        "#웨딩박람회",
-        "#결혼준비",
-        "#신혼부부혜택",
-        "#진주웨딩홀",
-        "#혼수준비",
-        "#예신"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/paranfair02/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_3H7Ze3hD2GvwJLyoASgOqfqW3.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_EH5ZZCLYqeTel8GFBdVNrZHB2.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vJogjaqF6qn6lGDLH1UHDCysfrayVLid.jpg"
-    },
-    "revenue": 30000
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:02"
   },
   {
     "idx": 1781,
@@ -1449,6 +1037,839 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_I3moqIIMkjcNpqWsBwU.jpg",
       "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_3yqaTgvoATQZsjKy7FkljZI2DQPdW.jpg"
     },
-    "revenue": 30000
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:02"
+  },
+  {
+    "idx": 1822,
+    "campaign_id": "paranfair06",
+    "gather_name": "창원 허니문박람회",
+    "organizer_name": "파란애드컴퍼니",
+    "seo_metadata": {
+      "title": "창원 허니문박람회 | 썸투어 신혼여행 최저가 보장 및 상담 혜택",
+      "meta_description": "창원 썸투어 허니문박람회에서 준비하는 특별한 신혼여행! 계약 시 여행용 캐리어 증정 및 오프라인 최저가 보장 혜택을 확인하세요. 예비부부를 위한 맞춤형 1:1 상담까지 지금 바로 신청하세요.",
+      "keywords": [
+        "창원허니문박람회",
+        "창원결혼준비",
+        "썸투어박람회",
+        "신혼여행패키지",
+        "창원웨딩박람회",
+        "허니문특가",
+        "결혼준비꿀팁",
+        "신혼부부여행",
+        "유럽허니문",
+        "발리신혼여행",
+        "하와이허니문"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설레는 시작, 완벽한 신혼여행을 위한 창원 썸투어 허니문박람회가 개최됩니다. 20년 경력의 전문 여행가이드가 제안하는 맞춤형 허니문 코스로 둘만의 소중한 시간을 더욱 특별하게 채워보세요.",
+      "benefits_description": "박람회 현장 계약 시 여행용 고급 캐리어를 증정하며, 오프라인 최저가 보장 및 환율 고정 혜택을 제공합니다. 또한 유럽, 하와이, 발리 등 인기 신혼여행지별 5성급 호텔 숙박, 단독 투어, 스냅 촬영 등 업그레이드된 특전을 누릴 수 있습니다. 지금 상담을 신청하고 예비부부만을 위한 특별한 여행 설계와 경품 기회를 놓치지 마세요.",
+      "summary_for_search": "창원 썸투어 허니문박람회에서 완벽한 신혼여행을 준비하세요! 오프라인 최저가 보장, 계약 시 캐리어 증정 및 맞춤형 1:1 전문 상담 제공. 경남 지역 예비부부를 위한 최고의 허니문 혜택을 지금 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비의 완성, 썸투어 허니문박람회에서 누리는 오프라인 최저가 보장!",
+      "secondary_headline": "20년 경력의 전문가가 1:1로 맞춤 설계하는 세상에 단 하나뿐인 우리만의 신혼여행",
+      "urgency_text": "계약 시 고급 여행용 캐리어 증정 및 환율 고정 혜택 (선착순 한정)",
+      "call_to_action_text": "허니문 박람회 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 후기 작성 시 스타벅스 커피 쿠폰",
+        "상담 완료 후 백화점 상품권 증정 이벤트"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 고급 여행용 캐리어 증정",
+        "오프라인 최저가 보장 제도",
+        "환율 인상 걱정 없는 환율 고정 혜택",
+        "유럽/발리/하와이 등 지역별 5성급 호텔 숙박 및 단독 투어 포함"
+      ],
+      "special_events": [
+        "직장인을 위한 평일 야간 상담 지원(월-금 19:00-21:00)",
+        "전문가의 1:1 맞춤형 여행지 컨설팅"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-06-27",
+        "end_date": "2026-06-28",
+        "display_date": "06월 27일(토) ~ 06월 28일(일)",
+        "original_display_date": "06월 27일(토) ~ 06월 28일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "창원시",
+        "sigungu_en": "changwon",
+        "address": "경남 창원시 성산구 마디미서로 30 2층",
+        "venue": "썸그룹 본사 사옥",
+        "parking_info": "별도 안내 없음",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일",
+        "방문예정일"
+      ],
+      "gift_conditions": "박람회 현장 상담 완료 및 계약 조건 충족 시 증정",
+      "trust_indicators": [
+        "20년 경력의 베테랑 여행 전문가 상주",
+        "경남 최대 신혼여행 진행 (연간 1,500쌍)",
+        "경남 최대 규모 오프라인 매장(200평)",
+        "썸그룹 직접 운영(썸문/썸랜드/썸투어)"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "창원 썸투어 허니문박람회",
+        "startDate": "2025-06-27",
+        "endDate": "2025-06-28",
+        "location": {
+          "@type": "Place",
+          "name": "썸그룹 본사 사옥",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "창원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "파란애드컴퍼니",
+          "url": "https://ad.cpaad.co.kr/paranfair06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 시 어떤 상담을 받을 수 있나요?",
+          "answer": "20년 경력의 허니문 전문가가 예비부부의 취향과 예산에 맞춘 1:1 맞춤형 신혼여행지 추천 및 일정 설계를 도와드립니다."
+        },
+        {
+          "question": "박람회 현장 계약 시 혜택은 무엇인가요?",
+          "answer": "오프라인 최저가 보장제, 환율 고정 혜택, 고급 여행용 캐리어 증정 등 박람회장에서만 제공되는 특별한 혜택이 준비되어 있습니다."
+        },
+        {
+          "question": "평일 야간에도 상담이 가능한가요?",
+          "answer": "네, 직장인들을 위해 평일 월요일부터 금요일, 저녁 7시부터 9시까지 야간 상담을 운영하고 있습니다. 사전 예약은 필수입니다."
+        },
+        {
+          "question": "어떤 여행지를 주로 다루나요?",
+          "answer": "유럽, 하와이, 발리, 칸쿤, 몰디브, 모리셔스, 코사무이 등 인기 신혼여행지를 포함한 전 세계 맞춤형 여행지를 전문으로 합니다."
+        },
+        {
+          "question": "여행사 선택 시 왜 썸투어인가요?",
+          "answer": "썸투어는 20년 경력의 베테랑 전문가가 상주하며, 경남 최대 규모의 오프라인 매장을 직접 운영하여 신뢰할 수 있는 사후 관리와 보장된 여행 품질을 제공합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 완벽한 신혼여행을 고민하는 예비부부를 위한 최적의 장소입니다. '결혼 준비는 어디서부터 시작해야 할까?', '패키지 여행은 믿을 수 있을까?' 고민하는 커플들에게 전문가의 1:1 맞춤 상담을 제공합니다. 특히 바쁜 일상으로 주말 방문이 어려운 직장인 예비부부와, 남들과는 다른 특별하고 안전한 신혼여행을 계획 중인 신혼부부에게 강력히 추천합니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행사 썸투어",
+        "신혼여행지별 전문 컨설팅 데스크",
+        "웨딩 스냅/단독 투어 업체",
+        "5성급 호텔 및 리조트 제휴처"
+      ],
+      "comparison_hooks": [
+        "온라인 기반의 불확실한 여행사가 아닌, 경남 최대 규모 오프라인 사옥 보유",
+        "환율 변동에 민감한 신혼부부를 위한 환율 고정 혜택 보장",
+        "현장 즉시 계약 시 최저가 보장제 실시로 가격 거품 제거"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "신혼여행지 추천",
+        "허니문 박람회 혜택",
+        "창원 웨딩 상담",
+        "유럽 신혼여행 준비",
+        "발리 허니문 패키지",
+        "하와이 신혼여행 경비",
+        "웨딩박람회 캐리어 증정",
+        "직장인 결혼 준비",
+        "신혼여행 사기 주의사항",
+        "맞춤형 신혼여행 일정"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "창원 웨딩 박람회 일정 전체보기",
+          "category": "local_events"
+        },
+        {
+          "anchor": "허니문 여행지 베스트 10",
+          "category": "honeymoon_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "허니문",
+        "신혼여행지",
+        "풀빌라",
+        "리조트",
+        "여행가이드",
+        "오프라인상담",
+        "환율고정",
+        "신혼부부혜택",
+        "스냅촬영"
+      ]
+    },
+    "social_meta": {
+      "og_title": "창원 썸투어 허니문박람회 | 신혼여행 혜택",
+      "og_description": "오프라인 최저가 보장 및 캐리어 증정! 썸투어 허니문박람회에서 우리만의 특별한 신혼여행을 준비하세요.",
+      "hashtags": [
+        "#창원허니문박람회",
+        "#썸투어",
+        "#결혼준비",
+        "#신혼여행",
+        "#허니문",
+        "#창원웨딩",
+        "#신혼부부혜택",
+        "#신혼여행준비",
+        "#웨딩박람회",
+        "#창원결혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/paranfair06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_9SW9eF9QEDg.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hCtHyOGeT.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_uzm3Akx9Vvi2JSdPYYURPchFUvzmlTN.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:02"
+  },
+  {
+    "idx": 1319,
+    "campaign_id": "wwedding07",
+    "gather_name": "창원 프리마베라 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "창원 프리마베라 웨딩박람회 | 스드메 최대 혜택 및 삼성가전 할인",
+      "meta_description": "창원 프리마베라 웨딩박람회에서 스드메 패키지 특가와 삼성스토어 최대 50% 할인 혜택을 만나보세요. 예비부부를 위한 1:1 맞춤 컨설팅과 혼수, 예물 특별 이벤트를 제공합니다. 지금 무료 사전 신청하세요.",
+      "keywords": [
+        "창원웨딩박람회",
+        "창원결혼준비",
+        "창원스드메",
+        "창원웨딩홀",
+        "창원혼수",
+        "프리마베라웨딩",
+        "예비부부혜택",
+        "창원예물",
+        "창원한복",
+        "창원허니문"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작부터 완성까지, 창원 프리마베라 웨딩박람회가 여러분의 특별한 순간을 함께합니다. 수많은 예비부부가 선택한 공신력 있는 박람회에서 합리적인 스드메 패키지와 프리미엄 웨딩홀 정보를 한눈에 비교해 보세요.",
+      "benefits_description": "이번 웨딩박람회에서는 계약 고객을 위한 파격적인 혜택을 준비했습니다. 삼성스토어 제휴를 통해 최대 50% 할인 혜택을 제공하며, 계약 시 추가 축하금 지원 및 무상 AS 기간을 최대 3년까지 보장합니다. 또한 예물, 예복, 한복, 허니문 등 각 분야 전문 업체가 참여하여 예산에 맞춘 최적의 맞춤 견적을 제시합니다. 방문만 해도 얻을 수 있는 정보와 1:1 상담을 통해 복잡한 결혼 준비를 더욱 스마트하고 즐겁게 완성해 보세요.",
+      "summary_for_search": "창원 프리마베라 웨딩박람회에서 준비한 특별 혜택! 스드메 패키지 특가, 삼성가전 최대 50% 할인 및 예물·예복 상담 혜택을 확인하세요. 창원 지역 예비부부를 위한 최고의 결혼 준비 솔루션을 제공합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "창원 웨딩 박람회 | 스드메 패키지 및 삼성가전 최대 50% 할인",
+      "secondary_headline": "20만 쌍이 선택한 압도적인 혜택, 프리마베라 × 청담 순수 창원에서 만나는 완벽한 웨딩",
+      "urgency_text": "선착순 방문객 대상 특별 선물 증정, 이번 주말 한정 상담 혜택",
+      "call_to_action_text": "지금 무료 사전 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 대상 웨딩 퍼스널 컬러 무료 진단"
+      ],
+      "contract_benefits": [
+        "삼성스토어 제휴 계약 시 최대 50% 할인",
+        "무상 AS 기간 최대 1년에서 3년으로 연장",
+        "계약 고객 24~36개월 무이자 할부 혜택",
+        "예물 계약 시 20% 추가 할인 및 혼수 세트 증정",
+        "예복 계약 시 고급 넥타이 증정 및 맞춤 셔츠 1+1 제공",
+        "한복 계약 시 20% 할인 및 함 포장 혜택"
+      ],
+      "special_events": [
+        "웨딩 퍼스널 컬러 진단 이벤트",
+        "스튜디오/드레스/웨딩홀 1:1 맞춤 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-06-27",
+        "end_date": "2026-06-28",
+        "display_date": "06월 27일(토) ~ 06월 28일(일) 07월 04일(토) ~ 07월 05일(일)",
+        "original_display_date": "06월 27일(토) ~ 06월 28일(일) 07월 04일(토) ~ 07월 05일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "창원시",
+        "sigungu_en": "changwon",
+        "address": "경남 창원시 성산구 용지로 112",
+        "venue": "프리마베라×청담 순수 창원점(중앙동)",
+        "parking_info": "별도 주차 정보 없음",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 후 증정",
+      "trust_indicators": [
+        "20만 쌍이 선택한 신뢰의 브랜드",
+        "삼성스토어 공식 제휴",
+        "1:1 맞춤 상담 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "창원 프리마베라 웨딩박람회",
+        "startDate": "2025-06-27",
+        "endDate": "2025-07-05",
+        "location": {
+          "@type": "Place",
+          "name": "프리마베라 × 청담 순수 창원점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "창원시 성산구 중앙대로 112 3층",
+            "addressLocality": "창원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding07/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 신청을 하시면 무료로 입장이 가능하며 상담 혜택을 받으실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스튜디오, 드레스, 웨딩홀, 예물, 예복, 한복, 허니문 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시 혜택은 무엇인가요?",
+          "answer": "계약 시 삼성가전 최대 50% 할인, 스드메 패키지 특가, 예물/한복 할인 등 다양한 추가 혜택이 제공됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장 인근 주차장을 이용하실 수 있습니다. 상세 위치는 안내 페이지 지도를 참고해 주세요."
+        },
+        {
+          "question": "결혼 날짜가 아직 확정되지 않았는데 가도 될까요?",
+          "answer": "네, 결혼 준비의 전반적인 과정과 예산 계획을 세우는 데 큰 도움이 되므로 언제든 방문 상담 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 막연하게 생각하고 계신 예비부부, 스드메 비용과 웨딩홀 선정에 고민이 많은 신혼부부에게 필수적인 박람회입니다. 결혼 준비 과정을 체계적으로 알고 싶거나, 검증된 업체들로부터 합리적인 맞춤 견적을 비교하고 싶은 분들에게 최적화되어 있습니다. 복잡한 결혼 준비를 전문가의 도움을 받아 시간과 비용을 동시에 절약하고 싶은 모든 커플을 대상으로 합니다.",
+      "exhibitor_highlights": [
+        "스튜디오 10곳 이상",
+        "프리미엄 웨딩홀 리스트",
+        "고급 웨딩 드레스샵",
+        "혼수 가전(삼성스토어)",
+        "예물 및 명품 주얼리",
+        "맞춤 정장 및 한복"
+      ],
+      "comparison_hooks": [
+        "대기업 가전(삼성) 제휴로 실질적인 혼수 할인 제공",
+        "다양한 스튜디오/드레스 선택지 보유로 1:1 맞춤형 서비스",
+        "박람회 기간 한정 계약 축하금 및 최대 3년 무상 AS 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼준비 순서",
+        "스드메 평균 비용",
+        "웨딩홀 투어 체크리스트",
+        "창원 예식장 추천",
+        "혼수가전 할인 팁",
+        "결혼 예물 고르는 법",
+        "웨딩박람회 예약방법",
+        "결혼박람회 사기 방지",
+        "웨딩 퍼스널 컬러 진단"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "창원 웨딩홀 정보 확인하기",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "스드메 패키지 실시간 상담",
+          "category": "consulting"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "결혼준비",
+        "예물",
+        "허니문",
+        "예복",
+        "한복",
+        "웨딩패키지"
+      ]
+    },
+    "social_meta": {
+      "og_title": "창원 프리마베라 웨딩박람회 - 결혼준비의 모든 것",
+      "og_description": "스드메 최대 할인부터 삼성가전 혜택까지! 창원 예비부부를 위한 최고의 결혼 준비 박람회.",
+      "hashtags": [
+        "#창원웨딩박람회",
+        "#창원결혼준비",
+        "#창원스드메",
+        "#프리마베라웨딩",
+        "#경남결혼",
+        "#신혼부부혜택",
+        "#웨딩박람회일정",
+        "#창원웨딩홀",
+        "#결혼준비시작",
+        "#예신예랑"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding07/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:03"
+  },
+  {
+    "idx": 1334,
+    "campaign_id": "wwedding09",
+    "gather_name": "창원 롯데백화점 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "창원 롯데백화점 웨딩박람회 | 결혼준비 스드메 혜택 최대 지원",
+      "meta_description": "창원 롯데백화점에서 열리는 대규모 웨딩박람회! 스드메 패키지 할인부터 가전, 예물, 예복까지 신혼부부를 위한 파격적인 계약 혜택을 확인하세요. 지금 사전 등록하고 방문 혜택을 챙겨가세요.",
+      "keywords": [
+        "창원웨딩박람회",
+        "롯데백화점웨딩박람회",
+        "창원결혼준비",
+        "창원스드메",
+        "경남웨딩박람회",
+        "창원웨딩홀추천",
+        "신혼부부혜택",
+        "창원예물",
+        "창원맞춤정장",
+        "창원허니문"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 막막함은 덜어내고 혜택은 더하는 '창원 롯데백화점 웨딩박람회'가 찾아옵니다. 창원 및 경남 지역 예비부부를 위해 준비된 이번 박람회는 전문 웨딩 컨설턴트와의 1:1 상담을 통해 나만의 맞춤 웨딩 플랜을 설계할 수 있는 최적의 기회입니다.",
+      "benefits_description": "이번 박람회는 단순한 정보 제공을 넘어 실질적인 비용 절감을 돕는 강력한 혜택을 제공합니다. 스드메 패키지 계약 시 최대 50% 할인과 더불어 삼성스토어 가전 할인, LG전자 가전 구매 시 최대 520만원 상당의 지원 혜택을 누릴 수 있습니다. 또한, 혼수 예물과 예복, 허니문까지 각 분야 전문가들이 대거 참여하여 비교 견적을 한자리에서 받아보실 수 있습니다. 방문만 해도 드리는 특별 선물부터 계약 고객을 위한 파격적인 축하금까지, 예비부부의 예산을 지켜드리는 다양한 이벤트가 현장에서 기다리고 있습니다.",
+      "summary_for_search": "창원 롯데백화점 웨딩박람회에서 스드메, 가전, 혼수까지 한 번에 준비하세요. 최대 50% 할인 및 가전 구매 지원금 등 다양한 혜택을 제공합니다. 지금 무료 사전 등록하고 상담 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "경남 최대 규모, 창원 롯데백화점 웨딩박람회 초대",
+      "secondary_headline": "스드메부터 가전, 혼수까지 최대 50% 할인 혜택을 한자리에서 확인하세요.",
+      "urgency_text": "사전 등록 시 방문 상담 경품 증정 (선착순 마감)",
+      "call_to_action_text": "지금 무료 사전 등록하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담 시 웨딩 다이어리 증정",
+        "사전 예약 방문객 대상 경품 추첨"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최대 50% 할인",
+        "삼성스토어 가전 계약 시 최대 50% 할인 및 무상 AS 3년",
+        "LG전자 가전 구매 시 최대 520만원 혜택",
+        "예물 계약 시 20% 추가 할인 및 업그레이드",
+        "허니문 계약 시 추가 할인 및 특전 제공"
+      ],
+      "special_events": [
+        "웨딩홀 1:1 맞춤 상담 및 무료 섭외",
+        "최신 드레스 전시 및 스타일링 체험",
+        "맞춤 정장 계약 시 수제화 및 넥타이 증정"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-05",
+        "display_date": "07월 04일(토) ~ 07월 05일(일)",
+        "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "창원시",
+        "sigungu_en": "changwon",
+        "address": "경남 창원시 성산구 중앙대로 124",
+        "venue": "롯데백화점 창원점",
+        "parking_info": "롯데백화점 창원점 주차장 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 웨딩 컨설팅 상담 완료 시 증정",
+      "trust_indicators": [
+        "경남 최대 규모 입점 업체",
+        "전문 컨설턴트 1:1 맞춤 상담",
+        "정찰제 운영으로 투명한 비용 안내",
+        "안전 보장 시스템 도입"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "창원 롯데백화점 웨딩박람회",
+        "startDate": "2025-07-04",
+        "endDate": "2025-07-05",
+        "location": {
+          "@type": "Place",
+          "name": "롯데백화점 창원점",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "창원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding09/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 창원 롯데백화점 웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "롯데백화점 창원점 주차장을 이용하실 수 있으며, 박람회 상담 시 주차 지원 혜택을 확인하세요."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메, 웨딩홀, 예물, 예복, 허니문 여행사, 가전 등 결혼 준비에 필요한 전 품목의 우수 업체들이 참여합니다."
+        },
+        {
+          "question": "사전 등록을 꼭 해야 하나요?",
+          "answer": "사전 등록 시 방문 혜택 및 대기 없는 상담이 가능하므로 반드시 사전 신청을 권장합니다."
+        },
+        {
+          "question": "혼수 가전 혜택은 어떤 것이 있나요?",
+          "answer": "가전 제품별 추가 할인 및 구매 금액별 상품권 증정 등 박람회 전용 프로모션 혜택이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼을 결심하고 구체적인 계획을 세우는 예비부부, 스드메 패키지 비용과 퀄리티를 두고 고민 중인 커플, 가전과 혼수를 합리적인 가격에 구매하고 싶은 신혼부부를 대상으로 합니다. 결혼 준비의 전체적인 로드맵을 잡고 싶거나, 다이렉트 웨딩 준비를 통해 불필요한 거품을 줄이고 실속을 챙기고 싶은 분들에게 최적화된 행사입니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 웨딩 스튜디오",
+        "유명 웨딩드레스샵",
+        "창원 인기 웨딩홀",
+        "명품 주얼리 예물 브랜드",
+        "맞춤 정장 테일러샵",
+        "가전 및 허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "정찰제 운영으로 투명한 웨딩 견적 제공",
+        "현장 즉시 계약 시 추가 할인 및 축하금 지원",
+        "1:1 밀착 상담을 통한 나만의 맞춤 웨딩 솔루션"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "창원 웨딩홀 대관료 비교",
+        "결혼 준비 체크리스트",
+        "창원 스드메 비용",
+        "웨딩박람회 방문 혜택",
+        "스드메 뜻과 패키지 구성",
+        "창원 맞춤정장 추천",
+        "신혼여행 예약 시기",
+        "웨딩 다이어리 받는 법",
+        "박람회 상담 시간",
+        "결혼 가전 구매 팁"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "창원 웨딩홀 추천 리스트",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 견적 비교하기",
+          "category": "studio_dress_makeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼가전",
+        "예물",
+        "허니문",
+        "웨딩플래너",
+        "결혼준비",
+        "웨딩드레스"
+      ]
+    },
+    "social_meta": {
+      "og_title": "창원 롯데백화점 웨딩박람회 | 최대 혜택 받고 준비 끝!",
+      "og_description": "결혼 준비, 고민하지 마세요! 창원 롯데백화점 웨딩박람회에서 스드메부터 가전까지 알뜰하게 준비하세요.",
+      "hashtags": [
+        "#창원웨딩박람회",
+        "#롯데백화점창원점",
+        "#창원결혼준비",
+        "#창원스드메",
+        "#창원웨딩홀",
+        "#신혼부부혜택",
+        "#경남웨딩박람회",
+        "#창원예물",
+        "#창원맞춤정장",
+        "#결혼준비꿀팁"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding09/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_MTMFLAidO6hL8yWBKyfXl.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_RwDmzMGOi44XTMkq8aEOap2F6G.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_xs9LUaFjnfZe12WWRhR.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:09:03"
+  },
+  {
+    "idx": 1532,
+    "campaign_id": "wwedding16",
+    "gather_name": "진주 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "진주 웨딩박람회 | LG전자 베스트샵 특별 혜택 및 혼수 할인 정보",
+      "meta_description": "진주 웨딩박람회 개최! LG전자 베스트샵에서 가전, 스드메, 혼수 혜택을 한 번에 확인하세요. 예비부부를 위한 최대 할인 및 방문 선물 증정! 지금 사전 예약하고 결혼 준비를 완벽하게 시작하세요.",
+      "keywords": [
+        "진주웨딩박람회",
+        "진주결혼준비",
+        "진주스드메",
+        "진주웨딩홀",
+        "신혼가전혜택",
+        "혼수박람회",
+        "진주결혼식장",
+        "웨딩박람회사전예약",
+        "경남웨딩박람회",
+        "LG전자베스트샵결혼혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 막막하셨나요? 진주 웨딩박람회에서 합리적이고 품격 있는 결혼식을 완성하세요. LG전자 베스트샵과 함께하는 이번 특별 행사는 예비부부들을 위한 최신 트렌드와 파격적인 할인 혜택을 모두 담았습니다.",
+      "benefits_description": "이번 진주 웨딩박람회는 단순히 상담만 하는 곳이 아닙니다. 방문만 해도 제공되는 다양한 선물부터, 스드메 패키지 계약 시 적용되는 실질적인 할인, 그리고 LG전자 혼수가전 최대 80만 포인트 혜택까지 신혼부부의 초기 비용 부담을 대폭 줄여드립니다. 전문 플래너와의 1:1 상담을 통해 나만의 웨딩 스타일을 찾아보고, 타 업체와 비교 불가능한 가격 경쟁력을 직접 눈으로 확인해 보세요. 예비부부의 행복한 시작을 위해 준비한 알찬 혜택을 놓치지 마세요.",
+      "summary_for_search": "6월 20일~21일, LG전자 베스트샵 진주시청점 특별행사장에서 열리는 진주 웨딩박람회! 스드메 패키지, 혼수 가전, 예물, 한복 등 결혼 준비 전 품목 파격 할인과 사은품 증정 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "진주 웨딩박람회, 결혼 준비의 모든 혜택을 한자리에!",
+      "secondary_headline": "스드메부터 혼수가전까지, 진주 최대 규모 혜택으로 스마트하게 준비하세요.",
+      "urgency_text": "선착순 사전 신청자 대상 특별 사은품 증정!",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 시 스타벅스 쿠폰(선착순)",
+        "현장 방문객 대상 경품 추첨"
+      ],
+      "contract_benefits": [
+        "LG전자 혼수 가전 최대 80만 포인트 혜택",
+        "웨딩 패키지 계약 축하금 및 할인",
+        "예물/예복/한복 계약 시 특별 추가 혜택",
+        "하나투어 허니문 여행권 할인 및 추가 혜택"
+      ],
+      "special_events": [
+        "스드메 1:1 전문 상담",
+        "LG전자 AI 혼수 가전 체험",
+        "웨딩 드레스 및 예물 특별전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-06-20",
+        "end_date": "2026-06-21",
+        "display_date": "06월 20일(토) ~ 06월 21일(일)",
+        "original_display_date": "06월 20일(토) ~ 06월 21일(일)"
+      },
+      "location": {
+        "sido": "경남",
+        "sido_en": "gyeongnam",
+        "sigungu": "진주시",
+        "sigungu_en": "jinju",
+        "address": "경남 진주시 동진로 230 1~3층",
+        "venue": "LG전자베스트샵 진주시청점 특별행사장",
+        "parking_info": "매장 전용 주차장 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 방문하여 상담을 완료한 고객에 한함",
+      "trust_indicators": [
+        "경남 최대 규모 웨딩 업체 참여",
+        "LG전자 베스트샵 공식 제휴",
+        "검증된 스드메 파트너사 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "진주 웨딩박람회",
+        "startDate": "2025-06-20",
+        "endDate": "2025-06-21",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자 베스트샵 진주시청점",
+          "address": "경남 진주시 진주대로 1095"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding16/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 비용이 드나요?",
+          "answer": "아니요, 사전 예약 시 누구나 무료로 입장 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, LG전자 베스트샵 진주시청점 전용 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메 스튜디오, 웨딩홀, 예물, 예복, 한복, 가전, 여행사 등 결혼 준비 필수 업체들이 다양하게 참여합니다."
+        },
+        {
+          "question": "사전 예약은 꼭 해야 하나요?",
+          "answer": "사전 예약 시 상담 우선권과 함께 현장에서 제공되는 방문 사은품 등 다양한 혜택을 누리실 수 있습니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "보통 상담 품목에 따라 다르나, 대략 1~2시간 정도 여유 있게 생각하시는 것이 좋습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "진주 및 인근 지역에서 결혼을 앞두고 계신 예비 신랑 신부님을 위한 맞춤형 박람회입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 예비부부, 바쁜 직장 생활로 인해 스드메부터 가전까지 한 번에 합리적으로 비교하고 싶은 커플, 신혼살림 준비에 비용 부담을 느끼는 분들에게 최적의 솔루션을 제공합니다. 전문 플래너와의 상담을 통해 자신의 예산에 맞는 최상의 웨딩 플랜을 제안받으실 수 있습니다.",
+      "exhibitor_highlights": [
+        "유명 웨딩 스튜디오 20여 곳",
+        "진주 및 경남 인기 웨딩홀",
+        "명품 웨딩 드레스 샵",
+        "예물 및 예복 전문 브랜드",
+        "가전 및 가구 혼수 브랜드",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "진주 최대 규모로 검증된 업체들만 엄선",
+        "LG전자 베스트샵과의 제휴를 통한 가전 통합 할인",
+        "강매 없는 정직한 1:1 맞춤형 전문 상담 시스템"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "진주 웨딩홀 추천",
+        "진주 스드메 가격",
+        "결혼 준비 체크리스트",
+        "웨딩박람회 방문 팁",
+        "신혼가전 구매 노하우",
+        "진주 한복 대여",
+        "진주 예물 추천",
+        "웨딩박람회 사은품",
+        "결혼식 예산 짜기",
+        "허니문 자유여행 vs 패키지"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "진주 웨딩홀 투어 예약",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "최신 스드메 패키지 보기",
+          "category": "studiomakeupdress"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예물",
+        "예복",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "진주 웨딩박람회 | 결혼 준비 혜택 한가득!",
+      "og_description": "LG전자 베스트샵에서 준비한 진주 웨딩박람회! 스드메, 혼수, 예식장까지 한 번에 끝내고 최대 할인 받으세요.",
+      "hashtags": [
+        "#진주웨딩박람회",
+        "#진주결혼준비",
+        "#진주스드메",
+        "#경남웨딩박람회",
+        "#진주웨딩홀",
+        "#결혼준비시작",
+        "#예비부부",
+        "#혼수가전",
+        "#신혼부부혜택",
+        "#진주데이트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding16/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_4TzsA6hbDz.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_LuCgLZOQUQ9g3FKkSrG4o1wq.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_iPWKikykXh571fo6BgFyWfXCQdw2cf.jpg"
+    },
+    "revenue": 30000,
+    "updated_at": "2026-06-27 21:05:57"
   }
 ]
