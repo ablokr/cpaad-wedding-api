@@ -191,6 +191,10 @@ class WeddingDataStorage:
         sido_ko = full_data.get("event_details", {}).get("location", {}).get("sido", "기타")
         region_en = self.get_region_en(sido_ko)
 
+        # [추가] updated_at 생성 및 주입
+        current_time = time.strftime("%Y-%m-%d %H:%M:%S")
+        full_data["updated_at"] = current_time
+
         # 1. 개별 캠페인 상세 저장
         campaign_path = os.path.join(self.base_dir, "campaigns", f"{cid}.json")
         self.write_json(campaign_path, full_data)
@@ -214,7 +218,7 @@ class WeddingDataStorage:
             "sigungu": full_data.get("event_details", {}).get("location", {}).get("sigungu"),
             "region_en": region_en,
             "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
-            "updated_at": time.strftime("%Y-%m-%d %H:%M:%S")
+            "updated_at": current_time
         })
 
         # 3. 지역별 색인 업데이트
@@ -601,6 +605,14 @@ class WeddingDataStorage:
                 "thumbnail": full_data.get("campaign_assets", {}).get("thumbnail"),
                 "updated_at": full_data.get("updated_at") or time.strftime("%Y-%m-%d %H:%M:%S")
             })
+
+            if "updated_at" not in full_data:
+                full_data["updated_at"] = summary["updated_at"]
+                # 원본 캠페인 파일에도 업데이트 반영
+                try:
+                    self.write_json(path, full_data)
+                except Exception as e:
+                    print(f"[!] [Storage] {filename} 업데이트 실패: {e}")
 
             all_items.append(full_data)
             all_summaries.append(summary)
