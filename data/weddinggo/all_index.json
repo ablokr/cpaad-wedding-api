@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 115,
+    "total_count": 139,
     "region_count": 16,
-    "district_count": 43,
-    "updated_at": "2026-06-29 10:00:52"
+    "district_count": 48,
+    "updated_at": "2026-06-29 13:07:53"
   },
   "items": [
     {
@@ -233,6 +233,7 @@
       "revenue": 35000
     },
     {
+      "idx": 1678,
       "campaign_id": "howto24",
       "gather_name": "수원 홈씨씨 웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -241,7 +242,8 @@
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_SfGEgYKgQ.jpg",
-      "updated_at": "2026-06-27 21:05:55"
+      "updated_at": "2026-06-27 21:05:55",
+      "revenue": 35000
     },
     {
       "idx": 1788,
@@ -1277,6 +1279,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1538,
       "campaign_id": "wncowedding03",
       "gather_name": "안성웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -1285,7 +1288,8 @@
       "sigungu": "안성시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_olYTpJ3fpm57OCb2zuNxDL4.jpg",
-      "updated_at": "2026-06-27 21:05:57"
+      "updated_at": "2026-06-27 21:05:57",
+      "revenue": 30000
     },
     {
       "idx": 1545,
@@ -1340,6 +1344,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1704,
       "campaign_id": "wncowedding16",
       "gather_name": "당진 웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -1348,7 +1353,8 @@
       "sigungu": "당진시",
       "region_en": "chungnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_ChS2x9tD8jcU6WNjmZffV.jpg",
-      "updated_at": "2026-06-27 21:05:57"
+      "updated_at": "2026-06-27 21:05:57",
+      "revenue": 30000
     },
     {
       "idx": 1773,
@@ -1464,6 +1470,318 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_kbqRwLsWDwA.jpg",
       "updated_at": "2026-06-27 21:09:03",
       "revenue": 30000
+    },
+    {
+      "idx": 1662,
+      "campaign_id": "wedingcrowd90",
+      "gather_name": "청량리 롯데백화점 대형 웨딩박람회",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "venue": "롯데백화점 청량리점 7층 특별행사장",
+      "sido": "서울",
+      "sigungu": "동대문구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_FyPvl8tm63dMX29wL.jpg",
+      "updated_at": "2026-06-29 13:00:40",
+      "revenue": 30000
+    },
+    {
+      "idx": 1233,
+      "campaign_id": "wedingcrowd13",
+      "gather_name": "일산킨텍스 최대규모 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "킨텍스 1전시장",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_YxlFeqBfealSAqO3DZ5Nsnlu4V.jpg",
+      "updated_at": "2026-06-29 13:00:57",
+      "revenue": 30000
+    },
+    {
+      "idx": 1249,
+      "campaign_id": "wedingcrowd22",
+      "gather_name": "용산 아이파크몰 대형 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "용산 아이파크몰 리빙파크 5층 특별행사장",
+      "sido": "서울",
+      "sigungu": "용산구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_J2KexeCeMaIMeG83ccuhxE8.jpg",
+      "updated_at": "2026-06-29 13:01:12",
+      "revenue": 30000
+    },
+    {
+      "idx": 580,
+      "campaign_id": "palmfair01",
+      "gather_name": "팜투어 직거래 허니문 박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "건설회관빌딩 1층",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
+      "updated_at": "2026-06-29 13:01:28",
+      "revenue": 40000
+    },
+    {
+      "idx": 1289,
+      "campaign_id": "wedingcrowd33",
+      "gather_name": "수원 컨벤션 초대형 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "수원컨벤션센터 1층 전시관",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_DAGrlTSL.jpg",
+      "updated_at": "2026-06-29 13:01:45",
+      "revenue": 30000
+    },
+    {
+      "idx": 1640,
+      "campaign_id": "DirectWeddingFair01",
+      "gather_name": "다이렉트 결혼준비 웨딩박람회",
+      "display_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "venue": "다이렉트 결혼준비 서울본사",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+      "updated_at": "2026-06-29 13:02:03",
+      "revenue": 30000
+    },
+    {
+      "idx": 1787,
+      "campaign_id": "howto26",
+      "gather_name": "수원 메쎄 허니문 박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "수원 메쎄 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_UadWjbWa6GWV5PfMMoWVJlbSsOWMz7N.jpg",
+      "updated_at": "2026-06-29 13:02:29",
+      "revenue": 35000
+    },
+    {
+      "idx": 1753,
+      "campaign_id": "wncowedding19",
+      "gather_name": "고양 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "스타필드 고양 (지하1층)",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+      "updated_at": "2026-06-29 13:02:45",
+      "revenue": 30000
+    },
+    {
+      "idx": 1114,
+      "campaign_id": "howto14",
+      "gather_name": "수원 메쎄 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "수원 메쎄 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_3lqbxHZX.jpg",
+      "updated_at": "2026-06-29 13:03:01",
+      "revenue": 35000
+    },
+    {
+      "idx": 1291,
+      "campaign_id": "wedingcrowd35",
+      "gather_name": "안양 롯데백화점 평촌점 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "롯데백화점 평촌점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_FSaMBvNCnM31LJXYmuKBLndC5meLWN5.jpg",
+      "updated_at": "2026-06-29 13:03:17",
+      "revenue": 30000
+    },
+    {
+      "idx": 1575,
+      "campaign_id": "wncowedding08",
+      "gather_name": "평택웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "삼성스토어 AK평택",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+      "updated_at": "2026-06-29 13:03:38",
+      "revenue": 30000
+    },
+    {
+      "idx": 1256,
+      "campaign_id": "wedingcrowd25",
+      "gather_name": "송도 엘리아벨 대형 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "엘리아벨 특별행사장",
+      "sido": "인천",
+      "sigungu": "연수구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_e1OleJGTXj.jpg",
+      "updated_at": "2026-06-29 13:03:59",
+      "revenue": 30000
+    },
+    {
+      "idx": 1772,
+      "campaign_id": "planittour01",
+      "gather_name": "대전 DCC 신혼여행박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "플래닛투어 본사",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_rfiULEsY.jpg",
+      "updated_at": "2026-06-29 13:04:17",
+      "revenue": 30000
+    },
+    {
+      "idx": 588,
+      "campaign_id": "palmfair04",
+      "gather_name": "부산 팜투어 허니문박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "유성빌딩 6층",
+      "sido": "부산",
+      "sigungu": "부산진구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wGR2EsQGq.jpg",
+      "updated_at": "2026-06-29 13:04:39",
+      "revenue": 35000
+    },
+    {
+      "idx": 1634,
+      "campaign_id": "whw05",
+      "gather_name": "군산 웨딩스퀘어 웨딩박람회",
+      "display_date": "매주 토요일/일요일",
+      "venue": "호텔은파팰리스 특별행사장",
+      "sido": "전북",
+      "sigungu": "군산시",
+      "region_en": "jeonbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
+      "updated_at": "2026-06-29 13:05:10",
+      "revenue": 40000
+    },
+    {
+      "idx": 583,
+      "campaign_id": "palmfair03",
+      "gather_name": "대전 팜투어 허니문박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "대자빌딩 4층",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Vadrc2TIVrMf2RSgJTp.jpg",
+      "updated_at": "2026-06-29 13:05:25",
+      "revenue": 35000
+    },
+    {
+      "idx": 1024,
+      "campaign_id": "whw01",
+      "gather_name": "전주 웨딩스퀘어 웨딩박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "웨딩스퀘어",
+      "sido": "전북",
+      "sigungu": "전주시",
+      "region_en": "jeonbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cLMAdT6ZDexfhXxDoy6K.jpg",
+      "updated_at": "2026-06-29 13:05:40",
+      "revenue": 40000
+    },
+    {
+      "idx": 1389,
+      "campaign_id": "wedingcrowd49",
+      "gather_name": "천안 갤러리아 대형 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "천안 갤러리아 센터시티점 9층",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_K4BVr5MBOrHjFFsRP.jpg",
+      "updated_at": "2026-06-29 13:05:56",
+      "revenue": 30000
+    },
+    {
+      "idx": 1647,
+      "campaign_id": "whw06",
+      "gather_name": "익산 웨스턴라이프호텔 웨딩박람회",
+      "display_date": "매주 토요일/일요일",
+      "venue": "웨스턴라이프호텔",
+      "sido": "전북",
+      "sigungu": "익산시",
+      "region_en": "jeonbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
+      "updated_at": "2026-06-29 13:06:17",
+      "revenue": 40000
+    },
+    {
+      "idx": 1806,
+      "campaign_id": "palmfair06",
+      "gather_name": "창원 팜투어 허니문박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "팜투어 창원직영지사",
+      "sido": "경남",
+      "sigungu": "창원시",
+      "region_en": "gyeongnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_2UMkLWvcwvkhjkMCZ1p36LPix.jpg",
+      "updated_at": "2026-06-29 13:06:42",
+      "revenue": 35000
+    },
+    {
+      "idx": 1745,
+      "campaign_id": "lamour01",
+      "gather_name": "대구 라모르 웨딩박람회",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "venue": "신세계백화점 대구점 7층 LG베스트샵",
+      "sido": "대구",
+      "sigungu": "동구",
+      "region_en": "daegu",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_MDyeZWMnU7Mde76.jpg",
+      "updated_at": "2026-06-29 13:06:56",
+      "revenue": 30000
+    },
+    {
+      "idx": 1653,
+      "campaign_id": "banhanaH06",
+      "gather_name": "울산 반하나 허니문 박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "신선도원몰 1층 반하나투어",
+      "sido": "울산",
+      "sigungu": "북구",
+      "region_en": "ulsan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_GggAdKEO6bfuSc.jpg",
+      "updated_at": "2026-06-29 13:07:25",
+      "revenue": 30000
+    },
+    {
+      "idx": 795,
+      "campaign_id": "jwc02",
+      "gather_name": "청담스토리 웨딩&혼수 박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "청담스토리 사옥",
+      "sido": "전북",
+      "sigungu": "전주시",
+      "region_en": "jeonbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_cKCbKOcDafWRf2th1ireK81EAx.jpg",
+      "updated_at": "2026-06-29 13:07:38",
+      "revenue": 45000
+    },
+    {
+      "idx": 1726,
+      "campaign_id": "palmfair05",
+      "gather_name": "제주 팜투어 허니문박람회",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "venue": "제주연빌딩",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_xawaGpCkayO4K.jpg",
+      "updated_at": "2026-06-29 13:07:53",
+      "revenue": 35000
     }
   ]
 }
