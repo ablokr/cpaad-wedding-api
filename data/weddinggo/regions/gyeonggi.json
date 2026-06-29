@@ -8576,5 +8576,425 @@
     },
     "updated_at": "2026-06-29 16:02:08",
     "revenue": 30000
+  },
+  {
+    "idx": 1648,
+    "campaign_id": "withyouwedding43",
+    "gather_name": "이천 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "이천 위드유 웨딩박람회 | 스드메 패키지 최대 할인 및 방문 선물 증정",
+      "meta_description": "이천 예비부부를 위한 위드유 웨딩박람회! 07월 18일~19일 삼성스토어 이천증포 개최. 스드메 패키지 특가, 계약 축하금, 건강검진권 등 결혼 준비 필수 혜택을 지금 무료로 신청하고 확인하세요.",
+      "keywords": [
+        "이천웨딩박람회",
+        "이천결혼준비",
+        "경기웨딩박람회",
+        "이천스드메",
+        "신혼부부혜택",
+        "위드유웨딩",
+        "결혼준비체크리스트",
+        "이천웨딩홀",
+        "스드메패키지",
+        "웨딩박람회일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 막막함을 속 시원하게 해결해 줄 이천 위드유 웨딩박람회가 찾아옵니다. 검증된 업체와의 1:1 맞춤 상담을 통해 복잡한 스드메 패키지부터 허니문까지 한 번에 합리적으로 준비할 수 있는 특별한 기회를 놓치지 마세요.",
+      "benefits_description": "방문만 해도 식전 영상, 모바일 청첩장 무료 쿠폰 등 실속 있는 선물을 100% 증정합니다. 현장 계약 시 최대 50만 원 상당의 알뜰 신부 프로모션과 건강검진권, 티파니앤코 목걸이 추첨 등 파격적인 혜택이 준비되어 있습니다. 수많은 선배 부부들의 찐후기가 증명하는 위드유 웨딩박람회에서 가장 현명하고 알뜰하게 결혼을 완성해보세요.",
+      "summary_for_search": "07월 18~19일, 삼성스토어 이천증포에서 열리는 이천 위드유 웨딩박람회! 스드메 패키지 59만 원 특가부터 계약 시 최대 혜택까지, 이천 예비부부를 위한 결혼 준비의 모든 것을 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 이천 위드유 웨딩박람회에서 합리적으로 끝내자!",
+      "secondary_headline": "스드메 패키지 59만 원부터 최대 150만 원 계약 축하금까지, 예비부부를 위한 단 하나의 솔루션.",
+      "urgency_text": "이번 주말 딱 이틀간 진행되는 한정 혜택!",
+      "call_to_action_text": "지금 무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전 영상 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "종이 청첩장 할인 쿠폰",
+        "웨딩 다이어리 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 59만 원~",
+        "건강검진권 증정",
+        "알뜰 신부 프로모션 최대 50만 원 할인",
+        "허니문 최대 150만 원 할인",
+        "예물 25% 할인 및 커플링 계약 시 예물함 증정",
+        "티파니앤코 목걸이 추첨"
+      ],
+      "special_events": [
+        "퍼스널 컬러 무료 진단",
+        "웨딩 바디라인 관리 이용권(70만 원 상당)",
+        "찐후기 인증 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "display_date": "07월 18일(토) ~ 07월 19일(일)",
+        "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "이천시",
+        "sigungu_en": "icheon",
+        "address": "경기 이천시 증신로 130",
+        "venue": "삼성스토어 이천증포",
+        "parking_info": "매장 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 제공",
+      "trust_indicators": [
+        "수많은 신랑신부의 검증된 찐후기",
+        "정확한 상담을 통한 추가 비용 ZERO 보장",
+        "전문 웨딩 플래너 1:1 맞춤 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "이천 위드유 웨딩박람회",
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-19",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 이천증포",
+          "address": "경기 이천시 증포동 133-5"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding43/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 얼마인가요?",
+          "answer": "이천 위드유 웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 삼성스토어 이천증포 내 전용 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "스드메 패키지 특가, 건강검진권, 허니문 할인, 예물 할인 등 다양한 계약 특전이 준비되어 있습니다."
+        },
+        {
+          "question": "웨딩 플래너 상담은 필수인가요?",
+          "answer": "전문 플래너가 1:1로 맞춤 상담을 진행하여 합리적인 결혼 준비를 도와드립니다."
+        },
+        {
+          "question": "혼수와 예물 업체도 있나요?",
+          "answer": "네, 웨딩홀부터 스드메, 허니문, 예물, 예복, 가전까지 결혼 준비의 전 과정을 한 곳에서 비교 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 이제 막 시작하여 무엇부터 해야 할지 막막한 예비 신랑신부님을 위한 행사입니다. 특히 스드메 비용 비교가 어렵거나, 합리적인 예산으로 고품질의 웨딩을 계획하고 싶은 커플에게 최적화되어 있습니다. 결혼 준비 과정의 스트레스를 줄이고, 신뢰할 수 있는 업체들의 정보를 한자리에서 얻고자 하는 분들이라면 누구나 환영합니다.",
+      "exhibitor_highlights": [
+        "웨딩 스튜디오 및 드레스샵",
+        "메이크업 전문 브랜드",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "혼수가전 전문 삼성스토어"
+      ],
+      "comparison_hooks": [
+        "투명하고 정직한 비용 산출로 추가 비용 걱정 없는 계약 보장",
+        "현장 즉시 할인 및 사은품 제공으로 실속 있는 혜택 강화",
+        "지역 전문 플래너의 1:1 맞춤 컨설팅을 통한 최적의 동선 설계"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "이천 웨딩홀 추천",
+        "결혼 준비 체크리스트",
+        "스드메 패키지 가격 비교",
+        "웨딩박람회 선물",
+        "허니문 여행지 추천",
+        "신혼 가전 준비하기",
+        "웨딩 촬영 스튜디오 추천",
+        "예복 맞춤 가격",
+        "결혼식 비용 예산 세우기",
+        "퍼스널 컬러 웨딩 메이크업"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "웨딩박람회 무료 초대장 신청",
+          "category": "registration"
+        },
+        {
+          "anchor": "이천 웨딩홀 견적 문의",
+          "category": "wedding_venue"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "혼수가전",
+        "웨딩플래너",
+        "드레스투어",
+        "예물",
+        "예복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "이천 위드유 웨딩박람회 | 결혼 준비 혜택 총집합!",
+      "og_description": "방문만 해도 100% 선물 증정! 스드메 패키지 특가와 최대 150만 원 혜택을 놓치지 마세요.",
+      "hashtags": [
+        "#이천웨딩박람회",
+        "#결혼준비",
+        "#이천결혼준비",
+        "#위드유웨딩",
+        "#스드메패키지",
+        "#이천예신",
+        "#결혼준비시작",
+        "#신혼부부혜택",
+        "#웨딩박람회일정",
+        "#삼성스토어이천"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding43/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_E7elw7lORcnlJsYYwlyOdYciMSvcSMR.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4OGg6aiv.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_2fPR4MleXNypLAWOHXDQGN5hnrqZXAZv.jpg"
+    },
+    "updated_at": "2026-06-29 19:01:13",
+    "revenue": 30000
+  },
+  {
+    "idx": 1456,
+    "campaign_id": "withyouwedding34",
+    "gather_name": "부천 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "부천 위드유 웨딩박람회 | 스드메 패키지 최대 혜택 및 무료 상담",
+      "meta_description": "부천 위드유 웨딩박람회에서 준비한 특별한 혜택! 스드메 패키지부터 허니문, 예물까지 한자리에서 비교하고 최대 현금 지원 및 무료 건강검진권 혜택을 놓치지 마세요. 지금 무료 참가 신청하세요.",
+      "keywords": [
+        "부천웨딩박람회",
+        "부천결혼준비",
+        "인천웨딩박람회",
+        "스드메패키지",
+        "결혼준비체크리스트",
+        "신혼부부혜택",
+        "부천웨딩홀",
+        "예비부부결혼박람회",
+        "웨딩박람회무료입장",
+        "허니문특전"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 부천 위드유 웨딩박람회는 예비부부님들의 고민을 덜어드리기 위해 마련된 프리미엄 웨딩 페어입니다. 신뢰할 수 있는 업체들과 함께 합리적인 결혼 준비를 위한 최적의 솔루션을 제안합니다.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 100% 증정되는 식전 영상 및 청첩장 할인 쿠폰은 물론, 계약 시 최대 50만원 상당의 지원금과 티파니앤코 목걸이 증정 등 파격적인 혜택을 준비했습니다. 특히 건강검진권 무료 증정과 바디라인 관리 이용권 등 예비부부의 컨디션까지 고려한 세심한 혜택이 가득합니다. 단순한 가격 할인을 넘어 여러분의 소중한 순간을 완벽하게 완성할 수 있도록 전문 웨딩 컨설턴트가 1:1로 밀착 케어해 드립니다.",
+      "summary_for_search": "부천 위드유 웨딩박람회에서 스드메 패키지, 웨딩홀, 혼수까지 한 번에 해결하세요! 무료 참가 신청 시 식전 영상, 청첩장 할인권, 건강검진권 등 다양한 방문/계약 혜택을 드립니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스드메 패키지 59만원부터? 부천 위드유 웨딩박람회 역대급 혜택!",
+      "secondary_headline": "방문객 전원 100% 사은품 증정부터 계약 시 현금 지원까지, 결혼 준비의 모든 것을 한곳에서 확인하세요.",
+      "urgency_text": "선착순 방문객 한정 혜택 조기 마감 주의!",
+      "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전 영상 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "종이 청첩장 할인 쿠폰",
+        "웨딩 다이어리 무료 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최대 할인 (59만원~)",
+        "건강검진권 무료 증정",
+        "바디라인 관리 이용권 (70만원 상당)",
+        "계약 축하금 최대 50만원",
+        "티파니앤코 목걸이 추첨 증정"
+      ],
+      "special_events": [
+        "웨딩 퍼스널 컬러 무료 진단",
+        "1:1 웨딩 전문가 밀착 상담",
+        "허니문 여행지 맞춤형 특전 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-12",
+        "display_date": "07월 11일(토) ~ 07월 12일(일)",
+        "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "부천시",
+        "sigungu_en": "bucheon",
+        "address": "경기 부천시 길주로 254",
+        "venue": "삼성스토어 부천중동점 2층 특별행사장",
+        "parking_info": "매장 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "방문 상담 완료 후 현장 수령 및 계약 시 혜택 적용",
+      "trust_indicators": [
+        "실제 방문객들의 검증된 후기 다수 보유",
+        "1:1 전문 웨딩 컨설턴트 배정",
+        "투명한 추가 비용 제로 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부천 위드유 웨딩박람회",
+        "startDate": "2025-07-11",
+        "endDate": "2025-07-12",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 부천중동점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "부천시 중동",
+            "addressLocality": "부천시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding34/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장은 무료인가요?",
+          "answer": "네, 사전 온라인 신청을 통해 무료로 입장이 가능하며 다양한 방문 사은품을 받아보실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장인 삼성스토어 부천중동점 내 주차 시설을 이용하실 수 있습니다."
+        },
+        {
+          "question": "박람회 현장 상담 시 무엇을 준비해야 하나요?",
+          "answer": "예식 예정일과 대략적인 예산 범위를 생각하고 오시면 더 구체적인 상담이 가능합니다."
+        },
+        {
+          "question": "스드메 패키지 계약 혜택이 어떻게 되나요?",
+          "answer": "현장 계약 시 패키지 할인뿐만 아니라 건강검진권, 바디라인 이용권, 현금 지원 등 다양한 특별 혜택이 제공됩니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 소요되나요?",
+          "answer": "개인차는 있으나 평균 1시간 내외로 전문 컨설턴트와의 1:1 맞춤형 상담이 진행됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메를 비교하고 싶은 커플, 결혼 준비의 우선순위를 정하기 힘든 신혼부부들을 대상으로 합니다. 단순한 정보 탐색을 넘어, 전문가의 조언과 실질적인 비용 절감 혜택을 원하는 분들이라면 본 박람회를 통해 합리적인 예산을 계획할 수 있습니다. 6개월 이내의 짧은 준비 기간을 가진 커플부터 여유롭게 준비하는 분들까지 맞춤형 컨설팅을 경험하세요.",
+      "exhibitor_highlights": [
+        "스드메 패키지 토탈 업체",
+        "웨딩홀 섭외 및 예약 컨설팅",
+        "예물 및 커플링 브랜드",
+        "혼수 가전 및 예복 브랜드",
+        "허니문 전문 여행사"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 할인으로 타 박람회 대비 압도적인 비용 절감",
+        "검증된 업체들로만 구성된 1:1 맞춤형 컨설팅 시스템",
+        "방문객 전원 100% 증정 사은품 및 건강검진권 혜택 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼준비 체크리스트 순서",
+        "스드메 비용 절약 팁",
+        "부천 웨딩홀 추천",
+        "신혼여행 패키지 추천",
+        "예물 예복 박람회 혜택",
+        "웨딩박람회 사기 방지법",
+        "혼수 준비 언제부터",
+        "웨딩 촬영 스튜디오 비교",
+        "결혼 비용 예산표 작성"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부천 웨딩홀 투어 예약",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "2025 스드메 패키지 견적 보기",
+          "category": "package_deals"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "부케",
+        "허니문",
+        "예복",
+        "커플링",
+        "식전영상",
+        "청첩장",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부천 위드유 웨딩박람회 | 결혼 준비 혜택 한눈에!",
+      "og_description": "스드메 59만원부터 시작! 무료 상담 신청하고 식전영상, 청첩장 할인 등 풍성한 선물 챙기세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#부천웨딩박람회",
+        "#결혼준비",
+        "#부천결혼",
+        "#스드메패키지",
+        "#예신",
+        "#예랑",
+        "#신혼부부혜택",
+        "#웨딩박람회일정",
+        "#부천웨딩홀"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding34/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_YC5XLSpPEknbhxnTdZWIjSl7D8kfM.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wamSIbbmTVLQ3UmAJ3Vlgz5cVuU.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_GlrH1zKc89M1cj8DE.jpg"
+    },
+    "updated_at": "2026-06-29 19:01:29",
+    "revenue": 30000
   }
 ]
