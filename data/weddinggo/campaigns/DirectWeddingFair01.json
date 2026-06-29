@@ -1,0 +1,209 @@
+{
+  "idx": 1640,
+  "campaign_id": "DirectWeddingFair01",
+  "gather_name": "다이렉트 결혼준비 웨딩박람회",
+  "organizer_name": "다이렉트컴즈",
+  "seo_metadata": {
+    "title": "다이렉트 결혼준비 웨딩박람회 | 서울 강남 상담 시 최대 15만원 혜택",
+    "meta_description": "매주 주말 강남에서 열리는 다이렉트 결혼준비 웨딩박람회! 1:1 맞춤 상담, 스드메 최대 15만원 할인 및 계약 캐시백 혜택을 놓치지 마세요. 지금 무료 초대장 신청하고 합리적인 결혼 준비를 시작하세요.",
+    "keywords": [
+      "웨딩박람회",
+      "서울웨딩박람회",
+      "결혼준비",
+      "다이렉트결혼준비",
+      "강남웨딩박람회",
+      "스드메견적",
+      "신혼부부혜택",
+      "웨딩박람회일정",
+      "결혼준비체크리스트",
+      "예식장비교"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함은 줄이고 혜택은 높이는 다이렉트 결혼준비 웨딩박람회에 초대합니다. 매주 주말 서울 강남 본사에서 열리는 본 박람회는 수만 명의 선배 신랑신부가 선택한 검증된 플랫폼으로, 합리적인 비용과 투명한 정보를 제공합니다.",
+    "benefits_description": "방문만 해도 증정되는 웨딩 가이드북과 다양한 경품은 물론, 현장 상담을 통해 스드메 패키지 최대 15만원 즉시 할인 혜택을 누릴 수 있습니다. 계약 시 제공되는 최대 50만원의 캐시백과 혼수, 예물, 예복 브랜드의 파격적인 추가 할인까지, 다이렉트 결혼준비만의 차별화된 혜택을 직접 경험해보세요. 복잡한 결혼 과정 속에서 경제적 여유를 되찾아 드리는 특별한 기회입니다.",
+    "summary_for_search": "서울 강남에서 매주 열리는 다이렉트 결혼준비 웨딩박람회! 스드메 패키지 최대 15만원 할인, 계약 캐시백, 방문 경품까지 합리적인 결혼 준비를 위한 모든 혜택을 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 최대 15만원 즉시 할인! 지금 무료 초대장 신청하세요.",
+    "secondary_headline": "수만 명의 선배 부부가 선택한 다이렉트 결혼준비, 합리적인 비용으로 완벽한 예식을 준비하세요.",
+    "urgency_text": "매주 주말 선착순 진행, 조기 마감 주의",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 시 웨딩 가이드북 증정",
+      "선착순 방문객 대상 경품 추첨"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 15만원 할인",
+      "계약 축하금 최대 50만원 캐시백",
+      "혼수/예물/예복 브랜드 최대 40% 할인 및 추가 5% 캐시백"
+    ],
+    "special_events": [
+      "1:1 전문 웨딩 플래너 맞춤 상담",
+      "웨딩 드레스/메이크업 체험 프로모션",
+      "실제 신랑신부 커뮤니티 정보 공유"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "original_display_date": "매주 주말 오전 10시 ~ 오후 8시"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 도산대로 221 8층",
+      "venue": "다이렉트 결혼준비 서울본사",
+      "parking_info": "별도 안내 없음",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일",
+      "궁금한 내용"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 증정 (사전 예약 필수)",
+    "trust_indicators": [
+      "누적 방문객 100만 명 이상",
+      "1,800여 개 이상 파트너 업체 입점",
+      "플래너 수수료 없는 투명한 가격 정책"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "다이렉트 결혼준비 웨딩박람회",
+      "startDate": "2024-01-01T10:00:00",
+      "endDate": "2024-12-31T20:00:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "다이렉트 결혼준비 서울본사",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "도산대로 221",
+          "addressLocality": "서울 강남구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "다이렉트컴즈",
+        "url": "https://ad.cpaad.co.kr/DirectWeddingFair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "원활한 상담과 혜택 제공을 위해 사전 예약이 필수입니다. 방문 시 반드시 초대장을 지참해주세요."
+      },
+      {
+        "question": "상담 시 비용이 발생하나요?",
+        "answer": "상담 및 박람회 입장은 무료입니다. 부담 없이 방문하셔서 결혼 준비 정보를 확인하세요."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 예물, 예복, 가전 등 결혼 준비에 필요한 1,800여 개의 우수 업체가 참여합니다."
+      },
+      {
+        "question": "현장에서 바로 계약해야 하나요?",
+        "answer": "아닙니다. 전문가와 1:1 상담을 통해 충분히 비교해 보신 후 결정하실 수 있도록 투명한 가격표를 제공합니다."
+      },
+      {
+        "question": "타 박람회와 무엇이 다른가요?",
+        "answer": "다이렉트 결혼준비는 플래너 수수료를 걷어내고 포인트 제도를 통해 합리적인 가격을 실현하는 것이 가장 큰 차별점입니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 어떻게 시작할지 고민하는 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 신혼부부, 믿을 수 있는 업체 선정을 위해 실제 후기가 중요한 예비 신랑신부 모두를 대상으로 합니다. 결혼 준비의 전체 프로세스를 한눈에 파악하고 싶거나, 웨딩홀 투어 및 예물·가전 등 혼수 가성비를 꼼꼼히 따져보고 싶은 커플에게 최적화된 맞춤형 솔루션을 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 업체",
+      "웨딩홀 추천 전문",
+      "예물·예복 브랜드",
+      "혼수·가전",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "플래너 수수료 없는 투명한 가격 정책",
+      "국내 최대 1,800여 개 업체 파트너십",
+      "포인트 제도 활용을 통한 결혼 비용 절감"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 패키지 가격",
+      "다이렉트 결혼준비 포인트 제도",
+      "서울 웨딩홀 추천",
+      "웨딩박람회 예약 방법",
+      "결혼 비용 절약 팁",
+      "스드메 업체 비교",
+      "예물 예복 박람회",
+      "혼수 가전 저렴하게 사는 법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정 보기",
+        "category": "events"
+      },
+      {
+        "anchor": "스드메 패키지 실시간 견적 확인",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩플래너",
+      "결혼준비비용",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "다이렉트 결혼준비 웨딩박람회: 스드메 최대 15만원 할인",
+    "og_description": "예비부부 필독! 강남에서 열리는 다이렉트 결혼준비 박람회. 지금 신청하고 상담 혜택과 캐시백을 챙기세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#다이렉트결혼준비",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#강남웨딩",
+      "#신혼부부",
+      "#결혼준비체크리스트",
+      "#웨딩플래너",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg"
+  },
+  "updated_at": "2026-06-29 13:02:03",
+  "revenue": 30000
+}

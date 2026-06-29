@@ -1,0 +1,205 @@
+{
+  "idx": 1647,
+  "campaign_id": "whw06",
+  "gather_name": "익산 웨스턴라이프호텔 웨딩박람회",
+  "organizer_name": "하얀웨딩",
+  "seo_metadata": {
+    "title": "익산 웨스턴라이프호텔 웨딩박람회 | 최대 200만원 할인 혜택",
+    "meta_description": "익산 웨스턴라이프호텔 웨딩박람회 개최! 스드메 패키지 최대 200만원 할인과 프리미엄 드레스 피팅 혜택을 놓치지 마세요. 지금 무료 참가 신청하고 상담받으세요.",
+    "keywords": [
+      "익산웨딩박람회",
+      "익산결혼준비",
+      "웨스턴라이프호텔웨딩",
+      "전북웨딩박람회",
+      "익산스드메",
+      "전주웨딩박람회",
+      "예비부부결혼준비",
+      "웨딩홀할인",
+      "결혼박람회혜택",
+      "익산웨딩스퀘어"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞둔 예비부부라면 주목하세요! 익산 웨스턴라이프호텔에서 열리는 프리미엄 웨딩박람회는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 솔루션을 제공합니다. 호텔 예식의 품격부터 트렌디한 스드메 패키지까지, 오직 이번 박람회에서만 만날 수 있는 특별한 혜택을 지금 확인해보세요.",
+    "benefits_description": "이번 웨딩박람회에 방문하시면 예식 비용 최대 200만원 할인이라는 파격적인 계약 혜택을 누릴 수 있습니다. 또한, 엘리자베스 그룹의 최신 드레스 라인업을 직접 확인하고 피팅할 수 있는 기회와 함께, 1:1 전문 상담을 통해 나만의 웨딩 스타일을 완성해 드립니다. 합리적인 가격과 최고 수준의 퀄리티로 평생 기억에 남을 완벽한 결혼식을 준비하세요.",
+    "summary_for_search": "익산 웨스턴라이프호텔 웨딩박람회! 스드메 패키지 최대 200만원 할인 혜택 제공. 매주 토요일/일요일 진행되는 1:1 맞춤 상담으로 완벽한 결혼식을 준비하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 등록하면 최대 200만원 할인!",
+    "secondary_headline": "익산 웨스턴라이프호텔 웨딩박람회, 다른 박람회와 비교하고 결정하세요.",
+    "urgency_text": "매주 주말 한정 선착순 상담 진행",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 1:1 맞춤 서비스 제공",
+      "박람회 특별 상담 기회 제공"
+    ],
+    "contract_benefits": [
+      "웨딩홀 계약 시 최대 200만원 할인",
+      "스드메 패키지 특별 할인 혜택"
+    ],
+    "special_events": [
+      "엘리자베스 그룹 프리미엄 드레스 쇼케이스",
+      "1:1 전문가 웨딩 컨설팅",
+      "웨딩 스튜디오 화보 전시"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "매주 토요일/일요일",
+      "original_display_date": "매주 토요일/일요일"
+    },
+    "location": {
+      "sido": "전북",
+      "sido_en": "jeonbuk",
+      "sigungu": "익산시",
+      "sigungu_en": "iksan",
+      "address": "전북특별자치도 익산시 동서로 380",
+      "venue": "웨스턴라이프호텔",
+      "parking_info": "호텔 내 편리한 전용 주차장 완비",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 적용",
+    "trust_indicators": [
+      "호텔 스드메 진행률 업계 1위",
+      "엘리자베스 그룹 독점 브랜드 보유",
+      "1:1 전문 웨딩 상담사 배치"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "익산 웨스턴라이프호텔 웨딩박람회",
+      "description": "익산 최대 규모의 호텔 웨딩박람회로 예식장, 스드메 패키지 상담 및 할인 혜택을 제공합니다.",
+      "location": {
+        "@type": "Place",
+        "name": "웨스턴라이프호텔",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "전북특별자치도 익산시 동서로 380",
+          "addressLocality": "익산시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하얀웨딩",
+        "url": "https://ad.cpaad.co.kr/whw06/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장료는 얼마인가요?",
+        "answer": "본 박람회는 예비부부를 위해 무료로 운영되며, 사전 신청을 통해 상담 예약이 가능합니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "웨스턴라이프호텔 내 넓은 전용 주차장이 마련되어 있어 편리하게 이용하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업) 패키지, 허니문, 예물 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 소요되나요?",
+        "answer": "개인별 상담 항목에 따라 다르나 보통 1시간에서 1시간 30분 정도 소요됩니다."
+      },
+      {
+        "question": "방문 예약은 어떻게 하나요?",
+        "answer": "상단 페이지의 무료 초대권 신청 폼에 성함과 연락처, 결혼 예정일을 입력하시면 예약이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼을 준비하는 익산 및 전북 지역의 모든 예비부부를 대상으로 합니다. 막연한 결혼 준비에 어려움을 겪는 커플, 최신 스드메 트렌드를 확인하고 싶으신 분, 호텔 예식을 합리적인 가격으로 고려 중인 분들에게 최적입니다. 1:1 전문 컨설팅을 통해 예산별 맞춤 스케줄링을 제공받을 수 있으며, 다양한 입점 업체의 포트폴리오를 한자리에서 비교 분석하여 시간을 절약할 수 있습니다.",
+    "exhibitor_highlights": [
+      "엘리자베스 그룹 프리미엄 드레스",
+      "웨딩 스튜디오 및 웨딩홀 전문 상담",
+      "신혼여행 및 허니문 전문 업체",
+      "웨딩 메이크업 및 토탈 패키지"
+    ],
+    "comparison_hooks": [
+      "호텔 예식과 연계된 독보적인 할인 혜택",
+      "엘리자베스 브랜드 드레스 독점 피팅 제공",
+      "업계 1위 전문 상담사와의 1:1 맞춤형 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "익산 예식장 추천",
+      "웨딩박람회 스드메 가격",
+      "결혼 준비 체크리스트",
+      "웨딩드레스 종류",
+      "익산 웨딩스퀘어 후기",
+      "신혼여행 패키지 비교",
+      "웨딩박람회 방문 혜택",
+      "호텔 웨딩 비용 견적",
+      "스드메 업체 고르는 법",
+      "결혼 박람회 예약하기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "전북 전체 웨딩박람회 일정",
+        "category": "wedding_event_schedule"
+      },
+      {
+        "anchor": "익산 인기 웨딩홀 리스트",
+        "category": "wedding_venue_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "신혼여행",
+      "웨딩드레스",
+      "웨딩촬영",
+      "결혼비용",
+      "웨딩컨설팅",
+      "예물",
+      "본식스냅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "익산 웨스턴라이프호텔 웨딩박람회 초대",
+    "og_description": "최대 200만원 할인 혜택! 예비부부를 위한 익산 최고의 웨딩박람회, 지금 예약하세요.",
+    "hashtags": [
+      "#익산웨딩박람회",
+      "#결혼준비",
+      "#웨스턴라이프호텔",
+      "#익산결혼",
+      "#전북웨딩",
+      "#스드메",
+      "#예비부부",
+      "#웨딩드레스",
+      "#호텔웨딩",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/whw06/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_IPlB2jQB2mKmC.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_aPkqrDtg5.jpg"
+  },
+  "updated_at": "2026-06-29 13:06:17",
+  "revenue": 40000
+}

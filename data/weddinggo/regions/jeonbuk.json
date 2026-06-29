@@ -593,5 +593,833 @@
     },
     "revenue": 40000,
     "updated_at": "2026-06-27 21:09:03"
+  },
+  {
+    "idx": 1634,
+    "campaign_id": "whw05",
+    "gather_name": "군산 웨딩스퀘어 웨딩박람회",
+    "organizer_name": "하얀웨딩",
+    "seo_metadata": {
+      "title": "군산 웨딩박람회 | 은파팰리스 호텔 단독 200만원 할인 혜택",
+      "meta_description": "군산 웨딩스퀘어 주관 은파팰리스 호텔 웨딩박람회 개최! 스드메 패키지부터 호텔 웨딩 단독 200만원 할인까지, 합리적인 결혼 준비를 위한 1:1 맞춤 상담을 지금 무료로 신청하세요.",
+      "keywords": [
+        "군산웨딩박람회",
+        "군산결혼준비",
+        "은파팰리스웨딩",
+        "군산스드메",
+        "전북웨딩박람회",
+        "군산웨딩홀",
+        "신혼부부혜택",
+        "결혼박람회일정",
+        "군산웨딩스퀘어",
+        "호텔웨딩할인"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "군산에서의 완벽한 결혼식을 꿈꾸는 예비부부님들을 위해 호텔 은파팰리스에서 특별한 웨딩 박람회를 개최합니다. 복잡한 결혼 준비를 한 번에 해결할 수 있는 군산 웨딩스퀘어의 체계적인 시스템으로 예비 신랑신부님의 새로운 시작을 응원합니다.",
+      "benefits_description": "이번 박람회에서는 현장 방문객만을 위한 파격적인 혜택이 준비되어 있습니다. 호텔 예식 계약 시 최대 200만 원 할인 혜택은 물론, 신규 계약자분들께는 100만 원 상당의 특별 추가 혜택을 제공합니다. 엘리자베스 그룹의 최신 명품 드레스부터 감각적인 스튜디오 패키지까지, 합리적인 가격과 높은 퀄리티를 모두 누릴 수 있는 유일한 기회입니다.",
+      "summary_for_search": "군산 은파팰리스 호텔에서 매주 주말 진행되는 웨딩박람회! 계약 시 최대 200만원 할인 및 신규 예약 혜택을 제공합니다. 스드메부터 웨딩홀까지 전문가와 함께 스마트한 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "은파팰리스 웨딩 단독 200만원 할인, 오직 이번 박람회에서만",
+      "secondary_headline": "타 박람회와 비교 불가! 군산 최대 규모 입점 업체와 함께하는 1:1 맞춤형 웨딩 솔루션",
+      "urgency_text": "매주 주말 선착순 예약 진행 중, 조기 마감 주의",
+      "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 1:1 전문 웨딩 플래닝 제공",
+        "박람회 특별 할인권 증정"
+      ],
+      "contract_benefits": [
+        "호텔 예식 단독 최대 200만원 할인",
+        "신규 계약자 100만원 상당 특별 혜택",
+        "엘리자베스 명품 드레스 패키지 할인"
+      ],
+      "special_events": [
+        "호텔 예식 최신 트렌드 전시",
+        "스드메 1:1 맞춤 상담 부스",
+        "웨딩 드레스 및 스튜디오 샘플 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-05",
+        "display_date": "매주 토요일/일요일",
+        "original_display_date": "매주 토요일/일요일"
+      },
+      "location": {
+        "sido": "전북",
+        "sido_en": "jeonbuk",
+        "sigungu": "군산시",
+        "sigungu_en": "gunsan",
+        "address": "전북 군산시 은파순환길 20",
+        "venue": "호텔은파팰리스 특별행사장",
+        "parking_info": "호텔 내 대형 주차장 완비 (여유로운 주차 공간)",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 적용",
+      "trust_indicators": [
+        "전북 최다 드레스샵 보유",
+        "스드메 패키지 전문성",
+        "호텔 웨딩 진행 업계 1위"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "군산 웨딩스퀘어 웨딩박람회",
+        "description": "호텔 은파팰리스에서 열리는 전북 대표 웨딩박람회",
+        "startDate": "2024-01-01",
+        "endDate": "2025-12-31",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "호텔은파팰리스",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "군산시 은파순환길 20",
+            "addressLocality": "군산시",
+            "addressRegion": "전북",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하얀웨딩",
+          "url": "https://ad.cpaad.co.kr/whw05/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "원활한 상담과 혜택 제공을 위해 사전 신청을 권장드립니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "호텔은파팰리스 내에 넓은 주차 공간이 마련되어 있어 편리하게 이용 가능합니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "호텔 예식 시 최대 200만 원 할인 및 신규 예약 시 100만 원 추가 혜택을 드립니다."
+        },
+        {
+          "question": "박람회 장소는 어디인가요?",
+          "answer": "군산 호텔은파팰리스 특별행사장에서 진행됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "전북 최다 드레스샵, 유명 스튜디오, 웨딩홀 등 검증된 프리미엄 웨딩 업체가 참여합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 예비부부, 전북 지역에서 실속 있는 호텔 예식을 준비하는 커플, 스드메 비용과 품질을 꼼꼼히 비교 중인 신혼부부. 결혼 준비를 처음 시작하며 무엇부터 해야 할지 막막한 분들을 위해 1:1 맞춤형 컨설팅을 제공합니다. 검증된 업체와의 계약을 통해 합리적인 가격과 높은 만족도를 모두 확보하고 싶은 분들에게 최적화된 행사입니다.",
+      "exhibitor_highlights": [
+        "엘리자베스 명품 드레스샵",
+        "프리미엄 스튜디오",
+        "호텔 예식 전문 웨딩홀",
+        "메이크업 전문 브랜드",
+        "웨딩 패키지 전문 업체"
+      ],
+      "comparison_hooks": [
+        "전북 최다 업체 보유로 선택의 폭 확장",
+        "타 박람회 대비 강력한 현장 단독 할인 혜택",
+        "호텔 웨딩 전문가의 1:1 맞춤 컨설팅"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "군산 웨딩홀 추천",
+        "군산 스드메 비용",
+        "호텔 예식 장점",
+        "결혼 준비 체크리스트",
+        "박람회 방문 팁",
+        "전북 웨딩 패키지",
+        "웨딩 박람회 계약 주의사항",
+        "신혼여행 준비",
+        "웨딩 드레스 종류",
+        "군산 결혼식 준비"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "전북 인기 웨딩홀 순위",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "2025 스드메 패키지 가격표",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "호텔예식",
+        "드레스투어",
+        "혼수",
+        "예물",
+        "웨딩플래너",
+        "신혼가전",
+        "부케"
+      ]
+    },
+    "social_meta": {
+      "og_title": "군산 웨딩박람회 | 은파팰리스 호텔 200만원 할인",
+      "og_description": "매주 주말! 군산 웨딩스퀘어 박람회 방문하고 최대 200만원 호텔 할인 혜택 받으세요.",
+      "hashtags": [
+        "#군산웨딩박람회",
+        "#군산결혼준비",
+        "#은파팰리스",
+        "#군산웨딩홀",
+        "#군산스드메",
+        "#예신",
+        "#결혼준비시작",
+        "#전북웨딩박람회",
+        "#웨딩드레스",
+        "#웨딩스퀘어"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/whw05/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_AbqFijwewMxmPFc6Su7XVuQTJyZNPN.jpg"
+    },
+    "updated_at": "2026-06-29 13:05:10",
+    "revenue": 40000
+  },
+  {
+    "idx": 1024,
+    "campaign_id": "whw01",
+    "gather_name": "전주 웨딩스퀘어 웨딩박람회",
+    "organizer_name": "하얀웨딩",
+    "seo_metadata": {
+      "title": "전주 웨딩스퀘어 웨딩박람회 | 스드메 할인 및 웨딩홀 혜택 제공",
+      "meta_description": "전주 웨딩스퀘어 웨딩박람회에서 스드메 패키지 특가와 전북 지역 인기 웨딩홀 대관료 할인 혜택을 확인하세요. 예비부부를 위한 1:1 맞춤 컨설팅과 VIP 초대 선물을 놓치지 마세요.",
+      "keywords": [
+        "전주웨딩박람회",
+        "전주결혼준비",
+        "전북웨딩홀",
+        "전주스드메",
+        "웨딩스퀘어",
+        "전주웨딩컨설팅",
+        "신혼부부혜택",
+        "전주결혼박람회",
+        "전주스튜디오",
+        "웨딩드레스할인"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 전주 웨딩스퀘어 웨딩박람회에서 품격 있는 웨딩을 완성하세요. 복잡한 스드메 고민부터 전북 지역 인기 웨딩홀 예약까지, 1:1 전문가의 세심한 컨설팅으로 예비부부님들의 소중한 날을 완벽하게 준비해 드립니다.",
+      "benefits_description": "이번 박람회에서는 엘리자베스 그룹 등 프리미엄 드레스 피팅 혜택과 함께 스드메 패키지 계약 시 파격적인 할인 혜택을 제공합니다. 또한 전주, 군산, 익산 지역 호텔 및 웨딩홀 대관료 할인 및 식대 할인 지원을 통해 합리적인 예산으로 결혼을 준비하실 수 있습니다. 지금 방문하셔서 VIP 고객을 위한 특별 선물과 1:1 맞춤형 웨딩 상담을 경험해 보세요.",
+      "summary_for_search": "전주 웨딩스퀘어 웨딩박람회에서 스드메 패키지 특가와 전북 전 지역 웨딩홀 할인 혜택을 받아보세요. 1:1 맞춤 상담으로 완벽한 결혼 준비를 시작할 수 있습니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "전주 웨딩스퀘어 웨딩박람회, 예비부부라면 꼭 가야 할 이유!",
+      "secondary_headline": "최대 규모 스드메 할인과 인기 웨딩홀 식대 지원까지, 전주 결혼 준비의 모든 것.",
+      "urgency_text": "박람회 기간 한정 특별 혜택 및 선착순 VIP 선물 증정",
+      "call_to_action_text": "지금 무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 VIP 고객 초대 선물 증정"
+      ],
+      "contract_benefits": [
+        "전주/군산/익산 지역 웨딩홀 식대 및 대관료 할인",
+        "스드메 패키지 계약 시 파격 할인",
+        "엘리자베스 그룹/시작바이이명순 독점 혜택"
+      ],
+      "special_events": [
+        "1:1 웨딩 전문가 맞춤 상담",
+        "엘리자베스 그룹 명품 드레스 피팅 체험",
+        "최신 트렌드 웨딩 스튜디오 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-05",
+        "display_date": "07월 04일(토) ~ 07월 05일(일)",
+        "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+      },
+      "location": {
+        "sido": "전북",
+        "sido_en": "jeonbuk",
+        "sigungu": "전주시",
+        "sigungu_en": "jeonju",
+        "address": "전북 전주시 완산구 백제대로 311길",
+        "venue": "웨딩스퀘어",
+        "parking_info": "이미지에 별도 명시된 주차장 정보 없음",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "박람회 방문 상담 완료 후 증정",
+      "trust_indicators": [
+        "엘리자베스 그룹 등 국내 최정상 브랜드 입점",
+        "1:1 맞춤 안심 클린 컨설팅 보장",
+        "수많은 예비부부의 리얼 후기로 검증된 서비스"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "전주 웨딩스퀘어 웨딩박람회",
+        "startDate": "2025-07-04",
+        "endDate": "2025-07-05",
+        "location": {
+          "@type": "Place",
+          "name": "웨딩스퀘어",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "전북 전주시 완산구 백제대로 311",
+            "addressLocality": "전주시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하얀웨딩",
+          "url": "https://ad.cpaad.co.kr/whw01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 시 혜택은 무엇인가요?",
+          "answer": "박람회 현장 방문 시 VIP 초대 선물과 함께 전문가의 1:1 맞춤 웨딩 컨설팅을 무료로 받아보실 수 있습니다."
+        },
+        {
+          "question": "스드메 비용은 어느 정도 절감할 수 있나요?",
+          "answer": "박람회 현장 계약 시 제휴 업체 특별 할인이 적용되어 일반 준비 대비 합리적인 비용으로 스드메 패키지 이용이 가능합니다."
+        },
+        {
+          "question": "웨딩홀 투어를 따로 예약해야 하나요?",
+          "answer": "박람회에서 지역 내 인기 웨딩홀의 실시간 잔여 타임 확인과 식대/대관료 할인 혜택을 한 번에 안내받으실 수 있습니다."
+        },
+        {
+          "question": "박람회 참가 신청은 어떻게 하나요?",
+          "answer": "페이지 내 무료 초대권 신청 폼에 이름과 연락처, 결혼 예정일을 입력하시면 간편하게 참가 신청이 완료됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "엘리자베스 그룹, 시작바이이명순 등 국내 프리미엄 드레스샵과 실력 있는 웨딩 스튜디오, 혼수 가전/예물 업체가 다수 참여합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 전주/군산/익산 지역에서 효율적인 결혼 준비를 원하는 커플들을 위한 박람회입니다. 스드메 업체 비교에 지친 신랑신부님께 데이터 기반의 1:1 맞춤 컨설팅을 제공하며, 합리적인 비용으로 프리미엄 서비스를 경험하고 싶은 분들께 최적화된 행사입니다. 결혼 준비의 전체적인 로드맵이 필요한 예비부부라면 누구나 참여하여 유용한 정보를 얻어가실 수 있습니다.",
+      "exhibitor_highlights": [
+        "엘리자베스 그룹 명품 드레스샵",
+        "프리미엄 웨딩 스튜디오",
+        "전북 지역 호텔 및 대형 웨딩홀",
+        "맞춤 예복 및 예물 브랜드",
+        "신혼 가전 전문 업체"
+      ],
+      "comparison_hooks": [
+        "현장 계약 시 전북 전 지역 식대 및 대관료 파격 할인",
+        "엘리자베스 그룹 독점 계약 혜택 제공",
+        "전문 웨딩 플래너의 1:1 안심 클린 컨설팅 서비스"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "전주 웨딩박람회 일정",
+        "전주 스드메 추천",
+        "전주 웨딩홀 비교",
+        "결혼 준비 체크리스트",
+        "전주 혼수 가전 혜택",
+        "전주 결혼 박람회 후기",
+        "스드메 패키지 비용",
+        "전북 웨딩홀 식대 확인",
+        "웨딩 박람회 예약 시 주의사항",
+        "웨딩 드레스 피팅 예약"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "전주 웨딩스퀘어 전체 일정",
+          "category": "events"
+        },
+        {
+          "anchor": "전북 웨딩홀 할인 리스트",
+          "category": "wedding_halls"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "드레스투어",
+        "결혼준비",
+        "예물",
+        "한복",
+        "신혼여행",
+        "웨딩컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "전주 웨딩스퀘어 웨딩박람회 | 최대 혜택 받고 결혼 준비 끝!",
+      "og_description": "스드메 특가부터 전북 인기 웨딩홀 할인까지! 지금 신청하고 예비부부 VIP 혜택을 확인하세요.",
+      "hashtags": [
+        "#전주웨딩박람회",
+        "#전주결혼준비",
+        "#전북웨딩홀",
+        "#전주스드메",
+        "#웨딩스퀘어",
+        "#예비부부",
+        "#결혼준비",
+        "#전주웨딩",
+        "#웨딩드레스",
+        "#박람회혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/whw01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_NDGQfbt6kYtOiW3tahYxh.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cLMAdT6ZDexfhXxDoy6K.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_IaQWNKZpPfbvyMHlMECf11jbui5SEJ.jpg"
+    },
+    "updated_at": "2026-06-29 13:05:40",
+    "revenue": 40000
+  },
+  {
+    "idx": 1647,
+    "campaign_id": "whw06",
+    "gather_name": "익산 웨스턴라이프호텔 웨딩박람회",
+    "organizer_name": "하얀웨딩",
+    "seo_metadata": {
+      "title": "익산 웨스턴라이프호텔 웨딩박람회 | 최대 200만원 할인 혜택",
+      "meta_description": "익산 웨스턴라이프호텔 웨딩박람회 개최! 스드메 패키지 최대 200만원 할인과 프리미엄 드레스 피팅 혜택을 놓치지 마세요. 지금 무료 참가 신청하고 상담받으세요.",
+      "keywords": [
+        "익산웨딩박람회",
+        "익산결혼준비",
+        "웨스턴라이프호텔웨딩",
+        "전북웨딩박람회",
+        "익산스드메",
+        "전주웨딩박람회",
+        "예비부부결혼준비",
+        "웨딩홀할인",
+        "결혼박람회혜택",
+        "익산웨딩스퀘어"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부라면 주목하세요! 익산 웨스턴라이프호텔에서 열리는 프리미엄 웨딩박람회는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 솔루션을 제공합니다. 호텔 예식의 품격부터 트렌디한 스드메 패키지까지, 오직 이번 박람회에서만 만날 수 있는 특별한 혜택을 지금 확인해보세요.",
+      "benefits_description": "이번 웨딩박람회에 방문하시면 예식 비용 최대 200만원 할인이라는 파격적인 계약 혜택을 누릴 수 있습니다. 또한, 엘리자베스 그룹의 최신 드레스 라인업을 직접 확인하고 피팅할 수 있는 기회와 함께, 1:1 전문 상담을 통해 나만의 웨딩 스타일을 완성해 드립니다. 합리적인 가격과 최고 수준의 퀄리티로 평생 기억에 남을 완벽한 결혼식을 준비하세요.",
+      "summary_for_search": "익산 웨스턴라이프호텔 웨딩박람회! 스드메 패키지 최대 200만원 할인 혜택 제공. 매주 토요일/일요일 진행되는 1:1 맞춤 상담으로 완벽한 결혼식을 준비하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 등록하면 최대 200만원 할인!",
+      "secondary_headline": "익산 웨스턴라이프호텔 웨딩박람회, 다른 박람회와 비교하고 결정하세요.",
+      "urgency_text": "매주 주말 한정 선착순 상담 진행",
+      "call_to_action_text": "무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 1:1 맞춤 서비스 제공",
+        "박람회 특별 상담 기회 제공"
+      ],
+      "contract_benefits": [
+        "웨딩홀 계약 시 최대 200만원 할인",
+        "스드메 패키지 특별 할인 혜택"
+      ],
+      "special_events": [
+        "엘리자베스 그룹 프리미엄 드레스 쇼케이스",
+        "1:1 전문가 웨딩 컨설팅",
+        "웨딩 스튜디오 화보 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-05",
+        "display_date": "매주 토요일/일요일",
+        "original_display_date": "매주 토요일/일요일"
+      },
+      "location": {
+        "sido": "전북",
+        "sido_en": "jeonbuk",
+        "sigungu": "익산시",
+        "sigungu_en": "iksan",
+        "address": "전북특별자치도 익산시 동서로 380",
+        "venue": "웨스턴라이프호텔",
+        "parking_info": "호텔 내 편리한 전용 주차장 완비",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 적용",
+      "trust_indicators": [
+        "호텔 스드메 진행률 업계 1위",
+        "엘리자베스 그룹 독점 브랜드 보유",
+        "1:1 전문 웨딩 상담사 배치"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "익산 웨스턴라이프호텔 웨딩박람회",
+        "description": "익산 최대 규모의 호텔 웨딩박람회로 예식장, 스드메 패키지 상담 및 할인 혜택을 제공합니다.",
+        "location": {
+          "@type": "Place",
+          "name": "웨스턴라이프호텔",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "전북특별자치도 익산시 동서로 380",
+            "addressLocality": "익산시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하얀웨딩",
+          "url": "https://ad.cpaad.co.kr/whw06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장료는 얼마인가요?",
+          "answer": "본 박람회는 예비부부를 위해 무료로 운영되며, 사전 신청을 통해 상담 예약이 가능합니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "웨스턴라이프호텔 내 넓은 전용 주차장이 마련되어 있어 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업) 패키지, 허니문, 예물 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 소요되나요?",
+          "answer": "개인별 상담 항목에 따라 다르나 보통 1시간에서 1시간 30분 정도 소요됩니다."
+        },
+        {
+          "question": "방문 예약은 어떻게 하나요?",
+          "answer": "상단 페이지의 무료 초대권 신청 폼에 성함과 연락처, 결혼 예정일을 입력하시면 예약이 완료됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 준비하는 익산 및 전북 지역의 모든 예비부부를 대상으로 합니다. 막연한 결혼 준비에 어려움을 겪는 커플, 최신 스드메 트렌드를 확인하고 싶으신 분, 호텔 예식을 합리적인 가격으로 고려 중인 분들에게 최적입니다. 1:1 전문 컨설팅을 통해 예산별 맞춤 스케줄링을 제공받을 수 있으며, 다양한 입점 업체의 포트폴리오를 한자리에서 비교 분석하여 시간을 절약할 수 있습니다.",
+      "exhibitor_highlights": [
+        "엘리자베스 그룹 프리미엄 드레스",
+        "웨딩 스튜디오 및 웨딩홀 전문 상담",
+        "신혼여행 및 허니문 전문 업체",
+        "웨딩 메이크업 및 토탈 패키지"
+      ],
+      "comparison_hooks": [
+        "호텔 예식과 연계된 독보적인 할인 혜택",
+        "엘리자베스 브랜드 드레스 독점 피팅 제공",
+        "업계 1위 전문 상담사와의 1:1 맞춤형 컨설팅"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "익산 예식장 추천",
+        "웨딩박람회 스드메 가격",
+        "결혼 준비 체크리스트",
+        "웨딩드레스 종류",
+        "익산 웨딩스퀘어 후기",
+        "신혼여행 패키지 비교",
+        "웨딩박람회 방문 혜택",
+        "호텔 웨딩 비용 견적",
+        "스드메 업체 고르는 법",
+        "결혼 박람회 예약하기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "전북 전체 웨딩박람회 일정",
+          "category": "wedding_event_schedule"
+        },
+        {
+          "anchor": "익산 인기 웨딩홀 리스트",
+          "category": "wedding_venue_info"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "신혼여행",
+        "웨딩드레스",
+        "웨딩촬영",
+        "결혼비용",
+        "웨딩컨설팅",
+        "예물",
+        "본식스냅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "익산 웨스턴라이프호텔 웨딩박람회 초대",
+      "og_description": "최대 200만원 할인 혜택! 예비부부를 위한 익산 최고의 웨딩박람회, 지금 예약하세요.",
+      "hashtags": [
+        "#익산웨딩박람회",
+        "#결혼준비",
+        "#웨스턴라이프호텔",
+        "#익산결혼",
+        "#전북웨딩",
+        "#스드메",
+        "#예비부부",
+        "#웨딩드레스",
+        "#호텔웨딩",
+        "#결혼박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/whw06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_IPlB2jQB2mKmC.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_aPkqrDtg5.jpg"
+    },
+    "updated_at": "2026-06-29 13:06:17",
+    "revenue": 40000
+  },
+  {
+    "idx": 795,
+    "campaign_id": "jwc02",
+    "gather_name": "청담스토리 웨딩&혼수 박람회",
+    "organizer_name": "제이웨딩 네트웍스",
+    "seo_metadata": {
+      "title": "청담스토리 전주 웨딩박람회 | 스드메 최대 300만원 할인 및 상담 사은품",
+      "meta_description": "전주 청담스토리 웨딩박람회에서 스드메, 웨딩홀, 혼수까지 최대 300만원 할인 혜택을 만나보세요. 방문 상담 시 100% 증정 사은품과 최신 웨딩 트렌드 상담까지! 지금 바로 무료 참가 신청하고 결혼 준비를 완벽하게 시작하세요.",
+      "keywords": [
+        "전주웨딩박람회",
+        "청담스토리",
+        "전주스드메",
+        "전주웨딩홀추천",
+        "전북결혼준비",
+        "전주혼수박람회",
+        "웨딩패키지할인",
+        "신혼부부혜택",
+        "결혼준비꿀팁",
+        "전주결혼식장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 청담스토리 웨딩&혼수 박람회는 전주 예비부부를 위해 복잡한 결혼 준비를 한 번에 해결할 수 있는 전문 웨딩 솔루션을 제공합니다.",
+      "benefits_description": "이번 박람회에서는 상담만 받아도 100% 증정되는 방문 사은품과 함께, 전주 및 군산 지역 웨딩홀 계약 시 최대 300만원 할인 혜택을 누리실 수 있습니다. 인기 스튜디오 뉴샘플 전시부터 프리미엄 드레스 브랜드 피팅 기회까지 제공하며, 시크릿 할인을 통해 비용 부담은 낮추고 예식 퀄리티는 높이는 실속 있는 결혼 준비를 도와드립니다.",
+      "summary_for_search": "전주 청담스토리 웨딩박람회에서 스드메 최대 300만원 할인과 혼수 혜택을 확인하세요. 7월 11일~12일, 전주 청담스토리 사옥에서 진행되는 이번 행사는 예비부부를 위한 맞춤 상담과 다양한 사은품을 제공합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비 비용 최대 300만원 절약! 청담스토리 웨딩&혼수 박람회",
+      "secondary_headline": "스드메부터 웨딩홀, 혼수가전까지! 2026 예비부부를 위한 맞춤형 웨딩 솔루션",
+      "urgency_text": "이번 주말 딱 이틀간 진행되는 특별 혜택, 지금 바로 사전 신청하세요!",
+      "call_to_action_text": "지금 무료 박람회 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 완료 시 사은품 100% 증정 (세스코 리플렛, 스타벅스 기프티콘 등)"
+      ],
+      "contract_benefits": [
+        "전주/군산 지역 웨딩홀 계약 시 최대 300만원 할인",
+        "허니문 최대 20% 할인",
+        "혼수 예물 및 맞춤 정장 추가 할인 혜택"
+      ],
+      "special_events": [
+        "인기 스튜디오 2026 뉴샘플 전시",
+        "프리미엄 웨딩드레스 브랜드 신상 피팅 및 상담",
+        "웨딩홀 실시간 잔여 타임 조회 및 비교 견적 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-12",
+        "display_date": "07월 11일(토) ~ 07월 12일(일)",
+        "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+      },
+      "location": {
+        "sido": "전북",
+        "sido_en": "jeonbuk",
+        "sigungu": "전주시",
+        "sigungu_en": "jeonju",
+        "address": "전북 전주시 완산구 홍산3길 11",
+        "venue": "청담스토리 사옥",
+        "parking_info": "자체 주차장 완비 (상세 주차안내는 박람회장 문의)",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 전문 웨딩플래너 상담 완료 시 증정",
+      "trust_indicators": [
+        "27년 전통의 웨딩 전문 브랜드",
+        "500여 개의 웨딩 스튜디오 컨셉 보유",
+        "전주/군산 지역 단독 제휴 웨딩홀 다수 보유",
+        "고객 만족도 높은 1:1 맞춤형 웨딩 플래닝 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "청담스토리 웨딩&혼수 박람회",
+        "startDate": "2025-07-11",
+        "endDate": "2025-07-12",
+        "location": {
+          "@type": "Place",
+          "name": "청담스토리 사옥",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "전주시",
+            "addressRegion": "전라북도",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "제이웨딩 네트웍스",
+          "url": "https://ad.cpaad.co.kr/jwc02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 청담스토리 웨딩박람회는 사전 신청 시 누구나 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "방문만 해도 혜택을 받을 수 있나요?",
+          "answer": "네, 박람회장에 방문하여 1:1 웨딩 상담을 완료하시면 소정의 사은품을 100% 증정해 드립니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "청담스토리 사옥 내에 주차 공간이 마련되어 있어 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "스드메 패키지 구성은 어떻게 되나요?",
+          "answer": "스튜디오, 드레스, 메이크업을 예비부부의 취향과 예산에 맞춰 커스터마이징 가능한 다양한 웨딩 패키지를 운영하고 있습니다."
+        },
+        {
+          "question": "웨딩홀 계약 시 어떤 혜택이 있나요?",
+          "answer": "박람회를 통해 계약하시면 대관료 할인, 식대 할인 등 다양한 프로모션 혜택과 잔여 타임 우선 배정 서비스를 제공합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 막 시작한 전북 지역 예비부부들을 위한 맞춤형 행사입니다. 특히 스드메 업체 선정에 어려움을 겪거나, 합리적인 예산으로 웨딩홀을 비교하고 싶은 커플에게 최적화되어 있습니다. 결혼 준비 과정 전반에 대한 1:1 컨설팅이 필요한 예비 부부라면, 전문가의 노하우와 박람회 특별 혜택을 통해 시간과 비용을 동시에 절약할 수 있습니다.",
+      "exhibitor_highlights": [
+        "스튜디오 500여 컨셉",
+        "프리미엄 웨딩드레스 샵",
+        "지역별 웨딩홀/컨벤션",
+        "혼수 가전 및 예물 전문 브랜드",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "타 박람회 대비 전주/군산 지역 웨딩홀 최다 제휴 및 단독 할인",
+        "공장형 패키지가 아닌, 신랑신부 맞춤형 1:1 플래닝 시스템",
+        "현장 즉시 비교 견적이 가능한 스마트 시스템 도입"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "전주 결혼 준비 순서",
+        "전주 스드메 비용",
+        "웨딩박람회 방문 혜택",
+        "결혼식장 잔여타임 찾는 법",
+        "혼수 준비 체크리스트",
+        "웨딩 드레스 투어 팁",
+        "전주 예복 맞춤 가격",
+        "박람회 상담 사은품",
+        "신혼여행 준비물",
+        "2026 결혼 트렌드"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "전주 웨딩홀 비교 견적",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "최신 스튜디오 샘플 보기",
+          "category": "studio"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "예식장",
+        "혼수",
+        "맞춤정장",
+        "예물",
+        "본식스냅",
+        "웨딩컨설팅",
+        "결혼준비",
+        "웨딩패키지",
+        "청담스토리"
+      ]
+    },
+    "social_meta": {
+      "og_title": "전주 청담스토리 웨딩박람회 | 최대 300만원 할인",
+      "og_description": "전주 결혼 준비의 정석! 스드메, 웨딩홀 최대 300만원 할인받고 사은품까지 받아가세요.",
+      "hashtags": [
+        "#전주웨딩박람회",
+        "#청담스토리",
+        "#전주결혼준비",
+        "#전주스드메",
+        "#전주웨딩홀",
+        "#예비부부",
+        "#결혼준비",
+        "#웨딩박람회혜택",
+        "#전북웨딩",
+        "#혼수박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/jwc02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_XIIeUi6HsaJYLoRiwaCPupaWtMcpwiu.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_cKCbKOcDafWRf2th1ireK81EAx.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_Z1tjrSIa9Rr12VG5.jpg"
+    },
+    "updated_at": "2026-06-29 13:07:38",
+    "revenue": 45000
   }
 ]
