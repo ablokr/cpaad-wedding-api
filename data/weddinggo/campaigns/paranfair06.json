@@ -1,0 +1,207 @@
+{
+  "idx": 1822,
+  "campaign_id": "paranfair06",
+  "gather_name": "창원 허니문박람회",
+  "organizer_name": "파란애드컴퍼니",
+  "seo_metadata": {
+    "title": "창원 허니문박람회 | 썸투어 신혼여행 계약 시 최대 혜택 및 최저가 보장",
+    "meta_description": "창원 썸투어 허니문박람회 개최! 유럽, 코사무이, 발리 등 신혼여행 패키지 특가와 계약 고객 대상 여행용 캐리어 증정, 오프라인 최저가 보장 혜택을 지금 확인하세요. 선착순 상담 신청으로 성공적인 결혼 준비를 시작하세요.",
+    "keywords": [
+      "창원웨딩박람회",
+      "창원허니문박람회",
+      "창원신혼여행",
+      "썸투어",
+      "신혼여행패키지",
+      "허니문특가",
+      "결혼준비",
+      "창원웨딩홀",
+      "스드메",
+      "예비부부혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 설레는 신혼여행을 완벽하게 계획하고 싶다면 창원 허니문박람회를 주목하세요. 20년 경력의 베테랑 여행 전문가가 직접 상담하는 썸투어에서 여러분의 로망을 현실로 만들어드립니다.",
+    "benefits_description": "이번 박람회에서는 현장 계약 고객을 위해 파격적인 혜택을 준비했습니다. 계약 즉시 여행용 캐리어 증정은 물론, 오프라인 최저가 보장제로 비용 부담을 확 낮췄습니다. 또한 허니문 여행지별 특별 패키지(공항 픽업, 현지 투어, 스냅 촬영 등)를 통해 더욱 풍성한 신혼여행을 즐기실 수 있습니다. 바쁜 직장인을 위한 야간 상담도 진행 중이니 지금 바로 맞춤 상담을 받아보세요.",
+    "summary_for_search": "창원 썸투어 허니문박람회에서 신혼여행의 품격을 높이세요. 계약 고객 캐리어 증정, 오프라인 최저가 보장 및 지역별 맞춤 허니문 패키지를 상담받으실 수 있습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "신혼여행, 썸투어와 함께하면 실패 없는 완벽한 허니문!",
+    "secondary_headline": "오프라인 최저가 보장제부터 계약 고객 캐리어 증정까지, 오직 박람회에서만 누리는 특별한 혜택을 놓치지 마세요.",
+    "urgency_text": "박람회 현장 계약 고객 한정 혜택 제공!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "네이버 영수증 리뷰 이벤트 스타벅스 쿠폰 증정",
+      "백화점 상품권 5만원 증정(이벤트 참여 시)"
+    ],
+    "contract_benefits": [
+      "계약 고객 30인치 여행 캐리어 증정",
+      "오프라인 최저가 보장제",
+      "유효 환불 걱정 없는 안심 보장제",
+      "허니문 지역별 맞춤 특전(공항 픽업, 스냅 촬영, 마사지 등)"
+    ],
+    "special_events": [
+      "직장인을 위한 평일 야간 상담 지원",
+      "1:1 전문 여행 담당자 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05",
+      "display_date": "07월 04일(토) ~ 07월 05일(일)",
+      "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 마디미서로 30 2층",
+      "venue": "썸그룹 본사 사옥",
+      "parking_info": "자세한 주차 정보는 본사 사옥 안내를 참조 바랍니다.",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "현장 상담 및 계약 체결 완료 후 증정",
+    "trust_indicators": [
+      "20년 경력의 베테랑 여행 전문가 상주",
+      "경남 최대 신혼여행 전문 연간 1500쌍 진행",
+      "오프라인 본사 운영으로 확실한 신뢰도",
+      "1:1 전문 담당자 책임제 운영"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 허니문박람회",
+      "startDate": "2025-07-04",
+      "endDate": "2025-07-05",
+      "location": {
+        "@type": "Place",
+        "name": "썸그룹 본사 사옥",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "창원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파란애드컴퍼니",
+        "url": "https://ad.cpaad.co.kr/paranfair06/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 상담은 무료인가요?",
+        "answer": "네, 전문 상담가의 1:1 맞춤 상담은 무료로 진행됩니다."
+      },
+      {
+        "question": "평일에도 상담이 가능한가요?",
+        "answer": "직장인을 위해 평일 월~금 19:00~21:00 야간 상담을 지원합니다."
+      },
+      {
+        "question": "온라인 예약과 무엇이 다른가요?",
+        "answer": "박람회 현장 계약 시 캐리어 증정 및 오프라인 최저가 보장 등 현장 전용 혜택이 적용됩니다."
+      },
+      {
+        "question": "어떤 여행지를 선택할 수 있나요?",
+        "answer": "유럽, 코사무이, 발리, 하와이, 칸쿤, 몰디브, 모리셔스, 푸켓, 호주 등 다양한 허니문 지역 패키지가 준비되어 있습니다."
+      },
+      {
+        "question": "환불 보장은 확실한가요?",
+        "answer": "썸투어는 유효 환불 걱정이 없는 안심 여행 보장제를 시행하고 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 신혼여행지 고민이 많은 예비부부, 허니문 패키지의 거품을 빼고 합리적인 비용으로 최상의 서비스를 누리고 싶은 커플을 위한 박람회입니다. 결혼 준비 과정이 복잡하고 막막한 분들을 위해 20년 경력의 전문가가 여행지 선정부터 일정, 필수 체크리스트까지 1:1로 밀착 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "신혼여행 패키지 업체",
+      "현지 스냅 촬영 서비스",
+      "웨딩 컨설팅 업체"
+    ],
+    "comparison_hooks": [
+      "온라인 저가형 상품과 차별화된 1:1 전문 담당자 책임제",
+      "경남 최대 200명 이상 고객 만족도 입증",
+      "오프라인 본사 사옥 운영으로 사후 관리 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행지 추천",
+      "허니문 패키지 가격",
+      "결혼식 비용 절약 팁",
+      "스드메 패키지 구성",
+      "창원 웨딩 박람회 일정",
+      "허니문 스냅 촬영 비용",
+      "신혼여행 준비물 체크리스트",
+      "허니문 박람회 계약 혜택",
+      "썸투어 여행사 평점",
+      "유럽 신혼여행 패키지 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩홀 정보 확인",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "신혼여행 패키지 특가 확인",
+        "category": "honeymoon_deals"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "혼수가전",
+      "신혼여행",
+      "웨딩패키지",
+      "드레스",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 허니문박람회 | 계약 시 캐리어 증정",
+    "og_description": "신혼여행 고민 해결! 썸투어에서 오프라인 최저가 보장 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#창원허니문박람회",
+      "#신혼여행지추천",
+      "#결혼준비",
+      "#썸투어",
+      "#허니문패키지",
+      "#신혼부부",
+      "#창원결혼준비",
+      "#웨딩박람회혜택",
+      "#허니문스냅"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/paranfair06/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_9SW9eF9QEDg.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_hCtHyOGeT.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_uzm3Akx9Vvi2JSdPYYURPchFUvzmlTN.jpg"
+  },
+  "updated_at": "2026-06-29 16:03:11",
+  "revenue": 30000
+}
