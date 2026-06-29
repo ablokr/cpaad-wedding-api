@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 151,
+    "total_count": 156,
     "region_count": 16,
     "district_count": 48,
-    "updated_at": "2026-06-29 16:05:02"
+    "updated_at": "2026-06-29 19:01:46"
   },
   "items": [
     {
@@ -1218,6 +1218,7 @@
       "updated_at": "2026-06-27 21:05:57"
     },
     {
+      "idx": 1236,
       "campaign_id": "withyouwedding19",
       "gather_name": "충주 위드유 웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -1226,7 +1227,8 @@
       "sigungu": "충주시",
       "region_en": "chungbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_33W4lOHCSZTt7.jpg",
-      "updated_at": "2026-06-27 21:05:57"
+      "updated_at": "2026-06-27 21:05:57",
+      "revenue": 30000
     },
     {
       "idx": 1287,
@@ -1446,7 +1448,8 @@
       "sigungu": "남구",
       "region_en": "ulsan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
-      "updated_at": "2026-06-29 16:02:22"
+      "updated_at": "2026-06-29 16:02:22",
+      "revenue": 30000
     },
     {
       "campaign_id": "wwedding16",
@@ -1938,6 +1941,71 @@
       "region_en": "gwangju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_CFVC8wizX7mAUeJ8JvC5Hp5rA.jpg",
       "updated_at": "2026-06-29 16:05:02",
+      "revenue": 30000
+    },
+    {
+      "idx": 1170,
+      "campaign_id": "withyouwedding03",
+      "gather_name": "청주 위드유 웨딩박람회",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "venue": "LG전자베스트샵 율량점",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_cQNCFUa4Wf1z8G.jpg",
+      "updated_at": "2026-06-29 19:00:40",
+      "revenue": 30000
+    },
+    {
+      "idx": 1183,
+      "campaign_id": "withyouwedding06",
+      "gather_name": "대전 위드유 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_DA28qUesQ.jpg",
+      "updated_at": "2026-06-29 19:00:57",
+      "revenue": 30000
+    },
+    {
+      "idx": 1648,
+      "campaign_id": "withyouwedding43",
+      "gather_name": "이천 위드유 웨딩박람회",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "venue": "삼성스토어 이천증포",
+      "sido": "경기",
+      "sigungu": "이천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4OGg6aiv.jpg",
+      "updated_at": "2026-06-29 19:01:13",
+      "revenue": 30000
+    },
+    {
+      "idx": 1456,
+      "campaign_id": "withyouwedding34",
+      "gather_name": "부천 위드유 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "삼성스토어 부천중동점 2층 특별행사장",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wamSIbbmTVLQ3UmAJ3Vlgz5cVuU.jpg",
+      "updated_at": "2026-06-29 19:01:29",
+      "revenue": 30000
+    },
+    {
+      "idx": 1184,
+      "campaign_id": "withyouwedding07",
+      "gather_name": "원주 위드유 웨딩박람회",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "venue": "삼성스토어 단계점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_YDsecgP7W.jpg",
+      "updated_at": "2026-06-29 19:01:46",
       "revenue": 30000
     }
   ]
