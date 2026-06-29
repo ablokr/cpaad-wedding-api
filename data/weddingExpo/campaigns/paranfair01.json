@@ -1,0 +1,208 @@
+{
+  "idx": 1460,
+  "campaign_id": "paranfair01",
+  "gather_name": "창원 웨딩박람회",
+  "organizer_name": "파란애드컴퍼니",
+  "seo_metadata": {
+    "title": "창원 웨딩박람회 | 스드메 최대 34% 할인 및 혼수 혜택 총정리",
+    "meta_description": "창원 최대 규모 웨딩박람회 개최! LG전자베스트샵 상남본점에서 스드메 최대 34% 할인과 허니문 150만원 지원 혜택을 놓치지 마세요. 지금 바로 무료 초대권 신청하세요.",
+    "keywords": [
+      "창원웨딩박람회",
+      "창원결혼준비",
+      "창원스드메",
+      "창원웨딩홀",
+      "결혼박람회혜택",
+      "LG전자베스트샵웨딩",
+      "창원혼수",
+      "신혼여행박람회",
+      "창원예물",
+      "창원웨딩드레스"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "안녕하세요! 결혼 준비 시작하면서 막막했던 예신입니다. 이번 주말 창원 최대 규모 웨딩박람회 다녀왔는데, 정보 공유해 드리려고 해요! 막연하게 '뭐부터 해야 하지?' 싶었는데, 스드메부터 예물, 혼수까지 한자리에서 다 비교할 수 있어서 진짜 알차더라고요.",
+    "benefits_description": "이번 박람회 혜택 정말 대박이에요! 스드메 계약 시 최대 34% 할인에, 허니문 계약하면 최대 150만원 지원 혜택까지 있거든요. 특히 드레스샵마다 무료 피팅이랑 업그레이드 이벤트를 해줘서 현장에서 직접 입어볼 수 있는 게 큰 장점이었어요. 혼수 가전도 LG전자베스트샵과 연계해서 가격적인 메리트가 확실하니 결혼 준비하시는 분들은 꼭 들러보세요!",
+    "summary_for_search": "7월 18일~19일, 창원 LG전자베스트샵 상남본점에서 열리는 창원 최대 규모 웨딩박람회! 스드메 34% 할인 및 허니문 150만원 지원 혜택을 지금 무료 초대권으로 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "창원 최대 규모! 스드메 최대 34% 파격 할인",
+    "secondary_headline": "복잡한 결혼 준비, 한자리에서 끝내는 1:1 맞춤 웨딩 컨설팅",
+    "urgency_text": "박람회 기간 한정 혜택, 지금 상담 신청하세요!",
+    "call_to_action_text": "무료 초대권 지금 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 경품 추첨 및 사은품 증정"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최대 34% 할인",
+      "허니문 최대 150만원 지원",
+      "혼수 가전 맞춤 혜택 제공",
+      "예물/한복/예복 계약 시 추가 할인 및 증정품"
+    ],
+    "special_events": [
+      "웨딩드레스 신상 무료 피팅",
+      "1:1 맞춤 웨딩 컨설팅",
+      "LG전자 혼수 가전 특별 할인전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 중앙대로100번길 13 1층",
+      "venue": "LG전자베스트샵 상남본점",
+      "parking_info": "매장 전용 주차장 이용 가능",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 완료 후 QR코드 스캔 및 현장 계약 기준",
+    "trust_indicators": [
+      "창원 최대 규모 박람회",
+      "1:1 전문 웨딩 플래너 상담",
+      "유명 스드메 및 혼수 업체 대거 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 웨딩박람회",
+      "startDate": "2025-07-18",
+      "endDate": "2025-07-19",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 상남본점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "창원시 성산구 중앙대로 100번길 13",
+          "addressLocality": "창원시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파란애드컴퍼니",
+        "url": "https://ad.cpaad.co.kr/paranfair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 있나요?",
+        "answer": "아니요, 온라인으로 무료 초대권을 신청하시면 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, LG전자베스트샵 상남본점 전용 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업을 포함해 허니문, 예물, 혼수 가전 등 결혼 준비 전반에 필요한 업체들이 참여합니다."
+      },
+      {
+        "question": "1:1 상담은 어떻게 받나요?",
+        "answer": "박람회 현장에서 전문 웨딩 플래너가 배정되어 예비부부의 예산과 취향에 맞는 맞춤형 컨설팅을 제공합니다."
+      },
+      {
+        "question": "계약 시 혜택은 무엇인가요?",
+        "answer": "스드메 계약 시 최대 34% 할인과 함께 브랜드별 사은품 및 추가 업그레이드 혜택을 받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 창원/경남 지역 예비부부들을 대상으로 합니다. 특히 스드메 비용을 합리적으로 비교하고 싶거나, 웨딩홀 투어부터 혼수 가전 준비까지 한 번에 효율적으로 진행하고 싶은 20대 후반~30대 커플에게 최적화된 행사입니다. 결혼 준비의 첫 단계부터 마무리까지 전문가의 도움을 받아 시간을 절약하고 실질적인 비용 혜택을 챙기려는 실속파 예신들을 위해 상세한 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 및 드레스샵",
+      "토탈 웨딩홀 추천 업체",
+      "신혼여행 전문 여행사",
+      "맞춤정장 및 예복 브랜드",
+      "결혼 예물 및 한복 전문점"
+    ],
+    "comparison_hooks": [
+      "현장에서 즉시 적용되는 최대 34% 스드메 할인",
+      "창원 지역 최다 업체 참여로 실시간 비교 가능",
+      "계약 시 허니문 비용 최대 150만원 추가 지원"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "창원 결혼 준비 비용",
+      "경남 웨딩박람회 일정",
+      "스드메 패키지 저렴하게 하는 법",
+      "웨딩박람회 필수 체크리스트",
+      "창원 웨딩홀 추천",
+      "결혼 박람회 계약 시 주의사항",
+      "상남동 웨딩컨설팅",
+      "창원 허니문 여행사 추천",
+      "신혼 가전 혼수 혜택",
+      "웨딩 드레스 무료 피팅 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩홀 정보 더보기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 구성 확인",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "허니문",
+      "결혼준비",
+      "예물",
+      "예복",
+      "드레스투어",
+      "상남동웨딩",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 최대 웨딩박람회 혜택 총정리!",
+    "og_description": "결혼 준비 끝판왕! 스드메 34% 할인받고 허니문 지원금까지 챙기는 꿀팁 공유합니다.",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#창원결혼준비",
+      "#창원스드메",
+      "#결혼준비시작",
+      "#예신스타그램",
+      "#웨딩박람회후기",
+      "#창원웨딩홀",
+      "#상남동웨딩",
+      "#신혼부부",
+      "#허니문혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/paranfair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_tdi4PyrrDo9u7.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_D4uwNbW2i5CuzZAvAVpo.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ryxhncE5G.jpg"
+  },
+  "updated_at": "2026-06-29 19:44:20",
+  "revenue": 30000
+}
