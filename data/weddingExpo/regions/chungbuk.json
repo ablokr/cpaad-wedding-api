@@ -1670,5 +1670,217 @@
     },
     "updated_at": "2026-06-29 19:43:24",
     "revenue": 30000
+  },
+  {
+    "idx": 1234,
+    "campaign_id": "wedingcrowd14",
+    "gather_name": "에스가든 청주 대형 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "에스가든 청주 웨딩박람회 | 스드메 89만원 파격 혜택 공유",
+      "meta_description": "안녕하세요! 이번 주말 청주 에스가든에서 열리는 웨딩박람회 다녀온 후기 남겨요. 스드메 89만원부터 드레스 무료 업그레이드까지, 예비부부라면 꼭 챙겨야 할 꿀팁과 혜택 정리했으니 결혼 준비 중이라면 확인해보세요!",
+      "keywords": [
+        "청주웨딩박람회",
+        "에스가든웨딩홀",
+        "청주결혼준비",
+        "청주스드메",
+        "웨딩박람회후기",
+        "결혼준비꿀팁",
+        "스드메최저가",
+        "청주웨딩홀",
+        "웨딩패키지할인",
+        "예비부부준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "안녕하세요! 저번 주에 청주 에스가든에서 열린 웨딩박람회 다녀온 생생 후기 공유해요~ 결혼 준비 시작하면서 막막했는데, 생각보다 너무 알차서 정보 나누고 싶더라고요. 특히 예비부부들이 궁금해할 핵심 혜택이랑 꿀팁 가득 담았으니 꼭 읽어보세요!",
+      "benefits_description": "이번 박람회 혜택 진짜 역대급이에요! 일단 스드메 패키지가 89만 원부터 시작해서 비용 부담이 확 줄더라고요. 저는 드레스 쪽을 제일 꼼꼼히 봤는데, 블랙라벨 무료 업그레이드 혜택이 진짜 쏠쏠했습니다. 현장에서 상담받으면 스타벅스 쿠폰도 주는데, 부스마다 명함 챙기면 소정의 사은품까지 주니까 꼭 챙기세요! 계약 시 최대 150만 원 상당의 허니문 혜택도 있어서 여행 고민 중이신 분들은 상담받아보시는 거 추천해요.",
+      "summary_for_search": "청주 에스가든 웨딩박람회 후기! 스드메 89만원 특가와 드레스 업그레이드, 스타벅스 쿠폰 등 예비부부를 위한 다양한 혜택과 정보를 정리했습니다. 성공적인 결혼 준비를 위한 꿀팁을 지금 바로 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스드메 패키지 89만원부터! 에스가든 청주 웨딩박람회",
+      "secondary_headline": "드레스 무료 업그레이드와 최대 150만원 허니문 혜택까지, 결혼 준비의 모든 것을 한자리에!",
+      "urgency_text": "이번 주말까지만 진행되는 특별 한정 혜택!",
+      "call_to_action_text": "지금 바로 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 상품권 증정",
+        "상담 완료 시 부스별 소정의 사은품"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 89만원부터 시작",
+        "드레스 블랙라벨 무료 업그레이드",
+        "허니문 최대 150만원 상당 혜택",
+        "청첩장 15% 할인권"
+      ],
+      "special_events": [
+        "1:1 맞춤 상담 서비스",
+        "웨딩홀 할인 및 무료 시식 서비스",
+        "웨딩건강검진 프로그램"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "display_date": "07월 18일(토) ~ 07월 19일(일)",
+        "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+      },
+      "location": {
+        "sido": "충북",
+        "sido_en": "chungbuk",
+        "sigungu": "청주시",
+        "sigungu_en": "cheongju",
+        "address": "충북 청주시 서원구 1순환로 854 CJB미디어센터",
+        "venue": "에스가든웨딩홀 청주점 특별전시장",
+        "parking_info": "자체 주차장 완비 (이미지 상 상세 정보 생략)",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "신랑/신부 구분",
+        "결혼예정일",
+        "방문예정일"
+      ],
+      "gift_conditions": "온라인 사전 신청 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "국내 최다 업체 입점",
+        "스드메 최저가 보장제",
+        "1:1 전문 웨딩 컨설턴트 매칭"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "에스가든 청주 대형 웨딩박람회",
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-19",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "에스가든웨딩홀 청주점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "청주시 충북",
+            "addressLocality": "청주시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd14/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "네, 원활한 1:1 상담과 방문 선물을 받기 위해서는 온라인 사전 신청이 필수입니다."
+        },
+        {
+          "question": "스드메 패키지 가격은 얼마인가요?",
+          "answer": "박람회 현장 특가로 89만 원부터 다양한 패키지가 준비되어 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 에스가든웨딩홀 내 전용 주차장이 마련되어 있어 편하게 이용 가능합니다."
+        },
+        {
+          "question": "박람회에서 드레스 피팅이 가능한가요?",
+          "answer": "네, 드레스 무료 업그레이드 혜택과 함께 현장에서 다양한 디자인을 확인하고 상담받을 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 선물을 주나요?",
+          "answer": "네, 현장 상담 완료 시 스타벅스 상품권 등 소정의 사은품을 제공하고 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 20대 후반~30대 초반의 예비부부들을 위한 맞춤 콘텐츠입니다. 특히 스드메 비용을 합리적으로 비교하고 싶은 분들, 웨딩홀 예약부터 신혼여행, 혼수까지 한 번에 준비하고 싶은 커플들에게 최적의 정보를 제공합니다. 결혼 준비를 어디서부터 시작해야 할지 고민되는 분들께 박람회 현장의 실질적인 혜택과 주의사항을 전달하여 신뢰할 수 있는 가이드가 되고자 합니다.",
+      "exhibitor_highlights": [
+        "웨딩 드레스샵",
+        "스튜디오",
+        "헤어·메이크업 업체",
+        "허니문 여행사",
+        "예물·예복 브랜드",
+        "혼수·가전",
+        "웨딩홀 전문 상담"
+      ],
+      "comparison_hooks": [
+        "타 박람회 대비 스드메 최저가 보장제 운영",
+        "현장에서 즉시 확인 가능한 100만 원 상당의 블랙라벨 드레스 혜택",
+        "웨딩홀 무료 식대 할인 및 시식 서비스 단독 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "청주 웨딩박람회 추천",
+        "웨딩박람회 준비물",
+        "스드메 패키지 가격",
+        "결혼 준비 체크리스트",
+        "에스가든웨딩홀 후기",
+        "웨딩박람회 사은품",
+        "청주 결혼 준비 순서",
+        "예물 예복 박람회",
+        "신혼여행 패키지 추천",
+        "박람회 상담 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "결혼 준비 체크리스트 전체 보기",
+          "category": "planning"
+        },
+        {
+          "anchor": "청주 웨딩홀 추천 리스트",
+          "category": "venue"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예식장",
+        "부케",
+        "예물",
+        "신혼여행",
+        "웨딩패키지",
+        "청첩장",
+        "결혼건강검진"
+      ]
+    },
+    "social_meta": {
+      "og_title": "청주 에스가든 웨딩박람회 후기! 스드메 89만원",
+      "og_description": "예비부부 필독! 이번 주말 청주 에스가든에서 열리는 웨딩박람회 방문 혜택과 스드메 파격 특가 정보를 확인해보세요.",
+      "hashtags": [
+        "#청주웨딩박람회",
+        "#에스가든웨딩홀",
+        "#결혼준비",
+        "#스드메특가",
+        "#청주스드메",
+        "#웨딩박람회후기",
+        "#예비부부",
+        "#청주웨딩",
+        "#결혼준비꿀팁",
+        "#웨딩드레스"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd14/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_nmzXyNdDYDFkFrk.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TJxS2KqPd5xZ8yzG8PathyXsaZP8c.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vtLfuVRMaw9l6TGCj8dHeBf7n6HY.jpg"
+    },
+    "updated_at": "2026-06-30 19:31:45",
+    "revenue": 30000
   }
 ]
