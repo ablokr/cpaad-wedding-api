@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 164,
+    "total_count": 165,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-07-01 16:00:36"
+    "updated_at": "2026-07-01 19:00:47"
   },
   "items": [
     {
@@ -853,6 +853,7 @@
       "updated_at": "2026-06-27 21:05:56"
     },
     {
+      "idx": 1604,
       "campaign_id": "weddingplus12",
       "gather_name": "웨딩더하기 영등포웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -861,7 +862,8 @@
       "sigungu": "영등포구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4nHJKThs1.jpg",
-      "updated_at": "2026-06-27 21:05:56"
+      "updated_at": "2026-06-27 21:05:56",
+      "revenue": 30000
     },
     {
       "idx": 1068,
@@ -2078,12 +2080,12 @@
       "campaign_id": "wedingcrowd16",
       "gather_name": "수원 스타필드 대형 웨딩박람회",
       "display_date": "07월 18일(토) ~ 07월 19일(일)",
-      "venue": "LG전자베스트샵 수원본점",
+      "venue": "스타필드 수원 5층 팝업스토어",
       "sido": "경기",
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_JhL1yJaz5D.jpg",
-      "updated_at": "2026-06-30 16:00:41",
+      "updated_at": "2026-07-01 19:00:19",
       "revenue": 30000
     },
     {
@@ -2111,6 +2113,19 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_vJxZuCqvRa9rWvQfA4dvMdx58sVeDNj.jpg",
       "updated_at": "2026-07-01 16:00:36",
       "revenue": 50000
+    },
+    {
+      "idx": 1681,
+      "campaign_id": "weddingplus14",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "venue": "LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_nEFX1NGaq6TkLJl.jpg",
+      "updated_at": "2026-07-01 19:00:47",
+      "revenue": 30000
     }
   ]
 }
