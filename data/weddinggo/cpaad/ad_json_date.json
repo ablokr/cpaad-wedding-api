@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-02T16:00:03Z",
+  "last_updated": "2026-07-02T19:00:02Z",
   "total_ad_count": 154,
   "advertisements": {
     "iniwedding05": {
@@ -578,6 +578,20 @@
       "start_date": "2026-07-04",
       "end_date": "2026-07-05"
     },
+    "wedingcrowd65": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_yirNn2CfMnSWS.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_81WHEMIXlnItZ7saTldsVgsgWNYos.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_jnPvvB4EN7Bo6mwvLjm97f1AP.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd65/",
+      "region": "gyeonggi",
+      "gather_name": "평택 웨딩크라우드 웨딩박람회",
+      "ad_info": "LG베스트샵 평택점에서 열리는 용인 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "경기 평택시 평택로 51 6층||(평택동 185-579)||LG전자베스트샵 AKPLAZA평택점",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
+    },
     "weddingan01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TiIPcfPDRvF3ypUlvKwpq28.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_P1LYEYW96TQJrBCA5YzNlswzGTcd.jpg",
@@ -813,20 +827,6 @@
       "ad_year": "2026",
       "ad_date": "07월 11일(토) ~ 07월 12일(일)",
       "ad_location": "경기 부천시 원미구 길주로 300||(중동 1140)||롯데백화점 중동점 9층 LG전자",
-      "start_date": "2026-07-11",
-      "end_date": "2026-07-12"
-    },
-    "wedingcrowd65": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_yirNn2CfMnSWS.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_81WHEMIXlnItZ7saTldsVgsgWNYos.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_jnPvvB4EN7Bo6mwvLjm97f1AP.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd65/",
-      "region": "gyeonggi",
-      "gather_name": "평택 웨딩크라우드 웨딩박람회",
-      "ad_info": "LG베스트샵 평택점에서 열리는 용인 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
-      "ad_location": "경기 평택시 평택로 51 6층||(평택동 185-579)||LG전자베스트샵 AKPLAZA평택점",
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
     },
@@ -1726,20 +1726,6 @@
       "start_date": "2026-07-04",
       "end_date": "2026-07-05"
     },
-    "connectwedding11": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vWLa7REiAQvJW4I.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4JHeux89HlEPnGnymMHjtYwTu96y3x.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5YXMflz5gZ8DpdFrjeD2ROeb6WfFkl.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/connectwedding11/",
-      "region": "gangwon",
-      "gather_name": "속초강원 브랜드 웨딩박람회",
-      "ad_info": "카시아 속초와 함께하는!",
-      "ad_year": "2026",
-      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
-      "ad_location": "강원특별자치도 속초시 대포항희망길 120||(대포동 937)|| 카시아 속초 4층 그랜드 볼룸",
-      "start_date": "2026-07-11",
-      "end_date": "2026-07-12"
-    },
     "wedingcrowd02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_gBAliBi2Eiuj1gBIk5.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Hv6B1HYXzaubOiH6qVY6.jpg",
@@ -1753,6 +1739,20 @@
       "ad_location": "강원특별자치도 춘천시 퇴계로 118 미래타워||(퇴계동 406-34)||미래컨벤션센타웨딩홀",
       "start_date": "2026-07-04",
       "end_date": "2026-07-05"
+    },
+    "connectwedding11": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_vWLa7REiAQvJW4I.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_Z4JHeux89HlEPnGnymMHjtYwTu96y3x.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5YXMflz5gZ8DpdFrjeD2ROeb6WfFkl.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/connectwedding11/",
+      "region": "gangwon",
+      "gather_name": "속초강원 브랜드 웨딩박람회",
+      "ad_info": "카시아 속초와 함께하는!",
+      "ad_year": "2026",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일)",
+      "ad_location": "강원특별자치도 속초시 대포항희망길 120||(대포동 937)|| 카시아 속초 4층 그랜드 볼룸",
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
     },
     "weddingplus01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_5MjKor34ycqa.jpg",
