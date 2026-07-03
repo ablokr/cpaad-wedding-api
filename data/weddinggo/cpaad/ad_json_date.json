@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-03T10:00:03Z",
+  "last_updated": "2026-07-03T13:00:04Z",
   "total_ad_count": 154,
   "advertisements": {
     "iniwedding05": {
@@ -522,6 +522,20 @@
       "start_date": "2026-07-18",
       "end_date": "2026-07-19"
     },
+    "objetWed03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_ELuEl7K2o3yR7JLT2qBAh79MEzuKhudG.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_SPM7hnkTpXUl86GWCtShWKfKOHB.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_59MjWykrcbSSM.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/objetWed03/",
+      "region": "gyeonggi",
+      "gather_name": "브라이덜 블랑쉬 평택 웨딩드레스 페어",
+      "ad_info": "체험형 웨딩박람회 인기 웨딩드레스무료피팅 체험",
+      "ad_year": "2026",
+      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
+      "ad_location": "경기도 평택시 평택4로 96||(비전동 273-12)||브라이덜 블랑쉬 특별행사장",
+      "start_date": "2026-07-04",
+      "end_date": "2026-07-05"
+    },
     "wncowedding19": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_Q2EvNtIgfjwzU6kqEQk5Yr.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
@@ -563,20 +577,6 @@
       "ad_location": "경기 수원시 장안구 수성로 175 6층||(정자동 111-14)||한샘 스타필드수원점",
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
-    },
-    "objetWed03": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_ELuEl7K2o3yR7JLT2qBAh79MEzuKhudG.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_SPM7hnkTpXUl86GWCtShWKfKOHB.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_59MjWykrcbSSM.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/objetWed03/",
-      "region": "gyeonggi",
-      "gather_name": "브라이덜 블랑쉬 평택 웨딩드레스 페어",
-      "ad_info": "체험형 웨딩박람회 인기 웨딩드레스무료피팅 체험",
-      "ad_year": "2026",
-      "ad_date": "07월 04일(토) ~ 07월 05일(일)",
-      "ad_location": "경기도 평택시 평택4로 96||(비전동 273-12)||브라이덜 블랑쉬 특별행사장",
-      "start_date": "2026-07-04",
-      "end_date": "2026-07-05"
     },
     "wedingcrowd65": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_yirNn2CfMnSWS.jpg",
