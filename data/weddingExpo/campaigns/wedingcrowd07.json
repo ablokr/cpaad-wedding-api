@@ -1,0 +1,212 @@
+{
+  "idx": 1077,
+  "campaign_id": "wedingcrowd07",
+  "gather_name": "원주 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "원주 웨딩크라우드 웨딩박람회 | 방문 시 상품권 및 스드메 특가 혜택",
+    "meta_description": "원주 웨딩크라우드 웨딩박람회 참가하고 결혼 준비 시작하세요! 방문 시 이마트 상품권 증정, 스드메 패키지 특가 및 혼수/예물 특별 할인까지. 사전등록하고 실속 있는 혜택을 모두 챙기세요.",
+    "keywords": [
+      "원주 웨딩박람회",
+      "결혼 준비",
+      "웨딩크라우드",
+      "원주 스드메",
+      "원주 웨딩홀",
+      "강원도 웨딩박람회",
+      "결혼 준비 체크리스트",
+      "신혼가전 할인",
+      "허니문 박람회",
+      "예물 예복 할인"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해결해줄 '원주 웨딩크라우드 웨딩박람회'가 개최됩니다. 이번 박람회에서는 스드메 패키지부터 허니문, 혼수 가전까지 한자리에서 비교하고 상담받을 수 있어 효율적인 결혼 준비를 원하는 예비부부에게 적합한 행사입니다.",
+    "benefits_description": "이번 박람회는 참가자 전원을 대상으로 풍성한 혜택을 제공합니다. 현장 방문 시 이마트 상품권 2만원을 증정하며, 청첩장 15% 할인권 등 실질적인 혜택을 누릴 수 있습니다. 또한, 웨딩 패키지 계약 시 웨딩다이어리 증정은 물론, 스튜디오, 드레스, 메이크업의 특가 구성과 추가 업그레이드 혜택이 준비되어 있습니다. 예물, 예복, 허니문 등 품목별로도 계약 시 할인 및 증정 이벤트가 진행되니 꼼꼼히 확인해 보시기 바랍니다.",
+    "summary_for_search": "원주 웨딩크라우드 웨딩박람회에서 스드메, 혼수, 허니문을 한 번에 해결하세요. 방문객 전원 이마트 상품권 증정 및 패키지 특가 혜택을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "원주 웨딩박람회 참가하고 이마트 상품권 2만원 받자!",
+    "secondary_headline": "스드메 패키지부터 혼수 가전까지, 결혼 준비의 모든 것을 합리적인 가격에 완성하세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 구성, 선착순 혜택을 놓치지 마세요.",
+    "call_to_action_text": "지금 무료 사전등록하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 이마트 상품권 2만원 증정",
+      "청첩장 15% 할인권 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 특가 할인",
+      "웨딩다이어리 증정",
+      "허니문 예약 시 리조트 특전 및 할인",
+      "예물 계약 시 다이아몬드, 보석함 증정 및 할인",
+      "맞춤 정장 계약 시 수제화 증정 및 할인"
+    ],
+    "special_events": [
+      "삼성스토어 혼수 가전 특별 상담",
+      "1:1 맞춤형 웨딩 컨설팅",
+      "예비부부 신혼부부 재무 설계 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 무실밤골길 29",
+      "venue": "삼성스토어 원주점 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "신혼집입주예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "전국 최대 규모 웨딩박람회",
+      "실시간 스드메 견적 비교",
+      "전문가 1:1 컨시어지 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 웨딩크라우드 웨딩박람회",
+      "startDate": "2025-07-18",
+      "endDate": "2025-07-19",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 원주점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "무실발길 29",
+          "addressLocality": "원주시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문 선물은 어떻게 받나요?",
+        "answer": "박람회장에 방문하여 상담을 완료하시면 현장에서 증정해 드립니다."
+      },
+      {
+        "question": "삼성스토어 가전 할인 혜택은 무엇인가요?",
+        "answer": "박람회와 연계된 삼성 가전 특별 상담을 통해 혼수 가전 구매 시 할인 및 추가 혜택을 제공합니다."
+      },
+      {
+        "question": "스드메 비용은 어느 정도 예상하면 되나요?",
+        "answer": "업체별, 구성별로 다양하며 박람회 현장에서 패키지 특가 견적을 실시간으로 확인하실 수 있습니다."
+      },
+      {
+        "question": "꼭 예비 부부만 가야 하나요?",
+        "answer": "결혼을 앞둔 커플이라면 누구나 환영합니다. 예식 준비를 계획 중인 분들에게 실질적인 도움이 되는 정보를 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 시작한 원주 및 강원 지역 예비부부를 대상으로 합니다. 스드메 업체 선정부터 예식장, 혼수, 허니문까지 어디서부터 무엇을 준비해야 할지 막막한 신혼부부에게 최적화된 콘텐츠입니다. 특히 비용 절감을 위해 다양한 업체의 견적을 비교하고 싶어 하는 커플, 체계적인 예식 준비 과정을 선호하는 분들에게 권장합니다. 전문 컨설턴트와의 1:1 상담을 통해 나만의 웨딩 콘셉트를 설정하고 실질적인 예산 관리 방법을 배우고 싶은 분들에게 유용한 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 제휴 업체",
+      "스튜디오/드레스/메이크업 패키지 브랜드",
+      "허니문 여행사",
+      "예물 및 다이아몬드 브랜드",
+      "맞춤 정장 브랜드",
+      "삼성 가전 상담 부스"
+    ],
+    "comparison_hooks": [
+      "타 박람회 대비 전국 최다 업체 네트워크 보유",
+      "현장 즉시 비교 가능한 1:1 컨시어지 서비스",
+      "웨딩홀부터 혼수까지 한 번에 해결하는 올인원 패키지"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 웨딩홀 추천",
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "강원도 신혼여행지",
+      "결혼 준비 체크리스트",
+      "예물 예복 브랜드 순위",
+      "혼수 가전 견적 비교",
+      "청첩장 할인 받는 법",
+      "박람회 방문 상담 팁",
+      "원주 예식장 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩박람회 일정 확인하기",
+        "category": "schedule"
+      },
+      {
+        "anchor": "스드메 패키지 더 알아보기",
+        "category": "package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "허니문",
+      "혼수",
+      "예물",
+      "예복",
+      "청첩장",
+      "결혼준비",
+      "웨딩다이어리",
+      "재무설계"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 웨딩크라우드 웨딩박람회, 방문만 해도 선물 증정!",
+    "og_description": "원주 결혼 준비의 정석! 웨딩박람회에서 스드메 특가와 삼성 가전 혜택을 한 번에 확인하세요.",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#원주결혼준비",
+      "#결혼준비",
+      "#스드메",
+      "#웨딩박람회혜택",
+      "#원주웨딩홀",
+      "#신혼부부",
+      "#웨딩크라우드",
+      "#원주결혼",
+      "#예신예랑"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_qd1BubqmohaeHovgeU83H.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_FcAXtJ9udzM4iPbb272RzKx.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_L6aCNNRf4pYsR3W87KV3aHH.jpg"
+  },
+  "updated_at": "2026-07-06 19:34:09",
+  "revenue": 30000
+}
