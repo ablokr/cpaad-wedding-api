@@ -13,10 +13,10 @@ permissions:
   pages: write
   id-token: write
 
-# 환경 변수 동시성 설정 (배포 중복 방지)
+# 환경 변수 동시성 설정 (배포 중복 방지, 연속 실행 시 기존 작업 취소하여 아티팩트 중복 방지)
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   sync_data:
