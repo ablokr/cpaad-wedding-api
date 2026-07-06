@@ -1,211 +1,5 @@
 [
   {
-    "idx": 952,
-    "campaign_id": "theBW03",
-    "gather_name": "광주웨딩페어",
-    "organizer_name": "더베스트 웨딩페어",
-    "seo_metadata": {
-      "title": "광주웨딩페어 후기 | 김대중컨벤션센터 스드메 상담 혜택 정리",
-      "meta_description": "광주웨딩페어 다녀온 찐 후기 공유해요! 선착순 토스터기 증정부터 스드메 계약 시 최대 50만원 지원금까지, 알뜰하게 결혼 준비하는 꿀팁 대방출합니다.",
-      "keywords": [
-        "광주웨딩페어",
-        "광주결혼준비",
-        "광주스드메",
-        "김대중컨벤션센터웨딩박람회",
-        "광주웨딩박람회후기",
-        "결혼준비꿀팁",
-        "웨딩박람회사은품",
-        "광주웨딩플래너",
-        "예비부부준비",
-        "스드메견적비교"
-      ]
-    },
-    "detailed_content": {
-      "intro_text": "안녕하세요! 저번 주말에 광주웨딩페어 다녀온 새내기 예신이에요~ 결혼 준비 막막해서 카페 후기만 보다가 직접 다녀왔는데, 생각보다 업체도 많고 혜택이 정말 알차더라고요! 광주에서 결혼 준비하시는 예비부부님들께 제가 직접 보고 느낀 꿀팁 공유할게요.",
-      "benefits_description": "가장 만족스러웠던 건 현장 계약 혜택이었어요! 상담만 받아도 주는 선착순 선물은 기본이고, 3개 업체 계약 시 에어프라이어, 5개 업체 계약 시 50만원 상품권까지 챙길 수 있어서 비용 절약에 정말 큰 도움이 됐어요. 특히 플래너님들이 1:1로 맞춤 상담해주셔서 제 취향에 딱 맞는 드레스샵이랑 스튜디오를 한 번에 비교할 수 있었답니다. 사전 예약하고 방문해서 기다림 없이 상담받은 게 신의 한 수였네요!",
-      "summary_for_search": "김대중컨벤션센터 광주웨딩페어 방문 후기 및 혜택 정리. 방문 상담 시 사은품 증정 및 스드메 계약 최대 50만원 지원 혜택을 확인하고 알뜰한 결혼 준비를 시작하세요."
-    },
-    "marketing_hooks": {
-      "primary_headline": "광주웨딩페어, 계약 시 최대 50만원 지원금 혜택!",
-      "secondary_headline": "스드메부터 예물, 예복까지 한자리에서 비교하고 사은품까지 챙기는 완벽한 결혼 준비의 시작.",
-      "urgency_text": "선착순 10시-12시 방문 시 토스터기 증정 (한정 수량)",
-      "call_to_action_text": "지금 바로 무료 초대권 신청하기"
-    },
-    "benefits": {
-      "visit_gifts": [
-        "사전 예약 시 청첩장 샘플 및 할인쿠폰",
-        "현장 방문 시 선착순 토스터기 증정 (10시~12시)",
-        "방문 상담 시 스드메 라면 포트 증정"
-      ],
-      "contract_benefits": [
-        "3개 업체 계약 시 에어프라이어 증정",
-        "5개 업체 계약 시 50만원 상품권 증정",
-        "스튜디오 촬영 시 서브 스냅 50만원 상당 지원"
-      ],
-      "special_events": [
-        "1:1 웨딩 전문 플래너 맞춤 상담",
-        "신상 웨딩드레스 전시 및 피팅 상담",
-        "혼수/가전/예물 특가 프로모션"
-      ]
-    },
-    "event_details": {
-      "event": {
-        "start_date": "2026-07-04",
-        "end_date": "2026-07-05",
-        "display_date": "07월 04일(토) ~ 07월 05일(일)",
-        "original_display_date": "07월 04일(토) ~ 07월 05일(일)"
-      },
-      "location": {
-        "sido": "광주",
-        "sido_en": "gwangju",
-        "sigungu": "서구",
-        "sigungu_en": "seo",
-        "address": "광주 서구 상무누리로 30",
-        "venue": "김대중컨벤션센터",
-        "parking_info": "현장 주차장 이용 가능",
-        "region_code": "jeolla"
-      }
-    },
-    "conversion_and_trust": {
-      "required_form_fields": [
-        "이름",
-        "연락처",
-        "신랑/신부 구분",
-        "결혼예정일",
-        "방문예정일"
-      ],
-      "gift_conditions": "상담 완료 후 QR코드 인증 및 상담 기록 반영 시 증정",
-      "trust_indicators": [
-        "2018-2022 광주 웨딩박람회 1위 선정",
-        "입점 업체 다수 보유 (드레스, 스튜디오, 여행사 등)",
-        "철저한 방역 관리 시스템 운영"
-      ]
-    },
-    "structured_data": {
-      "event_schema": {
-        "@context": "https://schema.org",
-        "@type": "Event",
-        "name": "광주웨딩페어",
-        "startDate": "2025-07-04",
-        "endDate": "2025-07-05",
-        "location": {
-          "@type": "Place",
-          "name": "김대중컨벤션센터",
-          "address": "광주광역시 서구"
-        },
-        "eventStatus": "https://schema.org/EventScheduled",
-        "offers": {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "KRW"
-        },
-        "organizer": {
-          "@type": "Organization",
-          "name": "더베스트 웨딩페어",
-          "url": "https://ad.cpaad.co.kr/theBW03/"
-        }
-      },
-      "faq_schema": [
-        {
-          "question": "박람회 입장료는 있나요?",
-          "answer": "아니요, 사전에 온라인으로 무료 초대권을 신청하시면 무료로 입장하실 수 있습니다."
-        },
-        {
-          "question": "상담 시 소요 시간은 얼마나 걸리나요?",
-          "answer": "업체별 상담에 따라 다르지만, 보통 스드메 상담 기준 1시간에서 1시간 30분 정도 예상하시면 됩니다."
-        },
-        {
-          "question": "주차는 편리한가요?",
-          "answer": "김대중컨벤션센터 내 주차장을 이용할 수 있으며, 박람회 방문객을 위한 안내가 잘 되어 있습니다."
-        },
-        {
-          "question": "꼭 계약을 해야 상담받을 수 있나요?",
-          "answer": "아니요, 상담만 받아도 방문 사은품을 증정하오니 부담 없이 전문가의 조언을 들어보시는 것을 추천합니다."
-        },
-        {
-          "question": "플래너 상담 예약은 어떻게 하나요?",
-          "answer": "박람회 신청 페이지에서 방문 일시를 지정하시면 해당 일자에 맞춰 웨딩 플래너님과 매칭 상담이 진행됩니다."
-        }
-      ]
-    },
-    "content_depth": {
-      "target_audience_description": "결혼 준비를 막 시작해서 무엇부터 해야 할지 막막한 예비 신랑신부님, 바쁜 일상 속에서 스드메, 예물, 혼수 정보를 한곳에서 효율적으로 비교하고 싶은 커플들에게 추천합니다. 특히 웨딩홀부터 신혼여행까지 개별적으로 알아보기 힘든 분들에게 맞춤형 플래닝 서비스를 제공하여 예산에 맞는 합리적인 결혼 준비를 도와드립니다.",
-      "exhibitor_highlights": [
-        "웨딩 드레스샵",
-        "웨딩 스튜디오",
-        "허니문 여행사",
-        "예물 및 예복 브랜드",
-        "혼수 및 가전",
-        "웨딩 전문 플래닝 업체"
-      ],
-      "comparison_hooks": [
-        "현장에서 즉시 활용 가능한 계약 지원금 최대 50만원 제공",
-        "광주 지역 최대 규모의 다양한 브랜드 입점",
-        "웨딩 플래너 경력직의 1:1 맞춤 컨설팅 보장"
-      ]
-    },
-    "search_cluster": {
-      "related_queries": [
-        "광주 웨딩박람회 추천",
-        "광주 스드메 가격",
-        "웨딩박람회 계약 사은품",
-        "결혼 준비 체크리스트",
-        "광주 웨딩플래너 추천",
-        "웨딩박람회 방문 팁",
-        "광주 혼수 준비",
-        "스튜디오 촬영 비용",
-        "결혼 예물 브랜드 비교",
-        "박람회 상담 후기"
-      ],
-      "internal_link_anchors": [
-        {
-          "anchor": "광주 웨딩홀 추천 정보",
-          "category": "wedding_hall"
-        },
-        {
-          "anchor": "알뜰 스드메 패키지 확인하기",
-          "category": "studiomakeup"
-        }
-      ],
-      "semantic_keywords": [
-        "스드메",
-        "혼수",
-        "예식장",
-        "웨딩홀",
-        "부케",
-        "혼수가전",
-        "신혼여행",
-        "예물",
-        "예복",
-        "결혼준비"
-      ]
-    },
-    "social_meta": {
-      "og_title": "광주웨딩페어! 최대 50만원 지원 혜택",
-      "og_description": "결혼 준비 고민 해결! 광주웨딩페어에서 스드메 상담받고 50만원 상품권까지 챙겨가세요.",
-      "hashtags": [
-        "#광주웨딩페어",
-        "#광주결혼준비",
-        "#광주웨딩박람회",
-        "#광주스드메",
-        "#결혼준비",
-        "#웨딩박람회후기",
-        "#예신",
-        "#예랑",
-        "#광주웨딩플래너",
-        "#웨딩꿀팁"
-      ]
-    },
-    "campaign_assets": {
-      "target_url": "https://ad.cpaad.co.kr/theBW03/",
-      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wUpqrh9YY.jpg",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TI33UMYcfSI2F5xw9mXlb.jpg",
-      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_K2qYuJcbIrSPc.jpg"
-    },
-    "revenue": 30000,
-    "updated_at": "2026-06-27 21:09:04"
-  },
-  {
     "idx": 1643,
     "campaign_id": "theBW07",
     "gather_name": "광주 컨벤션 웨딩박람회",
@@ -614,5 +408,212 @@
     },
     "updated_at": "2026-06-29 19:40:31",
     "revenue": 30000
+  },
+  {
+    "idx": 1409,
+    "campaign_id": "knockWed07",
+    "gather_name": "광주 롯데웨딩 팝업스토어",
+    "organizer_name": "광주웨딩연합회",
+    "seo_metadata": {
+      "title": "광주 롯데웨딩 팝업스토어 | 스드메 견적 비교 및 상담 혜택",
+      "meta_description": "광주 동구 롯데백화점에서 열리는 웨딩 팝업스토어! 26년 신상 웨딩홀 공개부터 스드메 무료 상담, 계약 시 20만원 혜택까지. 지금 사전등록하고 실속 있는 결혼 준비를 시작하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "롯데백화점광주점웨딩",
+        "광주스드메추천",
+        "광주웨딩홀견적",
+        "결혼준비체크리스트",
+        "광주웨딩박람회일정",
+        "스드메무료상담",
+        "광주예식장",
+        "예비부부결혼준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "이번 광주 롯데웨딩 팝업스토어, 참가를 고민 중이시라면 아래 정보를 참고해 보세요. 광주 지역 예비부부를 위해 마련된 이번 행사는 롯데백화점 광주점 9층에서 개최되며, 26년 신상 웨딩홀부터 스드메 패키지까지 한자리에서 비교해 볼 수 있는 좋은 기회입니다.",
+      "benefits_description": "이번 박람회에서는 상담만 받아도 상품권을 증정하는 등 예비부부를 위한 다양한 방문 혜택을 제공합니다. 특히 눈여겨볼 점은 '계약 강요 없는 상담'을 원칙으로 하여, 부담 없이 견적을 비교해 볼 수 있다는 점입니다. 또한, 현장 계약 시 20만 원의 추가 혜택이 주어지며, 스튜디오 패키지 업그레이드와 드레스 피팅 등 실속 있는 서비스가 다수 포함되어 있어 합리적인 결혼 준비가 가능할 것으로 확인됩니다.",
+      "summary_for_search": "광주 롯데백화점에서 진행되는 웨딩 팝업스토어! 26년 NEW 웨딩홀 정보와 스드메 무료 상담을 통해 합리적인 결혼 준비를 도와드립니다. 지금 사전등록하고 방문 혜택을 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "상담만 받아도 상품권 증정, 계약 강요 없는 광주 롯데웨딩 팝업스토어",
+      "secondary_headline": "26년 신상 웨딩홀 공개부터 스드메 패키지까지, 광주·전남 예비부부를 위한 특별한 웨딩 큐레이션",
+      "urgency_text": "단 이틀간 진행되는 팝업스토어, 지금 사전등록하고 혜택을 챙기세요.",
+      "call_to_action_text": "무료 사전 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담만 받아도 상품권 증정",
+        "계약 강요 없는 1:1 맞춤 상담"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 20만원 상당 혜택",
+        "스튜디오 페이지 업그레이드",
+        "액자 업그레이드 및 수정본 서비스",
+        "웨딩홀 대관료 및 식대 프로모션"
+      ],
+      "special_events": [
+        "26년 신상 웨딩홀 공개",
+        "드레스 피팅 체험",
+        "원장 지정비 0원 혜택"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-12",
+        "display_date": "07월 11일(토) ~ 07월 12일(일)",
+        "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "광주 동구 독립로 268",
+        "venue": "롯데백화점 광주점 9층 행사장",
+        "parking_info": "100% 주차 지원",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "방문 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 제공 (상세 조건은 현장 확인)",
+      "trust_indicators": [
+        "인증된 웨딩기업 파트너십",
+        "광주/전남 웨딩홀 및 스드메 정보 보유",
+        "계약 강요 없는 투명한 상담 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 롯데웨딩 팝업스토어",
+        "startDate": "2025-07-11",
+        "endDate": "2025-07-12",
+        "location": {
+          "@type": "Place",
+          "name": "롯데백화점 광주점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "독립로 268",
+            "addressLocality": "광주 동구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "광주웨딩연합회",
+          "url": "https://ad.cpaad.co.kr/knockWed07/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "입장료가 있나요?",
+          "answer": "아니요, 광주 롯데웨딩 팝업스토어는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 롯데백화점 광주점 내 주차장을 이용할 수 있으며, 100% 주차를 지원해 드립니다."
+        },
+        {
+          "question": "상담을 받으면 꼭 계약해야 하나요?",
+          "answer": "아니요, 본 박람회는 계약 강요가 없는 투명한 상담을 원칙으로 합니다. 부담 없이 견적을 비교해 보세요."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "광주 지역 주요 웨딩홀을 비롯해 스튜디오, 드레스, 메이크업 등 검증된 프리미엄 웨딩 업체들이 참가합니다."
+        },
+        {
+          "question": "예약은 어떻게 하나요?",
+          "answer": "페이지 내 무료 초대장 신청 폼에 성함과 연락처, 방문 예정일을 기입하여 제출하시면 됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "광주 및 전남 지역에서 결혼을 앞둔 예비부부를 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 커플, 2026년 예식을 앞두고 신상 웨딩홀 정보를 찾는 분, 스드메 패키지 비용을 합리적으로 비교하고 싶은 신혼부부에게 실질적인 도움을 제공합니다. 1:1 맞춤 상담을 통해 개인의 취향에 맞는 웨딩 플래닝 정보를 얻고자 하는 분들에게 최적화된 박람회입니다.",
+      "exhibitor_highlights": [
+        "26년 신상 웨딩홀",
+        "스드메 프리미엄 패키지 업체",
+        "전문 웨딩 컨설팅 브랜드",
+        "허니문 및 예물/예복 업체"
+      ],
+      "comparison_hooks": [
+        "계약 강요 없는 클린 상담 서비스 보장",
+        "광주 지역 검증된 인증 파트너십 업체 다수 참가",
+        "상담만 받아도 증정하는 실속 있는 방문 선물 구성"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩박람회 일정",
+        "광주 스드메 비용",
+        "광주 웨딩홀 추천",
+        "결혼 준비 체크리스트",
+        "웨딩박람회 혜택",
+        "광주 결혼 준비 순서",
+        "스드메 박람회 차이",
+        "롯데백화점 웨딩 이벤트",
+        "예비부부 상담 신청",
+        "웨딩 컨설팅 비교"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 투어 정보",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 구성 알아보기",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀대관료",
+        "본식스냅",
+        "드레스피팅",
+        "결혼준비비용",
+        "신혼여행",
+        "웨딩플래닝"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 롯데웨딩 팝업스토어 | 무료 상담권 받기",
+      "og_description": "상담만 받아도 선물 증정! 광주 롯데백화점에서 열리는 웨딩 팝업스토어에서 26년 신상 웨딩홀과 스드메 혜택을 확인하세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주웨딩홀",
+        "#광주스드메",
+        "#롯데웨딩",
+        "#결혼준비",
+        "#예비부부",
+        "#광주예식장",
+        "#웨딩상담",
+        "#신혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/knockWed07/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_4WJTa4KFLAPwJp8q.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_72pfLPvLTNyJpQI5hyViUj6Tt.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_7ATdmkJFZg9cY2tAhGy.jpg"
+    },
+    "updated_at": "2026-07-06 14:30:09",
+    "revenue": 40000
   }
 ]
