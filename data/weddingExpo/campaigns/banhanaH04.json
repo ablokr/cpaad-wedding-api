@@ -1,0 +1,203 @@
+{
+  "idx": 1274,
+  "campaign_id": "banhanaH04",
+  "gather_name": "포항 반하나 허니문 박람회",
+  "organizer_name": "반하나웨딩 컨설팅",
+  "seo_metadata": {
+    "title": "포항 반하나 허니문 박람회 | 예비부부 신혼여행 특전 및 견적 비교",
+    "meta_description": "포항 롯데백화점에서 열리는 반하나 허니문 박람회! 허니문 전문 상담부터 최저가 견적 비교, 안심 여행 보증 보험까지. 지금 사전등록하고 특별 프로모션 혜택을 확인하세요.",
+    "keywords": [
+      "포항웨딩박람회",
+      "포항신혼여행",
+      "반하나투어박람회",
+      "허니문박람회",
+      "결혼준비",
+      "스드메상담",
+      "신혼여행견적비교",
+      "포항롯데백화점웨딩",
+      "허니문여행사",
+      "신혼여행지추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘만큼 중요한 것이 바로 신혼여행입니다. 이번 포항 반하나 허니문 박람회는 복잡한 허니문 계획을 전문적으로 해결해드리기 위해 마련되었습니다. 전문가의 1:1 맞춤 상담을 통해 예비부부님들의 로망을 실현할 특별한 여행지를 확인해보세요.",
+    "benefits_description": "이번 박람회에서는 현장 상담 고객을 위한 단독 프로모션과 가격 할인 혜택이 대거 준비되어 있습니다. 전 지역 최저가 견적을 지향하며, 타 박람회 대비 평균 10% 추가 할인 혜택을 제공합니다. 특히 발리, 코사무이, 몰디브 등 인기 여행지에 대한 리조트 업그레이드 및 현지 서비스 혜택이 풍성합니다. 10년 무사고 경력의 여행사가 직접 관리하며, 10억 원 여행자 배상책임 보험 가입으로 안심하고 상담받으실 수 있습니다.",
+    "summary_for_search": "포항 롯데백화점에서 개최되는 반하나 허니문 박람회는 전문적인 신혼여행 상담과 최저가 비교 견적을 제공합니다. 10년 경력의 신뢰도 높은 여행사와 함께 안전하고 행복한 신혼여행을 준비하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "이제 고민 없이 안전한 신혼여행 떠나자, 반하나 허니문 박람회",
+    "secondary_headline": "10년 경력의 전문가가 제안하는 1:1 맞춤 신혼여행 상담 및 전국 최저가 보장",
+    "urgency_text": "사전 신청 시 입장료 10,000원 무료!",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 등록 시 입장료 1만원 면제"
+    ],
+    "contract_benefits": [
+      "전 지역 평균 10% 견적 할인",
+      "발리, 코사무이 등 여행지별 특전 및 리조트 업그레이드",
+      "허니문 전문 1:1 맞춤 상담",
+      "신혼여행 예약 시 특별 추가 혜택 제공"
+    ],
+    "special_events": [
+      "10억 원 여행자 배상책임 보험 가입 인증 현장 확인",
+      "검증된 전문가와의 여행 경로 큐레이션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12",
+      "display_date": "07월 11일(토) ~ 07월 12일(일)",
+      "original_display_date": "07월 11일(토) ~ 07월 12일(일)"
+    },
+    "location": {
+      "sido": "경북",
+      "sido_en": "gyeongbuk",
+      "sigungu": "포항시",
+      "sigungu_en": "pohang",
+      "address": "경북 포항시 북구 학산로 62",
+      "venue": "롯데백화점 포항점 8층 LG전자베스트",
+      "parking_info": "롯데백화점 포항점 주차장 이용 가능",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "희망 방문 날짜"
+    ],
+    "gift_conditions": "사전 등록 시 무료 입장 가능",
+    "trust_indicators": [
+      "122,876명 누적 이용객",
+      "10년 무사고 경력",
+      "10억 원 여행자 배상책임 보험 가입",
+      "고객 만족도 1등 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "포항 반하나 허니문 박람회",
+      "startDate": "2025-07-11",
+      "endDate": "2025-07-12",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 포항점 8층",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "포항시 북구 학산동",
+          "addressLocality": "포항시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "반하나웨딩 컨설팅",
+        "url": "https://ad.cpaad.co.kr/banhanaH04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "사전 등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "어떤 여행지 상담이 가능한가요?",
+        "answer": "하와이, 발리, 유럽, 몰디브, 코사무이, 칸쿤 등 인기 신혼여행지 전반에 대해 상담 가능합니다."
+      },
+      {
+        "question": "타 박람회와 비교해서 강점은 무엇인가요?",
+        "answer": "전국 최저가 견적 보장제와 10년 무사고 전문 운영팀의 1:1 맞춤 관리 서비스가 강점입니다."
+      },
+      {
+        "question": "안전한 여행사인지 어떻게 알 수 있나요?",
+        "answer": "10억 원 여행자 배상책임 보험에 가입되어 있으며, 10년 이상의 무사고 이력을 보유하고 있습니다."
+      },
+      {
+        "question": "박람회 방문 예약은 어떻게 하나요?",
+        "answer": "페이지 내 무료 참가 신청 폼을 통해 이름과 연락처를 입력하시면 간편하게 예약됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 신혼여행지 고민이 많은 예비부부를 대상으로 합니다. 특히 어디로 갈지 고민이거나, 여러 여행사의 견적을 비교하며 합리적인 여행 상품을 찾는 커플에게 적합합니다. '결혼 준비는 어떻게 시작하는지', '스드메와 허니문을 동시에 해결하고 싶은지' 궁금한 신혼부부에게 1:1 맞춤형 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "신혼여행지 특화 리조트 브랜드",
+      "웨딩 박람회 견적 비교 컨설팅"
+    ],
+    "comparison_hooks": [
+      "타 박람회 대비 평균 10% 추가 할인 제공",
+      "10년 무사고 및 10억 배상 책임 보험 가입",
+      "전국 최저가 견적 보장 제도"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "포항 웨딩박람회 일정",
+      "신혼여행지 추천",
+      "허니문 여행사 고르는 법",
+      "결혼 준비 체크리스트",
+      "반하나투어 후기",
+      "스드메 비용 비교",
+      "신혼여행 예약 시기",
+      "포항 롯데백화점 웨딩 이벤트",
+      "안전한 해외여행 예약 방법",
+      "신혼여행 패키지 vs 자유여행"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "포항 지역 웨딩 박람회 전체 리스트",
+        "category": "pohang_wedding"
+      },
+      {
+        "anchor": "신혼여행 준비 가이드",
+        "category": "honeymoon_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "리조트",
+      "여행자보험",
+      "최저가견적",
+      "신혼여행상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "포항 반하나 허니문 박람회",
+    "og_description": "예비부부를 위한 신혼여행 특별전! 지금 사전등록하고 상담 혜택을 받아보세요.",
+    "hashtags": [
+      "#포항웨딩박람회",
+      "#반하나투어",
+      "#포항신혼여행",
+      "#결혼준비",
+      "#허니문박람회",
+      "#신혼여행지추천",
+      "#포항롯데백화점",
+      "#스드메",
+      "#예비부부",
+      "#웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/banhanaH04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_fWRVfhQ7WTOgR7B4IxnpoRlL1I3UR.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ZnuUmyjcv5qoEm7pyp9TtVW3lIFC8k7Q.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_vqBnWpemCUmPI.jpg"
+  },
+  "updated_at": "2026-07-06 14:31:37",
+  "revenue": 30000
+}
