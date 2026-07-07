@@ -1,3 +1,5 @@
+# 이 워크플로우는 main 브랜치의 'data/' 디렉토리 내 변경 사항을 감지하여 
+# api-data 브랜치로 동기화(배포)하고, 관련된 프론트엔드 리포지토리들에 빌드/캐시 갱신 트리거를 전송합니다.
 name: Sync Data to api-data Branch
 
 on:
@@ -5,32 +7,37 @@ on:
     branches:
       - main
     paths:
-      - 'data/**' # data/ 디렉토리 내 파일 변경 시에만 실행
-  workflow_dispatch: # 수동 실행 기능 추가
+      - 'data/**' # data/ 디렉토리 내부의 JSON 또는 마크다운 등 원본 데이터가 변경되었을 때만 자동으로 트리거됩니다.
+  workflow_dispatch: # 관리자가 GitHub Action 페이지에서 수동으로 워크플로우를 즉시 실행할 수 있도록 지원합니다.
 
+# GitHub Actions 환경에서 리포지토리 쓰기 및 Pages 배포를 수행하기 위한 권한 정의
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: write   # api-data 브랜치로 동기화된 코드 푸시를 위해 필수
+  pages: write      # GitHub Pages 배포를 위한 쓰기 권한
+  id-token: write   # GitHub Pages 배포 시 안전한 OIDC 토큰 검증을 위한 권한
 
-# 환경 변수 동시성 설정 (배포 중복 방지)
+# 동일 워크플로우가 여러 번 실행될 경우 배포 충돌을 방지하기 위한 동시성 설정
 concurrency:
   group: "pages"
-  cancel-in-progress: false
+  cancel-in-progress: false # 진행 중인 배포가 꼬이지 않도록 이전 배포가 완료될 때까지 대기 후 순차 실행합니다.
 
 jobs:
+  # [1단계] 데이터 변경 여부를 분석하고 api-data 브랜치로 데이터를 동기화하는 작업
   sync_data:
     runs-on: ubuntu-latest
+    # 다음 job(deploy_and_trigger)에서 특정 데이터 변경 여부를 읽어 선별적으로 프론트엔드를 트리거하기 위해 output으로 노출
     outputs:
       weddinggo_changed: ${{ steps.changed-files.outputs.weddinggo_any_changed }}
       weddingExpo_changed: ${{ steps.changed-files.outputs.weddingExpo_any_changed }}
     steps:
+      # Git 히스토리를 분석하여 변경 사항을 정확히 추출하기 위해 Checkout
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
           ref: main
-          fetch-depth: 0 # 모든 브랜치 정보를 가져오기 위함
+          fetch-depth: 0 # 이전 커밋 히스토리 전체를 가져와 변경된 파일을 추적할 수 있도록 합니다.
 
+      # 어떤 데이터 디렉토리에서 변경이 일어났는지 검사하는 단계
       - name: Get changed files
         id: changed-files
         uses: tj-actions/changed-files@v45
@@ -41,20 +48,22 @@ jobs:
             weddingExpo:
               - data/weddingExpo/**
 
+      # Git 자동 커밋을 수행할 로봇 계정 정보 설정
       - name: Git identity configuration
         run: |
           git config --global user.name "ablo-bot"
           git config --global user.email "bot@ablo.dot.kr"
 
+      # 변경 사항을 api-data 브랜치에 반영하는 핵심 스크립트
       - name: Sync data to api-data branch
         run: |
-          # 1. api-data 브랜치가 존재하는지 확인하고 체크아웃
+          # 1. api-data 브랜치가 있으면 가져오고 없으면 새로 만듭니다.
           git checkout -B api-data origin/api-data || git checkout -b api-data
           
-          # 2. main 브랜치의 data/ 폴더 내용만 덮어쓰기
+          # 2. main 브랜치에서 업데이트된 data/ 폴더 최신 내용만 가져옵니다.
           git checkout main -- data/
           
-          # 3. 변경사항 여부 확인 및 푸시
+          # 3. 변경 내용이 있을 때에만 커밋 후 강제 푸시합니다.
           git add data/
           if ! git diff --cached --quiet; then
             git commit -m "chore: $(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M:%S') 데이터 자동 업데이트"
@@ -64,31 +73,37 @@ jobs:
             echo "[*] 데이터 변경 사항이 없습니다."
           fi
 
+  # [2단계] 동기화된 데이터를 바탕으로 GitHub Pages 배포 및 연동 리포지토리 트리거 작동
   deploy_and_trigger:
-    needs: sync_data
+    needs: sync_data # 1단계(데이터 동기화)가 정상 종료되어야 실행됩니다.
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
+      # 동기화된 최신 상태의 api-data 브랜치를 가져옵니다.
       - name: Checkout api-data branch
         uses: actions/checkout@v4
         with:
           ref: api-data
 
+      # GitHub Pages 배포 규격에 맞게 환경 설정
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
+      # Static 호스팅을 위해 data/ 디렉토리 자체를 배포 아티팩트로 만듭니다.
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          # data/ 폴더 자체를 루트로 배포 (api.swedding.kr/weddinggo/... 로 접근 가능)
+          # api.swedding.kr/weddinggo/... 와 같은 정적 주소로 JSON 데이터에 바로 접근 가능하도록 설정
           path: './data'
 
+      # 정적 호스팅 사이트에 데이터 반영 배포
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
 
+      # [트리거 A] 웨딩고 정보 데이터(weddinggo)가 바뀌었을 때 wedding-html 프론트엔드 빌드 갱신
       - name: Trigger Frontend Revalidation (wedding-html)
         if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: peter-evans/repository-dispatch@v3
@@ -97,6 +112,7 @@ jobs:
           repository: ablokr/wedding-html
           event-type: api_data_updated
 
+      # [트리거 B] 박람회 정보 데이터(weddingExpo)가 바뀌었을 때 GyeolhonExpo 프론트엔드 빌드 갱신
       - name: Trigger Frontend Revalidation (GyeolhonExpo)
         if: success() && (needs.sync_data.outputs.weddingExpo_changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: peter-evans/repository-dispatch@v3
@@ -105,6 +121,7 @@ jobs:
           repository: ablokr/GyeolhonExpo
           event-type: api_data_updated
 
+      # [트리거 C] 웨딩고 정보 데이터(weddinggo)가 바뀌었을 때 WeddingDay 프론트엔드 빌드 갱신
       - name: Trigger Frontend Revalidation (WeddingDay)
         if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: peter-evans/repository-dispatch@v3
@@ -112,4 +129,3 @@ jobs:
           token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
           repository: ablokr/WeddingDay
           event-type: api_data_updated
-
