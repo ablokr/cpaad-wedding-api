@@ -104,3 +104,12 @@ jobs:
           token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
           repository: ablokr/GyeolhonExpo
           event-type: api_data_updated
+
+      - name: Trigger Frontend Revalidation (WeddingDay)
+        if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
+          repository: ablokr/WeddingDay
+          event-type: api_data_updated
+
