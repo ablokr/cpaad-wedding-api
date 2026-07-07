@@ -121,9 +121,9 @@ jobs:
           repository: ablokr/GyeolhonExpo
           event-type: api_data_updated
 
-      # [트리거 C] 웨딩고 정보 데이터(weddinggo)가 바뀌었을 때 WeddingDay 프론트엔드 빌드 갱신
+      # [트리거 C] 박람회 정보 데이터(weddingExpo)가 바뀌었을 때 WeddingDay 프론트엔드 빌드 갱신
       - name: Trigger Frontend Revalidation (WeddingDay)
-        if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
+        if: success() && (needs.sync_data.outputs.weddingExpo_changed == 'true' || github.event_name == 'workflow_dispatch')
         uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
