@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-08T13:30:02Z",
-  "total_ad_count": 144,
+  "last_updated": "2026-07-08T19:30:03Z",
+  "total_ad_count": 147,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ePnt1SbWi.jpg",
@@ -1413,10 +1413,10 @@
       "gather_name": "에스가든 청주 대형 웨딩박람회",
       "ad_info": "안심보장 제도로 믿을 수 있는 청주 최대규모 웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
       "ad_location": "충북 청주시 서원구 1순환로 854 CJB미디어센터 ||(산남동 320)||에스가든웨딩홀 청주점 특별전시장",
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-19"
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
     },
     "palmfair03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lv8I1S4bPLUzmyMMjGJKc1yh.jpg",
@@ -1516,6 +1516,20 @@
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
     },
+    "knockWed06": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_W6fgKqO5tAsS.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_VPgrWAJInbFk4n8rIxdm84VbJ.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_zgHOBSMuf9sDam6.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed06/",
+      "region": "jeolla",
+      "gather_name": "광주 드메르 웨딩박람회",
+      "ad_info": "웨딩상담도 데이트코스!",
+      "ad_year": "2026",
+      "ad_date": "07월 17일(금) 단, 하루!",
+      "ad_location": "광주 서구 풍서좌로 269||(벽진동 285-16)||제이아트 웨딩컨벤션",
+      "start_date": "2026-07-17",
+      "end_date": "2026-07-17"
+    },
     "knockWed07": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_4WJTa4KFLAPwJp8q.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_72pfLPvLTNyJpQI5hyViUj6Tt.jpg",
@@ -1530,6 +1544,20 @@
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
     },
+    "knockWed04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_88loXGsvlYokqvSrAvh1PxeBew.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_TFxuHYVbp75J4FMyC193xRIBrRY4J1V2.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed04/",
+      "region": "jeolla",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "ad_info": "품격이 다른 웨딩문화 체험관",
+      "ad_year": "2026",
+      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_location": "광주 동구 서석로7번길 9-1||(불로동 38-3)||브라이덜마리브",
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19"
+    },
     "whw05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
@@ -1543,6 +1571,20 @@
       "ad_location": "전북 군산시 은파순환길 20||(나운동 1234-31)||호텔은파팰리스 특별행사장",
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
+    },
+    "knockWed18": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_RUoPmdhduoL5Gz1iURxWnsnC.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_LAD5JwmXsrBQBVF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_KBMEywOxzVMKiubFcZQZMdZnx8AaUXT.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed18/",
+      "region": "jeolla",
+      "gather_name": "광주 신세계웨딩 팝업스토어",
+      "ad_info": "진짜 웨딩상담을 받다 전남,목포 고객님만을 위한 혜택",
+      "ad_year": "2026",
+      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_location": "광주 서구 무진대로 932||(광천동 49-1)||신세계백화점 광주신세계점 8층",
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19"
     },
     "theBWSF01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_4LX6sdvjxnYRxlVUEtg7AJC.jpg",
@@ -1749,10 +1791,10 @@
       "gather_name": "창원 KNN 웨딩박람회",
       "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_date": "07월 11일(토) ~ 07월 12일(일) 07월 18일(토) ~ 07월 19일(일)",
       "ad_location": "경남 창원시 성산구 용지로 112||(중앙동 94-1)||삼성스토어 창원점",
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-19"
+      "start_date": "2026-07-11",
+      "end_date": "2026-07-12"
     },
     "palmfair06": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_RCdEQC9E2no6EkpbqriLIh9PCf.jpg",
