@@ -1028,5 +1028,419 @@
     },
     "updated_at": "2026-07-08 16:00:49",
     "revenue": 40000
+  },
+  {
+    "idx": 1402,
+    "campaign_id": "knockWed06",
+    "gather_name": "광주 드메르 웨딩박람회",
+    "organizer_name": "광주웨딩연합회",
+    "seo_metadata": {
+      "title": "광주 드메르 웨딩박람회 | 단 하루 특별 혜택 및 스드메 패키지 상담",
+      "meta_description": "광주 드메르 웨딩박람회에서 준비한 단 하루 특별 혜택! 스드메 패키지부터 웨딩홀 대관료 할인까지, 예비부부를 위한 맞춤 상담과 계약 축하금을 지금 바로 확인하고 무료 사전 등록하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주드메르웨딩홀",
+        "광주스드메",
+        "광주웨딩홀추천",
+        "광주혼수",
+        "신혼부부혜택",
+        "광주결혼박람회일정",
+        "광주예식장",
+        "웨딩패키지상담"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 광주 예비부부라면 절대 놓칠 수 없는 단 하루의 기회! 광주 드메르 웨딩박람회는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 솔루션을 제공합니다. 신뢰할 수 있는 웨딩홀부터 프리미엄 스드메 패키지까지, 전문가와 1:1 상담을 통해 나만의 완벽한 웨딩을 설계해 보세요.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 받을 수 있는 푸짐한 선물과 함께, 현장 계약 시 최대의 비용 절감 혜택을 준비했습니다. 특히 웨딩홀 대관료 및 식대 프로모션과 함께 웨딩홀+스드메 동시 계약 시 예약금 10만원 지원 혜택이 기다리고 있습니다. 원장 지정비 0원 혜택, 촬영용 웨딩드레스 및 생화 부케 업그레이드 등 실질적인 비용 절감과 퀄리티를 모두 잡을 수 있는 특별한 구성입니다.",
+      "summary_for_search": "광주 드메르 웨딩박람회 단 하루 특별 이벤트! 웨딩홀 식대 할인, 스드메 패키지 혜택, 계약금 지원 등 예비부부를 위한 파격적인 프로모션을 확인하고 무료 사전 참가 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "광주 드메르 웨딩박람회, 단 하루! 스드메 & 웨딩홀 최대 혜택",
+      "secondary_headline": "합리적인 가격의 프리미엄 웨딩 패키지부터 계약금 10만원 지원까지, 광주 예비부부 필수 코스",
+      "urgency_text": "07월 17일(금) 단, 하루!",
+      "call_to_action_text": "무료 사전 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담 시 선물 증정",
+        "원장 지정비 0원 혜택"
+      ],
+      "contract_benefits": [
+        "웨딩홀 대관료 및 식대 프로모션",
+        "웨딩홀+스드메 동시 계약 시 예약금 10만원 지원",
+        "스튜디오 페이지 업그레이드/액자 업그레이드/수정본 SV",
+        "촬영용 웨딩드레스 및 생화 부케 포함 프리미엄 패키지"
+      ],
+      "special_events": [
+        "시크릿 웨딩드레스 피팅 체험",
+        "웨딩 전문 1:1 상담",
+        "포토 1회, 드레스 피팅 1회 등 체험 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-17",
+        "end_date": "2026-07-17",
+        "display_date": "07월 17일(금) 단, 하루!",
+        "original_display_date": "07월 17일(금) 단, 하루!"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "광주 서구 풍서좌로 269",
+        "venue": "제이아트 웨딩컨벤션",
+        "parking_info": "현장 주차 가능",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "신부 연락처",
+        "방문 예정일"
+      ],
+      "gift_conditions": "현장 상담 및 계약 시 혜택 제공",
+      "trust_indicators": [
+        "인증된 웨딩기업 파트너십",
+        "전문가 1:1 맞춤 상담 보장",
+        "계약 강요 없는 투명한 견적 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 드메르 웨딩박람회",
+        "startDate": "2025-07-17T10:00",
+        "endDate": "2025-07-17T18:00",
+        "location": {
+          "@type": "Place",
+          "name": "제이아트 웨딩컨벤션",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "광주 광산구 임방울대로 549",
+            "addressLocality": "광주",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "광주웨딩연합회",
+          "url": "https://ad.cpaad.co.kr/knockWed06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "네, 원활한 1:1 상담과 방문 혜택을 제공해 드리기 위해 사전 참가 신청 후 방문을 권장합니다."
+        },
+        {
+          "question": "상담 시 계약 강요가 있나요?",
+          "answer": "광주 드메르 웨딩박람회는 투명한 견적 비교를 지향하며, 강요 없는 자유로운 상담 환경을 보장합니다."
+        },
+        {
+          "question": "웨딩홀 계약 시 어떤 혜택이 있나요?",
+          "answer": "웨딩홀 대관료 및 식대 할인 프로모션이 진행되며, 스드메와 동시 계약 시 추가 혜택을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차장은 어떻게 이용하나요?",
+          "answer": "행사 장소인 광주 드메르 웨딩홀 전용 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "광주 지역 유수의 스튜디오, 드레스샵, 메이크업 샵, 허니문 여행사 및 예물/예복 전문 업체들이 참여합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "광주 지역에서 결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메와 웨딩홀 견적을 비교하고 싶은 커플을 위해 기획되었습니다. 특히 합리적인 비용으로 프리미엄 서비스를 받고 싶은 예비부부와 6개월 이내 예식을 준비 중인 커플들에게 맞춤형 컨설팅을 제공합니다. 결혼 준비를 어디서부터 어떻게 시작해야 할지 고민인 분들이라면 전문가와의 상담을 통해 맞춤형 웨딩 플랜을 확인하실 수 있습니다.",
+      "exhibitor_highlights": [
+        "프리미엄 웨딩홀 연계 업체",
+        "광주 지역 전문 스튜디오",
+        "시크릿 웨딩드레스샵",
+        "메이크업 전문 샵",
+        "허니문 및 혼수 업체"
+      ],
+      "comparison_hooks": [
+        "광주 최다 업체가 참여하는 단 하루의 집중 상담",
+        "계약 강요 없는 투명한 견적 비교 시스템",
+        "단독 제휴를 통한 추가 현장 할인 및 계약금 지원"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩박람회 추천",
+        "광주 스드메 가격 비교",
+        "광주 웨딩홀 대관료 할인",
+        "결혼 준비 체크리스트",
+        "광주 드메르 웨딩홀 상담",
+        "웨딩박람회 방문 혜택",
+        "광주 신혼여행 상담",
+        "스드메 패키지 구성",
+        "예비부부 혼수 준비",
+        "광주 웨딩 메이크업 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 더 알아보기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "광주 스드메 패키지 안내",
+          "category": "sdeume"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "웨딩플래너",
+        "본식스냅",
+        "예복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 드메르 웨딩박람회, 예비부부 필수 코스!",
+      "og_description": "광주 웨딩박람회 단 하루! 스드메 최대 할인과 웨딩홀 혜택을 놓치지 마세요. 지금 무료 신청하기.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#드메르웨딩홀",
+        "#광주스드메",
+        "#광주웨딩홀",
+        "#결혼준비",
+        "#웨딩박람회",
+        "#신혼부부",
+        "#광주예비부부",
+        "#웨딩이벤트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/knockWed06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_W6fgKqO5tAsS.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_VPgrWAJInbFk4n8rIxdm84VbJ.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_zgHOBSMuf9sDam6.jpg"
+    },
+    "updated_at": "2026-07-08 19:00:47",
+    "revenue": 40000
+  },
+  {
+    "idx": 1212,
+    "campaign_id": "knockWed04",
+    "gather_name": "광주 유스퀘어 웨딩박람회",
+    "organizer_name": "광주웨딩연합회",
+    "seo_metadata": {
+      "title": "광주 웨딩박람회 | 유스퀘어 브라이덜마리브 상담 시 최대 50만원 혜택",
+      "meta_description": "광주 동구 유스퀘어에서 열리는 프리미엄 웨딩박람회! 7월 18일~19일, 상담만 받아도 드리는 풍성한 방문 사은품과 계약 시 최대 50만원 추가 할인 혜택을 놓치지 마세요. 지금 무료 사전 예약하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "유스퀘어웨딩박람회",
+        "광주결혼준비",
+        "광주스드메",
+        "광주웨딩홀",
+        "광주혼수",
+        "광주예물예복",
+        "브라이덜마리브",
+        "광주웨딩플래너",
+        "결혼준비꿀팁"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 막막함을 설렘으로 바꾸는 광주 유스퀘어 웨딩박람회에 초대합니다. 검증된 웨딩 브랜드와 1:1 맞춤 상담을 통해 가장 합리적이고 트렌디한 결혼 준비를 도와드립니다.",
+      "benefits_description": "이번 박람회는 단순 관람을 넘어 실제 예비부부님들께 필요한 실질적인 혜택을 가득 담았습니다. 방문만 하셔도 드리는 특별 선물은 물론, 현장 계약 시 최대 50만원의 추가 지원금 혜택과 웨딩 드레스 피팅 체험, 모바일 청첩장 제작 등 다채로운 구성을 준비했습니다. 전문가의 체계적인 관리를 통해 예산에 맞는 최적의 플랜을 완성해보세요.",
+      "summary_for_search": "7월 18일~19일 광주 유스퀘어 브라이덜마리브에서 개최! 스드메, 웨딩홀, 혼수까지 한자리에서 비교하고 상담 시 최대 50만원 지원 혜택을 받아보세요. 예비부부를 위한 프리미엄 웨딩 박람회 사전 예약 진행 중입니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 아직도 고민인가요? 상담만 받아도 최대 50만원 혜택!",
+      "secondary_headline": "광주 유스퀘어에서 만나는 프리미엄 웨딩 브랜드, 1:1 맞춤형 컨설팅으로 시작하세요.",
+      "urgency_text": "단 2일간 진행되는 특별 혜택! 선착순 한정 예약 조기 마감 예정",
+      "call_to_action_text": "지금 무료 사전 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 사은품 증정",
+        "상담 시 커피 쿠폰 증정"
+      ],
+      "contract_benefits": [
+        "계약 축하금 최대 50만원 지원",
+        "식전 영상 제작",
+        "모바일 청첩장 제공",
+        "생화부케 및 메이크업 지정권"
+      ],
+      "special_events": [
+        "웨딩 드레스 피팅 체험",
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "브랜드 웨딩 드레스 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "display_date": "07월 18일(토) ~ 07월 19일(일)",
+        "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "광주 동구 서석로7번길 9-1",
+        "venue": "브라이덜마리브",
+        "parking_info": "광주 유스퀘어 주차장 이용 가능",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 후 증정",
+      "trust_indicators": [
+        "참가자 만족도 96% 기록",
+        "정찰제 시스템 도입",
+        "현금영수증 발행 의무화",
+        "검증된 프리미엄 웨딩 브랜드 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 유스퀘어 웨딩박람회",
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-19",
+        "location": {
+          "@type": "Place",
+          "name": "브라이덜마리브",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "광주 서구 무진대로 904",
+            "addressLocality": "광주광역시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "광주웨딩연합회",
+          "url": "https://ad.cpaad.co.kr/knockWed04/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "입장료가 있나요?",
+          "answer": "아니요, 사전 예약 시 누구나 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 광주 유스퀘어 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 현장 상담에 참여하시는 모든 분께 드리는 방문 사은품이 준비되어 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스드메 패키지, 허니문, 예물, 예복, 가전 등 결혼 준비에 필요한 모든 분야의 검증된 브랜드가 참여합니다."
+        },
+        {
+          "question": "웨딩 플래너 상담은 어떻게 진행되나요?",
+          "answer": "경력 있는 전문 플래너와 1:1로 매칭되어 예산과 취향에 맞는 맞춤형 웨딩 플랜을 제안받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼을 결심하고 어디서부터 준비해야 할지 막막한 예비부부, 스드메 비용을 비교 중인 신혼부부, 혹은 바쁜 일상 속에서 합리적이고 효율적으로 웨딩 준비를 마치고 싶은 분들을 위해 기획되었습니다. 결혼 준비가 처음이라 겪는 시행착오를 줄이고 싶거나, 가격 거품 없는 정찰제 웨딩 서비스를 찾고 계신 분들께 최적의 솔루션을 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "브랜드 웨딩 드레스샵",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "웨딩홀 컨설팅"
+      ],
+      "comparison_hooks": [
+        "호객 행위 없는 쾌적하고 차분한 상담 환경 제공",
+        "투명한 가격 정찰제 및 현금영수증 발행 원칙",
+        "25년 경력의 시스템 웨딩 브랜드가 제안하는 트렌디한 웨딩 솔루션"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 결혼 준비 순서",
+        "스드메 패키지 가격 비교",
+        "광주 웨딩홀 추천 리스트",
+        "웨딩박람회 방문 혜택",
+        "신혼여행 준비물",
+        "예물 예복 브랜드 추천",
+        "광주 웨딩플래너 추천",
+        "결혼 예산 짜기",
+        "웨딩 드레스 투어 팁",
+        "박람회 계약 전 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 전체 웨딩박람회 일정 확인",
+          "category": "wedding_schedule"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "웨딩 플래너",
+        "혼수 가전",
+        "결혼 예산",
+        "웨딩 촬영",
+        "맞춤 예복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 웨딩박람회 상담만 해도 50만원 혜택!",
+      "og_description": "유스퀘어에서 열리는 프리미엄 웨딩 페어. 지금 무료 사전 예약하고 최대 혜택을 받아보세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주웨딩홀",
+        "#광주스드메",
+        "#유스퀘어웨딩박람회",
+        "#예비부부",
+        "#결혼준비",
+        "#웨딩박람회",
+        "#신혼부부혜택",
+        "#광주웨딩"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/knockWed04/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_88loXGsvlYokqvSrAvh1PxeBew.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_TFxuHYVbp75J4FMyC193xRIBrRY4J1V2.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg"
+    },
+    "updated_at": "2026-07-08 19:01:04",
+    "revenue": 40000
   }
 ]
