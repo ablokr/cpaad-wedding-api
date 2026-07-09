@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-09T10:00:03Z",
+  "last_updated": "2026-07-09T13:00:03Z",
   "total_ad_count": 148,
   "advertisements": {
     "iniwedding05": {
@@ -2464,32 +2464,6 @@
       },
       "revenue": 30000
     },
-    "revewedding25": {
-      "idx": 1795,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_quvx7CnSMVE.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wn87BMvJQwuT.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_weMaHQX8eex2UcfZiWWj.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/revewedding25/",
-      "region": "chungcheong",
-      "gather_name": "천안 신세계백화점 웨딩박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
-      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
-      "start_date": "2026-07-18",
-      "end_date": "2026-07-19",
-      "preprocessed": {
-        "location": {
-          "sido": "충남",
-          "sido_en": "chungnam",
-          "sigungu": "천안시",
-          "sigungu_en": "cheonan",
-          "address": "충남 천안시 동남구 만남로 43",
-          "venue": "신세계백화점 천안아산점 A관 4층"
-        }
-      },
-      "revenue": 50000
-    },
     "withyouwedding06": {
       "idx": 1183,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_nVGL6ow2u8aWDENPh.jpg",
@@ -2541,6 +2515,32 @@
         }
       },
       "revenue": 30000
+    },
+    "revewedding25": {
+      "idx": 1795,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_quvx7CnSMVE.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wn87BMvJQwuT.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_weMaHQX8eex2UcfZiWWj.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding25/",
+      "region": "chungcheong",
+      "gather_name": "천안 신세계백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 18일(토) ~ 07월 19일(일)",
+      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "preprocessed": {
+        "location": {
+          "sido": "충남",
+          "sido_en": "chungnam",
+          "sigungu": "천안시",
+          "sigungu_en": "cheonan",
+          "address": "충남 천안시 동남구 만남로 43",
+          "venue": "신세계백화점 천안아산점 A관 4층"
+        }
+      },
+      "revenue": 50000
     },
     "larawedding01": {
       "idx": 1428,
