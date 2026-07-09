@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 148,
+    "total_count": 149,
     "region_count": 16,
     "district_count": 51,
-    "updated_at": "2026-07-09 13:30:19"
+    "updated_at": "2026-07-09 19:30:18"
   },
   "items": [
     {
@@ -1372,6 +1372,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1851,
       "campaign_id": "wedingcrowd115",
       "gather_name": "서울 영등포 웨딩크라우드 웨딩박람회",
       "display_date": "07월 18일(토) ~ 07월 19일(일)",
@@ -1380,7 +1381,8 @@
       "sigungu": "영등포구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wQF8u1LxPGVfsnAqmyHySTvnXTaEm.jpg",
-      "updated_at": "2026-06-30 19:30:20"
+      "updated_at": "2026-06-30 19:30:20",
+      "revenue": 30000
     },
     {
       "idx": 1747,
@@ -1927,6 +1929,17 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_RwDmzMGOi44XTMkq8aEOap2F6G.jpg",
       "updated_at": "2026-07-09 13:30:19",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "banhana14",
+      "gather_name": "제주웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "너랑같이제주 본점",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_rajNxPUIhEH8GTPswCo7izzh.jpg",
+      "updated_at": "2026-07-09 19:30:18"
     }
   ]
 }
