@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-10T10:00:03Z",
-  "total_ad_count": 149,
+  "last_updated": "2026-07-10T13:00:04Z",
+  "total_ad_count": 151,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_ePnt1SbWi.jpg",
@@ -1348,6 +1348,20 @@
       "start_date": "2026-07-11",
       "end_date": "2026-07-12"
     },
+    "wedingcrowd60": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_o1Bj4kY9Ix.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_x3mX1n9ZrKeByGP5NDjCoud.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_8w1iSvTfEOy6jnmDJto6OFuO2Jl.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd60/",
+      "region": "chungcheong",
+      "gather_name": "대전 웨딩크라우드 웨딩박람회",
+      "ad_info": "대전 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 25일(토) ~ 07월 26일(일)",
+      "ad_location": "대전 서구 대덕대로 254||(둔산동 1372)||삼성스토어 대전본점 특별행사장",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-26"
+    },
     "withyouwedding03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_xFBMxE8NIebtQPyPMESR1nVq.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_cQNCFUa4Wf1z8G.jpg",
@@ -1921,6 +1935,20 @@
       "ad_location": "대구 동구 동부로 149||(신천동 1506)||신세계백화점 대구점 7층 LG베스트샵",
       "start_date": "2026-07-18",
       "end_date": "2026-07-19"
+    },
+    "wwedding08": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_PTWWWql8xeCoDhl2fWZD.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_irJCvQP4W4Kz5jw9l4ZXgbbBFpdPwnG.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_y5uAmu6lxaUuMqJpnteYC5Kk5TScRscw.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding08/",
+      "region": "gyeongsang",
+      "gather_name": "창원 웨딩박람회",
+      "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "07월 25일(토) ~ 07월 26일(일)",
+      "ad_location": "경남 창원시 성산구 중앙대로 69||(중앙동 97-4)||호텔인터내셔널 2층 누벨르홀",
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-26"
     },
     "banhanaH04": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_fWRVfhQ7WTOgR7B4IxnpoRlL1I3UR.jpg",
