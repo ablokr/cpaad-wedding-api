@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 127,
+    "total_count": 136,
     "region_count": 15,
-    "district_count": 47,
-    "updated_at": "2026-07-13 13:11:48"
+    "district_count": 48,
+    "updated_at": "2026-07-13 16:03:21"
   },
   "items": [
     {
@@ -1259,6 +1259,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1640,
       "campaign_id": "DirectWeddingFair01",
       "gather_name": "다이렉트 결혼준비 웨딩박람회",
       "display_date": "매주 주말 오전 10시 ~ 오후 8시",
@@ -1267,7 +1268,8 @@
       "sigungu": "강남구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
-      "updated_at": "2026-07-13 13:02:39"
+      "updated_at": "2026-07-13 13:02:39",
+      "revenue": 30000
     },
     {
       "idx": 1818,
@@ -1339,12 +1341,12 @@
       "campaign_id": "wedingcrowd57",
       "gather_name": "하남 웨딩크라우드 웨딩박람회",
       "display_date": "07월 25일(토) ~ 07월 26일(일)",
-      "venue": "삼성스토어 신세계하남",
+      "venue": "한샘 스타필드 하남점 특별행사장",
       "sido": "경기",
       "sigungu": "하남시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_nmIPQ9XN4t7fSB7UHgR.jpg",
-      "updated_at": "2026-07-13 13:05:06",
+      "updated_at": "2026-07-13 16:00:22",
       "revenue": 30000
     },
     {
@@ -1387,6 +1389,7 @@
       "revenue": 30000
     },
     {
+      "idx": 588,
       "campaign_id": "palmfair04",
       "gather_name": "부산 팜투어 허니문박람회",
       "display_date": "07월 18일(토) ~ 07월 19일(일)",
@@ -1395,7 +1398,8 @@
       "sigungu": "부산진구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_gvg62nPV.jpg",
-      "updated_at": "2026-07-13 13:06:17"
+      "updated_at": "2026-07-13 13:06:17",
+      "revenue": 35000
     },
     {
       "idx": 1668,
@@ -1630,6 +1634,123 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_xawaGpCkayO4K.jpg",
       "updated_at": "2026-07-13 13:11:48",
       "revenue": 35000
+    },
+    {
+      "idx": 1753,
+      "campaign_id": "wncowedding19",
+      "gather_name": "고양 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "스타필드 고양 (지하1층)",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+      "updated_at": "2026-07-13 16:00:59",
+      "revenue": 30000
+    },
+    {
+      "idx": 1456,
+      "campaign_id": "withyouwedding34",
+      "gather_name": "부천 위드유 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "삼성스토어 부천중동점 2층 특별행사장",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_qbZl5Pe5LVXIMitggM1PNejT.jpg",
+      "updated_at": "2026-07-13 16:01:14",
+      "revenue": 30000
+    },
+    {
+      "idx": 1189,
+      "campaign_id": "withyouwedding12",
+      "gather_name": "안산 위드유 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "삼성스토어 안산고잔점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_TskzyEuYXm9sRZBXE.jpg",
+      "updated_at": "2026-07-13 16:01:29",
+      "revenue": 30000
+    },
+    {
+      "idx": 1578,
+      "campaign_id": "wncowedding09",
+      "gather_name": "천안/아산 웨딩박람회",
+      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "venue": "LG전자베스트샵 갤러리아센터시티점",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_TnTqoZW5noIrp9Y5.jpg",
+      "updated_at": "2026-07-13 16:01:45",
+      "revenue": 30000
+    },
+    {
+      "idx": 1836,
+      "campaign_id": "wncowedding22",
+      "gather_name": "인천 웨딩박람회",
+      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "인천",
+      "sigungu": "미추홀구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_srBrsJzn54hAZbmsNucD.jpg",
+      "updated_at": "2026-07-13 16:02:02",
+      "revenue": 30000
+    },
+    {
+      "idx": 1575,
+      "campaign_id": "wncowedding08",
+      "gather_name": "평택웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "삼성스토어 AK평택",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+      "updated_at": "2026-07-13 16:02:17",
+      "revenue": 30000
+    },
+    {
+      "idx": 1184,
+      "campaign_id": "withyouwedding07",
+      "gather_name": "원주 위드유 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "삼성스토어 단계점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_YmGTbLgI4354Q2r3rIVpPnYAzEJg.jpg",
+      "updated_at": "2026-07-13 16:02:49",
+      "revenue": 30000
+    },
+    {
+      "idx": 1186,
+      "campaign_id": "withyouwedding09",
+      "gather_name": "춘천 위드유 웨딩박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "LG전자베스트샵 춘천퇴계점 특별행사장",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_PKmqfY25fX5fEdrFPwa.jpg",
+      "updated_at": "2026-07-13 16:03:05",
+      "revenue": 30000
+    },
+    {
+      "idx": 1086,
+      "campaign_id": "theBWSF01",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "sido": "광주",
+      "sigungu": "동구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dM3ZD8wNX7mfQX1d.jpg",
+      "updated_at": "2026-07-13 16:03:21",
+      "revenue": 30000
     }
   ]
 }
