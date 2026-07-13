@@ -1,0 +1,211 @@
+{
+  "campaign_id": "DirectWeddingFair01",
+  "gather_name": "다이렉트 결혼준비 웨딩박람회",
+  "organizer_name": "다이렉트컴즈",
+  "seo_metadata": {
+    "title": "다이렉트 결혼준비 웨딩박람회 | 강남 본사 상담 시 15만원 할인 혜택",
+    "meta_description": "매주 주말 서울 강남에서 열리는 다이렉트 결혼준비 웨딩박람회! 85만 예비부부의 선택, 스드메 최대 15만원 할인과 5% 캐시백 등 실속 있는 결혼 준비 혜택을 지금 바로 확인하세요.",
+    "keywords": [
+      "웨딩박람회",
+      "서울웨딩박람회",
+      "결혼준비",
+      "다이렉트결혼준비",
+      "스드메견적",
+      "신혼부부혜택",
+      "강남웨딩박람회",
+      "웨딩홀추천",
+      "결혼준비체크리스트",
+      "스드메패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해결해 줄 최고의 파트너, 다이렉트 결혼준비 웨딩박람회를 소개합니다. 예비부부의 소중한 시간을 절약하고 합리적인 비용으로 꿈꾸던 결혼식을 실현할 수 있도록 서울 강남 본사에서 매주 주말 여러분을 기다립니다.",
+    "benefits_description": "이번 박람회는 방문만 해도 증정되는 럭키박스부터 계약 시 최대 15만원 할인 쿠폰 및 5% 캐시백 등 파격적인 혜택이 가득합니다. 정찰제 기반의 투명한 가격 공개로 불필요한 비용을 줄였으며, 85만 쌍의 선배 부부가 선택한 체계적인 시스템을 통해 스드메부터 혼수, 예물까지 원스톱으로 비교해보세요. 직접 눈으로 확인하고 전문가와 1:1 상담을 통해 나만의 맞춤 웨딩을 완성할 수 있습니다.",
+    "summary_for_search": "매주 주말 열리는 다이렉트 결혼준비 웨딩박람회! 서울 강남 본사에서 진행되며 스드메 최대 15만원 할인, 5% 캐시백, 방문 상담 선물 등 실속 있는 결혼 준비 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 지금 시작하면 최대 5% 캐시백과 15만원 할인!",
+    "secondary_headline": "85만 예비부부가 선택한 정찰제 스드메, 강남 본사에서 1:1 맞춤 상담으로 투명하게 준비하세요.",
+    "urgency_text": "매주 선착순 상담 진행, 지금 예약하지 않으면 혜택이 마감될 수 있습니다.",
+    "call_to_action_text": "지금 바로 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 경품 혜택",
+      "웨딩 가이드북 및 웨딩 다이어리 증정",
+      "계약 시 최대 15만원 할인 쿠폰"
+    ],
+    "contract_benefits": [
+      "스드메 최대 5% 캐시백",
+      "혼수·예물 계약 시 최대 40% 할인",
+      "웨딩홀 계약 시 최대 14만원 포인트 지급"
+    ],
+    "special_events": [
+      "현장 1:1 전문가 맞춤 상담",
+      "동행/비동행 전문가 비교 컨설팅",
+      "스드메 정찰제 가격 비교 체험"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-18",
+      "end_date": "2026-07-19",
+      "display_date": "매주 주말 오전 10시 ~ 오후 8시",
+      "original_display_date": "매주 주말 오전 10시 ~ 오후 8시"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 도산대로 221 8층",
+      "venue": "다이렉트 결혼준비 서울본사",
+      "parking_info": "이미지상 명시되지 않음",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "궁금한 내용"
+    ],
+    "gift_conditions": "방문 상담 완료 시 증정, 경품 및 할인 혜택은 상담 후 안내.",
+    "trust_indicators": [
+      "85만 쌍 예비부부 선택",
+      "10년 이상의 운영 노하우",
+      "1,800여개 이상의 제휴 업체",
+      "투명한 정찰제 시스템"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "다이렉트 결혼준비 웨딩박람회",
+      "description": "스드메 최대 15만원 할인 및 캐시백 혜택이 제공되는 서울 웨딩박람회",
+      "startDate": "2024-01-01T10:00",
+      "endDate": "2025-12-31T20:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "다이렉트 결혼준비 서울본사",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "도산대로 221",
+          "addressLocality": "강남구",
+          "addressRegion": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "다이렉트컴즈",
+        "url": "https://ad.cpaad.co.kr/DirectWeddingFair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 다이렉트 결혼준비 웨딩박람회는 사전 신청 시 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메 패키지, 웨딩홀, 예물, 예복, 혼수 가전 등 결혼 준비에 필요한 1,800여 개의 제휴 업체가 참여합니다."
+      },
+      {
+        "question": "상담 시 꼭 계약해야 하나요?",
+        "answer": "아니요, 상담만 받으셔도 사은품을 드리며, 계약 여부는 상담 후 충분히 고민하신 뒤 결정하셔도 됩니다."
+      },
+      {
+        "question": "동행과 비동행 중 무엇이 좋나요?",
+        "answer": "박람회 현장에서 두 방식의 차이점을 상세히 비교해드리고 예비부부의 성향에 맞는 합리적인 방식을 제안해 드립니다."
+      },
+      {
+        "question": "박람회 예약은 어떻게 하나요?",
+        "answer": "상단 또는 하단의 '무료 초청장 신청' 폼을 통해 이름과 연락처, 예식 예정일을 입력하시면 예약이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼을 결심하고 어디서부터 시작해야 할지 고민하는 예비부부, 스드메 견적을 투명하게 비교하고 싶은 커플, 합리적인 비용으로 고품질의 웨딩 서비스를 원하는 신혼부부를 대상으로 합니다. 막연한 결혼 준비 과정에서 전문가의 가이드를 통해 시간과 비용을 동시에 절약하고 싶은 모든 예비 신랑신부님께 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오, 드레스, 메이크업) 전문업체",
+      "웨딩홀 추천 및 상담 데스크",
+      "허니문 여행사",
+      "예물 및 명품 예복 브랜드",
+      "혼수 가전 및 가구 업체"
+    ],
+    "comparison_hooks": [
+      "정찰제 시스템으로 운영되어 가격 거품이 없습니다.",
+      "1,800개 이상의 국내 최대 제휴 업체가 참여합니다.",
+      "현장 상담 시 즉시 사용 가능한 할인 쿠폰과 캐시백을 제공합니다."
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "다이렉트 결혼준비 후기",
+      "서울 웨딩홀 투어 팁",
+      "결혼준비 체크리스트 엑셀",
+      "예물 예복 박람회 혜택",
+      "비동행 웨딩업체 장점",
+      "웨딩박람회 예약 안 하면",
+      "스드메 캐시백 환급",
+      "강남 웨딩컨설팅 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩홀 전체 리스트 확인하기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "실시간 스드메 견적 비교",
+        "category": "s_d_m"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "예물",
+      "허니문",
+      "결혼식비용",
+      "웨딩플래너",
+      "본식스냅",
+      "메이크업샵",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "다이렉트 결혼준비 웨딩박람회 | 최대 15만원 할인",
+    "og_description": "강남에서 열리는 웨딩박람회! 스드메 할인부터 캐시백 혜택까지, 예비부부라면 지금 바로 신청하고 혜택 챙기세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#다이렉트결혼준비",
+      "#스드메",
+      "#서울웨딩박람회",
+      "#예비부부",
+      "#결혼준비시작",
+      "#웨딩홀상담",
+      "#신혼부부혜택",
+      "#강남웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/DirectWeddingFair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_k6xuxvmmVXGrDW3h6Q.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mq4LrtE61uuzEV7Jigi1.jpg"
+  },
+  "updated_at": "2026-07-13 13:02:39"
+}

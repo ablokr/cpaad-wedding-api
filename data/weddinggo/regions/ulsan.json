@@ -1,1 +1,403 @@
-[]
+[
+  {
+    "idx": 1653,
+    "campaign_id": "banhanaH06",
+    "gather_name": "울산 반하나 허니문 박람회",
+    "organizer_name": "반하나웨딩 컨설팅",
+    "seo_metadata": {
+      "title": "울산 허니문 박람회 | 반하나투어 신선도원점 특별 혜택 및 신혼여행 상담",
+      "meta_description": "울산 북구 신선도원점 반하나투어 허니문 박람회 개최! 2026 신혼여행 최대 100만원 할인과 캐리어 증정 등 단독 프로모션 혜택을 지금 사전 예약하고 확인하세요.",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산허니문박람회",
+        "신혼여행준비",
+        "반하나투어",
+        "울산결혼박람회",
+        "신혼여행할인",
+        "허니문패키지",
+        "울산신혼여행",
+        "결혼준비체크리스트",
+        "신혼여행추천"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설레는 시작, 완벽한 허니문을 꿈꾸는 울산 예비부부님들을 위해 '반하나 허니문 박람회'가 개최됩니다. 12만 명 이상이 선택한 믿을 수 있는 전문 브랜드 반하나투어와 함께 환율 걱정 없는 스마트한 신혼여행을 계획해 보세요.",
+      "benefits_description": "박람회 현장에서는 오직 방문객만을 위한 압도적인 혜택이 준비되어 있습니다. 신혼여행 계약 시 최대 100만 원 상당의 상품권 지원은 물론, 현장 계약 고객에게는 여행 필수품인 24인치 캐리어와 실제 달력북을 100% 증정합니다. 타 여행사와 비교해도 평균 10% 이상 저렴한 가격 경쟁력과 고객 안심 플랜 보험까지, 예비부부님의 소중한 시간을 더욱 가치 있게 만들어 드립니다.",
+      "summary_for_search": "울산 신선도원점에서 열리는 반하나투어 허니문 박람회! 2026 신혼여행 최대 100만원 지원과 여행용 캐리어 증정 혜택을 놓치지 마세요. 지금 사전 신청으로 무료 입장하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "신혼여행 준비, 지금 예약하면 최대 100만원 지원!",
+      "secondary_headline": "12만 명이 인정한 신뢰의 브랜드, 반하나투어 신선도원점 단독 허니문 박람회",
+      "urgency_text": "사전 신청 시 무료 입장 및 선착순 혜택 제공",
+      "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "사전 예약 시 무료 입장"
+      ],
+      "contract_benefits": [
+        "신혼여행 계약 시 최대 100만원 상품권 지원",
+        "현장 계약 시 24인치 캐리어 증정",
+        "현장 계약 시 실제 달력북 지급"
+      ],
+      "special_events": [
+        "신선도원점 오픈 기념 특별 이벤트",
+        "1:1 맞춤 허니문 여행 컨설팅"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "display_date": "07월 18일(토) ~ 07월 19일(일)",
+        "original_display_date": "07월 18일(토) ~ 07월 19일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "북구",
+        "sigungu_en": "buk",
+        "address": "울산 북구 진장17길 10 (진장동 705)",
+        "venue": "신선도원몰 1층 반하나투어",
+        "parking_info": "신선도원몰 주차장 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "방문 희망 일자"
+      ],
+      "gift_conditions": "현장 상담 완료 및 계약 체결 시 증정",
+      "trust_indicators": [
+        "12만 8천여 명의 이용객 데이터",
+        "여행자보험 및 배상보험 가입 완료",
+        "소비자 만족도 1위 브랜드",
+        "전국 지점망을 통한 전문 서비스"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 반하나 허니문 박람회",
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-19",
+        "location": {
+          "@type": "Place",
+          "name": "신선도원몰 1층 반하나투어",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "진장17길 10",
+            "addressLocality": "울산 북구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "반하나웨딩 컨설팅",
+          "url": "https://ad.cpaad.co.kr/banhanaH06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 신청을 하시면 무료로 입장이 가능하며 다양한 상담 혜택을 받아보실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사가 진행되는 신선도원몰 내 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "박람회 현장에서 상담 및 계약 진행 시 캐리어 등 다양한 사은품과 상품권 혜택이 제공됩니다."
+        },
+        {
+          "question": "이미 여행지를 정했는데 상담 가능한가요?",
+          "answer": "물론입니다. 전문가가 여행지별 최적의 견적합한 일정과 비용을 상세히 안내해 드립니다."
+        },
+        {
+          "question": "보험 가입은 보장되나요?",
+          "answer": "반하나투어는 여행자 보험과 배상보험 등 고객 안심 플랜을 완벽하게 갖추고 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메와 더불어 가장 설레는 허니문을 준비 중인 커플을 위한 행사입니다. '결혼 준비는 어디서부터?', '신혼여행은 유럽, 하와이, 발리 중 어디가 좋을까?' 고민하는 신혼부부에게 정확한 정보를 제공합니다. 예산 절약과 프리미엄 서비스를 동시에 원하는 꼼꼼한 커플들에게 최고의 선택지입니다.",
+      "exhibitor_highlights": [
+        "허니문 여행 전문 컨설턴트",
+        "발리/하와이/코사무이/유럽 여행 패키지",
+        "신혼여행 보험 전문가"
+      ],
+      "comparison_hooks": [
+        "타 여행사 대비 평균 10% 저렴한 가격 보장",
+        "고객 안심 플랜 보험 체계 구축",
+        "12만 명 이상 검증된 고객 후기 기반 상담"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "울산 신혼여행 준비",
+        "허니문 박람회 혜택",
+        "신혼여행 비수기 성수기",
+        "신혼여행 비용 절약",
+        "유럽 허니문 추천",
+        "발리 풀빌라 허니문",
+        "하와이 신혼여행 패키지",
+        "신혼여행 캐리어 준비",
+        "반하나투어 평점",
+        "결혼 박람회 상담 후기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 허니문 전문 상담",
+          "category": "honeymoon_consulting"
+        }
+      ],
+      "semantic_keywords": [
+        "허니문",
+        "풀빌라",
+        "신혼여행지",
+        "여행자보험",
+        "패키지여행",
+        "예약",
+        "견적비교",
+        "특가상품"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 허니문 박람회 | 신혼여행 최대 100만원 지원",
+      "og_description": "울산 반하나투어 허니문 박람회! 2026 예비부부를 위한 파격 할인과 캐리어 증정 혜택을 확인하세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#울산허니문",
+        "#결혼준비",
+        "#신혼여행지추천",
+        "#반하나투어",
+        "#예비부부",
+        "#신혼부부혜택",
+        "#허니문박람회",
+        "#울산데이트",
+        "#결혼준비시작"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/banhanaH06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Spuz88NQh6jBYetcp.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_D21iHtdZanyD6paVG7AxjDf6NKMXFuQ.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Jkrff9lx8AY.jpg"
+    },
+    "updated_at": "2026-07-13 13:09:52",
+    "revenue": 30000
+  },
+  {
+    "idx": 1440,
+    "campaign_id": "wwedding12",
+    "gather_name": "울산 롯데백화점 W웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "울산 롯데백화점 W웨딩박람회 | 결혼 준비 혜택 및 스드메 견적 비교",
+      "meta_description": "울산 롯데백화점 W웨딩박람회에서 합리적인 결혼 준비를 시작하세요. 스드메 패키지, 혼수, 허니문까지 전문가의 1:1 상담과 현장 계약 혜택을 놓치지 마세요. 지금 사전등록하고 특별한 경품과 최대 할인 기회를 받아보세요.",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산결혼준비",
+        "울산스드메",
+        "W웨딩박람회",
+        "롯데백화점울산점박람회",
+        "신혼부부혜택",
+        "울산웨딩홀추천",
+        "결혼준비체크리스트",
+        "울산허니문",
+        "울산혼수"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비 신랑, 신부님을 위한 울산 지역 최대 규모의 W웨딩박람회가 롯데백화점 울산점에서 개최됩니다. 복잡하고 어려운 결혼 준비 과정을 전문가와 함께 한자리에서 명쾌하게 해결하고, 오직 박람회 현장에서만 만날 수 있는 특별한 혜택을 직접 확인해 보세요.",
+      "benefits_description": "이번 울산 롯데백화점 W웨딩박람회는 20년 경력의 신뢰를 바탕으로 실질적인 비용 절감 혜택을 제공합니다. 현장 상담 시 제공되는 웨딩 컨설팅은 물론, 계약 시 받을 수 있는 스드메 현금 환급 이벤트와 혼수 가전 구매 시 최대 460만 원 상당의 혜택까지 풍성하게 준비했습니다. 더불어 인기 스튜디오의 화보를 직접 살펴보고 최신 트렌드의 드레스 스타일링까지 한눈에 비교하며, 예비 부부의 소중한 예산을 스마트하게 아낄 수 있는 최적의 기회를 선사합니다.",
+      "summary_for_search": "울산 롯데백화점 W웨딩박람회에서 스드메부터 허니문, 혼수까지 한 번에 준비하세요! 전문가의 1:1 맞춤 상담과 현장 계약 환급 혜택, 가전 할인까지 제공됩니다. 지금 무료 사전등록하고 성공적인 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "울산 최대 규모 W웨딩박람회, 20만 쌍이 선택한 이유!",
+      "secondary_headline": "스드메 패키지부터 혼수까지, 지금 사전등록하고 현장 한정 혜택을 누리세요.",
+      "urgency_text": "사전등록 시 우선 상담 및 특별 경품 증정(선착순 한정)",
+      "call_to_action_text": "지금 무료 사전등록하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "온라인 사전등록 시 우선 상담 예약",
+        "박람회 특별 경품 추첨 기회 제공"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 현금 환급 혜택",
+        "가전 구매 금액대별 최대 460만 원 상당 상품권 증정",
+        "혼수/허니문 브랜드별 특별 추가 할인 및 서비스"
+      ],
+      "special_events": [
+        "울산 인기 웨딩홀/스튜디오 실물 전시",
+        "최신 트렌드 웨딩 드레스 전시",
+        "예물/예복/한복 브랜드 1:1 전문 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "display_date": "07월 18일(토) ~ 07월 19일(일) 07월 25일(토) ~ 07월 26일(일)",
+        "original_display_date": "07월 18일(토) ~ 07월 19일(일) 07월 25일(토) ~ 07월 26일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "남구",
+        "sigungu_en": "nam",
+        "address": "울산 남구 삼산로 261",
+        "venue": "롯데백화점 울산점 특별행사장",
+        "parking_info": "롯데백화점 울산점 주차장 이용 가능 (상세 안내 현장 확인)",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "온라인 사전등록 완료 후 현장 방문 및 상담 시 혜택 제공",
+      "trust_indicators": [
+        "20년 경력 웨딩 컨설팅",
+        "20만 쌍 신랑 신부가 선택한 검증된 박람회",
+        "부산/경남 전역 전문 CS센터 운영"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 롯데백화점 W웨딩박람회",
+        "startDate": "2025-07-18",
+        "endDate": "2025-07-26",
+        "location": {
+          "@type": "Place",
+          "name": "롯데백화점 울산점",
+          "address": "울산광역시 남구 삼산로 288"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding12/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 예약은 어떻게 하나요?",
+          "answer": "온라인 페이지에서 간단하게 성함, 연락처, 예식 예정일을 기재하여 사전등록 신청을 완료하시면 됩니다."
+        },
+        {
+          "question": "스드메 패키지 가격대는 어떤가요?",
+          "answer": "박람회 현장에서 상담을 통해 예비 부부의 예산에 맞춘 합리적인 맞춤형 패키지 견적을 안내해 드립니다."
+        },
+        {
+          "question": "결혼 준비가 처음인데 무엇을 해야 할까요?",
+          "answer": "박람회장에 상주하는 웨딩 전문가가 예식장 예약부터 스드메, 혼수까지 상세하게 1:1 맞춤 컨설팅을 진행해 드립니다."
+        },
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전등록 신청 시 무료로 입장이 가능하며 다양한 현장 혜택을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "네, 롯데백화점 울산점 주차장을 이용하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼을 결심하고 구체적인 계획을 세우는 울산 및 경남 지역 예비 신혼부부를 대상으로 합니다. 결혼 준비를 어디서부터 어떻게 시작해야 할지 막막한 커플, 스드메 비용과 웨딩홀 투어 사이에서 고민 중인 분들, 그리고 혼수와 신혼여행까지 합리적인 비용으로 꼼꼼하게 준비하고 싶은 분들에게 최적의 솔루션을 제공합니다.",
+      "exhibitor_highlights": [
+        "울산 인기 웨딩홀 및 예식장 정보",
+        "부산/경남 프리미엄 스튜디오 리스트",
+        "트렌디 웨딩 드레스 전문샵",
+        "혼수 가전 및 예물, 예복 브랜드",
+        "허니문 여행사 특별 상담부스"
+      ],
+      "comparison_hooks": [
+        "20년 운영 노하우로 엄선한 검증된 업체만 참여",
+        "박람회 현장 즉시 계약 시 제공되는 대규모 할인 혜택",
+        "부산/경남 전역을 아우르는 전문 CS센터의 철저한 사후 관리"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "울산 웨딩홀 견적 비교",
+        "결혼 준비 체크리스트 엑셀",
+        "스드메 준비 순서",
+        "울산 예물 잘하는 곳",
+        "W웨딩박람회 후기",
+        "박람회 방문 시 챙길 준비물",
+        "결혼 준비 비용 평균",
+        "울산 한복 대여 가격",
+        "가전 가구 박람회 혜택",
+        "울산 신혼여행 패키지 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 웨딩홀 전체 리스트",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "스드메 등급별 가격표",
+          "category": "sdm_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예물",
+        "예복",
+        "한복",
+        "허니문",
+        "웨딩드레스",
+        "스튜디오",
+        "신혼가전"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 롯데백화점 W웨딩박람회, 지금 무료 입장하세요!",
+      "og_description": "20만 쌍이 선택한 울산 웨딩박람회! 스드메부터 가전까지 최대 혜택 받고 알뜰하게 결혼 준비하세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#결혼준비",
+        "#울산결혼준비",
+        "#W웨딩박람회",
+        "#울산스드메",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#울산웨딩홀",
+        "#신혼부부",
+        "#결혼준비체크리스트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding12/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_T8eN4ayw1pL23JqxFyGg6m7QU.png",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_kND9pMSWGo6OU2V7i4M.png"
+    },
+    "updated_at": "2026-07-13 13:10:37",
+    "revenue": 30000
+  }
+]
