@@ -1,0 +1,207 @@
+{
+  "idx": 1086,
+  "campaign_id": "theBWSF01",
+  "gather_name": "광주 스타일링 웨딩페어",
+  "organizer_name": "더베스트 웨딩페어",
+  "seo_metadata": {
+    "title": "광주 웨딩박람회 | 더베스트웨딩컴퍼니 상담 시 최대 80만원 혜택",
+    "meta_description": "광주 스타일링 웨딩페어 사전 예약하고 최대 80만원 상당의 결혼준비 특전 쿠폰과 스타벅스 기프티콘, 웨딩 다이어리 등 방문 혜택을 챙기세요. 광주 동구 더베스트웨딩컴퍼니에서 만나는 최신 스드메 트렌드와 혼수 할인 기회!",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "더베스트웨딩컴퍼니",
+      "광주스드메",
+      "광주웨딩홀",
+      "결혼준비체크리스트",
+      "광주혼수",
+      "예신예랑",
+      "웨딩페어",
+      "광주웨딩컨설팅"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 시원하게 해결해 줄 '광주 스타일링 웨딩페어'가 열립니다. 광주 지역 예비부부를 위해 준비된 이번 박람회는 스드메부터 혼수, 예물까지 한자리에서 비교하고 합리적인 가격으로 계약할 수 있는 최고의 기회입니다.",
+    "benefits_description": "방문만 해도 제공되는 스타벅스 커피 쿠폰과 웨딩 다이어리부터, 계약 시 최대 80만원의 할인 특전이 기다리고 있습니다. 스드메 패키지 계약 시 20만원 지원, 스튜디오 및 예물 계약 시 추가 할인 등 실질적인 비용 절감 혜택을 놓치지 마세요. 1:1 전문 웨딩 플래너와의 맞춤 상담을 통해 복잡한 예식 준비를 더욱 간편하게 시작할 수 있습니다.",
+    "summary_for_search": "광주 스타일링 웨딩페어는 더베스트웨딩컴퍼니 사옥에서 개최됩니다. 방문 시 스타벅스 쿠폰 및 웨딩 다이어리를 증정하며, 총 80만원 상당의 결혼준비 특전 쿠폰 혜택을 제공합니다. 광주 지역 스드메, 혼수 전문 업체 150여 곳을 한자리에서 비교하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "사전 예약 고객 전원! 총 80만원 결혼준비 특전 쿠폰 증정",
+    "secondary_headline": "광주 최대 규모 150개 업체 입점, 1:1 맞춤 상담으로 완벽한 웨딩 스타일링을 완성하세요.",
+    "urgency_text": "선착순 예약 마감 임박! 지금 등록하고 혜택을 확인하세요.",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "스타벅스 커피 쿠폰",
+      "웨딩 다이어리 증정"
+    ],
+    "contract_benefits": [
+      "총 80만원 상당 특전 쿠폰",
+      "스드메 패키지 최대 20만원 지원",
+      "스튜디오 10만원 할인",
+      "예물 최대 25% 할인",
+      "계약 축하금 최대 지원"
+    ],
+    "special_events": [
+      "1:1 전문 웨딩 컨설팅",
+      "웨딩 드레스 스타일링 체험",
+      "신혼여행 특전 및 혼수가전 특별가"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-26",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "original_display_date": "07월 25일(토) ~ 07월 26일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "광주 동구 서석로 13-1 3층",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "parking_info": "사옥 내 주차 가능(이미지 하단 지도 참조)",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "광주 고객 만족도 연속 1위",
+      "광주 최대 150개 업체 입점",
+      "1,300쌍 이상의 누적 계약 실적"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 스타일링 웨딩페어",
+      "startDate": "2025-07-25",
+      "endDate": "2025-07-26",
+      "location": {
+        "@type": "Place",
+        "name": "더베스트웨딩컴퍼니",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "광주광역시 동구",
+          "addressLocality": "광주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더베스트 웨딩페어",
+        "url": "https://ad.cpaad.co.kr/theBWSF01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "방문 혜택을 받으려면 어떻게 해야 하나요?",
+        "answer": "사전 예약을 완료하고 현장에 방문하여 상담을 받으시면 스타벅스 쿠폰과 웨딩 다이어리를 증정합니다."
+      },
+      {
+        "question": "주차장은 따로 있나요?",
+        "answer": "행사장인 더베스트웨딩컴퍼니 사옥 내 주차가 가능합니다."
+      },
+      {
+        "question": "총 80만원 할인 혜택은 어떻게 적용되나요?",
+        "answer": "스드메, 스튜디오, 예물 등 항목별로 나누어진 특전 쿠폰을 통해 계약 시 즉시 할인 적용됩니다."
+      },
+      {
+        "question": "박람회 참여 업체가 많은가요?",
+        "answer": "광주 최대 규모인 150여 개의 웨딩 관련 업체가 참여하여 폭넓은 비교가 가능합니다."
+      },
+      {
+        "question": "예약 비용이 있나요?",
+        "answer": "아니요, 사전 예약 및 입장은 무료입니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 광주 지역 예비부부들을 위한 맞춤형 박람회입니다. 어디서부터 어떻게 시작해야 할지 막막한 예비 신랑, 신부님부터, 스드메 비용을 합리적으로 비교하고 싶은 분, 나만의 스타일이 담긴 특별한 웨딩을 꿈꾸는 신혼부부까지 모두 환영합니다. 결혼 준비 6개월 이내의 커플이라면 필수적으로 방문하여 정보와 할인 혜택을 동시에 챙겨보세요.",
+    "exhibitor_highlights": [
+      "웨딩홀 섭외 및 추천",
+      "스드메 패키지 업체",
+      "명품 웨딩드레스샵",
+      "스튜디오 사진 촬영",
+      "신혼여행 허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전"
+    ],
+    "comparison_hooks": [
+      "현장 계약 즉시 할인 혜택 제공",
+      "광주 지역 유일 최대 150개 업체 비교",
+      "1:1 전문 플래너 맞춤형 웨딩 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "결혼 준비 시작하기",
+      "스드메 비용 절약법",
+      "광주 예식장 추천",
+      "웨딩박람회 방문 혜택",
+      "신혼부부 가전 준비",
+      "허니문 여행지 추천",
+      "광주 웨딩드레스 투어",
+      "예물 예복 준비 시기",
+      "셀프 웨딩 준비 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 최신 트렌드",
+        "category": "wedding_hall"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩플래너",
+      "신혼여행",
+      "결혼 준비",
+      "웨딩 드레스",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 웨딩페어! 최대 80만원 할인 혜택",
+    "og_description": "광주 예비부부 주목! 지금 사전 예약하면 스타벅스 쿠폰과 80만원 특전 쿠폰 드려요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#더베스트웨딩컴퍼니",
+      "#광주스드메",
+      "#광주웨딩홀",
+      "#예신예랑",
+      "#결혼준비시작",
+      "#광주웨딩페어",
+      "#스드메할인",
+      "#신혼부부혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theBWSF01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_zLpBT21WwO.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dM3ZD8wNX7mfQX1d.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_8Xdxazqg.jpg"
+  },
+  "updated_at": "2026-07-13 16:03:21",
+  "revenue": 30000
+}

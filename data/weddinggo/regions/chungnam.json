@@ -1481,5 +1481,214 @@
     },
     "updated_at": "2026-07-13 13:07:15",
     "revenue": 30000
+  },
+  {
+    "idx": 1578,
+    "campaign_id": "wncowedding09",
+    "gather_name": "천안/아산 웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "천안/아산 웨딩박람회 | 방문 상담만 해도 100% 선물 증정 및 계약 혜택",
+      "meta_description": "천안 LG전자 베스트샵에서 열리는 천안/아산 웨딩박람회! 방문만 해도 웨딩 다이어리, 청첩장 할인 등 100% 선물 증정. 스드메부터 혼수, 가전까지 한 번에 해결하고 최대 할인 혜택을 확인하세요.",
+      "keywords": [
+        "천안웨딩박람회",
+        "아산웨딩박람회",
+        "천안결혼준비",
+        "천안스드메",
+        "천안웨딩홀",
+        "천안혼수",
+        "LG전자베스트샵웨딩",
+        "충남웨딩박람회",
+        "천안신혼부부혜택",
+        "결혼준비체크리스트"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 천안/아산 예비부부라면 절대 놓칠 수 없는 최고의 기회입니다. 천안 LG전자 베스트샵에서 열리는 이번 웨딩박람회는 복잡한 결혼 준비를 한 곳에서 효율적으로 해결하고, 실속 있는 혜택까지 모두 챙길 수 있는 특별한 자리입니다.",
+      "benefits_description": "이번 박람회는 단순히 정보를 얻는 자리가 아닙니다. 방문만 해도 웨딩 다이어리와 청첩장 할인권 등을 100% 증정하며, 상담 완료 시 선착순으로 실리만 데일리 토스터기를 선물합니다. 또한, 스드메 계약 시 최고급 웨딩 액자 증정, 원본 사진 무료 제공 등 파격적인 추가 혜택이 준비되어 있습니다. 혼수부터 허니문, 예물, 한복까지 전문가의 1:1 맞춤 상담을 통해 예산에 딱 맞는 최고의 견적을 받아보세요.",
+      "summary_for_search": "천안 LG전자 베스트샵에서 진행되는 천안/아산 웨딩박람회! 방문 시 100% 선물 증정은 물론 스드메, 혼수, 가전까지 합리적인 가격에 해결할 수 있는 기회입니다. 지금 상담 신청하고 특별한 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 신청하면 100% 선물 증정! 천안/아산 웨딩박람회",
+      "secondary_headline": "결혼 준비가 처음이라 막막하신가요? 스드메부터 가전까지 전문가의 맞춤형 1:1 컨설팅으로 완성하세요.",
+      "urgency_text": "선착순 방문객 한정 혜택 마감 임박",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "웨딩 다이어리 100% 증정",
+        "청첩장 할인권 100% 증정",
+        "상담 완료 시 선착순 20쌍 실리만 데일리 토스터기 증정"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩액자 증정",
+        "웨딩드레스 무료 피팅권",
+        "본식 사진 원본 무료 제공",
+        "혼수/예물/한복/정장 업체별 할인 및 추가 사은품 증정"
+      ],
+      "special_events": [
+        "웨딩홀 무료 섭외 및 대관료 할인",
+        "스튜디오 현장 투어",
+        "허니문 여행지 특별 견적"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "충남",
+        "sido_en": "chungnam",
+        "sigungu": "천안시",
+        "sigungu_en": "cheonan",
+        "address": "충남 천안시 서북구 공원로 227",
+        "venue": "LG전자베스트샵 갤러리아센터시티점",
+        "parking_info": "무료 주차 지원 (지점 내 안내)",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "전문가 1:1 맞춤 컨설팅",
+        "LG전자 베스트샵 브랜드 신뢰도",
+        "투명한 견적 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "천안/아산 웨딩박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 갤러리아센터시티점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "충남 천안시 서북구 공원로 227",
+            "addressLocality": "천안시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding09/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 상담은 무료인가요?",
+          "answer": "네, 천안/아산 웨딩박람회는 예비부부를 위한 무료 행사로, 사전 신청 시 전액 무료로 상담받으실 수 있습니다."
+        },
+        {
+          "question": "박람회 현장에서 바로 계약해야 하나요?",
+          "answer": "아니요, 전문가의 1:1 상담을 통해 충분히 비교해 보시고 신중하게 결정하시길 권장합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, LG전자베스트샵 갤러리아센터시티점 내에 주차가 가능하며 방문 상담객을 위한 주차 지원을 제공합니다."
+        },
+        {
+          "question": "방문 사은품은 어떻게 받나요?",
+          "answer": "현장 방문 상담 완료 후 안내 데스크에서 확인 절차를 거쳐 수령하실 수 있습니다."
+        },
+        {
+          "question": "스드메 패키지 외에 가전도 상담 가능한가요?",
+          "answer": "네, 가전 전문 매장에서 진행되는 만큼 혼수 가전부터 스드메 패키지까지 한 번에 상담 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메와 웨딩홀 정보를 어디서부터 찾아야 할지 고민인 커플, 합리적인 예산으로 혼수와 결혼 준비를 완벽하게 끝내고 싶은 신혼부부를 대상으로 합니다. 결혼 준비의 전체 흐름을 잡고 싶거나, 여러 업체를 발품 팔지 않고 한자리에서 효율적으로 비교하고 싶은 분들에게 최적화된 행사입니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 패키지 브랜드",
+        "웨딩홀 제휴처",
+        "프리미엄 예물 및 예복 업체",
+        "허니문 여행사",
+        "가전 제품(LG전자 베스트샵)"
+      ],
+      "comparison_hooks": [
+        "복잡한 결혼 준비를 한자리에서 끝내는 1:1 맞춤 컨설팅",
+        "현장 계약 시에만 제공되는 파격적인 추가 할인 및 사은품",
+        "투명하고 합리적인 웨딩 견적 오픈제 실시"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 순서",
+        "스드메 평균 비용",
+        "천안 웨딩홀 추천",
+        "신혼 가전 혼수 목록",
+        "박람회 방문 혜택 비교",
+        "웨딩박람회 예약 방법",
+        "천안 예물 전문점",
+        "셀프 웨딩 준비",
+        "허니문 패키지 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "천안/아산 웨딩홀 전체 정보",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 상세 안내",
+          "category": "sdeume"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "결혼 예산",
+        "신혼여행",
+        "예물",
+        "예복",
+        "청첩장",
+        "웨딩드레스",
+        "본식 촬영"
+      ]
+    },
+    "social_meta": {
+      "og_title": "천안/아산 웨딩박람회! 100% 선물 증정",
+      "og_description": "상담만 받아도 100% 선물! 스드메부터 혼수까지 천안/아산 웨딩박람회에서 준비하세요.",
+      "hashtags": [
+        "#천안웨딩박람회",
+        "#아산웨딩박람회",
+        "#천안결혼준비",
+        "#천안스드메",
+        "#천안웨딩홀",
+        "#결혼준비",
+        "#예비부부",
+        "#신혼부부혜택",
+        "#천안혼수",
+        "#웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding09/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_B2XJFeTdv7wO5evuBitN.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_TnTqoZW5noIrp9Y5.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_jZ1OO7pRqSTsiNWmyCxD417Hd.jpg"
+    },
+    "updated_at": "2026-07-13 16:01:45",
+    "revenue": 30000
   }
 ]
