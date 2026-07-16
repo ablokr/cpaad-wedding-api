@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 127,
+    "total_count": 130,
     "region_count": 15,
-    "district_count": 45,
-    "updated_at": "2026-07-15 19:30:04"
+    "district_count": 46,
+    "updated_at": "2026-07-16 19:31:22"
   },
   "items": [
     {
@@ -231,26 +231,26 @@
       "idx": 1266,
       "campaign_id": "objetWed01",
       "gather_name": "천안아산 웨딩드레스 페어",
-      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
       "venue": "천안 오브제 특별행사장",
       "sido": "충남",
       "sigungu": "천안시",
       "region_en": "chungnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cvv9hCPAbfX5nbgKxrRbUXCvTd.jpg",
-      "updated_at": "2026-07-10 19:31:38",
+      "updated_at": "2026-07-16 19:31:08",
       "revenue": 30000
     },
     {
       "idx": 1719,
       "campaign_id": "objetWed03",
       "gather_name": "브라이덜 블랑쉬 평택 웨딩드레스 페어",
-      "display_date": "07월 18일(토) ~ 07월 19일(일)",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
       "venue": "브라이덜 블랑쉬 특별행사장",
       "sido": "경기",
       "sigungu": "평택시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_SPM7hnkTpXUl86GWCtShWKfKOHB.jpg",
-      "updated_at": "2026-07-10 19:30:32",
+      "updated_at": "2026-07-16 19:30:35",
       "revenue": 30000
     },
     {
@@ -1411,6 +1411,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1852,
       "campaign_id": "banhana14",
       "gather_name": "제주웨딩박람회",
       "display_date": "07월 25일(토) ~ 07월 26일(일)",
@@ -1419,7 +1420,8 @@
       "sigungu": "제주시",
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_rajNxPUIhEH8GTPswCo7izzh.jpg",
-      "updated_at": "2026-07-09 19:30:18"
+      "updated_at": "2026-07-09 19:30:18",
+      "revenue": 40000
     },
     {
       "idx": 1453,
@@ -1653,6 +1655,43 @@
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_9nUJBlun7wtcFoIWSjSJlKtrOL9hj.jpg",
       "updated_at": "2026-07-14 19:30:31",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "withyouwedding50",
+      "gather_name": "서울 테라리움 위드유 웨딩박람회",
+      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "venue": "테라리움 서울 특별행사장",
+      "sido": "서울",
+      "sigungu": "노원구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Ifvae2xLuCGC.jpg",
+      "updated_at": "2026-07-16 19:30:22"
+    },
+    {
+      "idx": 1287,
+      "campaign_id": "withyouwedding21",
+      "gather_name": "평택 위드유 웨딩박람회",
+      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "venue": "LG전자베스트샵 평택본점 특별행사장",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mG2JcE7L9AsjWhppecRtl8.jpg",
+      "updated_at": "2026-07-16 19:30:51",
+      "revenue": 30000
+    },
+    {
+      "idx": 1853,
+      "campaign_id": "planittour03",
+      "gather_name": "대전 신세계 허니문박람회",
+      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "venue": "대전신세계 아트앤사이언스",
+      "sido": "대전",
+      "sigungu": "유성구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iTnnNUgIvMcyInAco.jpg",
+      "updated_at": "2026-07-16 19:31:22",
       "revenue": 30000
     }
   ]
