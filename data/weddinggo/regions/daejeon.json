@@ -1246,5 +1246,215 @@
     },
     "updated_at": "2026-07-13 13:08:17",
     "revenue": 30000
+  },
+  {
+    "idx": 1853,
+    "campaign_id": "planittour03",
+    "gather_name": "대전 신세계 허니문박람회",
+    "organizer_name": "플래닛투어",
+    "seo_metadata": {
+      "title": "대전 신세계 허니문박람회 | 최대 95만원 할인 및 5성급 호텔 숙박권",
+      "meta_description": "대전신세계 아트앤사이언스에서 열리는 대전 최대 규모 허니문박람회! 지금 사전 예약 시 최대 95만원 할인 혜택과 26인치 캐리어, 5성급 호텔 숙박권까지 모두 챙겨가세요. 예비부부를 위한 최고의 결혼 준비 기회!",
+      "keywords": [
+        "대전웨딩박람회",
+        "대전신혼여행박람회",
+        "대전허니문박람회",
+        "대전결혼준비",
+        "플래닛투어",
+        "대전신세계아트앤사이언스",
+        "신혼여행패키지",
+        "신혼여행추천",
+        "웨딩박람회혜택",
+        "예비부부결혼준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 설레는 신혼여행 계획부터 완벽하게 준비하세요. 대전 신세계에서 개최되는 이번 허니문 박람회는 예비부부님들의 소중한 시간을 위해 엄선된 정보와 파격적인 혜택을 한자리에 모았습니다. 실패 없는 신혼여행을 위한 전문가의 1:1 맞춤 상담을 직접 경험해 보세요.",
+      "benefits_description": "이번 박람회 방문객께는 상담만 받아도 제공되는 허니문 파우치 또는 어메니티 5종 세트 혜택이 기다리고 있습니다. 또한, 사전 예약 후 현장 계약 시 최대 60만원의 추가 할인과 총 95만원 상당의 커플 혜택을 누릴 수 있습니다. 선착순으로 제공되는 26인치 캐리어와 현장 계약 고객 전원에게 드리는 5성급 호텔 숙박권까지, 신혼부부의 알뜰한 준비를 돕는 풍성한 선물들을 지금 바로 확인하고 신청하세요.",
+      "summary_for_search": "대전 신세계 아트앤사이언스에서 열리는 대전 최대 규모 신혼여행 박람회! 최대 95만원 할인, 26인치 캐리어 증정, 5성급 호텔 숙박권 등 예비부부를 위한 압도적인 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비 끝판왕! 최대 95만원 할인+5성급 호텔 숙박권 증정",
+      "secondary_headline": "대전·충청 지역 최대 규모, 신혼여행 전문가의 1:1 맞춤 상담",
+      "urgency_text": "선착순 방문객 대상 혜택 조기 마감 주의!",
+      "call_to_action_text": "지금 무료 사전 예약하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담만 받아도 허니문 파우치 또는 어메니티 5종 세트 증정"
+      ],
+      "contract_benefits": [
+        "최대 95만원 상당 커플 할인",
+        "현장 계약 시 최대 60만원 추가 할인",
+        "사전 예약 현장 계약 고객 26인치 캐리어 증정",
+        "현장 계약 고객 전원 5성급 호텔 1박 숙박권 증정"
+      ],
+      "special_events": [
+        "허니문 전문가 1:1 맞춤 컨설팅",
+        "리뷰 작성 시 신세계 상품권 또는 스타벅스 기프티콘 증정"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "유성구",
+        "sigungu_en": "yuseong",
+        "address": "대전 유성구 엑스포로 1",
+        "venue": "대전신세계 아트앤사이언스",
+        "parking_info": "무료 주차권 증정",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "신부/신랑",
+        "연락처",
+        "결혼예정일",
+        "방문예정일",
+        "통화 가능 시간",
+        "관심 여행지"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "2009년 창립 16년 차 신혼여행 전문 여행사",
+        "대전·충청 지역 매출 1위",
+        "네이버 리뷰 수 1위",
+        "대전신세계백화점 공식 인증 행사"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 신세계 허니문박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "대전신세계 아트앤사이언스",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "엑스포로 1",
+            "addressLocality": "대전 유성구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "플래닛투어",
+          "url": "https://ad.cpaad.co.kr/planittour03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장 가능한가요?",
+          "answer": "네, 온라인 사전 신청을 하시면 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 무료인가요?",
+          "answer": "행사 참여 고객께는 무료 주차권을 제공해 드립니다."
+        },
+        {
+          "question": "방문 상담만 해도 선물을 주나요?",
+          "answer": "네, 현장에서 전문가 상담을 완료하시면 허니문 파우치 또는 어메니티를 드립니다."
+        },
+        {
+          "question": "계약 시 혜택이 무엇인가요?",
+          "answer": "현장 계약 시 최대 95만원 상당의 할인과 캐리어, 5성급 호텔 숙박권 등을 제공합니다."
+        },
+        {
+          "question": "신혼여행지 결정이 어려운데 상담 가능한가요?",
+          "answer": "16년 경력의 신혼여행 전문 상담사가 커플의 취향에 맞는 맞춤형 여행지를 제안해 드립니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 복잡한 신혼여행 준비에 막막함을 느끼는 예비부부, 신뢰할 수 있는 여행사를 통해 안전하고 합리적인 비용으로 허니문을 준비하고 싶은 커플을 위한 행사입니다. 스드메 준비와 병행하여 신혼여행 패키지 비용을 효율적으로 비교하고 싶으신 분, 현지 안전 가이드와 긴급 상황 대처 서비스가 포함된 프리미엄 상품을 선호하시는 신혼부부에게 최적의 박람회입니다. 16년 차 전문 여행사의 검증된 여행지별 맞춤 컨설팅을 통해 평생 기억에 남을 신혼여행을 완성하세요.",
+      "exhibitor_highlights": [
+        "신혼여행 허니문 전문 여행사",
+        "커플 맞춤형 여행 패키지",
+        "해외 현지 가이드 연계 업체"
+      ],
+      "comparison_hooks": [
+        "업계 유일 16년 차 신혼여행 전문성 보유",
+        "계약 후 출발까지 6단계 체계적 프로세스 운영",
+        "대전·충청 지역 압도적 리뷰 1위의 신뢰도"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "신혼여행 준비물 리스트",
+        "대전 허니문 박람회 일정",
+        "허니문 여행사 추천",
+        "신혼여행 패키지 비용",
+        "대전 결혼 준비 박람회",
+        "신혼여행지 순위",
+        "박람회 계약 혜택 확인",
+        "신혼여행 자유여행 vs 패키지",
+        "신혼여행 항공권 예약 팁",
+        "허니문 박람회 사기 예방"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩 박람회 일정 확인",
+          "category": "wedding_schedule"
+        },
+        {
+          "anchor": "허니문 패키지 혜택 모음",
+          "category": "honeymoon_benefits"
+        }
+      ],
+      "semantic_keywords": [
+        "허니문",
+        "신혼여행",
+        "스드메",
+        "웨딩박람회",
+        "결혼준비",
+        "예식장",
+        "웨딩홀",
+        "신혼가전",
+        "해외여행",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 신세계 허니문박람회! 최대 95만원 할인",
+      "og_description": "지금 사전 예약 시 5성급 호텔 숙박권과 여행용 캐리어 등 쏟아지는 혜택을 놓치지 마세요!",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전신혼여행",
+        "#허니문박람회",
+        "#대전예비부부",
+        "#결혼준비",
+        "#대전신세계",
+        "#플래닛투어",
+        "#신혼여행지추천",
+        "#웨딩박람회혜택",
+        "#대전결혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planittour03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_PzEbPCtKLHx.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iTnnNUgIvMcyInAco.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_pcduYXrwPAhKt.jpg"
+    },
+    "updated_at": "2026-07-16 19:01:04",
+    "revenue": 30000
   }
 ]
