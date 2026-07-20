@@ -1,0 +1,209 @@
+{
+  "idx": 1634,
+  "campaign_id": "whw05",
+  "gather_name": "군산 웨딩스퀘어 웨딩박람회",
+  "organizer_name": "하얀웨딩",
+  "seo_metadata": {
+    "title": "군산 웨딩스퀘어 웨딩박람회 | 호텔은파팰리스 단독 200만원 할인",
+    "meta_description": "군산 결혼 준비의 시작, 호텔은파팰리스 웨딩박람회! 스드메 패키지 최대 200만원 할인 혜택과 프리미엄 웨딩 드레스 전시를 만나보세요. 지금 무료 초대권 신청하고 특별 상담을 예약하세요.",
+    "keywords": [
+      "군산웨딩박람회",
+      "군산결혼준비",
+      "호텔은파팰리스",
+      "군산스드메",
+      "웨딩스퀘어",
+      "전북웨딩박람회",
+      "군산웨딩홀",
+      "신혼부부혜택",
+      "결혼준비박람회",
+      "예비부부상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞둔 예비부부님들을 위해 군산 호텔은파팰리스에서 매주 특별한 웨딩박람회를 개최합니다. 복잡하고 어려운 결혼 준비, 이제 웨딩스퀘어의 전문가와 함께 합리적이고 품격 있게 시작해보세요.",
+    "benefits_description": "이번 박람회 방문 고객께는 특별한 할인 혜택이 기다리고 있습니다. 현장 계약 시 최대 200만원의 파격적인 할인과 더불어, 엘리자베스 그룹의 최신 명품 드레스 라인업을 직접 확인하고 상담받으실 수 있습니다. 또한 호텔 예식 진행 시 추가 100만원 할인까지, 오직 이번 박람회에서만 누릴 수 있는 압도적인 혜택을 놓치지 마세요.",
+    "summary_for_search": "군산 호텔은파팰리스에서 매주 열리는 웨딩스퀘어 웨딩박람회입니다. 스드메 패키지 최대 200만원 할인 및 호텔 예식 특별 혜택을 제공합니다. 지금 무료 초대권을 신청하고 만족스러운 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "웨딩스퀘어 단독, 지금 계약하면 최대 200만원 할인!",
+    "secondary_headline": "호텔은파팰리스에서 만나는 군산 웨딩의 정점, 품격 있는 스드메 패키지",
+    "urgency_text": "신규 예약자 한정 특별 할인 진행 중",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "무료 박람회 초대권 증정",
+      "1:1 웨딩 전문가 맞춤 상담"
+    ],
+    "contract_benefits": [
+      "웨딩스퀘어 단독 최대 200만원 할인",
+      "호텔 예식 진행 시 최대 100만원 할인",
+      "스드메 패키지 특별 혜택"
+    ],
+    "special_events": [
+      "엘리자베스 그룹 명품 드레스 전시",
+      "웨딩 스튜디오 컨셉 체험",
+      "호텔 웨딩 트렌드 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-07-25",
+      "end_date": "2026-07-26",
+      "display_date": "매주 토요일/일요일",
+      "original_display_date": "매주 토요일/일요일"
+    },
+    "location": {
+      "sido": "전북",
+      "sido_en": "jeonbuk",
+      "sigungu": "군산시",
+      "sigungu_en": "gunsan",
+      "address": "전북 군산시 은파순환길 20",
+      "venue": "호텔은파팰리스 특별행사장",
+      "parking_info": "호텔 전용 주차장 완비 (이미지 내 주차장 표기 확인)",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 혜택 적용",
+    "trust_indicators": [
+      "웨딩홀/호텔 스드메 진행 업계 1위",
+      "전북 최다 드레스 보유",
+      "야외 스튜디오 최대 규모"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "군산 웨딩스퀘어 웨딩박람회",
+      "description": "군산 호텔은파팰리스에서 개최되는 스드메 할인 및 결혼 준비 웨딩박람회",
+      "startDate": "2024-01-01",
+      "endDate": "2024-12-31",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "호텔은파팰리스",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "군산시 은파순환길 20",
+          "addressLocality": "군산시",
+          "addressRegion": "전북",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "url": "https://example.com/apply"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하얀웨딩",
+        "url": "https://ad.cpaad.co.kr/whw05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용이 있나요?",
+        "answer": "아니요, 웨딩박람회 입장 및 상담은 무료로 진행됩니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "네, 행사장인 호텔은파팰리스 내 넓은 전용 주차장이 마련되어 있어 편리하게 주차 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "호텔 웨딩홀, 명품 드레스샵(엘리자베스), 스튜디오 등 검증된 프리미엄 웨딩 업체들이 참여합니다."
+      },
+      {
+        "question": "사전 신청은 필수인가요?",
+        "answer": "원활한 상담과 할인 혜택을 위해 사전 신청을 권장하며, 신청 시 무료 초대권을 발송해 드립니다."
+      },
+      {
+        "question": "계약 시 할인 혜택은 얼마나 되나요?",
+        "answer": "박람회 단독 혜택으로 최대 200만원까지 할인 혜택을 제공하고 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "군산 및 전북 지역에서 결혼을 앞둔 예비 신랑 신부님을 위한 맞춤형 콘텐츠입니다. 결혼 준비를 어떻게 시작해야 할지 막막한 분, 고가의 스드메 비용이 부담되어 합리적인 가격에 퀄리티 높은 서비스를 찾으시는 분, 호텔 예식을 꿈꾸는 커플 등 결혼 준비 6개월 이내의 예비부부님들께 최적화된 정보를 제공합니다. 예산 절약부터 웨딩 트렌드 파악까지, 검증된 전문가의 1:1 컨설팅으로 성공적인 결혼식을 준비하세요.",
+    "exhibitor_highlights": [
+      "엘리자베스 그룹 명품 드레스샵",
+      "전북 최대 규모 스튜디오 업체",
+      "호텔 웨딩홀 예약 전문",
+      "프리미엄 웨딩 컨설팅 패키지"
+    ],
+    "comparison_hooks": [
+      "비교할수록 확실한 업계 1위의 파격적인 할인 혜택",
+      "전북 최다 프리미엄 드레스 보유 및 직접 피팅 가능",
+      "호텔 예식 전문가의 1:1 맞춤형 큐레이션 서비스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "군산 웨딩홀 추천",
+      "전주 군산 스드메 비용",
+      "웨딩박람회 방문 혜택",
+      "결혼 준비 체크리스트",
+      "군산 웨딩드레스샵",
+      "호텔 예식 비용 비교",
+      "신혼부부 가전 준비",
+      "웨딩 촬영 스튜디오 추천",
+      "웨딩박람회 계약 팁",
+      "군산 예복 전문점"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "군산 웨딩홀 전체 리스트 보기",
+        "category": "wedding_venues"
+      },
+      {
+        "anchor": "스드메 패키지 견적 상담",
+        "category": "service_packages"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "신혼여행",
+      "결혼준비",
+      "웨딩컨설팅",
+      "본식스냅",
+      "메이크업"
+    ]
+  },
+  "social_meta": {
+    "og_title": "군산 웨딩박람회 최대 200만원 할인받기",
+    "og_description": "호텔은파팰리스에서 만나는 결혼 준비 찬스! 지금 무료 초대권 신청하고 특별 혜택을 확인하세요.",
+    "hashtags": [
+      "#군산웨딩박람회",
+      "#결혼준비",
+      "#군산웨딩홀",
+      "#호텔은파팰리스",
+      "#스드메",
+      "#전북웨딩",
+      "#예비부부",
+      "#웨딩스퀘어",
+      "#군산결혼",
+      "#결혼식준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/whw05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_AbqFijwewMxmPFc6Su7XVuQTJyZNPN.jpg"
+  },
+  "updated_at": "2026-07-20 13:05:14",
+  "revenue": 40000
+}

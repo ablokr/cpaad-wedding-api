@@ -1,0 +1,211 @@
+{
+  "idx": 128,
+  "campaign_id": "iniwedding05",
+  "gather_name": "킨텍스 웨딩박람회",
+  "organizer_name": "아이니웨딩",
+  "seo_metadata": {
+    "title": "킨텍스 웨딩박람회 | 9월 12일 단 하루, 스드메 파격 할인 및 최대 혜택",
+    "meta_description": "9월 12일 킨텍스에서 열리는 초대형 웨딩박람회! 결혼 준비의 시작, 스드메 패키지 최대 할인부터 드레스 피팅, 퍼스널컬러 진단까지. 지금 사전 신청하고 무료입장 및 특별 계약 혜택을 모두 받아가세요.",
+    "keywords": [
+      "킨텍스웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "웨딩박람회일정",
+      "고양웨딩박람회",
+      "신혼부부혜택",
+      "웨딩홀추천",
+      "웨딩박람회사전예약",
+      "결혼준비체크리스트",
+      "스드메비용"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 막막하시죠? 9월 12일 킨텍스에서 열리는 초대형 웨딩박람회와 함께라면 걱정 끝입니다. 검증된 업체와의 1:1 상담부터 현장 특별 할인까지, 예비 신혼부부를 위한 완벽한 결혼 준비 솔루션을 지금 확인하세요.",
+    "benefits_description": "이번 킨텍스 웨딩박람회는 오직 방문객만을 위한 역대급 혜택을 준비했습니다. 현장에서는 신상 드레스 피팅 체험, 한복 피팅, 전문 퍼스널컬러 진단까지 무료로 경험할 수 있습니다. 또한, 스드메 패키지 계약 시 최대 할인과 함께 아이니포인트 10만 점 증정 등 놓치기 아까운 계약 혜택이 기다리고 있습니다. 복잡한 결혼 준비를 단 하루 만에 효율적으로 끝낼 수 있는 골든타임을 놓치지 마세요.",
+    "summary_for_search": "9월 12일 단 하루, 킨텍스에서 열리는 킨텍스 웨딩박람회! 사전 신청 시 무료입장은 물론 스드메 패키지 파격 할인과 현장 특별 계약 혜택을 제공합니다. 결혼 준비를 한 번에 해결할 최고의 기회입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "9월 12일 단 하루! 킨텍스 초대형 웨딩박람회 혜택 집중",
+    "secondary_headline": "결혼 준비의 모든 것, 스드메부터 혼수까지 한자리에서 비교하고 최저가에 계약하세요.",
+    "urgency_text": "09월 12일(토) 단 하루! 사전 신청 시 무료 입장",
+    "call_to_action_text": "지금 무료 사전신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 신청 시 입장료 무료",
+      "현장 드레스 피팅 체험",
+      "한복 피팅 체험",
+      "퍼스널컬러 진단"
+    ],
+    "contract_benefits": [
+      "아이니포인트 10만 점 증정",
+      "스드메 패키지 현장 특별 할인",
+      "혼수 브랜드 최대 60만원 할인",
+      "신랑수트 대여 지원 및 웨딩슈즈 증정"
+    ],
+    "special_events": [
+      "웨딩쇼 서울 프리뷰 팝업",
+      "스드메 갤러리 투어",
+      "최신 웨딩 트렌드 쇼케이스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-12",
+      "display_date": "09월 12일(토) 단, 하루!",
+      "original_display_date": "09월 12일(토) 단, 하루!"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "고양시",
+      "sigungu_en": "goyang",
+      "address": "경기 고양시 일산서구 킨텍스로 217-59",
+      "venue": "킨텍스 1전시장",
+      "parking_info": "킨텍스 제2자유로 인근 주차장 이용 가능",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "사전 신청 완료 및 현장 방문 상담 시 적용 (현장 상담 완료 후 혜택 증정)",
+    "trust_indicators": [
+      "국내 초대형 규모 박람회",
+      "500평 킨텍스 전시",
+      "1:1 맞춤형 전문 상담 시스템",
+      "직거래 웨딩박람회 시스템"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "킨텍스 웨딩박람회",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-12",
+      "location": {
+        "@type": "Place",
+        "name": "킨텍스 1전시장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 고양시 일산서구",
+          "addressLocality": "고양시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "아이니웨딩",
+        "url": "https://ad.cpaad.co.kr/iniwedding05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 사전신청은 필수인가요?",
+        "answer": "사전신청을 하시면 입장료가 무료이며, 현장 혼잡을 피하고 상담 우선권이 주어집니다."
+      },
+      {
+        "question": "주차장은 어떻게 이용하나요?",
+        "answer": "킨텍스 1전시장 및 인근 주차장을 이용할 수 있으며, 박람회 방문객을 위한 상세 주차 안내가 제공됩니다."
+      },
+      {
+        "question": "스드메 상담은 얼마나 걸리나요?",
+        "answer": "1:1 집중 상담을 통해 보통 1시간 내외로 효율적인 준비가 가능합니다."
+      },
+      {
+        "question": "박람회 현장에서 바로 계약해야 하나요?",
+        "answer": "현장 계약 시에만 드리는 특별 할인 및 포인트 혜택이 있으니 비교 후 결정하시는 것을 권장합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 무엇을 챙겨야 할까요?",
+        "answer": "박람회장에 방문하시면 웨딩 전문가가 준비 단계별 체크리스트와 함께 예산 설계를 도와드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부, 효율적이고 합리적인 결혼 준비를 원하는 커플, 혹은 결혼 준비를 어디서부터 시작해야 할지 막막한 모든 분을 대상으로 합니다. 특히 결혼 6개월 전후로 스드메 패키지와 혼수 업체를 비교 중인 신혼부부에게 킨텍스 박람회는 최적의 솔루션을 제공합니다. 1:1 맞춤 컨설팅을 통해 시간과 비용을 절약하고 싶어 하는 모든 예비 신랑·신부님들을 환영합니다.",
+    "exhibitor_highlights": [
+      "스드메 토털 패키지 업체",
+      "유명 드레스샵",
+      "웨딩홀 추천 및 상담",
+      "혼수가전 및 예물·예복 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "직거래 방식을 통한 중간 마진 없는 합리적 비용",
+      "인기 예식장 잔여 타임 실시간 조회",
+      "시간과 비용을 동시에 절약하는 원스톱 맞춤 상담"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 비용 절약하는 법",
+      "웨딩홀 투어 체크리스트",
+      "박람회 계약 혜택 확인",
+      "신혼 가전 혼수 준비",
+      "결혼 박람회 복장",
+      "웨딩 상담 시 주의사항",
+      "퍼스널컬러 진단 웨딩",
+      "웨딩슈즈 대여 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 전체 일정 확인",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 특가 보기",
+        "category": "sdr_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "부케",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩플래너",
+      "웨딩드레스",
+      "스튜디오촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "킨텍스 웨딩박람회 9월 12일 오픈!",
+    "og_description": "결혼 준비의 골든타임! 킨텍스에서 만나는 역대급 스드메 할인과 특별 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#킨텍스웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예신",
+      "#예랑",
+      "#신혼부부",
+      "#웨딩홀추천",
+      "#아이니웨딩",
+      "#결혼식준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/iniwedding05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_5USYgisbV59Pyr.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mDzY1DTmMu6nqor.jpg"
+  },
+  "updated_at": "2026-07-20 13:01:12",
+  "revenue": 30000
+}

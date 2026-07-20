@@ -1,0 +1,202 @@
+{
+  "idx": 678,
+  "campaign_id": "jwc01",
+  "gather_name": "전주 청담스토리 웨딩초대전",
+  "organizer_name": "제이웨딩 네트웍스",
+  "seo_metadata": {
+    "title": "전주 청담스토리 웨딩초대전 | 최대 300만원 할인 및 스드메 혜택",
+    "meta_description": "전주 결혼 준비 필수 코스! 청담스토리 웨딩초대전에서 스드메 패키지 최대 300만원 할인 혜택을 확인하세요. 방문 상담 시 100% 사은품 증정 및 인기 웨딩홀 단독 할인까지, 지금 무료 초대권을 신청하세요.",
+    "keywords": [
+      "전주웨딩박람회",
+      "전주결혼준비",
+      "청담스토리",
+      "전주스드메",
+      "전주웨딩홀",
+      "신혼부부혜택",
+      "전주결혼식",
+      "웨딩패키지",
+      "전북웨딩박람회",
+      "전주웨딩샵"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 전주 청담스토리 웨딩초대전에서 스마트한 결혼 준비를 완성하세요. 수많은 웨딩 정보 속에서 고민하는 예비부부를 위해 웨딩홀부터 스드메, 혼수까지 원스톱으로 해결할 수 있는 최적의 솔루션을 제공합니다.",
+    "benefits_description": "이번 초대전에서는 방문만 해도 스타벅스 커피 쿠폰과 세스코 세정제를 100% 증정하며, 상담 시 다양한 사은품을 추가로 제공합니다. 또한 전주·군산 지역 인기 웨딩홀 계약 시 최대 300만원 할인 혜택은 물론, 청담스토리만의 프리미엄 스튜디오와 드레스샵을 통해 2026년 최신 트렌드를 반영한 맞춤형 패키지를 합리적인 가격에 만나보실 수 있습니다.",
+    "summary_for_search": "전주 청담스토리 웨딩초대전에서 인생의 가장 빛나는 순간을 준비하세요. 최대 300만원 할인, 스드메 패키지 혜택, 방문 상담 사은품 증정까지, 지금 무료 신청하고 특별한 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "전주 청담스토리 웨딩초대전, 최대 300만원 파격 할인",
+    "secondary_headline": "스드메부터 웨딩홀, 혼수까지! 전주 예비부부를 위한 프리미엄 결혼 준비 솔루션",
+    "urgency_text": "이번 주말 한정, 조기 마감 주의",
+    "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "스타벅스 커피 쿠폰 100% 증정",
+      "세스코 세정제 100% 증정"
+    ],
+    "contract_benefits": [
+      "전주·군산 지역 웨딩홀 최대 300만원 할인",
+      "스드메 패키지 계약 시 특별 추가 혜택",
+      "삼성스토어 혼수 가전 특별 할인 및 사은품"
+    ],
+    "special_events": [
+      "2026년 뉴 샘플 스튜디오 전시",
+      "프리미엄 웨딩드레스 쇼케이스",
+      "1:1 맞춤형 웨딩 플랜 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+    },
+    "location": {
+      "sido": "전북",
+      "sido_en": "jeonbuk",
+      "sigungu": "전주시",
+      "sigungu_en": "jeonju",
+      "address": "전북 전주시 완산구 홍산3길 11",
+      "venue": "청담스토리 사옥",
+      "parking_info": "현장 주차 가능",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "방문 상담 완료 시 현장에서 사은품 증정",
+    "trust_indicators": [
+      "27년 업력의 신뢰도",
+      "500여 개의 웨딩 컨셉 보유",
+      "실제 방문객들의 높은 만족도 리뷰"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "전주 청담스토리 웨딩초대전",
+      "startDate": "2025-08-22",
+      "endDate": "2025-08-23",
+      "location": {
+        "@type": "Place",
+        "name": "청담스토리 사옥",
+        "address": "전주시 완산구 쑥고개로 242-32"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "url": "https://www.chungdamstory.com"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이웨딩 네트웍스",
+        "url": "https://ad.cpaad.co.kr/jwc01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "전주 청담스토리 웨딩초대전은 사전 신청 시 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "방문만 해도 선물을 받을 수 있나요?",
+        "answer": "네, 사전 신청 후 현장 방문 및 상담을 완료하신 모든 분께 스타벅스 쿠폰과 세스코 세정제를 증정합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 행사 장소인 청담스토리 사옥에 편리하게 주차하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "인기 웨딩홀, 프리미엄 드레스샵, 유명 스튜디오, 혼수 가전 전문점 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+      },
+      {
+        "question": "웨딩홀 할인 혜택은 어느 정도인가요?",
+        "answer": "전주 및 군산 지역 주요 웨딩홀과 제휴하여 최대 300만원 상당의 할인 및 추가 혜택을 제공하고 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 전주와 군산 지역에서 웨딩홀 예약부터 스드메 패키지까지 한 번에 합리적으로 비교하고 싶은 커플을 대상으로 합니다. 특히 2026년 예식을 앞두고 트렌디한 스튜디오 샘플과 프리미엄 드레스 정보를 찾는 센스 있는 예비 신랑, 신부님께 최적화된 행사입니다. 막연한 결혼 준비 순서를 전문 플래너와 함께 정리하고 싶은 분들께 권장합니다.",
+    "exhibitor_highlights": [
+      "지역 인기 웨딩홀 10곳",
+      "청담스토리 프리미엄 스튜디오",
+      "수입 프리미엄 드레스샵",
+      "삼성스토어 혼수 가전"
+    ],
+    "comparison_hooks": [
+      "27년 전통의 독보적인 웨딩 플랜 시스템",
+      "전주·군산 지역 최다 업체 제휴 및 최대 할인",
+      "1:1 맞춤형 밀착 웨딩 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "전주 웨딩홀 추천",
+      "전주 스드메 가격",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 꿀팁",
+      "전주 예복 맞춤",
+      "신혼가전 구매 혜택",
+      "전주 웨딩촬영 스튜디오",
+      "군산 웨딩박람회 일정",
+      "스드메 패키지 비용",
+      "결혼 준비 기간"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "전주 웨딩홀 인기 순위",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "2026 스드메 최신 트렌드",
+        "category": "st_dr_me"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩촬영",
+      "결혼준비",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "전주 웨딩초대전: 최대 300만원 할인 혜택",
+    "og_description": "예비부부 필독! 전주 청담스토리 초대전에서 스드메, 혼수, 웨딩홀 알뜰하게 준비하고 선물까지 챙기세요.",
+    "hashtags": [
+      "#전주웨딩박람회",
+      "#전주결혼준비",
+      "#청담스토리",
+      "#전주웨딩홀",
+      "#전주스드메",
+      "#결혼준비",
+      "#예비부부",
+      "#전주데이트",
+      "#웨딩초대전",
+      "#전북웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/jwc01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_dB4onJl1G2lfbHpTin6rQTO.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_1HJZut74YNkA5YW9lfLKX9s6p7g.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_BGVPG5JDpzCc97Mg1xoEJxYLKfzj.jpg"
+  },
+  "updated_at": "2026-07-20 13:05:44",
+  "revenue": 45000
+}
