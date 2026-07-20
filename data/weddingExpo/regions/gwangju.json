@@ -618,5 +618,213 @@
     },
     "updated_at": "2026-07-13 19:32:11",
     "revenue": 30000
+  },
+  {
+    "idx": 946,
+    "campaign_id": "theBW01",
+    "gather_name": "광주 웨딩 페스타",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 웨딩페스타 | 더베스트웨딩컴퍼니 박람회 혜택 및 사전등록",
+      "meta_description": "광주 웨딩페스타에서 2026 신상 드레스와 스드메 패키지 혜택을 확인하세요. 사전등록 시 스타벅스 쿠폰 증정 및 400여 개 업체 상담이 가능합니다. 결혼 준비의 시작, 지금 바로 무료 초대장을 신청하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "결혼준비",
+        "광주웨딩페스타",
+        "더베스트웨딩컴퍼니",
+        "광주스드메",
+        "광주웨딩홀",
+        "광주예물",
+        "광주예복",
+        "광주허니문",
+        "결혼박람회혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 막막한 예비부부님들을 위해 광주 웨딩페스타 정보를 정리해 드립니다. 이번 박람회는 400여 개의 웨딩 관련 업체가 참여하여 스드메부터 혼수, 예물, 허니문까지 한자리에서 비교하고 합리적인 조건으로 계약할 수 있는 기회입니다.",
+      "benefits_description": "이번 행사는 참가만 해도 드리는 풍성한 혜택이 준비되어 있습니다. 사전 예약 후 현장을 방문하시는 분들께는 스타벅스 기프티콘을 100% 증정하며, 현장 상담 및 계약 체결 시 품목별로 총 50만 원 상당의 지원금 혜택을 받아보실 수 있습니다. 특히 150벌 이상의 2026 신상 드레스를 직접 확인하고 전문가의 1:1 웨딩 플래닝 서비스를 받아볼 수 있어 효율적인 결혼 준비가 가능합니다.",
+      "summary_for_search": "더베스트웨딩컴퍼니 사옥에서 개최되는 광주 웨딩페스타 정보입니다. 사전등록 시 스타벅스 쿠폰 증정, 상담 계약 시 최대 50만 원 지원 혜택을 놓치지 마세요. 400여 개의 웨딩 전문 업체가 참여하는 광주 대표 결혼 박람회입니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "광주 최대 규모 웨딩 축제, 2026 광주 웨딩페스타",
+      "secondary_headline": "400여 개 웨딩 업체와 함께하는 가장 합리적인 결혼 준비의 시작",
+      "urgency_text": "사전 예약 고객 100% 스타벅스 기프티콘 증정",
+      "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "사전 예약 방문 고객 스타벅스 쿠폰 100% 증정",
+        "현장 방문 고객 대상 경품 추첨"
+      ],
+      "contract_benefits": [
+        "스드메, 스튜디오, 예식장 등 상담/계약 시 총 50만 원 상당 할인쿠폰 증정",
+        "혼수/가전 박람회 특별가 적용 및 사은품 증정",
+        "허니문 계약 시 추가 할인 및 혜택"
+      ],
+      "special_events": [
+        "2026 신상 드레스 전시 및 피팅 체험",
+        "1:1 맞춤형 웨딩 컨설팅",
+        "인기 스튜디오 최신 샘플 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "광주 동구 서석로 13-1 3층",
+        "venue": "더베스트웨딩컴퍼니 사옥",
+        "parking_info": "현장 문의 권장",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 행사 기간 내 현장 방문 시 증정",
+      "trust_indicators": [
+        "8년 연속 광주 박람회 1위 선정",
+        "누적 1,300쌍 이상의 커플 선택",
+        "400여 개의 웨딩 전문 업체 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "2026 광주 웨딩페스타",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "더베스트웨딩컴퍼니 사옥",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "광주 동구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBW01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장 가능한가요?",
+          "answer": "네, 사전등록을 하시면 무료 입장 및 현장 혜택을 모두 누리실 수 있습니다."
+        },
+        {
+          "question": "사전 예약 혜택은 무엇인가요?",
+          "answer": "사전 예약 후 방문하시면 스타벅스 기프티콘을 100% 증정하며, 현장 계약 시 추가 할인 혜택이 제공됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스튜디오, 드레스, 메이크업(스드메)부터 웨딩홀, 예물, 예복, 허니문, 혼수 가전까지 총 400여 개의 전문 업체가 참가합니다."
+        },
+        {
+          "question": "1:1 상담이 가능한가요?",
+          "answer": "네, 전문 웨딩 플래너와의 1:1 맞춤형 무료 컨설팅을 통해 예산과 취향에 맞는 상담을 받으실 수 있습니다."
+        },
+        {
+          "question": "혼수 상담도 현장에서 가능한가요?",
+          "answer": "네, 혼수 가전 및 예물 등 웨딩 관련 전 품목에 대해 박람회 특별가로 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 무엇부터 준비해야 할지 고민인 예비부부, 스드메 패키지 비용 비교를 시작하려는 신혼부부, 바쁜 일정 중 한 번에 웨딩 관련 정보를 확인하고 싶은 커플을 위한 행사입니다. 전문 플래너의 가이드를 통해 예산에 맞는 합리적인 웨딩 스타일을 찾고자 하는 분들에게 최적화된 박람회입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "150벌 이상의 신상 드레스 샵",
+        "광주 지역 주요 웨딩홀",
+        "예물 및 예복 브랜드",
+        "허니문 전문 여행사",
+        "혼수 가전 브랜드"
+      ],
+      "comparison_hooks": [
+        "8년 연속 광주 웨딩박람회 선호도 1위의 신뢰도",
+        "150벌 이상의 국내 최다 신상 드레스 전시",
+        "상담 및 계약 시 실질적인 현금 할인 혜택 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 결혼준비 팁",
+        "웨딩박람회 상담 준비물",
+        "광주 스드메 비용",
+        "광주 웨딩홀 추천 리스트",
+        "웨딩박람회 예약 방법",
+        "결혼 박람회 가면 꼭 봐야 할 것",
+        "광주 신혼여행 허니문 혜택",
+        "예물 예복 브랜드 추천",
+        "웨딩 플래너 상담 내용",
+        "혼수 가전 구매 팁"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 비교 가이드",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 최신 정보",
+          "category": "sdm_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예물",
+        "예복",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 최대 웨딩페스타 | 사전등록 혜택",
+      "og_description": "스드메부터 예물까지 한자리에서! 사전등록 시 스타벅스 쿠폰 증정, 지금 바로 신청하세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주웨딩페스타",
+        "#결혼준비",
+        "#광주결혼준비",
+        "#광주스드메",
+        "#광주웨딩홀",
+        "#더베스트웨딩컴퍼니",
+        "#예비부부",
+        "#웨딩박람회",
+        "#결혼준비시작"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBW01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_BOSxKH2WfFV2olFlx.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_clv4vKKZbsD6Dvz5dBX.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_aJBrNU3DhQMd.jpg"
+    },
+    "updated_at": "2026-07-20 19:35:47",
+    "revenue": 30000
   }
 ]

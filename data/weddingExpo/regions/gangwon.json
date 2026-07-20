@@ -632,5 +632,1056 @@
     },
     "updated_at": "2026-07-13 19:32:43",
     "revenue": 30000
+  },
+  {
+    "idx": 1545,
+    "campaign_id": "wncowedding04",
+    "gather_name": "원주 웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "원주 웨딩박람회 | AK플라자 원주 상담 시 웨딩 혜택 및 사은품 증정",
+      "meta_description": "원주 최대 규모 웨딩박람회 개최! AK플라자 원주에서 스드메, 혼수, 신혼여행 패키지 상담받고 실리만 토스터기 등 방문 사은품과 다양한 계약 혜택을 확인하세요.",
+      "keywords": [
+        "원주 웨딩박람회",
+        "강원도 결혼준비",
+        "원주 스드메",
+        "AK플라자 원주 웨딩",
+        "결혼박람회 일정",
+        "원주 웨딩홀",
+        "원주 혼수",
+        "원주 신혼여행",
+        "스몰웨딩 원주",
+        "결혼 준비 체크리스트"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하신 예비부부님들, 복잡한 준비 과정에 고민이 많으실 텐데요. 이번 원주 웨딩박람회에서는 스드메부터 혼수, 예물, 신혼여행까지 한자리에서 전문가의 1:1 상담을 받으며 실속 있게 준비하실 수 있습니다.",
+      "benefits_description": "이번 박람회는 방문만 해도 실리만 데일리 토스터기와 웨딩 다이어리 등 푸짐한 선물을 드립니다. 스드메 계약 시 최고급 웨딩 액자 증정, 웨딩드레스 무료 피팅권, 본식 사진 원본 무료 제공 등 계약자분들을 위한 다채로운 혜택이 준비되어 있습니다. 또한 삼성 가전 패키지 할인과 제휴 업체별 맞춤 특전까지 마련되어 있으니, 예비부부님의 소중한 예산을 아낄 수 있는 좋은 기회가 될 것으로 보입니다.",
+      "summary_for_search": "원주 최대 규모 원주 웨딩박람회가 AK플라자 원주에서 열립니다. 스드메, 웨딩홀, 혼수 가전 특전과 방문 상담 사은품 혜택까지! 지금 사전등록하고 실속 있는 결혼 준비를 시작해보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "원주 최대 규모 웨딩박람회, 방문만 해도 100% 선물 증정",
+      "secondary_headline": "스드메부터 혼수 가전까지, 전문가와 함께 준비하는 현명한 웨딩",
+      "urgency_text": "이번 주말까지만 진행되는 특별 혜택을 놓치지 마세요.",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 실리만 데일리 토스터기 증정 (선착순 20쌍)",
+        "웨딩 다이어리 증정",
+        "방문 상담 완료 시 100% 사은품 증정"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩 액자 증정",
+        "웨딩드레스 무료 피팅권",
+        "본식 사진 원본 무료 제공",
+        "삼성 가전 구매 시 최대 440만원 상당 혜택",
+        "계약 축하금 최대 100만원 지원"
+      ],
+      "special_events": [
+        "웨딩홀 무료 상담 및 대관료 할인",
+        "스몰/하우스 웨딩 특별 상담",
+        "신혼여행지 맞춤 상담 및 여행권 증정",
+        "예물/예복/한복 맞춤 특전 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "원주시",
+        "sigungu_en": "wonju",
+        "address": "강원특별자치도 원주시 봉화로 1",
+        "venue": "AK플라자 원주 6층 특별행사장",
+        "parking_info": "AK플라자 원주 주차장 이용 가능",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 제공 (일부 품목 선착순)",
+      "trust_indicators": [
+        "원주 최대 규모 참가 업체",
+        "1:1 맞춤형 전문가 웨딩 컨설팅",
+        "삼성전자 공식 제휴",
+        "투명한 웨딩 패키지 비용 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "원주 웨딩박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "AK플라자 원주",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "6층 특별행사장",
+            "addressLocality": "원주시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding04/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전등록은 꼭 해야 하나요?",
+          "answer": "사전등록을 하시면 현장에서 대기 없이 빠른 입장이 가능하며, 방문 상담 사은품 수령 자격이 부여됩니다."
+        },
+        {
+          "question": "방문 상담 사은품은 어떻게 받나요?",
+          "answer": "박람회 현장을 방문하여 각 부스에서 상담을 완료하시면 선착순 또는 조건에 맞춰 사은품을 수령하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, AK플라자 원주 주차장을 이용하실 수 있습니다. 이용 시간은 박람회 운영 시간을 참고해주세요."
+        },
+        {
+          "question": "혼수와 가전 상담도 한곳에서 가능한가요?",
+          "answer": "네, 이번 박람회에는 스드메뿐만 아니라 삼성 가전 및 혼수 브랜드가 대거 입점하여 한곳에서 비교 상담이 가능합니다."
+        },
+        {
+          "question": "스드메 패키지 구성은 어떻게 되나요?",
+          "answer": "스튜디오, 드레스, 메이크업 업체를 신랑신부님 취향에 맞춰 맞춤 구성할 수 있으며, 박람회 전용 할인 혜택이 적용됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메 업체를 비교하고 싶은 커플, 결혼 준비 예산을 절약하면서 실속 있는 혼수 가전 장만을 원하는 분들을 위해 기획되었습니다. 원주 지역에서 웨딩홀부터 신혼여행까지 결혼 준비의 모든 과정을 원스톱으로 해결하고 싶은 분들이라면 이번 박람회를 통해 전문가의 조언을 듣고 최신 웨딩 트렌드를 파악하는 것을 추천합니다.",
+      "exhibitor_highlights": [
+        "웨딩 스튜디오 10여 곳",
+        "웨딩 드레스샵 및 메이크업 브랜드",
+        "원주 주요 웨딩홀 연계 상담",
+        "삼성전자 혼수 가전 전문 상담",
+        "허니문 여행사",
+        "예물 및 예복 맞춤 브랜드"
+      ],
+      "comparison_hooks": [
+        "원주 지역 최대 규모의 다양한 브랜드 직접 비교 가능",
+        "박람회 계약 시 현장 축하금 및 무료 업그레이드 혜택",
+        "1:1 전문가 밀착 컨설팅으로 예산에 맞는 합리적 플랜 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "원주 결혼 준비 비용",
+        "강원도 웨딩홀 추천",
+        "스드메 업체 고르는 법",
+        "결혼 준비 체크리스트 엑셀",
+        "웨딩 박람회 사은품 혜택",
+        "스몰웨딩 준비하기",
+        "혼수 가전 구매 팁",
+        "허니문 인기 여행지",
+        "웨딩드레스 종류 추천",
+        "원주 예복 맞춤"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "강원 지역 웨딩박람회 일정",
+          "category": "local_wedding_fair"
+        },
+        {
+          "anchor": "실속 있는 스드메 견적 확인",
+          "category": "wedding_price_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "결혼준비",
+        "혼수",
+        "예물",
+        "예복",
+        "허니문",
+        "신혼여행",
+        "웨딩플래너",
+        "웨딩박람회"
+      ]
+    },
+    "social_meta": {
+      "og_title": "원주 최대 웨딩박람회 | 방문 시 100% 선물 증정",
+      "og_description": "결혼 준비, 어디서부터 시작할까요? 원주 웨딩박람회에서 스드메, 혼수, 신혼여행 특전 상담받고 푸짐한 사은품도 챙겨가세요!",
+      "hashtags": [
+        "#원주웨딩박람회",
+        "#원주결혼준비",
+        "#결혼준비",
+        "#웨딩박람회",
+        "#스드메",
+        "#원주웨딩홀",
+        "#혼수가전",
+        "#예비부부",
+        "#신혼여행",
+        "#웨딩박람회혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding04/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_BgAXbRSKqqYGsC.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_t6z57iBAfF8uY6nazzXdEPupIWSQoO.jpg"
+    },
+    "updated_at": "2026-07-20 19:36:04",
+    "revenue": 30000
+  },
+  {
+    "idx": 1069,
+    "campaign_id": "wedingcrowd02",
+    "gather_name": "춘천 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "춘천 웨딩크라우드 웨딩박람회 | 방문 및 계약 혜택 총정리",
+      "meta_description": "춘천 웨딩크라우드 웨딩박람회 일정과 방문자 전원 혜택, 계약 시 제공되는 특별 할인 정보를 확인하세요. 결혼 준비의 시작, 춘천 미래컨벤션센타에서 합리적으로 준비할 수 있습니다.",
+      "keywords": [
+        "춘천웨딩박람회",
+        "강원도결혼준비",
+        "춘천웨딩홀",
+        "스드메패키지",
+        "결혼준비꿀팁",
+        "춘천예식장",
+        "웨딩박람회혜택",
+        "예비부부준비",
+        "웨딩크라우드",
+        "춘천결혼준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 앞둔 예비부부라면 춘천 웨딩크라우드 웨딩박람회 참가를 고민 중이실 텐데요. 이번 박람회는 스드메부터 혼수, 신혼여행까지 결혼의 전 과정을 한자리에서 비교하고 실질적인 혜택을 챙길 수 있는 기회입니다. 춘천 지역 예식장을 비롯해 다양한 웨딩 업체가 참여하여 효율적인 결혼 준비를 돕고 있습니다.",
+      "benefits_description": "이번 박람회에서는 방문객을 위한 풍성한 혜택이 준비되어 있습니다. 사전 등록 후 현장을 방문하면 스타벅스 기프트카드와 고급 청첩장 할인쿠폰을 전원 증정하며, 현장 계약 시 웨딩 다이어리 등 다양한 사은품을 제공하는 것으로 확인됩니다. 또한 스드메 패키지 비용 할인과 허니문 최대 150만 원 할인, 예물 상담 시 보석 볼펜 증정 등 계약 항목별 혜택이 매우 구체적입니다. 각 부스별로 제공되는 사은품과 할인 조건이 상이하므로 상담 시 상세 내용을 꼼꼼히 체크하시는 것을 추천드립니다.",
+      "summary_for_search": "춘천 웨딩크라우드 웨딩박람회, 미래컨벤션센타에서 개최. 방문 상담 시 스타벅스 카드 증정 및 계약 시 웨딩 패키지 할인, 허니문 최대 150만원 지원 혜택 제공. 결혼 준비를 위한 원스톱 서비스."
+    },
+    "marketing_hooks": {
+      "primary_headline": "춘천 웨딩크라우드 웨딩박람회, 지금 신청하고 최대 150만원 할인 혜택 받으세요",
+      "secondary_headline": "스드메부터 허니문, 예물까지 한 번에! 예비부부를 위한 합리적인 결혼 준비 솔루션",
+      "urgency_text": "이번 주말까지만 진행되는 특별 구성, 선착순 혜택을 놓치지 마세요.",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 기프트카드 증정",
+        "고급 청첩장 할인쿠폰 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 할인 및 무료 업그레이드",
+        "허니문 최대 150만원 할인",
+        "예물 계약 시 최대 25% 할인 및 14K 목걸이 증정",
+        "혼수/예식장 계약 시 사은품 증정",
+        "웨딩 다이어리 증정"
+      ],
+      "special_events": [
+        "웨딩 스타일링 트렌드 세미나",
+        "예식 드레스 특별 이벤트",
+        "신랑 예복 및 맞춤 구두 현장 시착 체험"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "춘천시",
+        "sigungu_en": "chuncheon",
+        "address": "강원특별자치도 춘천시 퇴계로 118 미래타워",
+        "venue": "미래컨벤션센타웨딩홀",
+        "parking_info": "행사장 내 자체 주차 시설 이용 가능(이미지 정보 기준)",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "신랑/신부 구분",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 등록 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "지역 내 대규모 웨딩 브랜드 네트워크 참여",
+        "웨딩 전문가 1:1 컨설팅 서비스 보장",
+        "25년 전통의 혼수/예식 업체 참여"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "춘천 웨딩크라우드 웨딩박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "미래컨벤션센타웨딩홀",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "강원특별자치도 춘천시 우석길 61",
+            "addressLocality": "춘천시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "춘천 웨딩크라우드 웨딩박람회는 사전 등록 시 무료로 입장 및 상담이 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "춘천 지역 웨딩홀을 비롯해 스튜디오, 드레스, 메이크업, 예물, 예복, 허니문, 혼수 가전 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "방문하면 무엇을 받을 수 있나요?",
+          "answer": "사전 등록 후 방문하여 상담을 받으시면 스타벅스 기프트카드와 청첩장 할인쿠폰 등 현장 방문 사은품을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장인 미래컨벤션센타 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "사전 신청을 꼭 해야 하나요?",
+          "answer": "네, 사전 신청을 하셔야 현장 방문 혜택 및 경품 수령이 가능하며 원활한 1:1 상담 안내를 받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 춘천 및 강원 지역 예비부부를 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 예비부부, 스드메 비용 비교와 예식장 예약에 고민이 많은 커플에게 적합합니다. 전문가의 1:1 컨설팅을 통해 자신만의 예산과 취향에 맞는 합리적인 웨딩 플랜을 세우고 싶은 분들에게 유용한 정보를 제공합니다. 단순 관람을 넘어 실제 계약까지 고려하는 신혼부부에게 실질적인 비용 절감의 기회를 제공합니다.",
+      "exhibitor_highlights": [
+        "지역 내 웨딩홀 큐레이션",
+        "스드메 토털 패키지 업체",
+        "허니문 여행사",
+        "예물 및 명품 예복 브랜드",
+        "맞춤 혼수 가전 브랜드"
+      ],
+      "comparison_hooks": [
+        "현장 계약 시 즉시 할인 및 사은품 증정",
+        "춘천 지역 최다 웨딩 업체 참여",
+        "웨딩 전문가 1:1 맞춤형 컨설팅 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 준비물",
+        "스드메 평균 비용",
+        "춘천 웨딩홀 추천",
+        "결혼식 예산 세우기",
+        "박람회 계약 시 주의사항",
+        "신혼여행지 추천",
+        "웨딩박람회 사은품 혜택",
+        "예물 준비 시기",
+        "신랑 예복 맞춤 가격",
+        "웨딩 컨설팅 후기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "춘천 웨딩홀 리스트",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 가격 비교",
+          "category": "wedding_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "예식장",
+        "허니문",
+        "예복",
+        "예물",
+        "신혼여행",
+        "청첩장",
+        "결혼예산"
+      ]
+    },
+    "social_meta": {
+      "og_title": "춘천 웨딩크라우드 웨딩박람회 혜택 안내",
+      "og_description": "예비부부를 위한 춘천 웨딩박람회! 방문만 해도 사은품, 계약 시 최대 150만원 할인 혜택을 놓치지 마세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#춘천웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#예신",
+        "#예랑",
+        "#웨딩홀투어",
+        "#결혼준비시작",
+        "#춘천웨딩",
+        "#예비부부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_RxXWy1PuTdNXBf55aG2SZ46zAK9gQ.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_YPyM6hWutvrxB.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lAMLiOyE8ioq6eqAufSnEUsVX.jpg"
+    },
+    "updated_at": "2026-07-20 19:36:20",
+    "revenue": 30000
+  },
+  {
+    "idx": 1362,
+    "campaign_id": "weddingplus01",
+    "gather_name": "웨딩더하기 원주웨딩박람회",
+    "organizer_name": "웨딩더하기",
+    "seo_metadata": {
+      "title": "웨딩더하기 원주웨딩박람회 | LG전자 베스트샵 방문 상담 혜택",
+      "meta_description": "원주 예비부부를 위한 웨딩더하기 웨딩박람회 정보입니다. 스드메 패키지 최저가부터 LG전자 가전 구매 최대 780만 혜택까지, 결혼 준비의 모든 것을 한자리에서 비교해보세요.",
+      "keywords": [
+        "원주웨딩박람회",
+        "웨딩더하기",
+        "원주결혼준비",
+        "원주스드메",
+        "LG전자웨딩박람회",
+        "원주웨딩홀",
+        "강원도웨딩박람회",
+        "원주혼수",
+        "신혼가전혜택",
+        "웨딩박람회일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면, 이번 웨딩더하기 원주웨딩박람회 참가를 고민해보시기 바랍니다. LG전자 베스트샵 AKPLAZA 원주점에서 진행되는 이번 행사는 복잡한 웨딩 준비 과정을 한눈에 정리하고 실속 있는 혜택까지 챙길 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회는 방문객 전원에게 스타벅스 기프티콘 또는 블루투스 스피커를 증정하는 등 풍성한 방문 혜택이 준비되어 있습니다. 특히 스드메 패키지는 촬영 최저 69만원, 본식 최저 89만원부터 구성되어 합리적인 가격대를 제안합니다. LG전자 가전 동시 구매 시 최대 780만원 상당의 혜택과 더불어, 계약 시 웨딩홀 최대 500만원 할인 및 혼수, 예복 브랜드별 특별 사은품이 제공되는 것으로 확인됩니다.",
+      "summary_for_search": "원주 웨딩더하기 박람회 개최! LG전자 베스트샵 AKPLAZA 원주점에서 스드메 패키지 최저가 상담 및 혼수가전 최대 780만원 혜택을 제공합니다. 결혼 준비를 효율적으로 시작할 수 있는 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비 한 번에 끝내기! 원주 웨딩박람회 최대 혜택",
+      "secondary_headline": "스드메 최저 69만원부터 가전 할인까지, 예비부부를 위한 원스톱 웨딩 솔루션",
+      "urgency_text": "선착순 방문객 사은품 증정 및 한정 기간 프로모션",
+      "call_to_action_text": "무료 참가 신청하고 상담받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 스타벅스 기프티콘 또는 블루투스 스피커 증정",
+        "상담 완료 시 선착순 경품 추첨"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 촬영 69만원부터 / 본식 89만원부터",
+        "LG전자 가전 동시 구매 시 최대 780만원 혜택",
+        "웨딩홀 계약 시 최대 500만원 할인",
+        "예복/예물 계약 시 브랜드별 추가 할인 및 사은품"
+      ],
+      "special_events": [
+        "1:1 맞춤형 웨딩 컨설팅",
+        "웨딩홀 실시간 견적 비교 서비스",
+        "혼수 가전 금액대별 사은품 증정"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "원주시",
+        "sigungu_en": "wonju",
+        "address": "강원특별자치도 원주시 봉화로 1 6층",
+        "venue": "LG전자베스트샵 AKPLAZA원주점",
+        "parking_info": "AKPLAZA 원주점 주차장 이용 가능(상세 사항 현장 확인 필요)",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 후 안내에 따라 증정",
+      "trust_indicators": [
+        "100% 예약제 맞춤 상담",
+        "수수료 없는 투명한 견적",
+        "많은 신랑신부의 솔직한 대관 후기 보유"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "웨딩더하기 원주웨딩박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자 베스트샵 AKPLAZA 원주점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "강원특별자치도 원주시 봉화로 1",
+            "addressLocality": "원주시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩더하기",
+          "url": "https://ad.cpaad.co.kr/weddingplus01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "웨딩더하기 원주웨딩박람회는 사전 신청 시 무료로 참가할 수 있습니다."
+        },
+        {
+          "question": "방문만 해도 사은품을 받을 수 있나요?",
+          "answer": "네, 방문객 전원에게 스타벅스 기프티콘 또는 블루투스 스피커를 증정합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스튜디오, 드레스, 메이크업(스드메) 업체와 혼수 가전, 웨딩홀, 예복, 예물 등 결혼 준비 전반에 필요한 업체가 참여합니다."
+        },
+        {
+          "question": "사전 등록은 어떻게 하나요?",
+          "answer": "상단에 있는 신청 폼에 이름과 연락처, 결혼 예정일을 입력하여 제출하시면 예약이 완료됩니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "개최지인 AKPLAZA 원주점 주차장을 이용하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 원주 및 강원 지역 예비부부를 대상으로 합니다. 막상 결혼 준비를 시작하려니 무엇부터 해야 할지 막막한 예비부부, 스드메 패키지 비용과 혜택을 꼼꼼히 비교하고 싶은 커플, 그리고 혼수 가전 구매를 앞두고 가성비와 가심비를 모두 잡고 싶은 분들에게 적합합니다. 전문가의 1:1 상담을 통해 시간과 비용을 절약하고 싶은 실속파 예비부부들에게 추천하는 박람회입니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 패키지 브랜드",
+        "LG전자 가전 전담 컨설턴트",
+        "지역 내 주요 웨딩홀 상담 부스",
+        "예물 및 예복 맞춤 브랜드"
+      ],
+      "comparison_hooks": [
+        "투명한 견적 공개로 합리적인 웨딩 비용 제시",
+        "가전부터 웨딩홀까지 원스톱 상담 가능한 유일한 박람회",
+        "검증된 업체 위주의 1:1 맞춤 컨설팅 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "원주 웨딩홀 추천",
+        "스드메 패키지 가격",
+        "결혼 준비 체크리스트",
+        "원주 혼수가전 성지",
+        "웨딩박람회 방문 혜택",
+        "스드메 상담 질문 리스트",
+        "강원도 웨딩업체 비교",
+        "신혼가전 준비 꿀팁",
+        "결혼 준비 비용 절약법",
+        "원주 맞춤 정장"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "웨딩홀 추천 정보",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 바로가기",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "신혼여행",
+        "예식장",
+        "예물",
+        "예복",
+        "신혼가전",
+        "웨딩패키지"
+      ]
+    },
+    "social_meta": {
+      "og_title": "원주 웨딩박람회 | 스드메부터 가전 혜택까지",
+      "og_description": "결혼 준비, 어디서부터 할지 고민이라면? 원주 웨딩박람회에서 상담받고 선물 받아가세요!",
+      "hashtags": [
+        "#원주웨딩박람회",
+        "#결혼준비",
+        "#원주결혼",
+        "#스드메",
+        "#원주웨딩홀",
+        "#신혼가전",
+        "#웨딩더하기",
+        "#예신예랑",
+        "#원주데이트",
+        "#결혼준비꿀팁"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/weddingplus01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Sv2jfuneB3JkeH2V93tMYaxXdGxwDJuX.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dX5n5cZTIilWqQWcf.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dsCMyehCvtwxZmPComknZeLwk1RZr6Zg.jpg"
+    },
+    "updated_at": "2026-07-20 19:36:34",
+    "revenue": 40000
+  },
+  {
+    "idx": 1691,
+    "campaign_id": "withyouwedding49",
+    "gather_name": "춘천 더테라리움 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "춘천 더테라리움 웨딩박람회 | 스드메 할인 및 계약 혜택 정보",
+      "meta_description": "춘천 더테라리움 웨딩박람회 정보입니다. 웨딩홀, 스드메 패키지 할인부터 방문객 식전영상 무료 쿠폰까지 다양한 혜택을 확인하세요. 지금 사전등록하고 결혼 준비의 시작을 현명하게 준비해보세요.",
+      "keywords": [
+        "춘천 웨딩박람회",
+        "강원도 웨딩박람회",
+        "춘천 결혼준비",
+        "더테라리움 춘천",
+        "춘천 스드메",
+        "웨딩홀 패키지",
+        "예비부부 혜택",
+        "결혼박람회 일정",
+        "스드메 상담",
+        "혼수 준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 앞두고 어디서부터 시작해야 할지 고민인 예비부부님들을 위해 춘천 더테라리움 웨딩박람회 소식을 전해드립니다. 이번 박람회는 복잡한 결혼 준비 과정을 한자리에서 효율적으로 해결할 수 있도록 기획되었으며, 춘천 지역 예비부부를 위한 실질적인 혜택과 정보를 제공합니다.",
+      "benefits_description": "이번 춘천 웨딩박람회에서는 방문만 하셔도 식전영상 쿠폰, 모바일 및 종이청첩장 할인 쿠폰 등을 포함한 다양한 선물을 제공합니다. 또한 현장 계약 시 최대 50만 원 상당의 혜택과 더불어 건강검진권, 티파니앤코 목걸이 추첨 등 파격적인 구성이 확인됩니다. 스드메 패키지와 웨딩홀 섭외에 대한 전문 상담을 통해 예산 절감의 기회까지 놓치지 마세요.",
+      "summary_for_search": "춘천 더테라리움 웨딩박람회 정보 안내입니다. 일시, 장소, 현장 상담 혜택과 무료 선물 정보를 확인하고 사전등록을 통해 합리적인 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "춘천 웨딩박람회, 지금 신청하고 최대 혜택 받으세요",
+      "secondary_headline": "스드메 패키지부터 웨딩홀 계약까지, 춘천 예비부부를 위한 1:1 맞춤 상담",
+      "urgency_text": "사전등록 후 방문 시 100% 선물 증정",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전영상 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "종이청첩장 할인 쿠폰",
+        "웨딩다이어리 증정"
+      ],
+      "contract_benefits": [
+        "웨딩 닥터링 비용 지원",
+        "바디관리권(70만원 상당) 제공",
+        "최대 150만원 상당 허니문 여행 상품권 증정",
+        "계약 후기 작성 시 티파니앤코 목걸이 추첨"
+      ],
+      "special_events": [
+        "웨딩 퍼스널 컬러 무료 진단",
+        "건강검진권 증정(대상자)",
+        "현장 계약 시 네이버 쿠폰 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "display_date": "08월 08일(토) ~ 08월 09일(일)",
+        "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "춘천시",
+        "sigungu_en": "chuncheon",
+        "address": "강원특별자치도 춘천시 지석로 80 10층",
+        "venue": "더테라리움 춘천",
+        "parking_info": "더테라리움 춘천 건물 주차장 이용 가능",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전등록 후 현장 방문 상담 완료 시 증정",
+      "trust_indicators": [
+        "11,000건 이상의 누적 진행 사례",
+        "1:1 웨딩 전문가 전담 관리",
+        "정찰제 시스템 기반 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "춘천 더테라리움 웨딩박람회",
+        "startDate": "2025-08-08",
+        "endDate": "2025-08-09",
+        "location": {
+          "@type": "Place",
+          "name": "더테라리움 춘천",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "춘천순환로 80 10층",
+            "addressLocality": "춘천시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding49/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 있나요?",
+          "answer": "아니요, 사전등록을 하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "더테라리움 춘천 건물 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "방문만 해도 혜택을 주나요?",
+          "answer": "네, 사전등록 후 현장을 방문하여 상담을 받으시면 모바일 청첩장 쿠폰 등 다양한 방문 사은품을 제공합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "개인별 상담 항목에 따라 다르지만, 보통 1시간 내외로 소요됩니다."
+        },
+        {
+          "question": "예식장 미정이어도 참여 가능한가요?",
+          "answer": "네, 웨딩홀 섭외 전문가가 상주하고 있어 예식장이 미정인 분들도 맞춤 상담이 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "춘천 및 인근 지역에 거주하며 결혼을 앞둔 예비부부님들을 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 예비 신랑신부, 스드메 패키지 및 웨딩홀 비용을 합리적으로 비교하고 싶은 분들, 전문가의 1:1 맞춤 상담이 필요한 분들에게 적합합니다. 웨딩 준비의 전체적인 가이드와 예산안 수립이 필요한 분들이 방문하시면 큰 도움을 얻으실 수 있습니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 전문 섭외 업체",
+        "스드메(스튜디오·드레스·메이크업) 패키지",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "한복 대여점"
+      ],
+      "comparison_hooks": [
+        "추가 비용 제로 시스템 제공",
+        "웨딩 전문가 1:1 맞춤 전담 관리",
+        "현장 즉시 할인 및 사은품 증정"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "춘천 결혼준비 방법",
+        "웨딩박람회 방문 꿀팁",
+        "스드메 계약 시 주의사항",
+        "춘천 웨딩홀 추천",
+        "결혼준비 예산 짜기",
+        "웨딩박람회 사전등록 혜택",
+        "강원도 웨딩홀 비용",
+        "신혼여행 패키지 추천",
+        "결혼 준비 체크리스트",
+        "웨딩 드레스 투어"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "강원 웨딩박람회 일정 모아보기",
+          "category": "local_wedding_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예식장",
+        "신혼여행",
+        "웨딩패키지",
+        "결혼예산",
+        "예복",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "춘천 더테라리움 웨딩박람회 초대",
+      "og_description": "춘천 예비부부 필수 코스! 스드메, 웨딩홀 계약 혜택받고 지금 바로 사전등록하세요.",
+      "hashtags": [
+        "#춘천웨딩박람회",
+        "#춘천결혼준비",
+        "#강원도웨딩박람회",
+        "#더테라리움",
+        "#결혼준비",
+        "#스드메",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#춘천웨딩",
+        "#웨딩플래너"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding49/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lkhrbn3kzBxxlrjXd1DK3zfaMw.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3N1XRBdQsl2otmHKfCN.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_83OuVO8WTXMXTAniT.jpg"
+    },
+    "updated_at": "2026-07-20 19:36:49",
+    "revenue": 30000
+  },
+  {
+    "idx": 1082,
+    "campaign_id": "wedingcrowd08",
+    "gather_name": "강릉 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "강릉 웨딩크라우드 웨딩박람회 | 상담 시 신세계 상품권 2만원 증정",
+      "meta_description": "강릉에서 열리는 웨딩크라우드 웨딩박람회 정보입니다. 방문 시 이마트 상품권 증정, 스드메 패키지 특가 및 혼수 가전 혜택을 확인하세요. 예비부부를 위한 체계적인 결혼 준비 가이드를 제공합니다.",
+      "keywords": [
+        "강릉웨딩박람회",
+        "결혼준비",
+        "웨딩크라우드",
+        "강릉웨딩홀",
+        "스드메패키지",
+        "강릉혼수",
+        "웨딩상담",
+        "결혼박람회혜택",
+        "삼성스토어강릉",
+        "강릉예식장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼고 계신 예비부부라면, 이번 강릉 웨딩크라우드 웨딩박람회 참가를 고민해보세요. 삼성스토어 강릉점에서 개최되는 이번 행사는 스드메부터 혼수 가전까지 결혼의 전 과정을 한자리에서 비교하고 합리적으로 준비할 수 있도록 돕는 실속 있는 정보의 장입니다.",
+      "benefits_description": "이번 박람회에서는 현장 방문객을 위한 특별한 혜택이 마련되어 있습니다. 방문 상담 시 이마트 상품권(신세계 상품권) 2만원권을 제공하며, 계약자 전원에게는 웨딩 다이어리를 증정합니다. 또한 스드메 패키지 특가, 청첩장 15% 할인, 예물 및 예복 계약 시 추가 할인과 상품 증정 등 결혼 비용 부담을 덜어줄 다채로운 혜택이 준비되어 있습니다. 전문가의 1:1 컨설팅을 통해 나에게 맞는 예산 플랜을 세워보시길 바랍니다.",
+      "summary_for_search": "강릉 삼성스토어에서 열리는 웨딩크라우드 웨딩박람회 정보를 확인하세요. 방문 상담 시 상품권 증정 및 스드메 패키지 특가, 혼수 가전 상담 등 결혼 준비의 모든 것을 한 번에 해결할 수 있는 기회입니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "강릉 웨딩크라우드 웨딩박람회, 방문만 해도 상품권 2만원 증정",
+      "secondary_headline": "스드메 패키지부터 혼수 가전까지, 강릉 예비부부를 위한 가장 합리적인 결혼 준비 솔루션",
+      "urgency_text": "선착순 방문객 대상 혜택 제공, 이번 주말 단 2일간 진행",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 이마트(신세계) 상품권 2만원 증정",
+        "계약자 전원 웨딩 다이어리 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 특가 제공",
+        "청첩장 15% 할인",
+        "예물/예복 계약 시 추가 할인 및 상품 증정",
+        "한복 계약 시 이벤트 혜택 제공",
+        "허니문 최저가 혜택 및 여행권 상담"
+      ],
+      "special_events": [
+        "삼성 AI 신혼가전 상담 및 할인 혜택",
+        "1:1 웨딩 전문가 맞춤 컨설팅",
+        "웨딩홀 비교 분석 서비스"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "강릉시",
+        "sigungu_en": "gangneung",
+        "address": "강원특별자치도 강릉시 경강로 2380",
+        "venue": "삼성스토어 강릉",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "신랑/신부 구분",
+        "결혼예정일",
+        "신혼집입주예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 지급하며, 선착순 한정 수량으로 조기 마감될 수 있습니다.",
+      "trust_indicators": [
+        "전국 단위 웨딩박람회 개최 노하우",
+        "1:1 웨딩 전문가 맞춤형 컨설팅",
+        "혼수 가전 전문 삼성스토어 공동 진행"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "강릉 웨딩크라우드 웨딩박람회",
+        "startDate": "2025-08-01",
+        "endDate": "2025-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 강릉점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "강원특별자치도 강릉시 경강로 2380",
+            "addressLocality": "강릉시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd08/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용이 있나요?",
+          "answer": "아니요, 사전 신청을 하시면 무료로 입장 및 상담을 받으실 수 있습니다."
+        },
+        {
+          "question": "방문 상담 사은품은 어떻게 받나요?",
+          "answer": "현장 방문 후 상담을 완료하시면 소정의 상품권이 증정됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "스드메, 웨딩홀, 예물, 예복, 한복, 혼수 가전 등 결혼 준비에 필요한 전 분야의 전문 업체가 참가합니다."
+        },
+        {
+          "question": "사전 등록은 필수인가요?",
+          "answer": "원활한 상담과 혜택 수령을 위해 사전 등록을 권장해 드립니다."
+        },
+        {
+          "question": "혼수 가전도 한곳에서 볼 수 있나요?",
+          "answer": "네, 삼성스토어에서 진행되는 만큼 신혼 가전 상담과 패키지 할인 혜택을 동시에 확인하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 강릉 및 인근 지역 예비부부를 대상으로 합니다. 특히 결혼 준비를 6개월 이내에 시작하거나, 스드메 비용 비교와 혼수 가전 구매를 한자리에서 해결하고 싶은 커플에게 최적화된 정보를 제공합니다. '결혼 준비 어떻게 시작하나요?', '강릉 웨딩홀과 스드메 패키지 가격대는 어떤가요?'와 같은 정보성 쿼리를 가진 사용자들에게 전문적인 가이드를 제시하여 효율적인 웨딩 플랜 수립을 돕습니다.",
+      "exhibitor_highlights": [
+        "스드메(스튜디오·드레스·메이크업) 전문업체",
+        "웨딩홀 추천 및 상담 데스크",
+        "허니문 여행사",
+        "예물·예복 및 한복 브랜드",
+        "혼수 가전(삼성스토어)"
+      ],
+      "comparison_hooks": [
+        "웨딩 전문가의 1:1 맞춤형 플랜 컨설팅",
+        "가전부터 웨딩까지 한곳에서 비교 가능한 올인원 구성",
+        "현장 계약 시 즉시 적용 가능한 풍성한 할인 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "강릉 스드메 추천",
+        "결혼 박람회 방문 혜택",
+        "웨딩박람회 스드메 가격",
+        "혼수 가전 할인 행사",
+        "강릉 웨딩홀 리스트",
+        "웨딩 다이어리 받는 법",
+        "결혼 준비 순서",
+        "웨딩 박람회 예약 방법",
+        "신혼여행 패키지 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "강릉 웨딩홀 전체 정보",
+          "category": "wedding_venues"
+        },
+        {
+          "anchor": "스드메 패키지 비교 가이드",
+          "category": "wedding_services"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "한복",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "강릉 웨딩크라우드 웨딩박람회 혜택 확인하기",
+      "og_description": "상담 시 상품권 2만원 증정! 강릉에서 열리는 최대 웨딩박람회에서 합리적인 결혼 준비를 시작해보세요.",
+      "hashtags": [
+        "#강릉웨딩박람회",
+        "#웨딩크라우드",
+        "#결혼준비",
+        "#강릉결혼",
+        "#스드메패키지",
+        "#강릉예식장",
+        "#신혼가전",
+        "#웨딩상담",
+        "#강릉웨딩",
+        "#예비부부",
+        "#결혼박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd08/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_hxY7iqkhgXsf7KSGQ81rQm.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_S39XSP86qUDJclix7p5XNb2.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lpNWPmq3f6yumN.jpg"
+    },
+    "updated_at": "2026-07-20 19:37:04",
+    "revenue": 30000
   }
 ]
