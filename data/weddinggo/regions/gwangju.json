@@ -628,5 +628,212 @@
     },
     "updated_at": "2026-07-20 13:05:29",
     "revenue": 50000
+  },
+  {
+    "idx": 946,
+    "campaign_id": "theBW01",
+    "gather_name": "광주 웨딩 페스타",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 웨딩페스타 | 더베스트웨딩컴퍼니 8월 박람회 혜택 안내",
+      "meta_description": "광주 동구 더베스트웨딩컴퍼니에서 열리는 2026 광주 웨딩페스타! 스드메 최대 20만원 할인 및 방문 시 스타벅스 쿠폰 증정. 예비부부라면 지금 무료 사전예약하고 결혼 준비 필수 혜택을 모두 받아보세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주스드메",
+        "더베스트웨딩컴퍼니",
+        "광주웨딩홀추천",
+        "신혼부부혜택",
+        "결혼박람회혜택",
+        "광주예물",
+        "광주예복",
+        "광주허니문"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 해야 할지 막막하신가요? 8년 연속 1위 브랜드 더베스트웨딩컴퍼니가 주최하는 '2026 광주 웨딩페스타'는 예비부부의 고민을 한 번에 해결해 드립니다. 400여 개 웨딩 업체가 참여하여 최신 트렌드를 한눈에 확인할 수 있는 광주 최대 규모의 축제에 초대합니다.",
+      "benefits_description": "이번 박람회에서는 방문만 하셔도 스타벅스 커피 쿠폰을 100% 증정하며, 현장 상담 및 계약 시 파격적인 지원이 기다리고 있습니다. 스드메 패키지 최대 20만원, 예물·예복·혼수가전 등 카테고리별로 현금 지원 혜택을 제공하여 경제적인 결혼 준비를 돕습니다. 또한, 하와이 허니문 패키지와 최신 드레스 전시까지 예비부부를 위한 프리미엄 혜택이 가득 준비되어 있으니 놓치지 마세요.",
+      "summary_for_search": "8월 1일~2일, 더베스트웨딩컴퍼니에서 진행되는 광주 웨딩페스타! 방문 시 스타벅스 쿠폰 증정과 스드메 최대 20만원 할인 혜택을 제공합니다. 광주 예비부부를 위한 결혼 준비 필수 박람회를 지금 사전예약하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "2026 광주 웨딩페스타, 지금 사전예약 시 최대 20만원 지원!",
+      "secondary_headline": "8년 연속 1위가 증명하는 광주 결혼 준비의 정석, 400여 개 업체 한자리에",
+      "urgency_text": "선착순 사전예약 혜택 조기 마감 예정, 이번 주말 단 2일간!",
+      "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 기프티콘 100% 증정",
+        "사전 예약 방문객 전원 경품 추첨"
+      ],
+      "contract_benefits": [
+        "스드메 최대 20만원 지원",
+        "스튜디오/예복/허니문/한복 카테고리별 현금 할인(각 5~10만원)",
+        "혼수가전 박람회 특별 할인 적용"
+      ],
+      "special_events": [
+        "2026 신상 웨딩 드레스 전시",
+        "하와이 허니문 박람회 특전",
+        "1:1 웨딩 전문가 맞춤 컨설팅",
+        "웨딩홀 실시간 잔여타임 확인"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "display_date": "08월 01일(토) ~ 08월 02일(일)",
+        "original_display_date": "08월 01일(토) ~ 08월 02일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "광주 동구 서석로 13-1 3층",
+        "venue": "더베스트웨딩컴퍼니 사옥",
+        "parking_info": "사옥 내 주차 가능(이미지 하단 지도 참조)",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 상담 시 증정",
+      "trust_indicators": [
+        "8년 연속 광주 박람회 1위 선정",
+        "누적 1,300쌍 이상의 예비부부 선택",
+        "400여 개 이상 웨딩 협력 업체 참여"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "2026 광주 웨딩페스타",
+        "startDate": "2026-08-01",
+        "endDate": "2026-08-02",
+        "location": {
+          "@type": "Place",
+          "name": "더베스트웨딩컴퍼니 사옥",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "광주 동구"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBW01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료가 있나요?",
+          "answer": "아니요, 사전 예약 시 무료 입장이 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 행사장인 더베스트웨딩컴퍼니 사옥에 주차가 가능합니다."
+        },
+        {
+          "question": "스드메 패키지 비용은 어느 정도인가요?",
+          "answer": "박람회 현장에서는 최대 20만원 할인 혜택이 적용된 합리적인 패키지를 상담받으실 수 있습니다."
+        },
+        {
+          "question": "사전 예약 혜택은 무엇인가요?",
+          "answer": "사전 예약 후 방문하시면 스타벅스 기프티콘과 다양한 계약 할인 쿠폰을 받으실 수 있습니다."
+        },
+        {
+          "question": "웨딩홀도 한곳에서 비교 가능한가요?",
+          "answer": "네, 광주 지역 내 인기 웨딩홀을 한곳에서 비교하고 잔여 타임 상담까지 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 예식장, 스드메, 혼수 등 방대한 준비 과정에 막막함을 느끼는 광주 거주 예비부부를 대상으로 합니다. 특히 결혼 준비를 효율적으로 끝내고 싶은 바쁜 직장인 커플, 업체별 가격 거품을 제거하고 합리적인 비용으로 웨딩을 준비하고자 하는 꼼꼼한 커플, 최신 웨딩 트렌드와 드레스를 현장에서 직접 확인하고 싶은 신부를 위한 맞춤형 박람회입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "광주 유명 웨딩홀",
+        "혼수가전 및 예물 브랜드",
+        "맞춤 정장 및 한복 브랜드",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "8년 연속 광주 박람회 1위 선정으로 검증된 신뢰도",
+        "400여 개 업체 입점으로 광주 최다 선택지 제공",
+        "현장 즉시 계약 할인 및 1:1 맞춤형 무료 컨설팅 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩홀 추천",
+        "광주 스드메 가격",
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "광주 예물 투어",
+        "스드메 견적 비교",
+        "신혼여행 패키지 추천",
+        "웨딩박람회 혜택 확인",
+        "광주 맞춤 예복",
+        "웨딩홀 잔여 타임 문의"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 비교하기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 등급별 가격표",
+          "category": "studio_dress_makeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "웨딩 드레스",
+        "맞춤 정장",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "2026 광주 웨딩페스타 - 무료 사전예약 혜택",
+      "og_description": "8월 1일~2일, 광주 최대 규모 웨딩 페스타! 지금 신청하고 스드메 최대 20만원 할인 받으세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주스드메",
+        "#더베스트웨딩컴퍼니",
+        "#광주웨딩홀",
+        "#예비부부",
+        "#결혼준비시작",
+        "#웨딩박람회혜택",
+        "#광주데이트",
+        "#광주웨딩"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBW01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_BOSxKH2WfFV2olFlx.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_clv4vKKZbsD6Dvz5dBX.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_aJBrNU3DhQMd.jpg"
+    },
+    "updated_at": "2026-07-20 16:02:22",
+    "revenue": 30000
   }
 ]
