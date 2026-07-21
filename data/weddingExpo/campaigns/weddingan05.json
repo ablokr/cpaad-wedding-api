@@ -1,0 +1,208 @@
+{
+  "idx": 1842,
+  "campaign_id": "weddingan05",
+  "gather_name": "서울 웨딩박람회",
+  "organizer_name": "웨딩소담",
+  "seo_metadata": {
+    "title": "서울 웨딩박람회 | 롯데백화점 본점 상담 시 특별 혜택 제공",
+    "meta_description": "이번 서울 웨딩박람회, 참가를 고민 중이시라면 아래 정보를 참고해보세요. 롯데백화점 본점에서 열리는 이번 박람회는 스드메 최저가 도전과 방문객 사은품 등 다양한 혜택을 제공합니다. 지금 사전등록하고 결혼 준비의 첫걸음을 알뜰하게 시작하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "롯데백화점 웨딩박람회",
+      "결혼 준비",
+      "스드메 비용",
+      "웨딩홀 추천",
+      "신혼여행 상담",
+      "예복 할인",
+      "결혼 박람회",
+      "웨딩 상담",
+      "무료 웨딩 박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞둔 예비부부님들, 어디서부터 시작해야 할지 막막하시죠? 이번 서울 웨딩박람회는 롯데백화점 본점에서 진행되어 접근성이 좋으며, 20년 차 웨딩 디렉터가 1:1 맞춤 상담을 제공합니다. 결혼 준비의 필수 요소인 스드메부터 혼수, 허니문까지 한자리에서 비교해보세요.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 증정되는 선물을 비롯해 계약 시 파격적인 혜택이 준비되어 있습니다. 특히 스튜디오 촬영 59만 원, 본식 드레스 98만 원 등 스드메 최저가 도전 혜택과 함께 블랙라벨 드레스 무료 업그레이드 등 예비부부의 예산을 아낄 수 있는 실질적인 구성이 돋보입니다. 1:1 전문 컨설팅을 통해 거품 없는 가격으로 품격 있는 결혼식을 준비하실 수 있습니다.",
+    "summary_for_search": "롯데백화점 본점 서울 웨딩박람회 정보입니다. 8월 8일부터 9일까지 진행되며, 방문 상담 시 특별 사은품과 스드메 패키지 할인 혜택을 드립니다. 사전등록을 통해 합리적인 결혼 준비를 시작해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "서울 웨딩박람회, 지금 사전등록하고 혜택받기",
+    "secondary_headline": "20년 차 디렉터의 1:1 맞춤 컨설팅으로 스드메부터 혼수까지 가장 알뜰하게 준비하는 방법",
+    "urgency_text": "하루 30쌍만 모십니다. 선착순 마감 주의!",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 사은품 증정"
+    ],
+    "contract_benefits": [
+      "스튜디오 촬영 59만원",
+      "본식 드레스 98만원",
+      "블랙라벨 무료 업그레이드 및 2부 드레스 서비스",
+      "웨딩 예복 최대 할인",
+      "허니문 국내 최저가 보장"
+    ],
+    "special_events": [
+      "20년 차 웨딩 디렉터 1:1 맞춤 상담",
+      "셀프사진 최저가 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "중구",
+      "sigungu_en": "jung",
+      "address": "서울 중구 남대문로 81",
+      "venue": "롯데백화점 본점 8층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신부/신랑 구분",
+      "결혼예정일",
+      "방문예정일자"
+    ],
+    "gift_conditions": "사전 등록 후 현장 방문 상담 완료 시 증정",
+    "trust_indicators": [
+      "20년 차 웨딩 디렉터 운영",
+      "롯데백화점 본점 개최",
+      "하루 30쌍 한정 상담",
+      "국내 최저가 보장제"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 웨딩박람회",
+      "startDate": "2025-08-08T10:00:00",
+      "endDate": "2025-08-09T19:00:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 본점 8층 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "명동",
+          "addressLocality": "서울 중구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩소담",
+        "url": "https://ad.cpaad.co.kr/weddingan05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "사전 등록은 왜 해야 하나요?",
+        "answer": "사전 등록 시 무료 입장과 함께 현장 방문 사은품 증정 혜택을 받으실 수 있으며, 상담 우선권이 부여됩니다."
+      },
+      {
+        "question": "방문 상담 시 준비할 것이 있나요?",
+        "answer": "별도의 준비물은 없으나 예식 예정일과 대략적인 예산 범위를 생각하고 오시면 더 구체적인 상담이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메(스튜디오, 드레스, 메이크업) 전문 업체, 웨딩홀, 허니문 여행사, 예물 및 예복 브랜드가 다수 참가합니다."
+      },
+      {
+        "question": "1:1 상담은 무료인가요?",
+        "answer": "네, 박람회 현장에서 이루어지는 20년 차 디렉터의 맞춤 상담은 무료로 진행됩니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "고객님의 상담 항목에 따라 차이가 있지만, 보통 1시간 내외로 소요되니 시간 여유를 두고 방문하시는 것을 추천드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비의 막연한 불안감을 가진 예비부부, 예산 안에서 효율적인 스드메 패키지를 찾고 있는 신혼부부, 혹은 바쁜 직장 생활로 효율적인 원스톱 준비를 원하는 커플이 대상입니다. 결혼 준비의 기초인 예식장 섭외부터 드레스 피팅, 예복 상담까지 전문가의 도움을 받아 시행착오를 줄이고 싶은 분들께 권장합니다. 정보 탐색만으로는 알기 어려운 최신 웨딩 트렌드와 현장 할인 정보를 확인하고 싶은 예비부부에게 적합합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "드레스샵(블랙라벨 보유)",
+      "메이크업 브랜드",
+      "혼수 예물샵",
+      "남성 맞춤 예복",
+      "허니문 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "20년 차 베테랑 디렉터의 1:1 맞춤형 컨설팅",
+      "하루 30쌍 한정 밀착 상담으로 퀄리티 보장",
+      "공식 가격 보장제를 통한 최저가 웨딩 패키지 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 구성",
+      "결혼 준비 체크리스트",
+      "롯데백화점 웨딩박람회 후기",
+      "웨딩홀 섭외 꿀팁",
+      "신혼여행 상담 시 주의사항",
+      "웨딩 예복 맞춤 가격",
+      "결혼 비용 절약 방법",
+      "웨딩박람회 현장 계약 혜택",
+      "스드메 최저가 업체"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "wedding_exhibitions"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩드레스",
+      "맞춤정장",
+      "결혼박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 웨딩박람회 | 스드메 최저가 상담 혜택",
+    "og_description": "롯데백화점 본점에서 만나는 특별한 웨딩박람회! 방문만 해도 선물 증정, 지금 바로 사전등록하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#롯데백화점본점",
+      "#웨딩드레스",
+      "#결혼식준비",
+      "#신혼부부혜택",
+      "#웨딩디렉터"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingan05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_LbHBi39cyipi.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_gUuPzNoZj3WW6.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_CkDf6KhSBacd4YmzyL5uYXmNe3F.jpg"
+  },
+  "updated_at": "2026-07-21 13:30:19",
+  "revenue": 30000
+}
