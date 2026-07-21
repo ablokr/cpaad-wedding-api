@@ -1,0 +1,209 @@
+{
+  "campaign_id": "wedingcrowd116",
+  "gather_name": "평택 AK 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "평택 AK 웨딩박람회 | 스드메 패키지 최저가 보장 및 사은품 혜택",
+    "meta_description": "평택 AK 플라자에서 열리는 웨딩박람회! 스드메 최저가 보장부터 백화점 상품권, 신혼여행 할인까지 실속 있는 결혼 준비 정보를 확인하세요. 사전등록 시 100% 증정 이벤트 중입니다.",
+    "keywords": [
+      "평택웨딩박람회",
+      "AK플라자웨딩박람회",
+      "결혼준비",
+      "평택스드메",
+      "웨딩패키지",
+      "신혼여행할인",
+      "평택결혼박람회",
+      "웨딩홀비교",
+      "예물예복",
+      "웨딩박람회혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 평택 AK 웨딩박람회 참가를 고민 중이시라면 아래 정보를 참고해보세요. 결혼 준비의 시작부터 마무리까지, 예비부부님들이 가장 합리적으로 예식을 준비하실 수 있도록 엄선된 업체들과 실질적인 혜택을 모아 준비했습니다.",
+    "benefits_description": "현장 방문객을 위한 혜택이 매우 풍성하게 마련되어 있습니다. 스드메 패키지 최저가 보장은 물론, 당일 계약 시 백화점 상품권 증정 및 웨딩드레스 블랙라벨 무료 업그레이드 혜택이 제공됩니다. 또한 상담만 받아도 스타벅스 상품권 등 선착순 증정 선물이 준비되어 있으니, 이번 기회를 활용해 경제적이고 알찬 결혼 준비를 시작해 보시기 바랍니다.",
+    "summary_for_search": "평택 AK플라자 6층 특별행사장에서 개최되는 평택 AK 웨딩박람회입니다. 스드메 패키지 최저가 보장, 백화점 상품권 증정, 신혼여행 최대 150만 원 할인 등 다양한 혜택을 사전등록으로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 89만 원부터! 평택 AK 웨딩박람회 특별 혜택",
+    "secondary_headline": "상담만 받아도 100% 증정! 백화점 상품권부터 신혼여행 할인까지",
+    "urgency_text": "이번 주말까지만 진행되는 특별 한정 프로모션",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 완료 시 스타벅스 상품권 100% 증정",
+      "웨딩검진 프로그램 혜택"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최저가 보장 (89만원부터)",
+      "백화점 상품권 2만원 증정",
+      "웨딩드레스 100만원 상당 블랙라벨 무료 업그레이드",
+      "신혼여행 최대 150만원 할인",
+      "예복/예물/한복 계약 시 추가 할인 및 서비스"
+    ],
+    "special_events": [
+      "스튜디오 로드신/옥상신 무료 촬영",
+      "웨딩홀 비교 분석 및 식대 할인 안내"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "평택시",
+      "sigungu_en": "pyeongtaek",
+      "address": "경기 평택시 평택로 51",
+      "venue": "AK PLAZA 평택점 6층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부",
+      "예식예정일",
+      "웨딩홀/스드메 관심여부"
+    ],
+    "gift_conditions": "온라인 사전 신청 후 현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "국내 유일 안심 보장제 실시",
+      "스드메 패키지 가격 공개",
+      "검증된 전문 업체 대거 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "평택 AK 웨딩박람회",
+      "startDate": "2025-08-08",
+      "endDate": "2025-08-09",
+      "location": {
+        "@type": "Place",
+        "name": "AK PLAZA 평택점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "평택시 평택로 51",
+          "addressLocality": "평택시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd116/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 온라인 사전등록을 하시면 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 사전 신청 후 현장에서 상담을 진행하시면 100% 증정 선물을 드리고 있습니다."
+      },
+      {
+        "question": "스드메 패키지 가격은 현장에서 바로 알 수 있나요?",
+        "answer": "네, 박람회 현장에서 견적 예상표를 통해 투명하게 가격을 확인하고 비교하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 예물, 예복, 한복, 신혼여행, 재무설계 등 결혼 준비 전 품목이 입점해 있습니다."
+      },
+      {
+        "question": "계약 시 혜택은 무엇인가요?",
+        "answer": "백화점 상품권, 드레스 업그레이드, 신혼여행 할인 등 업체별 다양한 당일 계약 혜택이 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작하여 어디서부터 정보를 얻어야 할지 막막한 예비부부, 스드메 비용을 투명하게 비교하고 합리적인 패키지를 찾고 있는 신혼부부, 바쁜 일정으로 인해 한곳에서 예식 준비와 혼수, 신혼여행 상담까지 마스터하고 싶은 커플들을 위한 박람회입니다. 결혼 준비 과정의 복잡함을 줄이고 전문가의 1:1 맞춤형 컨설팅을 통해 예산에 맞는 효율적인 웨딩 플랜을 세우고 싶은 분들에게 적합합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 10여 곳",
+      "웨딩 드레스 샵",
+      "혼수 가전 브랜드",
+      "허니문 여행사",
+      "예물·예복 브랜드",
+      "한복 대여점"
+    ],
+    "comparison_hooks": [
+      "국내 유일의 웨딩 안심 보장제 실시",
+      "스드메 패키지 투명한 가격 보장",
+      "상담만 해도 100% 사은품 증정 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "평택 웨딩박람회 일정",
+      "결혼준비 체크리스트",
+      "스드메 비용 절약법",
+      "웨딩박람회 계약 팁",
+      "평택 웨딩홀 추천",
+      "신혼여행 패키지 비교",
+      "결혼 준비 예산 세우기",
+      "스드메 박람회 차이",
+      "웨딩 드레스 투어 팁",
+      "예복 맞춤 가격"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 추천 목록",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 비교",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩플래너",
+      "결혼예산",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "평택 AK 웨딩박람회 | 사전등록 무료입장",
+    "og_description": "스드메 최저가 보장! 백화점 상품권과 다양한 선물까지, 결혼 준비의 모든 것을 지금 확인하세요.",
+    "hashtags": [
+      "#평택웨딩박람회",
+      "#결혼준비",
+      "#AK플라자웨딩박람회",
+      "#스드메",
+      "#웨딩패키지",
+      "#평택결혼",
+      "#신혼부부",
+      "#예비부부",
+      "#결혼준비체크리스트",
+      "#웨딩박람회혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd116/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_zmpfg2k4D5F9xa.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_PTPDuUyS5cnrnI24H7OtIrNEkRKJkEJ6.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_xbqCvJjor7EU63PvwnifROzURqH.jpg"
+  },
+  "updated_at": "2026-07-21 19:31:03"
+}
