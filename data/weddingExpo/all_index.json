@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 128,
+    "total_count": 131,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-07-22 13:30:18"
+    "updated_at": "2026-07-22 19:31:03"
   },
   "items": [
     {
@@ -1030,7 +1030,7 @@
       "sigungu": "노원구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Ifvae2xLuCGC.jpg",
-      "updated_at": "2026-07-16 19:30:22",
+      "updated_at": "2026-07-22 19:30:20",
       "revenue": 30000
     },
     {
@@ -1619,6 +1619,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1856,
       "campaign_id": "wedingcrowd116",
       "gather_name": "평택 AK 웨딩박람회",
       "display_date": "08월 08일(토) ~ 08월 09일(일)",
@@ -1627,7 +1628,8 @@
       "sigungu": "평택시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_PTPDuUyS5cnrnI24H7OtIrNEkRKJkEJ6.jpg",
-      "updated_at": "2026-07-21 19:31:03"
+      "updated_at": "2026-07-21 19:31:03",
+      "revenue": 30000
     },
     {
       "idx": 1084,
@@ -1667,6 +1669,43 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_2ypCGjIvMf66MoFjTox3OOR3XY.jpg",
       "updated_at": "2026-07-22 13:30:18",
       "revenue": 50000
+    },
+    {
+      "campaign_id": "withyouwedding51",
+      "gather_name": "동탄 라크몽 프리메로웨딩홀 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "라크몽 프리메로 웨딩홀",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Vm1W8NuYD4NAjPk5jcH7B5QCyiMkhS.jpg",
+      "updated_at": "2026-07-22 19:30:35"
+    },
+    {
+      "idx": 1183,
+      "campaign_id": "withyouwedding06",
+      "gather_name": "대전 위드유 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_5n65C8Ph3Uethdp.jpg",
+      "updated_at": "2026-07-22 19:30:50",
+      "revenue": 30000
+    },
+    {
+      "idx": 1354,
+      "campaign_id": "withyouwedding25",
+      "gather_name": "강릉 위드유 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "LG전자베스트샵 강릉본점",
+      "sido": "강원",
+      "sigungu": "강릉시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_YwWuXsU6AjMRC.jpg",
+      "updated_at": "2026-07-22 19:31:03",
+      "revenue": 30000
     }
   ]
 }
