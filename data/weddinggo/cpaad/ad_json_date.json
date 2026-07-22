@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-22T16:00:03Z",
-  "total_ad_count": 128,
+  "last_updated": "2026-07-22T19:00:03Z",
+  "total_ad_count": 131,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -249,7 +249,7 @@
       "ad_url": "https://ad.cpaad.co.kr/withyouwedding50/",
       "region": "capital",
       "gather_name": "서울 테라리움 위드유 웨딩박람회",
-      "ad_info": "당신만을 위한 서 위드유 웨딩박람회",
+      "ad_info": "당신만을 위한 서울 위드유 웨딩박람회",
       "ad_year": "2026",
       "ad_date": "08월 01일(토) ~ 08월 02일(일)",
       "ad_location": "서울 노원구 노원로 247 7-8층||(하계동 251-7)||테라리움 서울 특별행사장",
@@ -675,6 +675,20 @@
       "ad_location": "경기 평택시 평택로 51||(평택동 185-568)||AK PLAZA 평택점 6층 특별행사장",
       "start_date": "2026-08-08",
       "end_date": "2026-08-09"
+    },
+    "withyouwedding51": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_69wR6726vdwKu.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Vm1W8NuYD4NAjPk5jcH7B5QCyiMkhS.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_T5J2OvMDOhnx7FD8.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding51/",
+      "region": "gyeonggi",
+      "gather_name": "동탄 라크몽 프리메로웨딩홀 웨딩박람회",
+      "ad_info": "당신만을 위한 동탄 위드유 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "경기 화성시 동탄구 동탄대로5길 21||(송동 726-1)||라크몽 프리메로 웨딩홀",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
     },
     "labelleellin02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_OuNIWc3DQdkNu1RIEYeENb.jpg",
@@ -1180,6 +1194,20 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-02"
     },
+    "withyouwedding06": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_NVCaHG2Ix2P4yFD.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_5n65C8Ph3Uethdp.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_EDXXReImJPR7QiEjrc48QmlZIfv.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding06/",
+      "region": "chungcheong",
+      "gather_name": "대전 위드유 웨딩박람회",
+      "ad_info": "당신만을 위한 대전 위드유 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "대전 서구 계룡로 598||롯데백화점 대전점 지하1층(괴정동 423-1)||LG전자베스트샵 특별행사장",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
+    },
     "wedingcrowd60": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_o1Bj4kY9Ix.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_x3mX1n9ZrKeByGP5NDjCoud.jpg",
@@ -1501,6 +1529,20 @@
       "ad_location": "강원특별자치도 강릉시 창해로 307||(강문동 1-1)||세인트존스호텔 특별행사장",
       "start_date": "2026-08-08",
       "end_date": "2026-08-09"
+    },
+    "withyouwedding25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wYKG9bKiiuc35KPDortvOAVZOdz.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_YwWuXsU6AjMRC.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dhEnzZfnKL4jZf2n3tscDXGjpL.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding25/",
+      "region": "gangwon",
+      "gather_name": "강릉 위드유 웨딩박람회",
+      "ad_info": "LG전자베스트샵과 함께하는 강릉 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "강원특별자치도 강릉시 경강로 2370||(송정동 612)||LG전자베스트샵 강릉본점",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
     },
     "wedingcrowd08": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_hxY7iqkhgXsf7KSGQ81rQm.jpg",
