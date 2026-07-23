@@ -2,8 +2,8 @@
   "stats": {
     "total_count": 131,
     "region_count": 16,
-    "district_count": 49,
-    "updated_at": "2026-07-22 19:31:03"
+    "district_count": 48,
+    "updated_at": "2026-07-23 13:30:18"
   },
   "items": [
     {
@@ -865,19 +865,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1442,
-      "campaign_id": "wwedding13",
-      "gather_name": "김해 웨딩박람회",
-      "display_date": "07월 25일(토) ~ 07월 26일(일)",
-      "venue": "LG전자베스트샵 김해본점",
-      "sido": "경남",
-      "sigungu": "김해시",
-      "region_en": "gyeongnam",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_K9XpbPpNKgM1tsfJ.jpg",
-      "updated_at": "2026-07-13 13:38:57",
-      "revenue": 30000
-    },
-    {
       "idx": 1753,
       "campaign_id": "wncowedding19",
       "gather_name": "고양 웨딩박람회",
@@ -1705,6 +1692,19 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_YwWuXsU6AjMRC.jpg",
       "updated_at": "2026-07-22 19:31:03",
+      "revenue": 30000
+    },
+    {
+      "idx": 1738,
+      "campaign_id": "tourmin01",
+      "gather_name": "부산 투어민 허니문 박람회",
+      "display_date": "07월 25일(토) ~ 07월 26일(일)",
+      "venue": "투어민 부산직영점",
+      "sido": "부산",
+      "sigungu": "연제구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_8co85j9SRqwqG8Er.jpg",
+      "updated_at": "2026-07-23 13:30:18",
       "revenue": 30000
     }
   ]
