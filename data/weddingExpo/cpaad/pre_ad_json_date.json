@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-25T19:30:03Z",
-  "total_ad_count": 132,
+  "last_updated": "2026-07-26T13:30:04Z",
+  "total_ad_count": 131,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -939,6 +939,7 @@
       "revenue": 30000
     },
     "withyouwedding16": {
+      "idx": 1196,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_k8MuOUhRuK5e.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_F7uyjIVj5scG3IG.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Sx1qbSLpA7Qqn1WIgbQouPXP.jpg",
@@ -960,7 +961,8 @@
           "address": "경기 광명시 금하로 454",
           "venue": "삼성스토어 광명소하점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wncowedding08": {
       "idx": 1575,
@@ -1041,7 +1043,6 @@
       "revenue": 30000
     },
     "withyouwedding43": {
-      "idx": 1648,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_bDbz2JrqrRJXkbbSrkXn.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iUZOqIjVeX1sxa1s7Hlv.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_tUOM5AIqQqc3YLgd16.jpg",
@@ -1063,8 +1064,7 @@
           "address": "경기 이천시 증신로 130",
           "venue": "삼성스토어 이천증포"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd52": {
       "idx": 1407,
@@ -1429,7 +1429,6 @@
       "revenue": 30000
     },
     "withyouwedding12": {
-      "idx": 1189,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_y9z5ZkbmsZzQfYuJQxJtCNKwox5X.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_TskzyEuYXm9sRZBXE.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_AgpZPMDubO4zU.jpg",
@@ -1451,11 +1450,9 @@
           "address": "경기 안산시 상록구 광덕1로 342",
           "venue": "삼성스토어 안산고잔점 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd39": {
-      "idx": 1318,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_77M5kadxxW8Z9.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_bqjEXPkc.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202311/42635e34d702a842a5408bf099b3a49d_MBWgq6x6Lax7.jpg",
@@ -1477,8 +1474,7 @@
           "address": "인천 연수구 센트럴로 123",
           "venue": "송도컨벤시아 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd10": {
       "idx": 1084,
@@ -1975,6 +1971,7 @@
       "revenue": 30000
     },
     "howto05": {
+      "idx": 1065,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_syVKyhR2a6.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_TpFYoRpCxagNEP7Ztn4b.jpg",
@@ -1996,7 +1993,8 @@
           "address": "충북 청주시 흥덕구 오송읍 만수리 275-5",
           "venue": "청주오스코 특별행사장"
         }
-      }
+      },
+      "revenue": 35000
     },
     "wedingcrowd49": {
       "idx": 1389,
@@ -2233,6 +2231,7 @@
       "revenue": 30000
     },
     "withyouwedding35": {
+      "idx": 1520,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lhJZnh4qQEejqUxQx2m.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_UeHa1aQv8hCTbhp.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_DZKX78xUBhqinu4wO8v8yOMVgCoyGYy8.jpg",
@@ -2254,7 +2253,8 @@
           "address": "충남 천안시 서북구 부대3길 26",
           "venue": "아일랜드유 Cafe&웨딩홀"
         }
-      }
+      },
+      "revenue": 30000
     },
     "withyouwedding06": {
       "idx": 1183,
@@ -2959,6 +2959,7 @@
       "revenue": 30000
     },
     "wwedding07": {
+      "idx": 1319,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg",
@@ -2980,7 +2981,8 @@
           "address": "경남 창원시 성산구 용지로 112",
           "venue": "삼성스토어 창원점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "palmfair06": {
       "idx": 1806,
@@ -3087,7 +3089,6 @@
       "revenue": 30000
     },
     "paranfair02": {
-      "idx": 1510,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_35IyVGfssmXd.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_83OQE6yF3nKisKhDnv.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wqs55YoUcV.jpg",
@@ -3109,10 +3110,10 @@
           "address": "경남 진주시 동진로 230 1~3층",
           "venue": "LG전자베스트샵 진주시청점 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "banhanaH06": {
+      "idx": 1653,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_SD9CkNtCPvP2mvYlcscPUzoWyJY.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mIn7bGex5Zg23g.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_tz3xImxHy2ORKNtZyReBt6u.jpg",
@@ -3134,7 +3135,8 @@
           "address": "울산 북구 진장17길 10 (진장동 705)",
           "venue": "신선도원몰 1층 반하나투어"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wwedding08": {
       "idx": 1333,
@@ -3213,32 +3215,6 @@
         }
       },
       "revenue": 30000
-    },
-    "palmfair05": {
-      "idx": 1726,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_k8wEnTf5lipBcKmSmauaBY6XjMMqtD.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_xawaGpCkayO4K.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_BUTXtyQ9Yy2XZ.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/palmfair05/",
-      "region": "jeju",
-      "gather_name": "제주 팜투어 허니문박람회",
-      "ad_info": "팜투어는 행복과 신뢰를 파는 대한민국 허니문 1등 여행사 입니다.",
-      "ad_year": "2026",
-      "ad_date": "07월 24일(금) ~ 07월 25일(토)",
-      "ad_location": "제주특별자치도 제주시 연삼로 38||(연동 300-1)||제주연빌딩",
-      "start_date": "2026-07-24",
-      "end_date": "2026-07-25",
-      "preprocessed": {
-        "location": {
-          "sido": "제주",
-          "sido_en": "jeju",
-          "sigungu": "제주시",
-          "sigungu_en": "jeju",
-          "address": "제주특별자치도 제주시 연삼로 38",
-          "venue": "제주연빌딩"
-        }
-      },
-      "revenue": 35000
     },
     "tourmin02": {
       "idx": 1767,
@@ -3397,7 +3373,6 @@
       "revenue": 30000
     },
     "whw04": {
-      "idx": 1064,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_u4vN96ZqSgznvEhNXeISA4hUW8eg5WPp.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_1sxZiLQOYea9QovVVRRDNyV7.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_qsjiVuTy5fYTBc78eTG.jpg",
@@ -3419,8 +3394,7 @@
           "address": "전주 웨딩스퀘어",
           "venue": "전주 웨딩스퀘어"
         }
-      },
-      "revenue": 40000
+      }
     }
   }
 }
