@@ -1874,5 +1874,217 @@
     },
     "updated_at": "2026-07-22 19:01:10",
     "revenue": 30000
+  },
+  {
+    "idx": 1184,
+    "campaign_id": "withyouwedding07",
+    "gather_name": "원주 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "원주 웨딩박람회 | 삼성스토어 단계점 단독 혜택 및 무료 초대장",
+      "meta_description": "원주 위드유 웨딩박람회 개최! 스드메 패키지 최대 할인부터 웨딩 건강검진권, 티파니앤코 목걸이 증정까지. 원주 예비부부를 위한 실속 있는 결혼 준비 필수 코스, 지금 무료 초대장 신청하고 모든 혜택을 챙겨가세요.",
+      "keywords": [
+        "원주웨딩박람회",
+        "원주결혼준비",
+        "위드유웨딩",
+        "강원도웨딩박람회",
+        "원주스드메",
+        "원주웨딩홀",
+        "결혼준비체크리스트",
+        "원주혼수",
+        "신혼부부혜택",
+        "원주삼성스토어"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "원주 예비부부의 설레는 결혼 준비, 복잡한 고민은 이제 원주 위드유 웨딩박람회에서 시원하게 해결하세요. 삼성스토어 단계점에서 열리는 이번 박람회는 전문 웨딩 플래너의 1:1 맞춤 컨설팅을 통해 예산별 최적의 플랜을 제안해 드립니다.",
+      "benefits_description": "이번 박람회는 오직 방문객만을 위한 역대급 혜택을 준비했습니다. 현장 방문 시 식전영상 무료 쿠폰과 웨딩다이어리를 증정하며, 계약 고객에게는 최대 150만원 상당의 허니문 할인과 티파니앤코 목걸이, 건강검진권, 바디관리 이용권 등 풍성한 선물 보따리를 드립니다. 추가 비용 ZERO 정책으로 합리적인 결혼 준비를 도와드립니다.",
+      "summary_for_search": "원주 삼성스토어 단계점에서 열리는 위드유 웨딩박람회! 스드메 패키지 할인, 웨딩 건강검진권 증정 등 예비부부를 위한 특별 혜택을 확인하세요. 지금 무료 사전 참가 신청이 가능합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "원주 웨딩박람회, 예비부부라면 놓칠 수 없는 1100만원의 혜택",
+      "secondary_headline": "스드메부터 허니문까지, 원주에서 가장 똑똑하게 결혼 준비하는 법",
+      "urgency_text": "선착순 방문객 한정 혜택 조기 마감 주의",
+      "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전영상 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "종이청첩장 할인 쿠폰",
+        "웨딩다이어리 증정"
+      ],
+      "contract_benefits": [
+        "허니문 최대 150만원 상당 할인",
+        "웨딩 건강검진권 증정",
+        "티파니앤코 목걸이 증정",
+        "바디라인 관리 이용권(70만원 상당)",
+        "스드메 패키지 특가(59만원부터)"
+      ],
+      "special_events": [
+        "웨딩 퍼스널 컬러 무료 진단",
+        "찐후기 이벤트(계약 후기 작성 시 상품권 100% 증정)",
+        "예물/예복/한복 박람회 특별 할인"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "display_date": "08월 08일(토) ~ 08월 09일(일)",
+        "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "원주시",
+        "sigungu_en": "wonju",
+        "address": "강원특별자치도 원주시 북원로 2384",
+        "venue": "삼성스토어 단계점",
+        "parking_info": "매장 내 전용 주차장 완비 (이미지 상 위치 안내 참조)",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 신청 후 현장 방문 및 상담 완료 시 혜택 증정",
+      "trust_indicators": [
+        "1,100명 이상의 성공적인 계약 사례",
+        "전문 웨딩 플래너 1:1 매칭",
+        "추가 비용 없는 정찰제 중심 상담",
+        "검증된 프리미엄 웨딩 업체 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "원주 위드유 웨딩박람회",
+        "startDate": "2025-08-08",
+        "endDate": "2025-08-09",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 단계점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "원주시 단계동",
+            "addressLocality": "원주시",
+            "addressRegion": "강원도",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding07/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "무료 초대장을 사전 신청하시면 대기 없이 빠른 상담과 방문 혜택을 모두 챙기실 수 있습니다."
+        },
+        {
+          "question": "상담 시 추가 비용이 발생하나요?",
+          "answer": "원주 위드유 웨딩박람회는 '추가비용 ZERO'를 원칙으로 투명하고 정직한 상담을 진행합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장인 삼성스토어 단계점에 방문객을 위한 편리한 주차 시설이 마련되어 있습니다."
+        },
+        {
+          "question": "박람회에서 무엇을 준비하면 될까요?",
+          "answer": "예식 예정일과 대략적인 예산을 정해오시면 플래너가 더욱 정확하고 맞춤화된 컨설팅을 제공해 드립니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "허니문 할인, 건강검진권, 티파니앤코 목걸이, 스드메 특가 등 다양한 계약 혜택이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 막 시작하여 무엇부터 해야 할지 막막한 예비부부, 스드메 비용 비교가 어렵거나 전문적인 웨딩 플래닝이 필요한 커플을 대상으로 합니다. 특히 1년 내 예식을 앞두고 효율적인 시간 관리와 예산 절감을 원하는 커플들에게 최적의 솔루션을 제공합니다. 막연한 검색 대신 전문가의 1:1 컨설팅을 통해 신뢰할 수 있는 업체 정보를 얻고 싶은 분들께 유용한 행사입니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 섭외 전문 상담",
+        "스드메(스튜디오·드레스·메이크업) 토탈 패키지",
+        "명품 예물 및 예복 브랜드",
+        "허니문 여행사",
+        "한복 및 혼수 가전"
+      ],
+      "comparison_hooks": [
+        "추가 비용 제로, 투명한 정찰제 운영",
+        "1:1 전문 플래너 맞춤형 밀착 관리",
+        "계약 후기 이벤트 등 실질적인 페이백 혜택 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "원주 결혼준비 순서",
+        "스드메 패키지 가격대",
+        "원주 웨딩홀 추천",
+        "웨딩박람회 무료 초대장 신청",
+        "결혼준비 체크리스트 공유",
+        "원주 신혼여행지 추천",
+        "결혼 준비 비용 아끼는 법",
+        "박람회 방문 전 챙길 것",
+        "웨딩 건강검진 항목",
+        "원주 예물 예복 후기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "원주 웨딩박람회 전체 일정 확인",
+          "category": "wedding_fair_list"
+        },
+        {
+          "anchor": "신혼부부를 위한 결혼준비 꿀팁",
+          "category": "wedding_tips"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "혼수가전",
+        "웨딩플래너",
+        "결혼비용"
+      ]
+    },
+    "social_meta": {
+      "og_title": "원주 예비부부 필수 코스! 위드유 웨딩박람회",
+      "og_description": "삼성스토어 단계점에서 만나는 특별한 혜택! 지금 무료 초대장 신청하고 최대 혜택을 확인하세요.",
+      "hashtags": [
+        "#원주웨딩박람회",
+        "#원주결혼준비",
+        "#위드유웨딩",
+        "#원주스드메",
+        "#원주웨딩홀",
+        "#결혼준비",
+        "#신혼부부혜택",
+        "#원주예비부부",
+        "#웨딩박람회혜택",
+        "#삼성스토어단계점"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding07/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_HCYREOM89vRXOJ6.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_LCJhAD8zePPOkVjf.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_9oznB4TGl1Mr6ffqhRXZ9Zzj.jpg"
+    },
+    "updated_at": "2026-07-27 19:02:33",
+    "revenue": 30000
   }
 ]
