@@ -1,0 +1,209 @@
+{
+  "idx": 1753,
+  "campaign_id": "wncowedding19",
+  "gather_name": "고양 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "고양 웨딩박람회 | 스타필드 고양 개최, 상담·계약 혜택 최대 제공",
+    "meta_description": "스타필드 고양에서 열리는 고양 웨딩박람회! 스드메 패키지, 혼수, 웨딩홀 할인 혜택을 한자리에서 확인하세요. 선착순 방문자 경품과 계약자 전원 100% 증정 혜택까지, 결혼 준비의 모든 것을 지금 무료로 사전등록하고 시작하세요.",
+    "keywords": [
+      "고양 웨딩박람회",
+      "일산 웨딩박람회",
+      "스타필드 고양 웨딩박람회",
+      "결혼준비 체크리스트",
+      "스드메 패키지",
+      "웨딩홀 할인",
+      "혼수 준비",
+      "웨딩 박람회 일정",
+      "신혼여행 상담",
+      "웨딩 예복 예물 추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 고민이라면 이번 고양 웨딩박람회를 주목해 보세요. 스타필드 고양에서 열리는 이번 박람회는 스드메부터 혼수, 예물까지 예비부부를 위한 다양한 업체가 한자리에 모여 효율적인 결혼 준비를 돕습니다.",
+    "benefits_description": "이번 박람회는 방문만 해도 선착순 20쌍에게 실리만 데일리 토스트기를 증정하며, 상담 완료 시 웨딩 다이어리를 제공합니다. 계약 고객에게는 100% 증정되는 웨딩다이어리를 비롯해 웨딩 액자, 본식 사진 원본, 고급 가전 등 폭넓은 혜택이 준비되어 있습니다. 특히 웨딩홀 대관료 할인과 식대 지원, 스드메 패키지 할인까지 더해져 합리적인 예산으로 결혼식을 준비할 수 있는 좋은 기회가 될 것입니다.",
+    "summary_for_search": "스타필드 고양에서 개최되는 고양 웨딩박람회 정보입니다. 웨딩홀 할인, 스드메 패키지 혜택, 혼수 가전 특전 등 실질적인 결혼 준비 팁을 확인하고 사전등록을 통해 경품 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전등록하고 최대 100만 원 상당의 웨딩 혜택을 받으세요",
+    "secondary_headline": "스드메부터 혼수까지, 스타필드 고양에서 만나는 가장 완벽한 웨딩 솔루션",
+    "urgency_text": "선착순 방문객 사은품 소진 시 조기 마감될 수 있습니다.",
+    "call_to_action_text": "무료 사전 참가신청 하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "선착순 20쌍 실리만 데일리 토스트기",
+      "상담 고객 대상 웨딩다이어리"
+    ],
+    "contract_benefits": [
+      "계약자 전원 100% 증정 혜택",
+      "웨딩 액자 무료 증정",
+      "본식 사진 원본 증정",
+      "최대 10만 원 기프트권 및 103만 원 상당 웨딩 패키지 지원"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "스튜디오 현장 투어",
+      "웨딩홀 무료 섭외 및 대관료 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "고양시",
+      "sigungu_en": "goyang",
+      "address": "경기 고양시 덕양구 고양대로 1955",
+      "venue": "스타필드 고양 B1층",
+      "parking_info": "스타필드 고양 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "방문 상담 완료 및 계약 체결 등 단계별 요건 충족 시 현장에서 증정됩니다.",
+    "trust_indicators": [
+      "스드메 토탈 패키지 구성",
+      "한샘 가구 및 혼수 브랜드 협업",
+      "1:1 맞춤형 전문 웨딩 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "고양 웨딩박람회",
+      "startDate": "2025-08-08",
+      "endDate": "2025-08-09",
+      "location": {
+        "@type": "Place",
+        "name": "스타필드 고양",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "고양시 덕양구 고양대로 1955",
+          "addressLocality": "고양시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding19/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전등록 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 어디에 하나요?",
+        "answer": "스타필드 고양 주차장을 무료로 이용하실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 후 상담 절차를 완료하시면 선착순으로 수령 가능합니다."
+      },
+      {
+        "question": "스드메 계약 혜택이 무엇인가요?",
+        "answer": "웨딩 액자 무료 증정, 드레스 무료 피팅, 본식 원본 사진 무료 증정 등의 혜택이 제공됩니다."
+      },
+      {
+        "question": "결혼 날짜가 확정되지 않았는데 가도 되나요?",
+        "answer": "네, 결혼 준비 초기 단계라면 상담을 통해 구체적인 예식 계획과 예산 수립에 도움을 받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 알아봐야 할지 막막한 예비부부, 스드메와 혼수 비용을 합리적으로 비교하고 싶은 신혼부부, 바쁜 일정 중 한 장소에서 웨딩의 모든 것을 상담받고 싶은 분들을 위한 박람회입니다. 결혼 준비 과정에서 발생하는 불필요한 비용을 줄이고 검증된 업체와 상담하며 나만의 웨딩을 완성하고 싶은 분들에게 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 전문 업체",
+      "웨딩홀 섭외 및 대관 업체",
+      "국내외 허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전 브랜드(한샘 등)"
+    ],
+    "comparison_hooks": [
+      "스타필드 입점으로 접근성과 쾌적한 상담 환경 보장",
+      "계약자 대상 100% 증정 혜택으로 실질적 체감 혜택 극대화",
+      "웨딩홀부터 가전까지 카테고리별 전문 상담사 상주"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 평균 비용",
+      "웨딩홀 투어 팁",
+      "혼수 가전 준비시기",
+      "결혼 박람회 예약 방법",
+      "스드메 패키지 구성",
+      "신혼여행지 추천",
+      "웨딩드레스 피팅 시 주의사항",
+      "결혼식 비용 절약 방법",
+      "웨딩 박람회 사기 예방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩 준비 체크리스트",
+        "category": "guide"
+      },
+      {
+        "anchor": "지역별 웨딩홀 정보",
+        "category": "venue"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "예복",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "고양 웨딩박람회 | 결혼 준비 혜택 한눈에 확인!",
+    "og_description": "스타필드 고양에서 열리는 웨딩박람회! 무료 사전등록하고 방문 선물과 계약 혜택까지 모두 챙겨가세요.",
+    "hashtags": [
+      "#고양웨딩박람회",
+      "#일산웨딩박람회",
+      "#결혼준비",
+      "#스타필드고양",
+      "#스드메",
+      "#웨딩홀",
+      "#혼수준비",
+      "#신혼부부",
+      "#웨딩박람회혜택",
+      "#결혼준비체크리스트"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding19/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_Q2EvNtIgfjwzU6kqEQk5Yr.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_ZjG7irjkku4hdMRxm.jpg"
+  },
+  "updated_at": "2026-07-27 19:30:32",
+  "revenue": 30000
+}

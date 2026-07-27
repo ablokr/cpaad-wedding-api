@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 113,
+    "total_count": 121,
     "region_count": 16,
-    "district_count": 46,
-    "updated_at": "2026-07-27 13:40:01"
+    "district_count": 47,
+    "updated_at": "2026-07-27 19:33:57"
   },
   "items": [
     {
@@ -615,7 +615,7 @@
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wrmW5RE3gVbUjts3GF169V.jpg",
       "updated_at": "2026-07-27 13:40:01",
-      "revenue": 30000
+      "revenue": 40000
     },
     {
       "idx": 1291,
@@ -1151,17 +1151,15 @@
       "revenue": 40000
     },
     {
-      "idx": 1440,
       "campaign_id": "wwedding12",
       "gather_name": "울산 롯데백화점 W웨딩박람회",
-      "display_date": "08월 01일(토) ~ 08월 02일(일)",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
       "venue": "롯데백화점 울산점 특별행사장",
       "sido": "울산",
       "sigungu": "남구",
       "region_en": "ulsan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
-      "updated_at": "2026-07-27 13:37:36",
-      "revenue": 30000
+      "updated_at": "2026-07-27 19:32:22"
     },
     {
       "idx": 1774,
@@ -1393,7 +1391,7 @@
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Wm6yWLxziVmUzAovr2qkzPvDv7.jpg",
       "updated_at": "2026-07-27 13:31:23",
-      "revenue": 30000
+      "revenue": 40000
     },
     {
       "idx": 1438,
@@ -1432,7 +1430,7 @@
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_RwDmzMGOi44XTMkq8aEOap2F6G.jpg",
       "updated_at": "2026-07-27 13:38:06",
-      "revenue": 30000
+      "revenue": 40000
     },
     {
       "idx": 1450,
@@ -1471,6 +1469,108 @@
       "region_en": "ulsan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_9Pds4AeibpEQ.png",
       "updated_at": "2026-07-27 13:39:28",
+      "revenue": 30000
+    },
+    {
+      "idx": 1753,
+      "campaign_id": "wncowedding19",
+      "gather_name": "고양 웨딩박람회",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "venue": "스타필드 고양 B1층",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+      "updated_at": "2026-07-27 19:30:32",
+      "revenue": 30000
+    },
+    {
+      "idx": 1456,
+      "campaign_id": "withyouwedding34",
+      "gather_name": "부천 위드유 웨딩박람회",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "venue": "삼성스토어 부천중동점 2층 특별행사장",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_F1wAcpidnfzTDqy.jpg",
+      "updated_at": "2026-07-27 19:31:14",
+      "revenue": 30000
+    },
+    {
+      "idx": 1184,
+      "campaign_id": "withyouwedding07",
+      "gather_name": "원주 위드유 웨딩박람회",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "venue": "삼성스토어 단계점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_LCJhAD8zePPOkVjf.jpg",
+      "updated_at": "2026-07-27 19:31:59",
+      "revenue": 30000
+    },
+    {
+      "idx": 1717,
+      "campaign_id": "banhana13",
+      "gather_name": "제주 제이유 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "호텔샬롬 제주",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
+      "updated_at": "2026-07-27 19:32:43",
+      "revenue": 50000
+    },
+    {
+      "campaign_id": "tourmin02",
+      "gather_name": "제주 투어민 허니문 박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "호텔샬롬 제주",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_eNY46npRSC3oL1Sf.jpg",
+      "updated_at": "2026-07-27 19:32:57"
+    },
+    {
+      "idx": 1538,
+      "campaign_id": "wncowedding03",
+      "gather_name": "안성웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "스타필드 안성 2층 특별행사장",
+      "sido": "경기",
+      "sigungu": "안성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_olYTpJ3fpm57OCb2zuNxDL4.jpg",
+      "updated_at": "2026-07-27 19:33:13",
+      "revenue": 30000
+    },
+    {
+      "idx": 1575,
+      "campaign_id": "wncowedding08",
+      "gather_name": "평택웨딩박람회",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "venue": "평택 AK플라자 6층 특별행사장",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+      "updated_at": "2026-07-27 19:33:36",
+      "revenue": 30000
+    },
+    {
+      "idx": 1189,
+      "campaign_id": "withyouwedding12",
+      "gather_name": "안산 위드유 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "삼성스토어 안산고잔점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mM6HuvO6cTQW8DGKfqpC7X.jpg",
+      "updated_at": "2026-07-27 19:33:57",
       "revenue": 30000
     }
   ]

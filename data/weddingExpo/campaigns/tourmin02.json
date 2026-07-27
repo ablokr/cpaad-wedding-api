@@ -1,0 +1,204 @@
+{
+  "campaign_id": "tourmin02",
+  "gather_name": "제주 투어민 허니문 박람회",
+  "organizer_name": "투어민 제주",
+  "seo_metadata": {
+    "title": "제주 투어민 허니문 박람회 | 호텔샬롬 제주 허니문 특전 및 상담 혜택",
+    "meta_description": "제주 지역 예비부부를 위한 투어민 허니문 박람회! 호텔샬롬 제주에서 열리는 이번 박람회는 허니문 계약 시 특별한 할인과 사은품 혜택을 제공합니다. 지금 사전등록하고 신혼여행 준비를 알뜰하게 시작하세요.",
+    "keywords": [
+      "제주 웨딩박람회",
+      "제주 허니문 박람회",
+      "투어민 박람회",
+      "제주 신혼여행 상담",
+      "호텔샬롬 제주 웨딩",
+      "결혼 준비 박람회",
+      "허니문 여행사",
+      "제주도 결혼 준비",
+      "허니문 특전",
+      "신혼여행 패키지 비교"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘과 함께 가장 고민되는 부분 중 하나인 신혼여행, 이번 제주 투어민 허니문 박람회에서 합리적인 솔루션을 찾아보세요. 호텔샬롬 제주에서 진행되는 이번 행사는 예비부부님들을 위해 엄선된 여행지 정보와 실질적인 계약 혜택을 준비했습니다.",
+    "benefits_description": "박람회 현장에서는 상담만 받아도 제공되는 다양한 기프트는 물론, 계약 시 최대 20만 원 상당의 백화점 상품권과 캐리어 등 풍성한 축하 선물이 준비되어 있습니다. 특히 몰디브, 발리, 코사무이, 푸켓 등 인기 허니문 지역별 리조트 특전이 마련되어 있어 평소 계획 중이던 신혼여행을 더욱 경제적으로 준비할 수 있는 좋은 기회가 될 것입니다. 전문가와 1:1 맞춤 상담을 통해 복잡한 여행 준비 과정을 쉽고 즐겁게 만들어 보세요.",
+    "summary_for_search": "제주 투어민 허니문 박람회가 호텔샬롬 제주에서 개최됩니다. 지역별 신혼여행 리조트 특전과 상담 계약 시 현장 혜택을 제공하니, 결혼을 앞둔 제주 예비부부라면 꼭 방문하여 알뜰한 허니문 계획을 세워보시기 바랍니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "제주 투어민 허니문 박람회, 상담만 받아도 쏟아지는 허니문 특전",
+    "secondary_headline": "전문가 1:1 맞춤 상담으로 준비하는 완벽한 첫 여행, 지금 신청하세요.",
+    "urgency_text": "박람회 기간 한정, 현장 계약 시 추가 혜택 및 사은품 증정",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담만 받아도 제공되는 특별 선물",
+      "지역별 리조트 정보 제공"
+    ],
+    "contract_benefits": [
+      "현장 계약 시 캐리어 증정",
+      "현장 계약 시 허니문 축하금 지원",
+      "계약 시 백화점 상품권 최대 20만원 지원"
+    ],
+    "special_events": [
+      "허니문 전문 여행사 1:1 맞춤 컨설팅",
+      "지역별(몰디브, 발리, 코사무이 등) 단독 리조트 특전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+    },
+    "location": {
+      "sido": "제주",
+      "sido_en": "jeju",
+      "sigungu": "제주시",
+      "sigungu_en": "jeju",
+      "address": "제주특별자치도 제주시 동광로 34",
+      "venue": "호텔샬롬 제주",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "jeju"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼 예정일",
+      "방문 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 및 계약 완료 고객 대상 사은품 증정",
+    "trust_indicators": [
+      "10년 이상 경력의 허니문 전문 상담사 배치",
+      "지역별 검증된 리조트 단독 특전 보유",
+      "전국 허니문 여행지 비교 플랫폼"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제주 투어민 허니문 박람회",
+      "startDate": "2025-08-22",
+      "endDate": "2025-08-23",
+      "location": {
+        "@type": "Place",
+        "name": "호텔샬롬 제주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "동광로 34",
+          "addressLocality": "제주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "투어민 제주",
+        "url": "https://ad.cpaad.co.kr/tourmin02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "제주 투어민 허니문 박람회 참가비가 있나요?",
+        "answer": "아니요, 사전등록 시 무료로 입장 및 상담을 받으실 수 있습니다."
+      },
+      {
+        "question": "어떤 혜택을 받을 수 있나요?",
+        "answer": "상담 시 증정되는 선물은 물론, 현장에서 허니문 계약 시 캐리어, 백화점 상품권 등 다양한 혜택을 제공합니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "홈페이지의 무료 초대권 신청 폼에 성함과 연락처, 결혼 예정일을 입력하여 신청하실 수 있습니다."
+      },
+      {
+        "question": "허니문 지역은 어디를 선택할 수 있나요?",
+        "answer": "몰디브, 발리, 코사무이, 푸켓, 모리셔스 등 전 세계 다양한 허니문 지역을 전문가와 1:1로 비교 상담할 수 있습니다."
+      },
+      {
+        "question": "전문가 상담은 어떻게 진행되나요?",
+        "answer": "10년 이상 경력의 허니문 전문 상담사가 부부의 취향과 예산에 맞춰 맞춤형 여행지를 큐레이션 해드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 시작한 제주 지역 예비부부라면 주목해야 합니다. 특히 신혼여행지를 결정하지 못했거나, 스드메 준비와 병행하며 여행 경비를 알뜰하게 아끼고 싶은 신혼부부에게 최적화된 박람회입니다. 여행 전문 상담을 통해 여행지의 날씨, 리조트 혜택, 항공권 조건 등을 한자리에서 비교하고 싶으신 분들께 추천합니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사",
+      "신혼여행 리조트 컨설팅",
+      "허니문 여행 패키지 기획 업체"
+    ],
+    "comparison_hooks": [
+      "전국 허니문 여행지를 한자리에서 비교 분석",
+      "현장 계약 시 백화점 상품권 및 캐리어 즉시 증정",
+      "10년 이상 경력 전문 상담사의 1:1 밀착 컨설팅 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "제주도 허니문 박람회 일정",
+      "신혼여행 준비 체크리스트",
+      "몰디브 신혼여행 비용",
+      "투어민 허니문 혜택",
+      "결혼 준비 여행사 추천",
+      "제주 웨딩박람회 사은품",
+      "발리 신혼여행 특전",
+      "신혼여행 비수기 성수기 차이",
+      "허니문 박람회 상담 후기",
+      "제주도 호텔 예식 상담"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "제주 웨딩박람회 전체 일정",
+        "category": "jeju_wedding_event"
+      },
+      {
+        "anchor": "허니문 준비 팁",
+        "category": "honeymoon_info"
+      }
+    ],
+    "semantic_keywords": [
+      "허니문",
+      "신혼여행",
+      "리조트",
+      "여행 패키지",
+      "웨딩박람회",
+      "결혼 준비",
+      "신혼여행지 추천",
+      "항공권",
+      "허니문 특전",
+      "상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제주 투어민 허니문 박람회 초대권 신청",
+    "og_description": "제주 예비부부를 위한 신혼여행 상담 박람회! 계약 시 백화점 상품권 등 혜택을 지금 바로 확인하세요.",
+    "hashtags": [
+      "#제주웨딩박람회",
+      "#제주허니문박람회",
+      "#결혼준비",
+      "#신혼여행준비",
+      "#투어민",
+      "#제주결혼",
+      "#허니문특전",
+      "#신혼여행지추천",
+      "#제주예비부부",
+      "#웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/tourmin02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_tAGIEUq8q5CIsTKa.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_eNY46npRSC3oL1Sf.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_GMvJdZllaL6Q.jpg"
+  },
+  "updated_at": "2026-07-27 19:32:57"
+}
