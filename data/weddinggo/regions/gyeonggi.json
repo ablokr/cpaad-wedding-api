@@ -6928,5 +6928,628 @@
     },
     "updated_at": "2026-07-27 13:03:42",
     "revenue": 30000
+  },
+  {
+    "idx": 1753,
+    "campaign_id": "wncowedding19",
+    "gather_name": "고양 웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "고양 웨딩박람회 | 스타필드 고양 상담 시 100% 선물 증정",
+      "meta_description": "고양 웨딩박람회에서 준비하는 완벽한 결혼식! 스타필드 고양 개최, 방문만 해도 100% 선물 증정 및 계약 시 최대 혜택을 드립니다. 지금 무료 참가 신청하세요.",
+      "keywords": [
+        "고양 웨딩박람회",
+        "스타필드 고양 웨딩박람회",
+        "결혼준비",
+        "스드메 패키지",
+        "웨딩홀 할인",
+        "혼수 혜택",
+        "예비부부",
+        "일산 웨딩박람회",
+        "웨딩 박람회 일정",
+        "결혼 비용 절약"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 이번 고양 웨딩박람회는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 기회로, 스타필드 고양에서 특별한 혜택과 함께 여러분을 기다립니다.",
+      "benefits_description": "방문만 하셔도 100% 증정되는 다양한 선물부터, 스드메 패키지 계약 시 드리는 고급 웨딩 액자, 본식 원본, 드레스 무료 피팅권까지 풍성한 혜택이 준비되어 있습니다. 또한 예물, 한복, 혼수 가전까지 각 분야 전문가의 1:1 상담을 통해 거품 없는 합리적인 가격으로 실속 있는 결혼 준비를 완성하실 수 있습니다.",
+      "summary_for_search": "스타필드 고양에서 열리는 고양 웨딩박람회! 방문 상담 시 100% 선물 증정 및 계약 혜택 제공. 예비부부를 위한 스드메, 웨딩홀, 혼수 특가 정보를 한자리에서 만나보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 신청하면 100% 선물 증정! 고양 웨딩박람회",
+      "secondary_headline": "스드메부터 혼수까지, 스타필드 고양에서 준비하는 현명한 웨딩 솔루션",
+      "urgency_text": "선착순 방문객 대상 경품 조기 소진 주의",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 100% 선물 증정",
+        "선착순 20쌍 실리만 데일리 토스터기",
+        "계약자 전원 웨딩 다이어리"
+      ],
+      "contract_benefits": [
+        "웨딩홀 무료 섭외 및 대관료 할인",
+        "스드메 계약 시 고급 웨딩 액자 및 원본 증정",
+        "최대 10만원 기프트권",
+        "허니문 할인 및 예물/한복/맞춤정장 특별 할인"
+      ],
+      "special_events": [
+        "스몰/하우스 웨딩 상담",
+        "웨딩 드레스 무료 피팅 체험",
+        "웨딩홀 현장 투어",
+        "예물 14K 가딩 증정 및 혼수 가전 할인"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "display_date": "08월 08일(토) ~ 08월 09일(일)",
+        "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "고양시",
+        "sigungu_en": "goyang",
+        "address": "경기 고양시 덕양구 고양대로 1955",
+        "venue": "스타필드 고양 B1층",
+        "parking_info": "스타필드 고양 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "스타필드 고양 개최",
+        "1:1 맞춤형 전문가 상담",
+        "투명한 웨딩 패키지 비용 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "고양 웨딩박람회",
+        "startDate": "2025-08-08",
+        "endDate": "2025-08-09",
+        "location": {
+          "@type": "Place",
+          "name": "스타필드 고양",
+          "address": "경기 고양시 덕양구 고양대로 1955"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding19/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "방문만 해도 혜택이 있나요?",
+          "answer": "네, 박람회 방문 후 상담만 받으셔도 100% 증정되는 사은품과 선착순 경품 혜택이 준비되어 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 스타필드 고양 주차장을 이용하실 수 있어 편리하게 방문 가능합니다."
+        },
+        {
+          "question": "스드메 비용은 어떻게 되나요?",
+          "answer": "현장에서 다양한 업체별 패키지를 한눈에 비교하고, 박람회 전용 특가로 상담받으실 수 있습니다."
+        },
+        {
+          "question": "참여 업체는 어떤 분야인가요?",
+          "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업), 허니문, 예물, 한복, 맞춤정장, 혼수가전 등 결혼 준비의 모든 항목을 포함합니다."
+        },
+        {
+          "question": "꼭 예약하고 방문해야 하나요?",
+          "answer": "원활한 상담과 사은품 수령을 위해 사전 무료 참가 신청 후 방문하시는 것을 권장합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 예비부부라면 누구나 참여 가능합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 신혼부부, 바쁜 일정 속에서 효율적인 웨딩 준비를 원하는 직장인 커플, 그리고 스드메 비용과 혼수 예산을 합리적으로 비교하고 싶은 분들에게 최적화된 행사입니다. 웨딩홀 섭외부터 허니문까지 전문가의 가이드를 통해 성공적인 결혼식을 준비하세요.",
+      "exhibitor_highlights": [
+        "웨딩 드레스샵",
+        "스튜디오",
+        "메이크업 업체",
+        "웨딩홀 전문 상담",
+        "허니문 여행사",
+        "예물/예복 브랜드",
+        "한복 대여/맞춤",
+        "혼수 가전"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 할인 및 박람회 전용 특가 제공",
+        "스타필드 내 위치하여 쇼핑과 웨딩 상담을 동시에 해결",
+        "방문객 전원 100% 사은품 증정 및 전문가 1:1 밀착 상담"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "스드메 견적 비교",
+        "결혼식 예산 짜기",
+        "웨딩박람회 예약 방법",
+        "신혼여행 패키지 추천",
+        "혼수 가전 준비",
+        "웨딩홀 할인 혜택",
+        "맞춤 예복 브랜드",
+        "결혼 준비 체크리스트",
+        "박람회 방문 혜택"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "고양 웨딩박람회 일정 확인",
+          "category": "local_wedding_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "결혼준비",
+        "웨딩패키지",
+        "신혼여행",
+        "예물",
+        "예복",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "고양 웨딩박람회 | 방문 상담 100% 선물 증정",
+      "og_description": "고양 예비부부 필수 코스! 스타필드 고양 웨딩박람회에서 스드메, 혼수 혜택 한 번에 챙기세요.",
+      "hashtags": [
+        "#고양웨딩박람회",
+        "#스타필드고양",
+        "#결혼준비",
+        "#예비부부",
+        "#스드메",
+        "#웨딩박람회",
+        "#신혼부부",
+        "#결혼식준비",
+        "#웨딩혜택",
+        "#일산웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding19/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_Q2EvNtIgfjwzU6kqEQk5Yr.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_ZjG7irjkku4hdMRxm.jpg"
+    },
+    "updated_at": "2026-07-27 16:01:34",
+    "revenue": 30000
+  },
+  {
+    "idx": 1538,
+    "campaign_id": "wncowedding03",
+    "gather_name": "안성웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "안성웨딩박람회 | 스타필드 안성 결혼준비 혜택 및 무료 초대권",
+      "meta_description": "안성 최대 규모 웨딩박람회! 08/15~16 스타필드 안성 개최. 방문만 해도 100% 증정품과 스드메 계약 혜택, 허니문, 혼수 할인까지 한 번에 준비하세요.",
+      "keywords": [
+        "안성웨딩박람회",
+        "스타필드안성웨딩박람회",
+        "경기결혼준비",
+        "안성스드메",
+        "결혼준비박람회",
+        "웨딩박람회무료초대권",
+        "예비부부혜택",
+        "안성예식장",
+        "스드메패키지",
+        "안성혼수준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 막막하셨나요? 안성 최대 규모 '안성웨딩박람회'가 스타필드 안성에서 특별한 이벤트를 준비했습니다. 예식장부터 스드메, 허니문, 혼수까지 복잡한 준비 과정을 합리적인 비용으로 해결할 수 있는 최적의 기회를 놓치지 마세요.",
+      "benefits_description": "이번 안성웨딩박람회는 단순히 구경만 하는 곳이 아닙니다. 방문만 해도 100% 증정되는 다양한 선물과 상담만 받아도 제공되는 실리만 데일리 토스터기 등 풍성한 방문 혜택이 준비되어 있습니다. 또한, 스드메 패키지 현장 계약 시 최고급 웨딩액자 증정, 웨딩드레스 무료 피팅권 등 실속 있는 혜택이 가득합니다. 허니문 최저가 보장과 혼수/예물 특별 할인까지, 전문가와 1:1 상담을 통해 나만의 맞춤 웨딩을 완성해 보세요.",
+      "summary_for_search": "안성 최대 규모 안성웨딩박람회 개최! 08월 15일~16일 스타필드 안성. 방문 상담만으로 실리만 토스터기 증정, 계약 시 웨딩액자 및 드레스 피팅 혜택까지. 지금 바로 무료 참가 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "안성 최대 규모 웨딩박람회, 지금 신청하면 100% 혜택 증정!",
+      "secondary_headline": "스타필드 안성에서 만나는 결혼 준비의 모든 것, 스드메·혼수·허니문 상담 시 파격 할인",
+      "urgency_text": "선착순 20쌍 한정 사은품 증정 및 이번 주말 단 2일간의 특별 혜택",
+      "call_to_action_text": "지금 무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담만 해도 실리만 데일리 토스터기(선착순 20쌍)",
+        "방문객 전원 100% 증정 사은품"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩액자 증정",
+        "웨딩드레스 무료 피팅권 제공",
+        "계약 축하금 최대 10만원 지원",
+        "혼수/예물 품목별 추가 할인 및 사은품"
+      ],
+      "special_events": [
+        "웨딩홀 무조건 할인 제공",
+        "허니문 최저가 보장",
+        "스몰웨딩/하우스웨딩 특별 기획전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "display_date": "08월 15일(토) ~ 08월 16일(일)",
+        "original_display_date": "08월 15일(토) ~ 08월 16일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "안성시",
+        "sigungu_en": "anseong",
+        "address": "경기 안성시 공도읍 서동대로 3930-39 2층",
+        "venue": "스타필드 안성 2층 특별행사장",
+        "parking_info": "스타필드 안성 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일"
+      ],
+      "gift_conditions": "현장 방문 및 웨딩 전문가 상담 완료 시 지급",
+      "trust_indicators": [
+        "안성 최대 규모 웨딩박람회",
+        "입점 브랜드별 1:1 전문 상담 보장",
+        "스타필드 안성 내 대규모 개최"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "안성웨딩박람회",
+        "startDate": "2025-08-15",
+        "endDate": "2025-08-16",
+        "location": {
+          "@type": "Place",
+          "name": "스타필드 안성",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기 안성시",
+            "addressLocality": "안성시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 참가 비용은 얼마인가요?",
+          "answer": "안성웨딩박람회는 사전 신청 시 무료로 참가할 수 있습니다."
+        },
+        {
+          "question": "방문만 해도 선물을 받을 수 있나요?",
+          "answer": "네, 방문 상담하시는 모든 분께 100% 사은품을 드리며, 선착순 20쌍에게는 실리만 데일리 토스터기를 증정합니다."
+        },
+        {
+          "question": "주차는 편리한가요?",
+          "answer": "스타필드 안성 주차장을 이용할 수 있어 매우 편리합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스드메, 예물, 예복, 허니문, 가전 등 결혼 준비에 필요한 모든 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시 계약을 반드시 해야 하나요?",
+          "answer": "아니요, 부담 없이 전문가의 1:1 맞춤 상담을 받아보시고 결정하시면 됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 모든 예비부부를 대상으로 합니다. 특히 결혼 준비 기간이 6개월 이내로 남았거나, 스드메 비용 비교에 어려움을 겪는 커플, 혹은 합리적인 가격에 알찬 혼수 준비를 원하는 신혼부부에게 최적입니다. 본 박람회는 결혼 준비의 기초부터 전문 컨설팅까지 제공하여, 무엇을 어디서부터 시작해야 할지 모르는 신랑신부님께 맞춤형 가이드를 제시합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀(안성/평택지역 추천)",
+        "스드메 토탈 패키지",
+        "허니문 여행사",
+        "예물 브랜드",
+        "맞춤 정장 및 예복",
+        "결혼 한복점",
+        "가전 브랜드(한샘 등)"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 시 할인 및 최고급 사은품 증정",
+        "스타필드 안성 내 대규모 개최로 원스톱 쇼핑 가능",
+        "전문 웨딩 플래너의 1:1 맞춤형 컨설팅 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "안성 웨딩홀 추천",
+        "스드메 패키지 가격",
+        "웨딩박람회 예약 방법",
+        "혼수 가전 저렴하게 사는 법",
+        "신혼여행지 추천",
+        "예물 예복 트렌드",
+        "스몰웨딩 비용",
+        "박람회 방문 혜택 확인"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 웨딩박람회 전체 일정",
+          "category": "Gyeonggi_Weddings"
+        },
+        {
+          "anchor": "스드메 패키지 상담하기",
+          "category": "Wedding_Consultation"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "허니문",
+        "예물",
+        "예복",
+        "한복",
+        "가전",
+        "웨딩컨설팅",
+        "신혼부부"
+      ]
+    },
+    "social_meta": {
+      "og_title": "안성웨딩박람회 | 방문 상담만 해도 선물 증정!",
+      "og_description": "스타필드 안성에서 만나는 결혼 준비 혜택! 상담만 받아도 100% 선물 제공, 지금 신청하세요.",
+      "hashtags": [
+        "#안성웨딩박람회",
+        "#결혼준비",
+        "#신혼부부혜택",
+        "#스타필드안성",
+        "#스드메",
+        "#안성결혼",
+        "#웨딩박람회",
+        "#예비부부",
+        "#결혼식준비",
+        "#웨딩꿀팁"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_jZ5Xv3cCeNgFCM2mj5OT5A.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_olYTpJ3fpm57OCb2zuNxDL4.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_RrU6COkmzqRjaxP6FUjV.jpg"
+    },
+    "updated_at": "2026-07-27 16:01:51",
+    "revenue": 30000
+  },
+  {
+    "idx": 1575,
+    "campaign_id": "wncowedding08",
+    "gather_name": "평택웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "평택웨딩박람회 | 평택 AK플라자 특별행사 스드메 혜택 모음",
+      "meta_description": "평택에서 결혼 준비 중이라면 필수 방문! 평택 AK플라자에서 열리는 평택웨딩박람회. 방문 시 실리머 데일리토스터기 등 사은품 증정, 스드메 패키지 최대 할인 혜택까지! 지금 무료 사전등록하고 특별한 웨딩 혜택을 모두 챙겨가세요.",
+      "keywords": [
+        "평택웨딩박람회",
+        "평택결혼준비",
+        "평택스드메",
+        "평택웨딩홀",
+        "평택결혼박람회",
+        "경기웨딩박람회",
+        "신혼가전할인",
+        "평택예물",
+        "평택한복",
+        "평택맞춤정장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 평택웨딩박람회에서 합리적이고 행복하게 준비하세요. 평택 AK플라자 6층 특별행사장에서 개최되는 이번 박람회는 복잡한 결혼 준비 과정을 한 번에 해결할 수 있는 최적의 기회입니다. 예비부부님들을 위한 다양한 정보와 알찬 혜택을 지금 바로 확인해 보세요.",
+      "benefits_description": "방문만 해도 증정되는 실리만 데일리토스터기와 웨딩다이어리, 그리고 상담 후 계약 시 받을 수 있는 다양한 축하 혜택까지 준비되어 있습니다. 스드메 패키지 특가부터 신혼가전 최대 80만 원 상당 혜택, 예물·한복·맞춤정장 등 품목별 할인 쿠폰까지 알뜰한 예비부부라면 놓칠 수 없는 혜택들로 가득 채웠습니다. 1:1 맞춤 상담을 통해 두 분만의 특별한 웨딩을 완성해 보세요.",
+      "summary_for_search": "평택 AK플라자 6층에서 열리는 평택웨딩박람회! 방문 사은품 증정부터 스드메 패키지, 혼수, 신혼가전까지 한자리에서 비교하고 특별한 계약 혜택을 만나보세요. 지금 무료 사전등록하고 성공적인 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "평택 최대 규모 평택웨딩박람회! 지금 등록하면 최대 80만 원 혜택",
+      "secondary_headline": "스드메부터 혼수, 신혼가전까지! 예비부부를 위한 1:1 맞춤 상담 서비스",
+      "urgency_text": "선착순 방문 사은품 한정 수량 제공",
+      "call_to_action_text": "무료 사전참가신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "실리만 데일리토스터기 (선착순 20쌍)",
+        "결혼준비 필수템 웨딩다이어리 (전원 증정)"
+      ],
+      "contract_benefits": [
+        "계약 시 웨딩액자 증정",
+        "본식 사진 원본 무료 증정",
+        "예물 14K 가딩 증정 및 혼수 할인",
+        "신혼가전 최대 80만 원 상당 혜택"
+      ],
+      "special_events": [
+        "웨딩홀 무료 섭외 및 대관료 할인",
+        "드레스 무료 피팅 체험",
+        "스튜디오 현장 투어",
+        "스몰하우스 웨딩 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "display_date": "08월 08일(토) ~ 08월 09일(일)",
+        "original_display_date": "08월 08일(토) ~ 08월 09일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "평택시",
+        "sigungu_en": "pyeongtaek",
+        "address": "경기 평택시 평택로 51",
+        "venue": "평택 AK플라자 6층 특별행사장",
+        "parking_info": "AK플라자 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 증정 (사은품은 선착순 한정)",
+      "trust_indicators": [
+        "평택 최대 규모 웨딩 박람회",
+        "검증된 업체 1:1 맞춤 상담",
+        "다양한 카테고리(스드메, 혼수, 예물, 가전) 통합 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "평택웨딩박람회",
+        "startDate": "2025-08-08",
+        "endDate": "2025-08-09",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "평택 AK플라자 6층 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "평택시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding08/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 예약은 필수인가요?",
+          "answer": "네, 무료 사전참가신청을 하시면 대기 없이 입장 가능하며 방문 혜택도 우선적으로 챙기실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "개최 장소인 AK플라자 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 선물을 주나요?",
+          "answer": "네, 상담 완료 고객님들께는 선착순으로 실리만 데일리토스터기 및 다양한 경품을 증정합니다."
+        },
+        {
+          "question": "스드메 패키지 가격은 어떤가요?",
+          "answer": "박람회 현장 계약 시 평소보다 큰 할인 혜택과 추가 사은품을 제공하여 훨씬 합리적인 가격으로 준비가 가능합니다."
+        },
+        {
+          "question": "혼수와 가전도 한곳에서 볼 수 있나요?",
+          "answer": "네, 예물, 한복, 정장, 신혼가전까지 한곳에서 비교 상담이 가능하도록 엄선된 업체들이 참여합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 결혼 준비 시간을 효율적으로 아끼고 싶은 직장인 커플 등을 대상으로 합니다. 결혼 준비의 전체 프로세스를 한 번에 확인하고 싶거나, 최신 웨딩 트렌드와 파격적인 할인 혜택을 동시에 누리고 싶은 분들께 최적화된 행사입니다. 1:1 전문가 상담을 통해 개인별 맞춤 웨딩 플랜을 제안받을 수 있습니다.",
+      "exhibitor_highlights": [
+        "드레스·스튜디오·메이크업 업체",
+        "웨딩홀 섭외 및 예약 전문",
+        "허니문 여행사",
+        "예물·예복 전문 브랜드",
+        "혼수·신혼가전 브랜드"
+      ],
+      "comparison_hooks": [
+        "평택 지역 최대 규모로 최다 업체 현장 입점",
+        "현장 계약 시 즉시 할인 및 사은품 혜택",
+        "전문 플래너와 1:1 맞춤형 웨딩 상담 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "스드메 평균 가격",
+        "결혼 준비 체크리스트",
+        "웨딩홀 투어 팁",
+        "신혼가전 구매 시기",
+        "박람회 계약 혜택 확인법",
+        "평택 웨딩홀 추천",
+        "웨딩드레스 종류",
+        "허니문 인기 여행지",
+        "예물 예산 세우기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "평택 웨딩홀 투어 신청하기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 가격 비교",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "신혼여행",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "드레스피팅",
+        "본식스냅",
+        "웨딩촬영"
+      ]
+    },
+    "social_meta": {
+      "og_title": "평택웨딩박람회 | 결혼 준비 필수 혜택 모음",
+      "og_description": "평택 AK플라자 6층! 지금 사전등록하고 실리만 토스터기+최대 80만원 혜택 받으세요.",
+      "hashtags": [
+        "#평택웨딩박람회",
+        "#평택결혼준비",
+        "#평택웨딩홀",
+        "#평택스드메",
+        "#결혼준비시작",
+        "#예비부부",
+        "#신혼가전",
+        "#평택예물",
+        "#웨딩박람회혜택",
+        "#평택데이트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding08/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_gKei3gPTvWIFIA5y91J.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_Fe7gXHZCih7bbQpcqjPlRC.jpg"
+    },
+    "updated_at": "2026-07-27 16:02:09",
+    "revenue": 30000
   }
 ]
