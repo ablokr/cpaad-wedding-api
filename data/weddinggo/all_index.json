@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 129,
+    "total_count": 135,
     "region_count": 16,
-    "district_count": 48,
-    "updated_at": "2026-07-27 19:02:33"
+    "district_count": 49,
+    "updated_at": "2026-07-28 13:02:12"
   },
   "items": [
     {
@@ -1161,6 +1161,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1857,
       "campaign_id": "withyouwedding51",
       "gather_name": "동탄 라크몽 프리메로웨딩홀 웨딩박람회",
       "display_date": "08월 15일(토) ~ 08월 16일(일)",
@@ -1169,7 +1170,8 @@
       "sigungu": "화성시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Vm1W8NuYD4NAjPk5jcH7B5QCyiMkhS.jpg",
-      "updated_at": "2026-07-22 19:01:26"
+      "updated_at": "2026-07-22 19:01:26",
+      "revenue": 30000
     },
     {
       "idx": 1738,
@@ -1601,6 +1603,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1767,
       "campaign_id": "tourmin02",
       "gather_name": "제주 투어민 허니문 박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
@@ -1609,7 +1612,8 @@
       "sigungu": "제주시",
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_eNY46npRSC3oL1Sf.jpg",
-      "updated_at": "2026-07-27 19:01:05"
+      "updated_at": "2026-07-27 19:01:05",
+      "revenue": 30000
     },
     {
       "idx": 1717,
@@ -1661,6 +1665,82 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_LCJhAD8zePPOkVjf.jpg",
       "updated_at": "2026-07-27 19:02:33",
+      "revenue": 30000
+    },
+    {
+      "idx": 1593,
+      "campaign_id": "wedingcrowd77",
+      "gather_name": "의정부 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "삼성스토어 신세계 의정부점 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mPbHlfwoRho4w79o.jpg",
+      "updated_at": "2026-07-28 13:00:43",
+      "revenue": 30000
+    },
+    {
+      "idx": 1684,
+      "campaign_id": "wedingcrowd95",
+      "gather_name": "수원 한샘 스타필드 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "한샘 스타필드수원점",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_CVeIXwRYWLz.jpg",
+      "updated_at": "2026-07-28 13:01:02",
+      "revenue": 30000
+    },
+    {
+      "idx": 1432,
+      "campaign_id": "wedingcrowd57",
+      "gather_name": "하남 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "한샘 스타필드 하남점 특별행사장",
+      "sido": "경기",
+      "sigungu": "하남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_r7Kx1TxTjBgBpHSpLoO4Ym5vdib5uFTd.jpg",
+      "updated_at": "2026-07-28 13:01:18",
+      "revenue": 30000
+    },
+    {
+      "idx": 1789,
+      "campaign_id": "wedingcrowd109",
+      "gather_name": "원주 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "호텔인터불고 원주 특별행사장",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Jvgqir99uK6QPoGJLGaqSmA3NXHSA99C.jpg",
+      "updated_at": "2026-07-28 13:01:35",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "objetWed04",
+      "gather_name": "천안365 다이렉트 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "천안웨딩베리컨벤션",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MMWmuGkbbZohd7OVHnDOpV.jpg",
+      "updated_at": "2026-07-28 13:01:53"
+    },
+    {
+      "idx": 1720,
+      "campaign_id": "wedingcrowd99",
+      "gather_name": "대전 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "NC백화점 대전유성점 7층 특별행사장",
+      "sido": "대전",
+      "sigungu": "유성구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_7pYJDOl1vdhcPWRT.jpg",
+      "updated_at": "2026-07-28 13:02:12",
       "revenue": 30000
     }
   ]
