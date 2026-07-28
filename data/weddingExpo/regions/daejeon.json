@@ -1662,5 +1662,215 @@
     },
     "updated_at": "2026-07-27 13:34:44",
     "revenue": 30000
+  },
+  {
+    "idx": 1720,
+    "campaign_id": "wedingcrowd99",
+    "gather_name": "대전 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "대전 웨딩크라우드 웨딩박람회 | 스드메 69만원부터 상담 선물까지",
+      "meta_description": "대전 NC백화점 유성점에서 열리는 웨딩크라우드 웨딩박람회! 스드메 패키지 69만원 특가 및 현장 방문/계약 혜택, 웨딩홀 비교 서비스까지 결혼 준비의 모든 것을 확인하세요.",
+      "keywords": [
+        "대전웨딩박람회",
+        "대전결혼준비",
+        "대전스드메",
+        "대전웨딩홀",
+        "웨딩크라우드",
+        "대전혼수",
+        "대전예물예복",
+        "대전신혼여행",
+        "대전웨딩박람회일정",
+        "스드메패키지"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "이번 대전 웨딩크라우드 웨딩박람회 참가를 고민 중이시라면 아래 정보를 참고해 보세요. 결혼 준비의 시작부터 마무리까지 한자리에서 효율적으로 해결할 수 있도록 다양한 웨딩 전문가들이 맞춤 상담을 제공합니다.",
+      "benefits_description": "이번 박람회는 예비부부의 경제적 부담을 덜어드리기 위한 다양한 혜택을 준비했습니다. 현장 방문 시 스타벅스 기프트카드와 청첩장 할인쿠폰을 제공하며, 스드메 패키지는 69만 원부터 만나보실 수 있습니다. 또한, 혼수 계약 시 현장 사은품 증정과 함께 예복, 예물, 한복 등 카테고리별 특별 할인 혜택도 풍성하게 확인됩니다. 결혼 준비의 효율성을 높이고 싶은 예비부부라면 현장 상담을 통해 실질적인 견적 비교를 경험해 보시길 권장합니다.",
+      "summary_for_search": "대전 NC백화점 유성점에서 개최되는 웨딩크라우드 웨딩박람회. 스드메 패키지 69만원 특가 및 방문 상담 시 스타벅스 쿠폰 등 풍성한 혜택을 제공합니다. 결혼 준비를 앞둔 예비부부라면 이번 박람회에서 합리적인 견적을 비교해 보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스드메 패키지 69만원부터! 대전 초대형 웨딩박람회",
+      "secondary_headline": "방문만 해도 스타벅스 쿠폰 증정, 결혼 준비의 모든 것을 한자리에",
+      "urgency_text": "선착순 방문객 한정 혜택 제공, 사전등록 필수",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 기프트카드 증정",
+        "청첩장 할인쿠폰 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 69만원 특가 제공",
+        "혼수 계약 시 사은품 증정",
+        "예물/예복/한복 계약 시 특별 할인 및 추가 사은품",
+        "허니문 최대 150만원 할인"
+      ],
+      "special_events": [
+        "웨딩홀 비교 서비스",
+        "웨딩 스튜디오 브랜드 네트워크 체험",
+        "드레스 피팅 및 트렌드 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "display_date": "08월 15일(토) ~ 08월 16일(일)",
+        "original_display_date": "08월 15일(토) ~ 08월 16일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "유성구",
+        "sigungu_en": "yuseong",
+        "address": "대전 유성구 계룡로 119",
+        "venue": "NC백화점 대전유성점 7층 특별행사장",
+        "parking_info": "NC백화점 주차장 이용 가능",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "신랑/신부 구분",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 상담 완료 후 증정(상세 조건은 현장 안내 확인)",
+      "trust_indicators": [
+        "대전 최대 규모 웨딩 네트워크 입점",
+        "1:1 맞춤형 웨딩 전문가 상담 보장",
+        "브랜드별 검증된 서비스 및 사후 관리"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 웨딩크라우드 웨딩박람회",
+        "startDate": "2025-08-15",
+        "endDate": "2025-08-16",
+        "location": {
+          "@type": "Place",
+          "name": "NC백화점 대전유성점 7층 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "유성구",
+            "addressLocality": "대전",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd99/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전등록을 완료하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 행사가 열리는 NC백화점 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "방문 사은품은 어떻게 받나요?",
+          "answer": "현장 방문 후 전문가 상담을 진행하시면 확인 후 증정됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 혼수, 예물, 예복, 허니문 등 결혼 준비 전 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "상담 품목에 따라 상이하지만 평균 1시간 내외의 충분한 상담 시간이 소요됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 모든 예비부부를 대상으로 합니다. 특히 스드메 비용을 합리적으로 비교하고 싶은 분들, 대전 지역 내 인기 웨딩홀 정보를 한곳에서 확인하고 싶은 커플들에게 추천합니다. 결혼 준비를 어디서부터 시작해야 할지 고민인 분들, 전문 플래너와 함께 실속 있는 패키지를 구성하고자 하는 신혼부부에게 실질적인 가이드를 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩 스튜디오 및 웨딩홀 리스트",
+        "스드메 패키지 업체",
+        "예물 및 예복 전문 브랜드",
+        "허니문 여행사",
+        "전통 한복 업체"
+      ],
+      "comparison_hooks": [
+        "대전 최대 규모 웨딩 브랜드 네트워크 입점",
+        "현장 상담을 통한 실시간 견적 비교 서비스",
+        "스드메 패키지 69만원부터 시작하는 합리적 가격대"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "대전 웨딩박람회 준비물",
+        "결혼 준비 순서",
+        "대전 스드메 비용",
+        "대전 웨딩홀 추천 리스트",
+        "웨딩박람회 사은품",
+        "예비부부 결혼 상담",
+        "대전 예물 예복 할인",
+        "대전 허니문 여행사",
+        "웨딩박람회 방문 팁",
+        "스드메 패키지 구성"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩홀 전체 정보",
+          "category": "wedding_hall_info"
+        },
+        {
+          "anchor": "합리적인 스드메 패키지 구성법",
+          "category": "wedding_planning_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예물",
+        "예복",
+        "신혼여행",
+        "결혼준비",
+        "청첩장",
+        "웨딩플래너",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 웨딩크라우드 웨딩박람회 혜택 안내",
+      "og_description": "스드메 69만원부터! 방문 상담 시 스타벅스 쿠폰 증정하는 대전 웨딩박람회 혜택을 지금 확인하세요.",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전결혼준비",
+        "#대전스드메",
+        "#대전웨딩홀",
+        "#대전웨딩크라우드",
+        "#결혼준비",
+        "#예비부부",
+        "#대전결혼",
+        "#스드메패키지",
+        "#대전혼수"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd99/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_GtQfU7wS11u4iIbZEY.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_7pYJDOl1vdhcPWRT.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_snnoFLCvQK3IiBdWYKN9uyNJr9.jpg"
+    },
+    "updated_at": "2026-07-28 13:31:12",
+    "revenue": 30000
   }
 ]
