@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-29T13:30:03Z",
-  "total_ad_count": 132,
+  "last_updated": "2026-07-29T19:30:04Z",
+  "total_ad_count": 134,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -237,7 +237,6 @@
       "revenue": 30000
     },
     "palmfair01": {
-      "idx": 580,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kOzQ7ljjiXGVdLwZyYzi6ZQ4WckeN5.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_CrgDTpKXBmQSLuqJ.jpg",
@@ -259,8 +258,7 @@
           "address": "서울시 강남구 언주로 711",
           "venue": "건설회관빌딩 1층"
         }
-      },
-      "revenue": 40000
+      }
     },
     "wedingcrowd108": {
       "idx": 1777,
@@ -1143,7 +1141,6 @@
       "revenue": 30000
     },
     "wedingcrowd16": {
-      "idx": 1238,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_JRgZ33Lme7Yt.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_JhL1yJaz5D.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_eny7uLd8nt1n.jpg",
@@ -1165,8 +1162,7 @@
           "address": "경기 수원시 장안구 수성로 175",
           "venue": "스타필드 수원 5층 팝업스토어"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wncowedding17": {
       "idx": 1709,
@@ -1923,6 +1919,7 @@
       "revenue": 30000
     },
     "wedingcrowd01": {
+      "idx": 1068,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_gQOMgkA4rYT4GgS2Hv2xcRy18yVA.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_VxEeUz61PwEtTW3ZEuuJMzFoZ.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_6GmaoQBfID7auIQugE1zKUtQIxLHFai.jpg",
@@ -1944,7 +1941,8 @@
           "address": "충남 아산시 순천향로 624",
           "venue": "모나밸리 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "planittour01": {
       "idx": 1772,
@@ -2025,6 +2023,7 @@
       "revenue": 30000
     },
     "withyouwedding19": {
+      "idx": 1236,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_HB9xUEvOpaEJI958oOxqG.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_oVrps8f7kOCu1WXsvVlbQqqolyVfGAO.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_QVv5eYf3busaK73h.jpg",
@@ -2046,7 +2045,8 @@
           "address": "충북 충주시 탄금대로 139",
           "venue": "LG전자베스트샵 충주본점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "howto27": {
       "idx": 1788,
@@ -2592,6 +2592,32 @@
       },
       "revenue": 40000
     },
+    "theBWSF01": {
+      "idx": 1086,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_udXICEq1h2pHv.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_qXLP4gN9BQLNG1OJ89hDc7Veom.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_cJVL4eqIjovHNCw76G7dW2kgavO.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBWSF01/",
+      "region": "jeolla",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "ad_info": "광주웨딩박람회는 오직 스타일링 웨딩페어",
+      "ad_year": "2026",
+      "ad_date": "08월 08일(토) ~ 08월 09일(일)",
+      "ad_location": "광주 동구 서석로 13-1 3층||(불로동 97-6)||더베스트웨딩컴퍼니 사옥",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "preprocessed": {
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "동구",
+          "sigungu_en": "dong",
+          "address": "광주 동구 서석로 13-1 3층",
+          "venue": "더베스트웨딩컴퍼니 사옥"
+        }
+      },
+      "revenue": 30000
+    },
     "wncowedding04": {
       "idx": 1545,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_BgAXbRSKqqYGsC.jpg",
@@ -2851,7 +2877,6 @@
       "revenue": 30000
     },
     "wedingcrowd08": {
-      "idx": 1082,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_hxY7iqkhgXsf7KSGQ81rQm.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_S39XSP86qUDJclix7p5XNb2.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lpNWPmq3f6yumN.jpg",
@@ -2873,8 +2898,7 @@
           "address": "강원특별자치도 강릉시 경강로 2380",
           "venue": "삼성스토어 강릉"
         }
-      },
-      "revenue": 30000
+      }
     },
     "dbfair01": {
       "idx": 1835,
@@ -3288,6 +3312,32 @@
           "sigungu_en": "jeju",
           "address": "제주특별자치도 제주시 동광로 34",
           "venue": "호텔샬롬 제주"
+        }
+      },
+      "revenue": 30000
+    },
+    "laelwedding02": {
+      "idx": 1272,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_xJNOwt3Bv4DqH.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_fWnVIq9Pzaf.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_A18mAikwPmovqMsIDFC.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/laelwedding02/",
+      "region": "jeju",
+      "gather_name": "제주 라마다호텔 웨딩박람회",
+      "ad_info": "제주 라마다호텔에서 열리는 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "제주특별자치도 제주시 중앙로 304||(이도이동 1025-8)||제주 라마다호텔 특별행사장",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "preprocessed": {
+        "location": {
+          "sido": "제주",
+          "sido_en": "jeju",
+          "sigungu": "제주시",
+          "sigungu_en": "jeju",
+          "address": "제주특별자치도 제주시 중앙로 304",
+          "venue": "제주 라마다호텔 특별행사장"
         }
       },
       "revenue": 30000
