@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 145,
+    "total_count": 147,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-07-31 13:01:26"
+    "updated_at": "2026-07-31 16:00:48"
   },
   "items": [
     {
@@ -1720,6 +1720,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1858,
       "campaign_id": "objetWed04",
       "gather_name": "천안365 다이렉트 웨딩박람회",
       "display_date": "08월 15일(토) ~ 08월 16일(일)",
@@ -1728,7 +1729,8 @@
       "sigungu": "천안시",
       "region_en": "chungnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MMWmuGkbbZohd7OVHnDOpV.jpg",
-      "updated_at": "2026-07-28 13:01:53"
+      "updated_at": "2026-07-28 13:01:53",
+      "revenue": 30000
     },
     {
       "idx": 1720,
@@ -1872,6 +1874,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
       "updated_at": "2026-07-31 13:01:26",
       "revenue": 30000
+    },
+    {
+      "idx": 1681,
+      "campaign_id": "weddingplus14",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_i957SMYkCj.jpg",
+      "updated_at": "2026-07-31 16:00:33",
+      "revenue": 40000
+    },
+    {
+      "campaign_id": "weddingplus18",
+      "gather_name": "웨딩더하기 수원 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "LG전자베스트샵 특별전시장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_jmkbCEmzrzJLKZlRrQ5Sdk.jpg",
+      "updated_at": "2026-07-31 16:00:48"
     }
   ]
 }

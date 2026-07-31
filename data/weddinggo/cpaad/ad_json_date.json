@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-07-31T13:00:03Z",
-  "total_ad_count": 137,
+  "last_updated": "2026-07-31T16:00:03Z",
+  "total_ad_count": 139,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -648,6 +648,20 @@
       "start_date": "2026-08-08",
       "end_date": "2026-08-09"
     },
+    "weddingplus18": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wc4ER4UP6PiCxU47hdY6LP5zMKWnGb.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_jmkbCEmzrzJLKZlRrQ5Sdk.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iY9Wo4dyzi8bBBYzZHAaXH.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingplus18/",
+      "region": "gyeonggi",
+      "gather_name": "웨딩더하기 수원 웨딩박람회",
+      "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "경기 수원시 영통구 광교중앙로 124|| 갤러리아 광교점 8층 (하동 1017-2)||LG전자베스트샵 특별전시장",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
+    },
     "wedingcrowd116": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_zmpfg2k4D5F9xa.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_PTPDuUyS5cnrnI24H7OtIrNEkRKJkEJ6.jpg",
@@ -745,6 +759,20 @@
       "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1F LG베스트샵 특별행사장",
       "start_date": "2026-08-01",
       "end_date": "2026-08-02"
+    },
+    "weddingplus14": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3dPxRIifnAp8FfkbkMsRWmo4.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_i957SMYkCj.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_B545dKlkEHOxY.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingplus14/",
+      "region": "gyeonggi",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180 7층||(호계동 1039)||LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
     },
     "withyouwedding12": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Dcjq2g1M.jpg",
