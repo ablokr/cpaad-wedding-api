@@ -1,0 +1,204 @@
+{
+  "campaign_id": "weddingplus18",
+  "gather_name": "웨딩더하기 수원 웨딩박람회",
+  "organizer_name": "웨딩더하기",
+  "seo_metadata": {
+    "title": "웨딩더하기 수원 웨딩박람회 | 스드메 특가 및 혼수 가전 혜택",
+    "meta_description": "수원 LG전자 베스트샵에서 열리는 웨딩더하기 박람회! 스드메 패키지 최저가 보장부터 혼수가전 최대 780만 혜택까지, 결혼 준비의 모든 것을 한자리에서 확인하세요.",
+    "keywords": [
+      "수원웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "혼수가전",
+      "수원웨딩홀",
+      "웨딩더하기",
+      "수원결혼준비",
+      "LG전자베스트샵웨딩",
+      "웨딩박람회혜택",
+      "스드메최저가"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면, 이번 웨딩더하기 수원 웨딩박람회 참가를 고민해보시길 추천합니다. 수원 LG전자 베스트샵에서 개최되는 이번 박람회는 스드메부터 혼수까지 복잡한 과정을 효율적으로 해결할 수 있도록 돕는 실속 있는 행사입니다.",
+    "benefits_description": "이번 박람회는 방문 고객 전원에게 스타벅스 쿠폰과 함께 모바일 청첩장, 식전 영상 제작권을 증정합니다. 또한, 스드메 패키지를 최저 69만 원부터 구성하여 예산 절감의 기회를 제공하며, 혼수가전 구매 시 최대 780만 원 상당의 혜택과 금액대별 사은품까지 풍성하게 준비되어 있습니다. 1:1 전문 상담을 통해 맞춤형 견적을 받아보실 수 있으니 결혼 준비의 첫걸음을 이곳에서 스마트하게 시작해보세요.",
+    "summary_for_search": "수원 웨딩더하기 박람회에서 스드메 패키지 최저가와 가전 혜택을 확인하세요. 8월 15일~16일 LG전자 베스트샵 갤러리아광교점에서 열리는 이번 행사는 예비부부를 위한 다양한 상담 혜택과 사은품을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝! 최대 780만원 혼수 혜택과 스드메 패키지 최저가 보장",
+    "secondary_headline": "복잡한 결혼 준비를 한 번에, 웨딩더하기 수원 특별 웨딩박람회",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 선착순 상담 신청 필수",
+    "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 고객 전원 스타벅스 커피 쿠폰 또는 블루투스 스피커 증정",
+      "모바일 청첩장 및 식전 영상 무료 제작권"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최저 69만 원부터",
+      "혼수 가전 구매 시 최대 780만 원 혜택",
+      "금액대별 프리미엄 사은품 증정"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 전문가 맞춤형 웨딩 견적 상담",
+      "브랜드별 특별 프로모션 적용"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "original_display_date": "08월 15일(토) ~ 08월 16일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 124",
+      "venue": "LG전자베스트샵 특별전시장",
+      "parking_info": "매장 내 주차 가능 (행사장 안내 확인)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "수많은 예비부부의 대만족 후기 보유",
+      "1:1 맞춤 상담 서비스 제공",
+      "투명하고 합리적인 웨딩 견적 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "웨딩더하기 수원 웨딩박람회",
+      "startDate": "2025-08-15",
+      "endDate": "2025-08-16",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자 베스트샵 갤러리아광교점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩더하기",
+        "url": "https://ad.cpaad.co.kr/weddingplus18/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "스드메 비용을 미리 알 수 있나요?",
+        "answer": "네, 박람회 현장에서 1:1 맞춤 상담을 통해 투명한 견적을 확인하실 수 있습니다."
+      },
+      {
+        "question": "혼수가전 혜택은 어떤 것이 있나요?",
+        "answer": "LG전자 베스트샵과 연계하여 금액대별 사은품 및 최대 780만 원 상당의 가전 혜택을 제공합니다."
+      },
+      {
+        "question": "방문하면 선물을 주나요?",
+        "answer": "네, 방문 고객 전원에게 스타벅스 쿠폰 등 소정의 사은품을 증정합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+        "answer": "네, 웨딩 전문가가 1:1로 밀착 상담해 드리므로 결혼 준비의 순서부터 예산까지 상세히 안내받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 구체적인 예산과 스드메 업체를 고민 중인 예비부부를 위한 행사입니다. 특히 결혼 준비를 어디서부터 어떻게 시작해야 할지 모르는 커플, 합리적인 비용으로 프리미엄 웨딩 서비스를 이용하고 싶은 분들에게 적합합니다. 가전 구매 계획이 있는 신혼부부에게도 최적의 선택지입니다.",
+    "exhibitor_highlights": [
+      "스드메 웨딩 패키지 업체",
+      "수원 지역 웨딩홀 협력 업체",
+      "허니문 여행사",
+      "LG전자 혼수 가전 전문 상담",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 추가 할인 혜택 제공",
+      "스드메 업체 한자리 비교를 통한 최저가 보장",
+      "전문가 1:1 밀착 상담으로 개인 맞춤형 플랜 제시"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "수원 스드메 추천",
+      "웨딩홀 견적 비교",
+      "혼수 가전 할인 행사",
+      "신혼여행 준비 리스트",
+      "결혼 예산 짜는 법",
+      "웨딩박람회 방문 혜택",
+      "수원 웨딩드레스샵",
+      "박람회 당일 계약 혜택",
+      "결혼 준비 체크리스트"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 정보 확인",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 비교하기",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼반지",
+      "웨딩촬영",
+      "폐백"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩박람회 | 스드메 & 혼수 최대 혜택",
+    "og_description": "결혼 준비 시작은 웨딩더하기 수원 박람회! 지금 신청하고 혼수 가전 혜택과 스드메 특가를 확인하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#웨딩더하기",
+      "#수원스드메",
+      "#신혼부부",
+      "#웨딩박람회혜택",
+      "#결혼준비체크리스트",
+      "#수원혼수",
+      "#웨딩홀투어",
+      "#예신예랑"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingplus18/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wc4ER4UP6PiCxU47hdY6LP5zMKWnGb.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_jmkbCEmzrzJLKZlRrQ5Sdk.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iY9Wo4dyzi8bBBYzZHAaXH.jpg"
+  },
+  "updated_at": "2026-07-31 19:31:13"
+}
