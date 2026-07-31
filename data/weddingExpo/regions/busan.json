@@ -2047,5 +2047,210 @@
     },
     "updated_at": "2026-07-23 19:30:19",
     "revenue": 30000
+  },
+  {
+    "idx": 1228,
+    "campaign_id": "wwedding05",
+    "gather_name": "부산 프라이빗 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "부산 프라이빗 웨딩박람회 | W웨딩시티 사전등록 혜택 안내",
+      "meta_description": "부산 W웨딩시티 프라이빗 웨딩박람회에서 스드메, 웨딩홀, 혼수 상담 받고 최대 300만원 현금 환급 혜택을 확인하세요. 사전등록 시 다양한 경품이 제공됩니다.",
+      "keywords": [
+        "부산웨딩박람회",
+        "W웨딩시티",
+        "부산결혼준비",
+        "스드메패키지",
+        "부산웨딩홀",
+        "웨딩박람회사전등록",
+        "부산혼수",
+        "부산결혼박람회",
+        "웨딩상담",
+        "부산스드메"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작을 앞두고 고민이 많으신 예비부부님들을 위해 부산 W웨딩시티에서 프라이빗 웨딩박람회를 개최합니다. 이번 행사는 복잡한 웨딩 준비 과정을 한곳에서 효율적으로 해결할 수 있도록 돕는 실속 있는 자리로 마련되었습니다.",
+      "benefits_description": "이번 박람회는 방문만 해도 주어지는 다양한 경품과 계약 시 제공되는 파격적인 지원 혜택이 핵심입니다. 웨딩홀, 스튜디오, 드레스, 메이크업을 포함한 토탈 웨딩 패키지를 합리적인 가격에 상담받을 수 있으며, 특히 혼수 이벤트와 현금 환급 이벤트가 준비되어 있어 예산 절감에 실질적인 도움을 받으실 수 있습니다. 부산 지역의 검증된 업체들을 한자리에서 만나보고, 전문가의 1:1 맞춤 컨설팅을 통해 나만의 웨딩 스타일을 찾아보시기 바랍니다.",
+      "summary_for_search": "부산 W웨딩시티 프라이빗 웨딩박람회는 웨딩홀부터 스드메, 혼수까지 한 번에 준비할 수 있는 기회입니다. 사전등록 후 방문하여 최대 300만원 현금 환급 및 상담 경품 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 지금 시작하면 최대 300만원 현금 환급!",
+      "secondary_headline": "부산 W웨딩시티 프라이빗 웨딩박람회, 방문만 해도 쏟아지는 풍성한 혜택",
+      "urgency_text": "선착순 40커플 한정, 상담 완료 시 식사권 증정",
+      "call_to_action_text": "지금 무료 사전등록하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 식사권 증정(40커플 한정)",
+        "선착순 웨딩홀/스드메 상담 경품 제공"
+      ],
+      "contract_benefits": [
+        "최대 300만원 현금 환급 이벤트",
+        "혼수 40만원 선불카드 증정",
+        "웨딩홀 계약 축하금 및 대관료 할인"
+      ],
+      "special_events": [
+        "웨딩 드레스 피팅 체험",
+        "프라이빗 1:1 웨딩 전문가 상담",
+        "가전·가구·예물·한복 브랜드 특별 할인전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-27",
+        "end_date": "2026-08-27",
+        "display_date": "08월 27일(목)",
+        "original_display_date": "08월 27일(목)"
+      },
+      "location": {
+        "sido": "부산",
+        "sido_en": "busan",
+        "sigungu": "부산진구",
+        "sigungu_en": "busanjin",
+        "address": "부산광역시 부산진구 자유평화로 11",
+        "venue": "W웨딩시티",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "busan"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "배우자 성함",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "사전등록 후 현장 방문 및 지정 업체 상담 완료 시 경품 지급(커플당 1회 한정)",
+      "trust_indicators": [
+        "30년 전통 부산 웨딩 전문 기업",
+        "부산 전 지역 웨딩홀 7,000평 규모",
+        "2022년 고객감동 서비스지수 1위",
+        "직영 웨딩홀 12개, 직영 스튜디오 4개 운영"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부산 프라이빗 웨딩박람회",
+        "startDate": "2025-08-27",
+        "endDate": "2025-08-27",
+        "location": {
+          "@type": "Place",
+          "name": "W웨딩시티",
+          "address": "부산광역시 부산진구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding05/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비는 있나요?",
+          "answer": "아니요, 사전등록을 하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "상담 시 대기 시간이 긴가요?",
+          "answer": "프라이빗 상담을 위해 사전 예약제로 운영되므로 신청 후 안내받은 시간에 방문하시면 쾌적한 상담이 가능합니다."
+        },
+        {
+          "question": "어떤 업체를 만날 수 있나요?",
+          "answer": "부산 지역 내 웨딩홀, 스튜디오, 드레스샵, 메이크업샵, 예물, 한복, 가전 등 결혼 준비에 필요한 모든 카테고리의 브랜드가 입점해 있습니다."
+        },
+        {
+          "question": "현금 환급은 어떻게 받나요?",
+          "answer": "행사 기간 내 웨딩 패키지 계약 후 안내되는 환급 조건(상담 및 계약 확인)을 충족하시면 안내에 따라 환급받으실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "방문객을 위한 주차 공간이 마련되어 있으나, 자세한 주차 안내는 사전등록 후 안내 문자를 참고해 주시기 바랍니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 예비부부, 부산 지역에서 예식장을 찾고 있는 커플, 스드메 패키지 비용 비교가 막막한 신혼부부 등을 대상으로 합니다. 결혼 준비를 어디서부터 어떻게 시작해야 할지 정보가 필요한 분들에게 체계적인 1:1 맞춤 컨설팅을 제공합니다. 특히 예산에 맞춰 거품 없는 결혼을 준비하고 싶은 분들에게 실질적인 할인 혜택과 정보를 전달합니다.",
+      "exhibitor_highlights": [
+        "직영 웨딩홀 12개",
+        "직영 스튜디오 4개",
+        "드레스샵 4개",
+        "입점 전문 더피티 12개",
+        "입점 혼수업체 30개 이상"
+      ],
+      "comparison_hooks": [
+        "30년 전통의 부산 토종 브랜드로 높은 신뢰도",
+        "직영점 운영을 통한 중간 유통 단계 최소화 및 합리적 가격 제공",
+        "부산 전 지역 웨딩홀 데이터를 보유한 전문 플래너의 1:1 매칭 시스템"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "부산 스드메 추천",
+        "웨딩박람회 방문 혜택",
+        "부산 웨딩홀 대관료 비교",
+        "W웨딩시티 후기",
+        "결혼 준비 체크리스트",
+        "부산 예물 브랜드",
+        "셀프 웨딩 준비",
+        "스드메 패키지 구성",
+        "부산 웨딩드레스 피팅",
+        "웨딩박람회 예약 방법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부산 웨딩홀 전체 리스트 보기",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "부산 웨딩 스튜디오 추천",
+          "category": "studios"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "결혼준비",
+        "예물",
+        "한복",
+        "신혼여행",
+        "부산웨딩",
+        "웨딩컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부산 프라이빗 웨딩박람회, 사전등록 시 혜택!",
+      "og_description": "부산 W웨딩시티 웨딩박람회 오픈! 상담만 받아도 경품 증정 및 최대 300만원 현금 환급 기회를 놓치지 마세요.",
+      "hashtags": [
+        "#부산웨딩박람회",
+        "#부산결혼준비",
+        "#W웨딩시티",
+        "#부산스드메",
+        "#부산웨딩홀",
+        "#결혼준비시작",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#부산웨딩플래너",
+        "#부산혼수"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding05/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_3I8IHYsGmC4rHCN.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_kGekdZ3e3O528ArOvV7R.jpg"
+    },
+    "updated_at": "2026-07-31 13:30:35",
+    "revenue": 30000
   }
 ]
