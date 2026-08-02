@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-02T10:00:03Z",
+  "last_updated": "2026-08-02T13:00:02Z",
   "total_ad_count": 140,
   "advertisements": {
     "iniwedding05": {
@@ -424,6 +424,20 @@
       "start_date": "2026-08-01",
       "end_date": "2026-08-02"
     },
+    "labelleellin05": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_1lDUVuNezDbp1Xf2AOgpiG.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_FwuRSaJhy5yx2.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ZSLiRdU3lu.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin05/",
+      "region": "gyeonggi",
+      "gather_name": "수원 AK플라자 웨딩박람회",
+      "ad_info": "AK플라자 수원에서 열리는 웨딩박람회.",
+      "ad_year": "2026",
+      "ad_date": "08월 08일(토) ~ 08월 09일(일)",
+      "ad_location": "경기 수원시 팔달구 덕영대로 924||(매산로1가 18)||AK플라자 수원점 6층 아트홀",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09"
+    },
     "wedingcrowd95": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_7UAaJDf9gabPrSbQPxacpZBNaM.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_CVeIXwRYWLz.jpg",
@@ -592,6 +606,20 @@
       "start_date": "2026-08-08",
       "end_date": "2026-08-09"
     },
+    "labelleellin03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3t68txEOwLr1eVHv9nbBzTYIBg.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_BAKtxveO.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ffioezZAbfPy9wQ4uNoI1Dpg6k3IVv.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin03/",
+      "region": "gyeonggi",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "ad_info": "타임빌라스에서 열리는 수원 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 01일(토) ~ 08월 02일(일)",
+      "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1F LG베스트샵 특별행사장",
+      "start_date": "2026-08-01",
+      "end_date": "2026-08-02"
+    },
     "wncowedding17": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202511/568762912459e51e2cbac9155f241418_YewdURdc8jF1ipJW.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202511/568762912459e51e2cbac9155f241418_fKSaYVnMrFn.jpg",
@@ -619,20 +647,6 @@
       "ad_location": "경기 이천시 증신로 130||(증포동 133-5)||삼성스토어 이천증포",
       "start_date": "2026-08-01",
       "end_date": "2026-08-02"
-    },
-    "labelleellin05": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_1lDUVuNezDbp1Xf2AOgpiG.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_FwuRSaJhy5yx2.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ZSLiRdU3lu.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/labelleellin05/",
-      "region": "gyeonggi",
-      "gather_name": "수원 AK플라자 웨딩박람회",
-      "ad_info": "AK플라자 수원에서 열리는 웨딩박람회.",
-      "ad_year": "2026",
-      "ad_date": "08월 08일(토) ~ 08월 09일(일)",
-      "ad_location": "경기 수원시 팔달구 덕영대로 924||(매산로1가 18)||AK플라자 수원점 6층 아트홀",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-09"
     },
     "labelleellin02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_OuNIWc3DQdkNu1RIEYeENb.jpg",
@@ -675,20 +689,6 @@
       "ad_location": "경기 광명시 금하로 454||(소하동 1340-4)||삼성스토어 광명소하점",
       "start_date": "2026-08-08",
       "end_date": "2026-08-09"
-    },
-    "labelleellin03": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3t68txEOwLr1eVHv9nbBzTYIBg.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_BAKtxveO.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ffioezZAbfPy9wQ4uNoI1Dpg6k3IVv.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/labelleellin03/",
-      "region": "gyeonggi",
-      "gather_name": "수원 타임빌라스 웨딩박람회",
-      "ad_info": "타임빌라스에서 열리는 수원 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 01일(토) ~ 08월 02일(일)",
-      "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1F LG베스트샵 특별행사장",
-      "start_date": "2026-08-01",
-      "end_date": "2026-08-02"
     },
     "weddingplus14": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3dPxRIifnAp8FfkbkMsRWmo4.jpg",
