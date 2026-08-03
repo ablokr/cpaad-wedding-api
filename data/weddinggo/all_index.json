@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 130,
+    "total_count": 135,
     "region_count": 16,
-    "district_count": 48,
-    "updated_at": "2026-08-03 16:02:41"
+    "district_count": 49,
+    "updated_at": "2026-08-03 19:01:56"
   },
   "items": [
     {
@@ -1575,6 +1575,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1545,
       "campaign_id": "wncowedding04",
       "gather_name": "원주 웨딩박람회",
       "display_date": "08월 15일(토) ~ 08월 16일(일)",
@@ -1583,7 +1584,8 @@
       "sigungu": "원주시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
-      "updated_at": "2026-08-03 13:05:30"
+      "updated_at": "2026-08-03 13:05:30",
+      "revenue": 30000
     },
     {
       "idx": 1212,
@@ -1601,15 +1603,15 @@
     {
       "idx": 1333,
       "campaign_id": "wwedding08",
-      "gather_name": "창원 웨딩박람회",
+      "gather_name": "창원 인터내셔널 웨딩박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
-      "venue": "전자랜드 파워센터 상남점",
+      "venue": "호텔인터내셔널 특별행사장",
       "sido": "경남",
       "sigungu": "창원시",
       "region_en": "gyeongnam",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wrmW5RE3gVbUjts3GF169V.jpg",
-      "updated_at": "2026-08-03 16:01:09",
-      "revenue": 30000
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_o24ojwfXKvjuE6vO9Ne3iqJ7duf.jpg",
+      "updated_at": "2026-08-03 19:00:18",
+      "revenue": 40000
     },
     {
       "idx": 1082,
@@ -1664,6 +1666,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1319,
       "campaign_id": "wwedding07",
       "gather_name": "창원 프리마베라 웨딩박람회",
       "display_date": "08월 08일(토) ~ 08월 09일(일) 08월 15일(토) ~ 08월 16일(일)",
@@ -1672,7 +1675,73 @@
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
-      "updated_at": "2026-08-03 16:02:41"
+      "updated_at": "2026-08-03 16:02:41",
+      "revenue": 40000
+    },
+    {
+      "idx": 1772,
+      "campaign_id": "planittour01",
+      "gather_name": "대전 플래닛투어 신혼여행박람회",
+      "display_date": "08월 08일(토) ~ 08월 09일(일)",
+      "venue": "플래닛투어 본사",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_SNxDTUUCnRgIGUwWEN6vSLsf4nfq.jpg",
+      "updated_at": "2026-08-03 19:00:46",
+      "revenue": 30000
+    },
+    {
+      "idx": 1186,
+      "campaign_id": "withyouwedding09",
+      "gather_name": "춘천 위드유 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 춘천퇴계점 특별행사장",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_CWSOZRi3hu8q.jpg",
+      "updated_at": "2026-08-03 19:01:09",
+      "revenue": 30000
+    },
+    {
+      "idx": 1520,
+      "campaign_id": "withyouwedding35",
+      "gather_name": "천안 아일랜드유웨딩홀 웨딩박람회",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "아일랜드유 Cafe&웨딩홀",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pBvWxZ1GuJtigXqkhKV6UsawMpMnPM.jpg",
+      "updated_at": "2026-08-03 19:01:25",
+      "revenue": 30000
+    },
+    {
+      "idx": 1236,
+      "campaign_id": "withyouwedding19",
+      "gather_name": "충주 위드유 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 충주본점",
+      "sido": "충북",
+      "sigungu": "충주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Cxy93iT4ufps7MPYrwCLaicUtGMh5H.jpg",
+      "updated_at": "2026-08-03 19:01:40",
+      "revenue": 30000
+    },
+    {
+      "idx": 1287,
+      "campaign_id": "withyouwedding21",
+      "gather_name": "평택 위드유 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 평택고덕",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_BOKIvXUJGBTgk9D5awGMrzRAFiZIbi.jpg",
+      "updated_at": "2026-08-03 19:01:56",
+      "revenue": 30000
     }
   ]
 }
