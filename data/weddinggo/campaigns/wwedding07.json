@@ -1,0 +1,209 @@
+{
+  "campaign_id": "wwedding07",
+  "gather_name": "창원 프리마베라 웨딩박람회",
+  "organizer_name": "더리본 주식회사",
+  "seo_metadata": {
+    "title": "창원 프리마베라 웨딩박람회 | 삼성스토어 특별 할인 및 최대 혜택",
+    "meta_description": "창원 프리마베라 웨딩박람회에서 스드메 패키지부터 혼수가전까지 최대 50% 할인 혜택을 만나보세요. 1:1 맞춤 상담과 박람회 한정 프로모션을 지금 바로 신청하고 결혼 준비를 완벽하게 시작하세요.",
+    "keywords": [
+      "창원웨딩박람회",
+      "창원결혼준비",
+      "경남웨딩박람회",
+      "삼성스토어창원점",
+      "창원스드메",
+      "창원웨딩홀",
+      "프리마베라웨딩",
+      "신혼부부혜택",
+      "웨딩패키지할인",
+      "혼수가전혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함은 프리마베라 웨딩박람회에서 해결하세요. 창원 최고의 웨딩 전문가들이 모여 예비부부님들의 소중한 순간을 위해 1:1 맞춤형 컨설팅을 제공합니다.",
+    "benefits_description": "현장 방문 시 제공되는 다양한 사은품부터 계약 고객 대상 삼성스토어 혼수가전 최대 50% 할인, 무상 AS 기간 연장(최대 3년) 혜택까지 모두 챙겨가세요. 예물, 예복, 한복, 허니문 등 결혼 준비에 필요한 모든 분야에서 박람회 한정 추가 할인과 계약 사은품을 아낌없이 지원하여 합리적인 비용으로 품격 있는 결혼식을 완성할 수 있도록 돕습니다.",
+    "summary_for_search": "창원 삼성스토어에서 열리는 프리마베라 웨딩박람회! 8월 일정을 확인하고 스드메부터 혼수, 예물까지 한자리에서 비교 상담받으며 파격적인 계약 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "창원 웨딩박람회, 삼성스토어 계약 시 혼수가전 최대 50% 할인!",
+    "secondary_headline": "결혼 준비의 모든 것, 20만 쌍이 선택한 프리마베라에서 합리적이고 품격 있게 준비하세요.",
+    "urgency_text": "8월 한정 개최, 선착순 방문객 혜택 조기 마감 가능",
+    "call_to_action_text": "무료 참가 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 웨딩 전문가 1:1 컨설팅 제공",
+      "웨딩 퍼스널 컬러 진단 이벤트"
+    ],
+    "contract_benefits": [
+      "삼성스토어 혼수가전 최대 50% 할인",
+      "가전 무상 AS 기간 최대 3년 보장",
+      "예물 계약 시 20% 할인 및 추가 증정",
+      "예복 계약 시 맞춤 셔츠 및 대여료 무료",
+      "한복 계약 시 20% 할인 및 혼주 메이크업 혜택"
+    ],
+    "special_events": [
+      "웨딩 드레스 특별전",
+      "웨딩 퍼스널 컬러 진단",
+      "인기 웨딩홀 초대전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09",
+      "display_date": "08월 08일(토) ~ 08월 09일(일) 08월 15일(토) ~ 08월 16일(일)",
+      "original_display_date": "08월 08일(토) ~ 08월 09일(일) 08월 15일(토) ~ 08월 16일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 용지로 112",
+      "venue": "삼성스토어 창원점",
+      "parking_info": "매장 내 주차 가능 (방문 전 확인 권장)",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 상담 및 계약 완료 시 혜택 제공",
+    "trust_indicators": [
+      "20만 쌍이 선택한 웨딩박람회",
+      "지역 내 최대 규모 입점 업체",
+      "1:1 맞춤 전문가 상담 지원",
+      "삼성스토어 공식 파트너십"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 프리마베라 웨딩박람회",
+      "startDate": "2025-08-08T11:00:00",
+      "endDate": "2025-08-16T19:00:00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 창원점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "창원시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더리본 주식회사",
+        "url": "https://ad.cpaad.co.kr/wwedding07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 입장료가 있나요?",
+        "answer": "아니요, 사전 신청을 하시면 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "삼성스토어 창원점 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "박람회에서 계약하면 혜택이 더 많나요?",
+        "answer": "네, 박람회 현장에서 계약 시 가전 할인, 추가 사은품, 예물/예복/한복 특별 할인 등 다양한 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 무엇을 상담받나요?",
+        "answer": "웨딩홀 섭외부터 스드메 패키지, 예물, 예복 등 결혼 준비 전반에 걸친 1:1 맞춤 상담이 가능합니다."
+      },
+      {
+        "question": "박람회 상담 시간은 얼마나 걸리나요?",
+        "answer": "보통 분야별로 상담 시간이 상이하며, 약 1~2시간 정도 여유 있게 방문하시는 것을 추천합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 어떻게 준비해야 할지 막막한 예비부부, 바쁜 직장 생활로 효율적인 결혼 준비가 필요한 커플을 대상으로 합니다. 특히 스드메 비용을 합리적으로 비교하고 싶거나, 삼성 가전 등 혼수를 한 번에 알뜰하게 구매하고자 하는 신혼부부에게 필수적인 행사입니다. 결혼식 6개월 전부터 1년 전까지의 시기에 박람회를 통해 맞춤형 정보를 얻고 예산을 최적화하려는 예비부부들을 위한 맞춤형 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "웨딩 드레스샵",
+      "메이크업 전문샵",
+      "혼수 가전(삼성스토어)",
+      "예물·예복 브랜드",
+      "웨딩홀 제휴처"
+    ],
+    "comparison_hooks": [
+      "단순 박람회가 아닌 삼성스토어와 연계된 강력한 가전 할인",
+      "창원 지역 내 검증된 웨딩홀 및 스드메 업체 대거 입점",
+      "퍼스널 컬러 진단 등 트렌디한 웨딩 체험 프로그램 운영"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "창원 웨딩박람회 일정",
+      "경남 결혼 준비 박람회",
+      "웨딩패키지 비용",
+      "창원 예식장 추천",
+      "신혼가전 삼성스토어 혜택",
+      "스드메 계약 시 주의사항",
+      "결혼 준비 순서 체크리스트",
+      "창원 예복 맞춤 후기",
+      "예물 시계 할인",
+      "웨딩박람회 방문 꿀팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩홀 정보 더보기",
+        "category": "wedding_hall_info"
+      },
+      {
+        "anchor": "스드메 패키지 상담하기",
+        "category": "studiomakeup_consulting"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩드레스",
+      "신혼여행",
+      "웨딩스튜디오",
+      "예물",
+      "맞춤예복",
+      "혼수가전",
+      "퍼스널컬러"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 프리마베라 웨딩박람회! 최대 50% 혜택",
+    "og_description": "창원 삼성스토어에서 열리는 웨딩박람회, 지금 신청하고 혼수가전 할인과 특별 사은품을 받아가세요!",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#창원결혼준비",
+      "#프리마베라웨딩",
+      "#경남웨딩",
+      "#창원스드메",
+      "#삼성스토어창원",
+      "#신혼부부혜택",
+      "#예비부부",
+      "#웨딩박람회일정",
+      "#결혼준비꿀팁"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wwedding07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_Zm7dbcetoB.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_rNdZ9QIZhz9MF7sJWbRodz5GpX4AHTDx.jpg"
+  },
+  "updated_at": "2026-08-03 16:02:41"
+}
