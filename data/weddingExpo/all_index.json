@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 135,
+    "total_count": 137,
     "region_count": 16,
     "district_count": 48,
-    "updated_at": "2026-08-04 13:32:38"
+    "updated_at": "2026-08-04 19:30:35"
   },
   "items": [
     {
@@ -1723,6 +1723,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1694,
       "campaign_id": "wedingcrowd97",
       "gather_name": "춘천 웨딩크라우드 웨딩박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
@@ -1731,9 +1732,11 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3gsvGqmrg35.jpg",
-      "updated_at": "2026-08-04 13:31:53"
+      "updated_at": "2026-08-04 13:31:53",
+      "revenue": 30000
     },
     {
+      "idx": 1860,
       "campaign_id": "reveweddingH29",
       "gather_name": "춘천 베어스호텔 웨딩박람회",
       "display_date": "08월 29일(토) ~ 08월 30일(일)",
@@ -1742,7 +1745,8 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_GvJuvCSPAMP4NpRrKQM9bc.jpg",
-      "updated_at": "2026-08-04 13:32:08"
+      "updated_at": "2026-08-04 13:32:08",
+      "revenue": 50000
     },
     {
       "idx": 1414,
@@ -1756,6 +1760,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_o12JdpsCgVtge3EUbhvGdlzKAux.jpg",
       "updated_at": "2026-08-04 13:32:38",
       "revenue": 50000
+    },
+    {
+      "campaign_id": "wedingcrowd117",
+      "gather_name": "부천 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 중동본점",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_gG7XJYO9Gz7DIMjTOPJNQQeKRcF5E.jpg",
+      "updated_at": "2026-08-04 19:30:18"
+    },
+    {
+      "idx": 946,
+      "campaign_id": "theBW01",
+      "gather_name": "광주 웨딩 페스타",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "sido": "광주",
+      "sigungu": "동구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4GL9ceMlJAhuyVek.jpg",
+      "updated_at": "2026-08-04 19:30:35",
+      "revenue": 30000
     }
   ]
 }
