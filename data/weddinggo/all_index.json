@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 135,
+    "total_count": 142,
     "region_count": 16,
-    "district_count": 49,
-    "updated_at": "2026-08-03 19:01:56"
+    "district_count": 50,
+    "updated_at": "2026-08-04 13:09:18"
   },
   "items": [
     {
@@ -209,6 +209,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1414,
       "campaign_id": "revewedding05",
       "gather_name": "청주 OSCO 웨딩박람회",
       "display_date": "06월 20일(토) ~ 06월 21일(일)",
@@ -217,7 +218,8 @@
       "sigungu": "청주시",
       "region_en": "chungbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_sxC6VZ91UFkfbC.jpg",
-      "updated_at": "2026-06-27 21:05:56"
+      "updated_at": "2026-06-27 21:05:56",
+      "revenue": 50000
     },
     {
       "idx": 654,
@@ -1356,6 +1358,7 @@
       "revenue": 40000
     },
     {
+      "idx": 1859,
       "campaign_id": "weddingplus18",
       "gather_name": "웨딩더하기 수원 웨딩박람회",
       "display_date": "08월 15일(토) ~ 08월 16일(일)",
@@ -1364,7 +1367,8 @@
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_jmkbCEmzrzJLKZlRrQ5Sdk.jpg",
-      "updated_at": "2026-07-31 16:00:48"
+      "updated_at": "2026-07-31 16:00:48",
+      "revenue": 40000
     },
     {
       "idx": 721,
@@ -1727,7 +1731,7 @@
       "sigungu": "충주시",
       "region_en": "chungbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Cxy93iT4ufps7MPYrwCLaicUtGMh5H.jpg",
-      "updated_at": "2026-08-03 19:01:40",
+      "updated_at": "2026-08-04 13:00:24",
       "revenue": 30000
     },
     {
@@ -1742,6 +1746,93 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_BOKIvXUJGBTgk9D5awGMrzRAFiZIbi.jpg",
       "updated_at": "2026-08-03 19:01:56",
       "revenue": 30000
+    },
+    {
+      "idx": 1375,
+      "campaign_id": "revewedding01",
+      "gather_name": "강릉 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "세인트존스호텔 특별행사장",
+      "sido": "강원",
+      "sigungu": "강릉시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_mK9aazQ4VXmbctUX4QOrt.jpg",
+      "updated_at": "2026-08-04 13:01:01",
+      "revenue": 50000
+    },
+    {
+      "idx": 1755,
+      "campaign_id": "wedingcrowd103",
+      "gather_name": "서울 영등포 대형 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "삼성스토어 신세계타임스퀘어",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ePnt1SbWi.jpg",
+      "updated_at": "2026-08-04 13:01:22",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd97",
+      "gather_name": "춘천 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "삼성스토어 춘천점 특별행사장",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3gsvGqmrg35.jpg",
+      "updated_at": "2026-08-04 13:01:46"
+    },
+    {
+      "idx": 1095,
+      "campaign_id": "wedingcrowd11",
+      "gather_name": "안산 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "호텔스퀘어 안산 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Md3KIjxuKs61TtZQoVhfweLwP6P1iC.jpg",
+      "updated_at": "2026-08-04 13:02:03",
+      "revenue": 30000
+    },
+    {
+      "idx": 1697,
+      "campaign_id": "wedingcrowd98",
+      "gather_name": "인천 롯데백화점 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "롯데백화점 인천점 삼성스토어",
+      "sido": "인천",
+      "sigungu": "미추홀구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_XMSOLA6O1iAMYVDAF6P.jpg",
+      "updated_at": "2026-08-04 13:08:35",
+      "revenue": 30000
+    },
+    {
+      "idx": 1074,
+      "campaign_id": "wedingcrowd05",
+      "gather_name": "청주 웨딩크라우드 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "삼성스토어 청주점",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RnN5Mq8xYMHFDn1DNw6eZAoJcnmyr.jpg",
+      "updated_at": "2026-08-04 13:08:50",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "reveweddingH29",
+      "gather_name": "춘천 베어스호텔 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "춘천 베어스호텔",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_GvJuvCSPAMP4NpRrKQM9bc.jpg",
+      "updated_at": "2026-08-04 13:09:18"
     }
   ]
 }
