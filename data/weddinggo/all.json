@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 144,
+    "total_count": 145,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-08-04 16:01:16"
+    "updated_at": "2026-08-05 10:00:34"
   },
   "items": [
     {
@@ -30109,6 +30109,216 @@
       },
       "updated_at": "2026-08-04 16:01:16",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "labelleellin01",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "organizer_name": "파리스 라벨르엘린",
+      "seo_metadata": {
+        "title": "수원 웨딩박람회 | LG베스트샵 특별 혜택 및 스드메 최저가 공개",
+        "meta_description": "수원 웨딩박람회에서 준비한 특별 혜택! 스드메 패키지 할인부터 가전 구매 최대 75만원 상품권 증정까지. 8월 수원 타임빌라스에서 합리적인 결혼 준비를 지금 바로 시작하세요.",
+        "keywords": [
+          "수원 웨딩박람회",
+          "수원 결혼준비",
+          "수원 스드메",
+          "타임빌라스 웨딩",
+          "수원 예식장 할인",
+          "신혼부부 가전 혜택",
+          "수원 혼수 준비",
+          "LG베스트샵 웨딩",
+          "결혼박람회 일정",
+          "웨딩패키지 특가"
+        ]
+      },
+      "detailed_content": {
+        "intro_text": "결혼 준비의 시작, 막막하신가요? 수원 타임빌라스에서 열리는 이번 웨딩박람회는 예비부부의 고민을 한 번에 해결해 드립니다. 30개 이상의 웨딩 스튜디오와 드레스샵, 검증된 혼수 업체가 한자리에 모여 여러분의 완벽한 예식을 지원합니다.",
+        "benefits_description": "이번 박람회에서는 계약 시 혼주 한복 및 메이크업 할인, 웨딩액자 업그레이드 등 풍성한 혜택을 제공합니다. 특히 LG베스트샵과 연계하여 가전 구매 시 최대 75만원 상품권 증정 및 파격적인 할인을 통해 신혼집 꾸미기 비용 부담을 획기적으로 낮췄습니다. 상담만 받아도 제공되는 특별한 기프트와 함께 스마트한 결혼 준비를 완성하세요.",
+        "summary_for_search": "8월 수원 타임빌라스 웨딩박람회 개최. 스드메 패키지 상담부터 가전 구매 최대 75만원 상품권 혜택까지, 결혼 준비의 모든 것을 한자리에서 비교하고 합리적인 가격에 만나보세요."
+      },
+      "marketing_hooks": {
+        "primary_headline": "지금 신청하면 최대 75만원 상품권 증정! 수원 타임빌라스 웨딩박람회",
+        "secondary_headline": "스드메 패키지부터 혼수 가전까지, 수원 예비부부를 위한 가장 완벽한 결혼 준비 솔루션",
+        "urgency_text": "선착순 방문객 대상 특별 사은품 증정 및 상담 예약 조기 마감 예정",
+        "call_to_action_text": "무료 참가 신청하고 혜택받기"
+      },
+      "benefits": {
+        "visit_gifts": [
+          "방문객 대상 특별 사은품 증정 (현장 상담 시)"
+        ],
+        "contract_benefits": [
+          "혼주 한복 대여 할인",
+          "혼주 메이크업 할인",
+          "웨딩액자 업그레이드 및 1점 추가 증정",
+          "웨딩홀 대관료 할인 및 식대 할인 혜택",
+          "LG가전 구매 시 최대 75만원 상품권 증정 및 추가 할인"
+        ],
+        "special_events": [
+          "라벨엘린 2026 신상 드레스 전시",
+          "웨딩 스튜디오 30개 업체 비교 체험",
+          "혼수/예물/허니문 원스톱 상담"
+        ]
+      },
+      "event_details": {
+        "event": {
+          "start_date": "2026-08-15",
+          "end_date": "2026-08-16",
+          "display_date": "08월 15일(토) ~ 08월 16일(일)",
+          "original_display_date": "08월 15일(토) ~ 08월 16일(일)"
+        },
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "수원시",
+          "sigungu_en": "suwon",
+          "address": "경기 수원시 권선구 세화로 134",
+          "venue": "LG베스트샵 특별행사장",
+          "parking_info": "타임빌라스 수원점 주차장 이용 가능",
+          "region_code": "gyeonggi"
+        }
+      },
+      "conversion_and_trust": {
+        "required_form_fields": [
+          "이름",
+          "연락처",
+          "신부 이름",
+          "결혼 예정일"
+        ],
+        "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 시 증정",
+        "trust_indicators": [
+          "30개 이상 유명 웨딩 스튜디오 제휴",
+          "LG베스트샵 본사 직영 연계 혜택",
+          "보험 가입된 안전한 허니문 여행사 제휴",
+          "1:1 맞춤형 전문 웨딩 플래닝 제공"
+        ]
+      },
+      "structured_data": {
+        "event_schema": {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": "수원 타임빌라스 웨딩박람회",
+          "startDate": "2025-08-15",
+          "endDate": "2025-08-16",
+          "eventStatus": "https://schema.org/EventScheduled",
+          "location": {
+            "@type": "Place",
+            "name": "LG베스트샵 타임빌라스 수원점",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "권선구 세화로 134",
+              "addressLocality": "수원시",
+              "addressRegion": "경기",
+              "addressCountry": "KR"
+            }
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "KRW",
+            "availability": "https://schema.org/InStock"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "파리스 라벨르엘린",
+            "url": "https://ad.cpaad.co.kr/labelleellin01/"
+          }
+        },
+        "faq_schema": [
+          {
+            "question": "박람회 참가 비용은 얼마인가요?",
+            "answer": "수원 타임빌라스 웨딩박람회는 사전 신청 시 무료로 참가하실 수 있습니다."
+          },
+          {
+            "question": "주차는 가능한가요?",
+            "answer": "네, 타임빌라스 수원점 주차장을 편리하게 이용하실 수 있습니다."
+          },
+          {
+            "question": "어떤 업체들이 참여하나요?",
+            "answer": "스튜디오 30곳, 드레스샵, 메이크업, 혼수 가전, 예물, 예복, 허니문 등 결혼 준비 전 카테고리의 우수 업체가 참여합니다."
+          },
+          {
+            "question": "혼수 가전 혜택은 무엇인가요?",
+            "answer": "LG베스트샵과 연계하여 가전 구매 시 최대 75만원 상품권 증정 및 추가 할인 혜택을 제공합니다."
+          },
+          {
+            "question": "박람회 예약은 어떻게 하나요?",
+            "answer": "공식 페이지의 신청 폼에 이름, 연락처, 결혼 예정일을 입력하여 신청하시면 상담 안내를 받으실 수 있습니다."
+          }
+        ]
+      },
+      "content_depth": {
+        "target_audience_description": "결혼을 앞둔 예비부부, 효율적이고 합리적인 결혼 준비를 원하는 6개월~1년 이내 예식 예정자, 개별 발품 팔기 힘든 바쁜 직장인 커플을 위한 행사입니다. 스드메 패키지 가격 비교부터 혼수 가전 예산 절감, 웨딩홀 섭외까지 원스톱으로 해결하고 싶은 분들에게 최적화되어 있습니다. 결혼 준비가 막막한 입문자부터 실속을 중시하는 알뜰 예비부부까지 모두 환영합니다.",
+        "exhibitor_highlights": [
+          "스튜디오 30개 업체",
+          "웨딩 드레스샵",
+          "혼수 가전(LG베스트샵)",
+          "예물/예복 브랜드",
+          "허니문 전문 여행사"
+        ],
+        "comparison_hooks": [
+          "LG베스트샵과 단독 연계된 압도적인 가전 할인 혜택",
+          "수원 최대 규모의 웨딩 스튜디오 라인업 직접 비교",
+          "박람회 계약 시 현장 축하 혜택 및 추가 서비스 보장"
+        ]
+      },
+      "search_cluster": {
+        "related_queries": [
+          "웨딩박람회 준비물",
+          "결혼 준비 순서",
+          "수원 웨딩홀 추천",
+          "스드메 패키지 가격",
+          "신혼가전 할인 팁",
+          "웨딩박람회 방문 혜택",
+          "결혼 예산 세우기",
+          "수원 예물샵 추천",
+          "허니문 여행지 비교",
+          "박람회 상담 예약 방법"
+        ],
+        "internal_link_anchors": [
+          {
+            "anchor": "수원 웨딩홀 정보 더보기",
+            "category": "wedding_hall"
+          },
+          {
+            "anchor": "스드메 패키지 가격 비교",
+            "category": "sdm_package"
+          }
+        ],
+        "semantic_keywords": [
+          "스드메",
+          "혼수",
+          "예식장",
+          "웨딩홀",
+          "가전",
+          "예물",
+          "예복",
+          "신혼여행",
+          "플래너",
+          "웨딩드레스"
+        ]
+      },
+      "social_meta": {
+        "og_title": "수원 타임빌라스 웨딩박람회 무료 참가 신청",
+        "og_description": "최대 75만원 상품권 혜택! 수원 예비부부 필수 코스, 8월 웨딩박람회 사전 신청하고 혜택받으세요.",
+        "hashtags": [
+          "#수원웨딩박람회",
+          "#결혼준비",
+          "#수원결혼",
+          "#예비부부",
+          "#스드메",
+          "#수원웨딩홀",
+          "#혼수가전",
+          "#웨딩박람회혜택",
+          "#타임빌라스수원",
+          "#결혼준비시작"
+        ]
+      },
+      "campaign_assets": {
+        "target_url": "https://ad.cpaad.co.kr/labelleellin01/",
+        "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_O3uYZxCA3hvFxSs3Y5eaPqBz512is.jpg",
+        "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YmmNGeaQqD6mZiIXjGktCvdkM4ffFEfw.jpg",
+        "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4KTX6PESpVR6QKKAx7Ggoks6YnwwSk.jpg"
+      },
+      "updated_at": "2026-08-05 10:00:34"
     }
   ]
 }
