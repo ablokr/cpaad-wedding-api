@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-05T19:30:03Z",
+  "last_updated": "2026-08-06T13:30:02Z",
   "total_ad_count": 138,
   "advertisements": {
     "iniwedding05": {
@@ -760,20 +760,6 @@
       "start_date": "2026-08-29",
       "end_date": "2026-08-30"
     },
-    "wedingcrowd10": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_NksM8RDiy7F.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mXHBkqAz5bmZ6FR71Z4OFn.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_aMaZAbZu7txiWwQc.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd10/",
-      "region": "incheon",
-      "gather_name": "인천 웨딩크라우드 웨딩박람회",
-      "ad_info": "인천 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 08일(토) ~ 08월 09일(일)",
-      "ad_location": "인천 연수구 센트럴로 123||(송도동 6-1)||송도컨벤시아 특별행사장",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-09"
-    },
     "wedingcrowd98": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_TWGCjKdnEs4ImsKmYss.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_XMSOLA6O1iAMYVDAF6P.jpg",
@@ -787,6 +773,20 @@
       "ad_location": "인천 미추홀구 연남로 35||(관교동 15)||롯데백화점 인천점 삼성스토어",
       "start_date": "2026-08-22",
       "end_date": "2026-08-23"
+    },
+    "wedingcrowd10": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_NksM8RDiy7F.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mXHBkqAz5bmZ6FR71Z4OFn.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_aMaZAbZu7txiWwQc.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd10/",
+      "region": "incheon",
+      "gather_name": "인천 웨딩크라우드 웨딩박람회",
+      "ad_info": "인천 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 08일(토) ~ 08월 09일(일)",
+      "ad_location": "인천 연수구 센트럴로 123||(송도동 6-1)||송도컨벤시아 특별행사장",
+      "start_date": "2026-08-08",
+      "end_date": "2026-08-09"
     },
     "higherweddingplan01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_wITRF7dobo7aFRrXf4rd.jpg",
