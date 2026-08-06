@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 138,
+    "total_count": 139,
     "region_count": 16,
     "district_count": 48,
-    "updated_at": "2026-08-05 13:30:19"
+    "updated_at": "2026-08-06 19:30:37"
   },
   "items": [
     {
@@ -499,19 +499,6 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_wpk6r5w1YC.jpg",
       "updated_at": "2026-08-03 13:33:39",
       "revenue": 40000
-    },
-    {
-      "idx": 1234,
-      "campaign_id": "wedingcrowd14",
-      "gather_name": "에스가든 청주 대형 웨딩박람회",
-      "display_date": "08월 15일(토) ~ 08월 16일(일)",
-      "venue": "에스가든웨딩홀 청주점 특별전시장",
-      "sido": "충북",
-      "sigungu": "청주시",
-      "region_en": "chungbuk",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202606/568762912459e51e2cbac9155f241418_TJxS2KqPd5xZ8yzG8PathyXsaZP8c.jpg",
-      "updated_at": "2026-07-08 19:30:19",
-      "revenue": 30000
     },
     {
       "idx": 1335,
@@ -1786,6 +1773,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1097,
       "campaign_id": "labelleellin01",
       "gather_name": "수원 타임빌라스 웨딩박람회",
       "display_date": "08월 15일(토) ~ 08월 16일(일)",
@@ -1794,7 +1782,32 @@
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YmmNGeaQqD6mZiIXjGktCvdkM4ffFEfw.jpg",
-      "updated_at": "2026-08-05 13:30:19"
+      "updated_at": "2026-08-05 13:30:19",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "reveweddingH05",
+      "gather_name": "청주 OSCO 허니문박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "청주오스코 특별전시장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_cn3m1Hazom.jpg",
+      "updated_at": "2026-08-06 19:30:20"
+    },
+    {
+      "idx": 1210,
+      "campaign_id": "wwedding04",
+      "gather_name": "부산 신세계백화점 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "신세계백화점 센텀시티점 9층 문화홀",
+      "sido": "부산",
+      "sigungu": "해운대구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_qb97DRqAZcbVscD4a4LwLSa.jpg",
+      "updated_at": "2026-08-06 19:30:37",
+      "revenue": 30000
     }
   ]
 }

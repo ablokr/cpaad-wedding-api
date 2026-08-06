@@ -2046,5 +2046,217 @@
     },
     "updated_at": "2026-08-03 19:30:49",
     "revenue": 30000
+  },
+  {
+    "idx": 1210,
+    "campaign_id": "wwedding04",
+    "gather_name": "부산 신세계백화점 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "부산 신세계백화점 웨딩박람회 | 스드메 혜택 및 혼수 할인 정보",
+      "meta_description": "부산 해운대 신세계백화점 센텀시티점 웨딩박람회 정보. 스드메 계약 혜택부터 예물, 혼수 가전 할인까지 결혼 준비의 모든 것을 한곳에서 확인하세요.",
+      "keywords": [
+        "부산웨딩박람회",
+        "신세계백화점웨딩박람회",
+        "부산결혼준비",
+        "부산스드메",
+        "해운대웨딩박람회",
+        "결혼준비체크리스트",
+        "부산예식장",
+        "부산혼수",
+        "웨딩박람회사은품",
+        "부산예물"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부님들, 복잡한 결혼 준비를 어디서부터 시작해야 할지 고민이신가요? 이번 부산 신세계백화점 웨딩박람회에서는 부산 지역의 인기 웨딩 업체들을 한자리에서 만나보고, 실질적인 계약 혜택까지 챙기실 수 있습니다.",
+      "benefits_description": "이번 박람회는 방문만으로도 드리는 선물부터 계약 시 제공되는 파격적인 할인 혜택이 준비되어 있습니다. 1:1 맞춤 웨딩 컨설팅은 물론, 웨딩홀별 단독 프로모션, 스드메 패키지 특가, 그리고 예물·혼수 가전 구매 시 제공되는 추가 할인과 사은품까지 풍성합니다. 특히 백화점 제휴 브랜드 이용 시 추가 5% 할인 혜택도 놓치지 마세요.",
+      "summary_for_search": "부산 신세계백화점 센텀시티점에서 열리는 이번 웨딩박람회는 스드메부터 혼수, 예물까지 부산 인기 웨딩 브랜드가 총출동합니다. 상담 및 계약 혜택을 확인하고 지금 사전등록하여 성공적인 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "부산 신세계 웨딩박람회, 지금 사전등록 시 최대 혜택 증정",
+      "secondary_headline": "부산·경남 인기 웨딩홀부터 스드메까지, 전문가 1:1 맞춤 상담으로 완벽한 결혼을 완성하세요.",
+      "urgency_text": "이번 주말, 한정된 시간 동안만 진행되는 특별 프로모션!",
+      "call_to_action_text": "무료 상담 및 혜택 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "웨딩다이어리 100% 증정",
+        "상담 시 제공되는 다양한 사은품"
+      ],
+      "contract_benefits": [
+        "계약 시 사은품 증정",
+        "혼수별 할인 쿠폰",
+        "스드메 혼수 단독 특가",
+        "백화점 제휴 브랜드 추가 5% 할인"
+      ],
+      "special_events": [
+        "1:1 맞춤 웨딩플래닝 서비스",
+        "웨딩홀별 단독 프로모션",
+        "예물 브랜드 할인 및 경품 증정",
+        "허니문 여행사 단독 패키지 혜택"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "display_date": "08월 22일(토) ~ 08월 23일(일)",
+        "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+      },
+      "location": {
+        "sido": "부산",
+        "sido_en": "busan",
+        "sigungu": "해운대구",
+        "sigungu_en": "haeundae",
+        "address": "부산 해운대구 센텀남대로 35",
+        "venue": "신세계백화점 센텀시티점 9층 문화홀",
+        "parking_info": "백화점 주차장 이용 가능",
+        "region_code": "busan"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 증정 (사전등록 필수)",
+      "trust_indicators": [
+        "부산·경남 지역 인기 업체 총출동",
+        "신세계백화점 공동 기획",
+        "1:1 전문가 맞춤 상담 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부산 신세계백화점 웨딩박람회",
+        "startDate": "2025-08-22T11:00",
+        "endDate": "2025-08-23T19:00",
+        "location": {
+          "@type": "Place",
+          "name": "신세계백화점 센텀시티점 9층 문화홀",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "부산광역시 해운대구 센텀남대로 35",
+            "addressLocality": "부산",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding04/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전등록은 꼭 해야 하나요?",
+          "answer": "사전등록을 하시면 무료입장이 가능하며, 방문 시 증정되는 웨딩다이어리 등 다양한 혜택을 우선적으로 챙기실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "신세계백화점 센텀시티점 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "부산·경남 지역의 인기 웨딩홀, 스드메 업체, 예물, 혼수 가전 브랜드 등 결혼 준비에 필요한 전 카테고리 업체가 참가합니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "계약 시 사은품 증정, 혼수 할인 쿠폰, 스드메 단독 특가 및 백화점 제휴 할인 등 박람회장에서만 제공되는 특별한 혜택들이 준비되어 있습니다."
+        },
+        {
+          "question": "박람회 상담 시간은 어떻게 되나요?",
+          "answer": "행사 기간 중 오전 11시부터 오후 7시까지 운영되며, 예약된 시간에 맞추어 전문가와 1:1 상담을 진행하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메와 웨딩홀 등 핵심 준비 항목을 한 번에 비교하고 합리적인 가격에 계약하고 싶은 신혼부부를 위한 행사입니다. 결혼 준비 6개월 이내의 커플이라면 더욱 추천하며, 전문가의 1:1 상담을 통해 나만의 웨딩 콘셉트를 설정하고 불필요한 비용을 줄이는 실질적인 가이드를 얻으실 수 있습니다.",
+      "exhibitor_highlights": [
+        "웨딩홀(W시티컨벤션 등)",
+        "스튜디오",
+        "드레스샵",
+        "예물 브랜드",
+        "맞춤 정장",
+        "혼수 가전(하이마트 등)",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "백화점 제휴를 통한 추가 5% 할인 혜택 제공",
+        "부산·경남 최다 인기 업체 입점 및 실시간 비교",
+        "현장 계약 시에만 제공되는 단독 사은품 및 추가 프로모션"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 순서",
+        "스드메 패키지 가격",
+        "웨딩홀 투어 팁",
+        "부산 예물 브랜드 추천",
+        "신혼여행 예약 시기",
+        "웨딩박람회 무료입장 방법",
+        "결혼 예산 세우기",
+        "웨딩 드레스 투어",
+        "부산 맞춤 정장 가격"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부산 웨딩홀 전체 리스트",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "스드메 비용 비교하기",
+          "category": "sdeume"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "부케",
+        "예물",
+        "예복",
+        "신혼여행",
+        "예식장",
+        "웨딩컨설팅",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부산 신세계 웨딩박람회: 결혼 준비 핵심 혜택 모음",
+      "og_description": "지금 사전등록하면 스드메, 웨딩홀, 혼수까지 한 번에 해결! 방문 상담만 해도 사은품 100% 증정.",
+      "hashtags": [
+        "#부산웨딩박람회",
+        "#신세계웨딩박람회",
+        "#부산결혼준비",
+        "#부산스드메",
+        "#해운대웨딩",
+        "#결혼준비시작",
+        "#예비부부",
+        "#부산웨딩홀",
+        "#부산예물",
+        "#웨딩박람회혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding04/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_hxXOVYaNHozpf.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_qb97DRqAZcbVscD4a4LwLSa.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_4IKtcol6FBPVItrj3SsC7s.jpg"
+    },
+    "updated_at": "2026-08-06 19:30:37",
+    "revenue": 30000
   }
 ]
