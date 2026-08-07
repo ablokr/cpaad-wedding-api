@@ -3963,5 +3963,841 @@
     },
     "updated_at": "2026-08-04 13:30:19",
     "revenue": 30000
+  },
+  {
+    "idx": 1392,
+    "campaign_id": "planon43",
+    "gather_name": "서울 웨딩드레스 페어",
+    "organizer_name": "주식회사 플랜온웨딩",
+    "seo_metadata": {
+      "title": "서울 웨딩드레스 페어 | 강남 섬유센터 당일 최대 혜택",
+      "meta_description": "8월 29일 섬유센터에서 열리는 서울 웨딩드레스 페어! 드레스·예복 무료 피팅, 스드메 상담부터 혼수 가전 혜택까지 한자리에서 확인하세요. 선착순 사전등록 시 다양한 사은품과 현장 경품 응모 기회를 드립니다. 지금 바로 신청하세요.",
+      "keywords": [
+        "서울 웨딩박람회",
+        "강남 웨딩페어",
+        "스드메 패키지",
+        "웨딩드레스 피팅",
+        "결혼 준비 체크리스트",
+        "웨딩홀 추천",
+        "신혼가전 혜택",
+        "웨딩 박람회 일정",
+        "예복 피팅",
+        "스드메 비용"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부라면 놓칠 수 없는 특별한 기회, 이번 '서울 웨딩드레스 페어'가 오는 8월 29일 강남 섬유센터에서 단 하루간 개최됩니다. 국내외 유명 브랜드의 드레스와 신랑 예복을 직접 무료로 피팅해볼 수 있으며, 복잡한 결혼 준비 과정을 한 번에 해결할 수 있는 최적의 장소입니다.",
+      "benefits_description": "이번 박람회는 예비부부의 예산과 취향을 고려한 다채로운 혜택으로 구성되어 있습니다. 현장에서 드레스와 예복 무료 피팅 체험은 물론, 퍼스널 컬러 컨설팅 및 포토부스 이벤트까지 즐길 수 있습니다. 또한 혼수 계약 시 최대 50% 할인, 예물 구성 증정, 신혼여행 상담 등 실질적인 혜택을 제공하며, 삼성스토어와 연계한 가전 구매 포인트 및 사은품 혜택까지 준비되어 있습니다. 사전등록을 통해 현장에서 상담을 진행하시면 더욱 다양한 추가 혜택을 받아보실 수 있습니다.",
+      "summary_for_search": "서울 웨딩드레스 페어, 8월 29일 강남 섬유센터 개최. 드레스·예복 무료 피팅부터 스드메 및 혼수 가전 상담까지! 예비부부를 위한 당일 한정 특별 혜택과 경품 응모 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "8월 29일, 서울 웨딩드레스 페어 단 하루 한정!",
+      "secondary_headline": "드레스·예복 무료 피팅부터 혼수 가전 최대 혜택까지, 결혼 준비의 모든 것을 한곳에서 확인하세요.",
+      "urgency_text": "단, 하루! 선착순 한정 초청장 발급 중",
+      "call_to_action_text": "지금 무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 포토부스 무료 체험",
+        "퍼스널 컬러 컨설팅 무료 체험"
+      ],
+      "contract_benefits": [
+        "혼수 계약 시 최대 50% 할인",
+        "예복 원단 20~45% 할인",
+        "삼성스토어 구매 시 최대 80만 포인트",
+        "예물 3부 다이아몬드 및 패세트 증정"
+      ],
+      "special_events": [
+        "웨딩드레스 무료 피팅 체험",
+        "신랑 예복 무료 피팅 체험",
+        "럭키드로우 경품 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "display_date": "08월 29일(토) 단, 하루!",
+        "original_display_date": "08월 29일(토) 단, 하루!"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "강남구",
+        "sigungu_en": "gangnam",
+        "address": "서울 강남구 테헤란로 518",
+        "venue": "섬유센터 2층",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일",
+        "방문 예정일자"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 고객 대상 제공",
+      "trust_indicators": [
+        "국내외 최다 웨딩 브랜드 참여",
+        "삼성스토어 제휴 신뢰도 보장",
+        "1:1 맞춤형 웨딩 플래닝 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "서울 웨딩드레스 페어",
+        "startDate": "2025-08-29",
+        "endDate": "2025-08-29",
+        "location": {
+          "@type": "Place",
+          "name": "섬유센터",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "테헤란로 518",
+            "addressLocality": "강남구",
+            "addressRegion": "서울",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "주식회사 플랜온웨딩",
+          "url": "https://ad.cpaad.co.kr/planon43/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 사전에 무료 초대장을 신청하시면 비용 없이 입장 가능합니다."
+        },
+        {
+          "question": "드레스 피팅은 누구나 가능한가요?",
+          "answer": "박람회 현장에서 상담을 신청하신 예비신부님들에 한해 운영되며, 당일 현장 상황에 따라 선착순으로 진행됩니다."
+        },
+        {
+          "question": "혼수 상담은 어떻게 진행되나요?",
+          "answer": "박람회 현장 내 가전 및 가구 업체 부스에서 1:1 전문 상담을 통해 견적을 받아보실 수 있습니다."
+        },
+        {
+          "question": "삼성스토어 제휴 혜택은 무엇인가요?",
+          "answer": "삼성스토어 연계 계약 시 포인트 적립, 추가 사은품 증정, 무상 A/S 기간 연장 등의 혜택을 받을 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "박람회 장소인 섬유센터 내 주차가 가능하며, 구체적인 주차 비용 등은 현장 안내를 확인하시기 바랍니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 막 시작한 예비부부부터, 스드메 패키지 업체를 비교 중인 신혼부부까지 모두 환영합니다. 특히 드레스 디자인을 직접 보고 피팅해보고 싶은 분, 가전 및 가구 등 혼수 비용을 절감하고자 하는 분들에게 실질적인 정보와 견적 비교 기회를 제공합니다. 막막한 결혼 준비 순서와 예산 계획을 1:1 맞춤형 플래닝을 통해 명쾌하게 해결하고 싶은 모든 분들이 방문 대상입니다.",
+      "exhibitor_highlights": [
+        "스튜디오 60개 브랜드",
+        "드레스샵 80개 브랜드",
+        "헤어&메이크업 15개 브랜드",
+        "삼성스토어(가전)",
+        "예물·한복·허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "국내 최다 드레스 브랜드 즉석 무료 피팅 제공",
+        "현장 계약 시 가전 포인트 및 파격적인 할인율 적용",
+        "삼성스토어와의 공식 제휴를 통한 신뢰성 있는 혼수 패키지 구성"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "스드메 비용 평균",
+        "서울 웨딩홀 추천",
+        "결혼 준비 체크리스트",
+        "신혼가전 구매 혜택",
+        "드레스 투어 팁",
+        "웨딩박람회 상담 사기 주의",
+        "예복 맞춤 가격",
+        "퍼스널 컬러 웨딩",
+        "스드메 패키지 견적"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 지역 웨딩박람회 일정",
+          "category": "웨딩박람회 정보"
+        },
+        {
+          "anchor": "스드메 패키지 구성 확인",
+          "category": "스드메 가이드"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "웨딩드레스",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "다이아몬드",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "8/29 서울 웨딩드레스 페어 단 하루!",
+      "og_description": "드레스 피팅부터 혼수 가전 혜택까지! 지금 사전신청하고 결혼 준비 끝내세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#서울웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#웨딩드레스",
+        "#신혼부부",
+        "#예신",
+        "#혼수준비",
+        "#웨딩피팅",
+        "#강남웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planon43/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_FXaQY9XIsiuG7.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_Kg5WKWd1C74IejCzfEZboECu4U7.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_DsWJo2Oyh5a6wDt.jpg"
+    },
+    "updated_at": "2026-08-07 19:30:21",
+    "revenue": 30000
+  },
+  {
+    "idx": 1443,
+    "campaign_id": "planon45",
+    "gather_name": "서울 웨딩홀 박람회",
+    "organizer_name": "주식회사 플랜온웨딩",
+    "seo_metadata": {
+      "title": "서울 웨딩홀 박람회 | 강남 섬유센터 당일 계약 혜택 및 혼수 할인",
+      "meta_description": "8월 29일 섬유센터에서 열리는 서울 웨딩홀 박람회! 웨딩홀 무료 시식, 계약 축하금, 혼수 및 예복 최대 할인 혜택을 지금 사전등록으로 확인하세요.",
+      "keywords": [
+        "서울 웨딩박람회",
+        "강남 웨딩박람회",
+        "웨딩홀 추천",
+        "결혼 준비 박람회",
+        "스드메 패키지",
+        "혼수 가전 할인",
+        "웨딩 박람회 일정",
+        "섬유센터 웨딩",
+        "웨딩홀 시식",
+        "결혼 준비 비용"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 어디서부터 준비해야 할지 고민이 많은 예비부부를 위해 서울 웨딩홀 박람회가 개최됩니다. 오는 8월 29일, 강남 섬유센터에서 단 하루 동안 진행되는 이번 행사는 웨딩홀 섭외부터 혼수까지 결혼 준비의 모든 것을 한곳에서 해결할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회는 현장 계약 고객을 위해 파격적인 혜택을 준비했습니다. 웨딩홀 무료 시식 기회는 물론, 계약 시 즉시 적용되는 할인 혜택과 다채로운 추가 이벤트가 마련되어 있습니다. 혼수 가전부터 예물, 예복까지 분야별 전문 업체가 참가해 예비부부의 예산에 맞춘 최적의 솔루션을 제공하며, 상담 및 계약 시 증정되는 다양한 사은품과 캐시백 혜택도 놓치지 마세요.",
+      "summary_for_search": "8월 29일 강남 섬유센터에서 개최되는 서울 웨딩홀 박람회 정보를 확인하세요. 웨딩홀 무료 시식, 계약 할인, 혼수 및 신혼여행 특전까지 알뜰한 결혼 준비를 위한 최적의 혜택을 제공합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "8월 29일 단 하루, 서울 웨딩홀 박람회 최대 혜택",
+      "secondary_headline": "웨딩홀부터 혼수까지, 결혼 준비의 모든 고민을 한 번에 해결하세요.",
+      "urgency_text": "08월 29일(토) 단 하루, 사전등록 시 입장료 무료",
+      "call_to_action_text": "지금 무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 사은품 증정",
+        "럭키드로우 이벤트 참여 기회"
+      ],
+      "contract_benefits": [
+        "웨딩홀 무료 시식 및 계약 할인",
+        "혼수 계약 시 최대 80만 포인트 및 사은품 증정",
+        "예복/한복/에스테틱 계약 고객 특별 할인",
+        "가전 구매 금액대별 최대 30% 할인 및 사은품"
+      ],
+      "special_events": [
+        "웨딩홀 실시간 잔여석 조회 서비스",
+        "전문가 1:1 허니문 맞춤 상담",
+        "혼수 계약 고객 대상 럭키드로우"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "display_date": "08월 29일(토) 단, 하루!",
+        "original_display_date": "08월 29일(토) 단, 하루!"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "강남구",
+        "sigungu_en": "gangnam",
+        "address": "서울 강남구 테헤란로 518",
+        "venue": "섬유센터 2층",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일",
+        "방문 예정일자"
+      ],
+      "gift_conditions": "상담 및 현장 계약 체결 고객 대상 혜택 제공",
+      "trust_indicators": [
+        "서울 지역 주요 웨딩홀 및 전문 업체 대거 참가",
+        "전문 플래너 1:1 맞춤 상담 보장",
+        "실시간 웨딩홀 잔여석 확인 가능"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "서울 웨딩홀 박람회",
+        "startDate": "2026-08-29",
+        "endDate": "2026-08-29",
+        "location": {
+          "@type": "Place",
+          "name": "섬유센터 2층",
+          "address": "서울 강남구 테헤란로 518"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "주식회사 플랜온웨딩",
+          "url": "https://ad.cpaad.co.kr/planon45/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "사전등록을 완료하신 예비부부님들은 무료로 입장 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사 장소인 섬유센터 내 주차 시설을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 방문 상담 시 업체별 사은품과 현장 럭키드로우 이벤트 참여 기회가 제공됩니다."
+        },
+        {
+          "question": "웨딩홀 외에 어떤 업체를 만날 수 있나요?",
+          "answer": "혼수 가전, 예물, 예복, 한복, 에스테틱 및 허니문 여행사 등 결혼 준비 전 카테고리 업체가 참가합니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "웨딩홀 무료 시식, 대관료 할인, 가전 구매 금액대별 할인 및 포인트 증정 등 계약 항목별 특별 혜택이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 체계적인 준비를 시작하려는 예비부부를 대상으로 합니다. 특히 어디서부터 결혼 준비를 시작해야 할지 막막한 커플, 인기 웨딩홀의 잔여 일정을 한눈에 확인하고 싶은 분, 스드메 패키지와 혼수 가전 비용을 효율적으로 비교하여 합리적인 계약을 체결하고 싶은 신혼부부에게 적합합니다. 다양한 업체 상담을 통해 자신의 예산과 취향에 맞는 웨딩을 설계하고 싶은 모든 분께 유용한 정보를 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 및 예식장",
+        "스드메 토탈 패키지",
+        "혼수 가전 및 가구",
+        "예물 및 웨딩 주얼리",
+        "맞춤 예복 및 한복",
+        "웨딩 에스테틱",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "실시간 웨딩홀 잔여석 조회 서비스 제공",
+        "가전 및 혼수 분야별 최대 할인 혜택 보장",
+        "전문가 1:1 맞춤 상담을 통한 개인별 예산 최적화"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "서울 웨딩홀 투어 팁",
+        "결혼 준비 순서 체크리스트",
+        "웨딩박람회 무료 초대장 신청",
+        "강남 웨딩홀 추천",
+        "혼수 가전 할인 행사",
+        "스드메 업체 비교",
+        "웨딩홀 무료 시식 혜택",
+        "허니문 패키지 추천",
+        "결혼 비용 절약법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩홀 박람회 전체 일정",
+          "category": "seoul_events"
+        },
+        {
+          "anchor": "결혼 준비 가이드 확인하기",
+          "category": "guides"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예물",
+        "웨딩밴드",
+        "맞춤정장"
+      ]
+    },
+    "social_meta": {
+      "og_title": "8월 29일! 서울 웨딩홀 박람회 사전등록 오픈",
+      "og_description": "강남 섬유센터에서 열리는 웨딩 페어! 웨딩홀 무료 시식과 파격적인 계약 혜택을 지금 바로 확인하고 사전등록하세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#서울웨딩박람회",
+        "#강남웨딩박람회",
+        "#결혼준비",
+        "#웨딩홀추천",
+        "#신혼부부",
+        "#예비부부",
+        "#스드메",
+        "#혼수준비",
+        "#웨딩이벤트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planon45/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_n6NAHq1shVqTEfit.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_ESoBuvDK3HlhcbNXoanCiW8YCCdEdhEJ.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_SDnSslp8oqVUJondi7lcQLKlfoSQ.jpg"
+    },
+    "updated_at": "2026-08-07 19:30:37",
+    "revenue": 30000
+  },
+  {
+    "campaign_id": "DirectWeddingFair02",
+    "gather_name": "다이렉트 결혼준비 웨딩&혼수 대박람회",
+    "organizer_name": "다이렉트컴즈",
+    "seo_metadata": {
+      "title": "다이렉트 결혼준비 웨딩&혼수 대박람회 | 서울 aT센터 상담 혜택",
+      "meta_description": "다이렉트 결혼준비 웨딩&혼수 대박람회에서 스드메 최대 65% 할인과 30만원 캐시백 혜택을 확인하세요. 8월 22일~23일, 서울 aT센터에서 열리는 합리적인 결혼 준비의 시작입니다.",
+      "keywords": [
+        "웨딩박람회",
+        "서울웨딩박람회",
+        "다이렉트결혼준비",
+        "결혼준비",
+        "스드메견적",
+        "혼수박람회",
+        "aT센터웨딩박람회",
+        "웨딩홀추천",
+        "결혼박람회일정",
+        "신혼부부혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면 이번 '다이렉트 결혼준비 웨딩&혼수 대박람회'를 주목해 보세요. 8월 22일부터 23일까지 서울 aT센터 제1전시관에서 개최되는 이번 박람회는 스드메부터 혼수, 가전까지 결혼 준비의 모든 과정을 한자리에서 효율적으로 해결할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회는 방문객을 위한 파격적인 혜택을 제공합니다. 상담만 받아도 웨딩 포인트가 적립되며, 스드메 계약 시 최대 30만원 전액 캐시백 혜택을 누릴 수 있습니다. 또한 스드메 패키지를 최대 65% 할인된 가격으로 제공하며, 현장 계약 시 추가 할인 및 다양한 경품 추첨 기회가 마련되어 있습니다. 신혼부부의 예산 절감을 돕기 위한 실질적인 프로모션이 다양하게 준비되어 있으니 놓치지 마세요.",
+      "summary_for_search": "서울 aT센터에서 열리는 다이렉트 결혼준비 웨딩&혼수 대박람회는 스드메 최대 65% 할인과 30만원 캐시백 등 실속 있는 혜택을 제공합니다. 8월 22일-23일 양일간 진행되며, 사전 예약 시 상담비가 면제됩니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 스드메 최대 65% 할인 받고 캐시백까지!",
+      "secondary_headline": "국내 최대 규모, 176개 업체가 함께하는 다이렉트 결혼준비 대박람회",
+      "urgency_text": "사전 예약 시 상담비 무료, 선착순 혜택 조기 마감 주의",
+      "call_to_action_text": "무료 초대장 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 포인트 적립",
+        "롯데마트 상품권 등 브랜드별 사은품",
+        "사전 예약 시 상담비 전액 면제"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 30만원 전액 캐시백",
+        "스드메 패키지 최대 65% 할인",
+        "혼수/가전 계약 시 추가 할인 및 캐시백"
+      ],
+      "special_events": [
+        "전국 500여개 웨딩홀 무료 섭외",
+        "1:1 맞춤형 전문가 상담 제공",
+        "예비부부 실전 예산 컨설팅"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "display_date": "08월 22일(토) ~ 08월 23일(일)",
+        "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "서초구",
+        "sigungu_en": "seocho",
+        "address": "서울 서초구 강남대로 27",
+        "venue": "aT센터 제1전시관",
+        "parking_info": "aT센터 지하주차장 이용 가능 (3시간 무료 후 10분당 700원, 박람회 사전예약자 30% 할인권 제공)",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "신랑/신부 구분",
+        "연락처",
+        "결혼예정일",
+        "방문예정일",
+        "관심 상담 품목"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 상담 완료 및 상담 카드 작성 시 증정",
+      "trust_indicators": [
+        "176개 업체 입점",
+        "매년 4만 쌍의 선택",
+        "스드메 30만원 전액 캐시백 보장",
+        "국내 최대 10년 넘는 웨딩 데이터 보유"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "다이렉트 결혼준비 웨딩&혼수 대박람회",
+        "startDate": "2026-08-22",
+        "endDate": "2026-08-23",
+        "location": {
+          "@type": "Place",
+          "name": "aT센터 제1전시관",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "강남대로 27",
+            "addressLocality": "서울 서초구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "다이렉트컴즈",
+          "url": "https://ad.cpaad.co.kr/DirectWeddingFair02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장료는 얼마인가요?",
+          "answer": "다이렉트 결혼준비 웨딩&혼수 대박람회는 사전 예약 시 입장료가 무료입니다."
+        },
+        {
+          "question": "사전 예약은 필수인가요?",
+          "answer": "네, 사전 예약을 하시면 상담비가 면제되며 대기 없이 원활한 1:1 상담을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "aT센터 내 지하주차장을 이용하실 수 있으며, 사전 예약자에게는 주차비 30% 할인권이 제공됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "드레스, 스튜디오, 메이크업, 예물, 예복, 혼수가전, 신혼여행 등 결혼 준비에 필요한 176개 이상의 엄선된 브랜드가 참가합니다."
+        },
+        {
+          "question": "상담 시 사은품은 어떻게 받나요?",
+          "answer": "박람회 현장에서 상담을 진행하신 후 각 부스별로 제공되는 상담 확인 절차를 거치면 증정됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이번 박람회는 결혼을 앞두고 막막함을 느끼는 예비 신랑신부님들을 위한 맞춤형 행사입니다. 특히 결혼 준비를 6개월 이내 앞두고 스드메, 예식장, 혼수 견적을 비교 중인 커플에게 최적화되어 있습니다. 결혼 준비의 순서부터 예산 관리, 업체 선정의 기준까지 전문가의 1:1 상담을 통해 명확한 가이드를 얻고자 하는 분들에게 추천합니다. 합리적인 가격과 투명한 정보를 통해 예산 내에서 최고의 효율을 내고 싶은 알뜰한 예비부부라면 꼭 방문해 보세요.",
+      "exhibitor_highlights": [
+        "웨딩홀 추천 및 대관 상담",
+        "드레스샵 15개 브랜드",
+        "스튜디오 16개 업체",
+        "메이크업 및 본식스냅",
+        "예물·예복 전문 브랜드",
+        "혼수 가전 및 가구",
+        "허니문 여행사",
+        "웨딩 소품 및 답례품"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 시 30만원 전액 캐시백 혜택 제공",
+        "176개 국내 최다 웨딩 업체 입점 및 가격 투명 공개",
+        "10년 이상의 웨딩 데이터를 바탕으로 한 1:1 전문 맞춤 상담 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "다이렉트 결혼준비 장점",
+        "서울 웨딩박람회 추천",
+        "스드메 패키지 가격대",
+        "결혼 준비 순서 체크리스트",
+        "웨딩박람회 상담 혜택",
+        "혼수 박람회 비교",
+        "웨딩홀 투어 예약 방법",
+        "aT센터 웨딩박람회 주차",
+        "결혼 박람회 사기 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩박람회 전체 일정",
+          "category": "seoul_events"
+        },
+        {
+          "anchor": "스드메 패키지 견적 알아보기",
+          "category": "wedding_service"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "본식스냅",
+        "혼수가전",
+        "신혼여행",
+        "결혼준비",
+        "웨딩포인트",
+        "예복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "다이렉트 결혼준비 웨딩박람회 상담 혜택",
+      "og_description": "8월 22일-23일, aT센터! 스드메 최대 65% 할인과 30만원 캐시백 놓치지 마세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#결혼준비",
+        "#다이렉트결혼준비",
+        "#서울웨딩박람회",
+        "#스드메",
+        "#혼수준비",
+        "#aT센터",
+        "#신혼부부혜택",
+        "#예비부부",
+        "#웨딩패키지"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/DirectWeddingFair02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_uIo5CY15RHntB.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_NOQjTKSNt3IAXPE.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Pte3d6uoFougrbWrVFmB2gNPWWBKvgKU.jpg"
+    },
+    "updated_at": "2026-08-07 19:30:53"
+  },
+  {
+    "idx": 1497,
+    "campaign_id": "planon46",
+    "gather_name": "서울 신혼여행 박람회",
+    "organizer_name": "주식회사 플랜온웨딩",
+    "seo_metadata": {
+      "title": "서울 신혼여행 박람회 | 예비부부 맞춤 허니문 특전 및 혼수 할인",
+      "meta_description": "오는 8월 29일, 서울 강남 섬유센터에서 열리는 서울 신혼여행 박람회에 초대합니다. 신혼여행지별 단독 혜택부터 가전, 예복, 예물까지 결혼 준비의 모든 것을 한곳에서 비교하고 합리적인 상담을 받아보세요.",
+      "keywords": [
+        "서울 웨딩박람회",
+        "신혼여행 박람회",
+        "결혼 준비",
+        "허니문 특전",
+        "강남 웨딩박람회",
+        "스드메 패키지",
+        "혼수가전 할인",
+        "예복 상담",
+        "예물 브랜드",
+        "결혼 박람회 일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 신혼여행부터 혼수까지 고민이 많으신 예비부부님들을 위해 서울 신혼여행 박람회가 오는 8월 29일 섬유센터에서 단 하루 개최됩니다. 이번 박람회는 복잡한 결혼 준비 과정을 한 번에 해결할 수 있도록 허니문 전문가와 혼수 브랜드가 대거 참여하여 실질적인 도움을 드립니다.",
+      "benefits_description": "이번 박람회는 방문만 하셔도 얻을 수 있는 혜택이 다양합니다. 신혼여행지는 몰디브, 하와이, 칸쿤 등 인기 휴양지별 단독 특전과 함께 객실 업그레이드, 스냅 촬영, 현지 투어 포함 등 실속 있는 구성이 준비되어 있습니다. 또한 혼수 부문에서는 삼성스토어 입점을 통해 가전 구매 금액대별 최대 80만 포인트와 사은품이 제공되며, 예복·예물·에스테틱 브랜드의 현장 정계약 혜택까지 더해져 예산 절감에 큰 도움을 받을 수 있습니다. 모든 혜택은 상담 및 계약 조건에 따라 상이하므로 현장에서 전문가와 충분히 상의하시는 것을 추천합니다.",
+      "summary_for_search": "8월 29일 섬유센터에서 열리는 서울 신혼여행 박람회! 신혼여행 특별 프로모션, 삼성 가전 구매 혜택, 예복/예물/에스테틱 정계약 특전을 지금 사전등록으로 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "단 하루, 당신을 위한 완벽한 신혼여행과 혼수 특전의 기회",
+      "secondary_headline": "서울 강남에서 만나는 프리미엄 웨딩 박람회, 지금 무료 초대장을 신청하세요.",
+      "urgency_text": "8월 29일(토) 단, 하루!",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 및 계약 시 업체별 사은품 증정",
+        "박람회 당일 계약 시 최대 80만 포인트 증정 (삼성스토어)",
+        "예복/예물 정계약 시 전용 사은품 및 추가 할인"
+      ],
+      "contract_benefits": [
+        "허니문 지역별 객실 업그레이드 및 스냅/투어 포함 혜택",
+        "삼성 가전 구매 금액대별 최대 80만 포인트 및 사은품",
+        "예복/예물/에스테틱 정계약 시 추가 할인 및 서비스"
+      ],
+      "special_events": [
+        "웨딩 드레스 무료 피팅 체험",
+        "1:1 맞춤형 허니문 전문 상담",
+        "혼수 가전 큐레이션 및 설계 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "display_date": "08월 29일(토) 단, 하루!",
+        "original_display_date": "08월 29일(토) 단, 하루!"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "강남구",
+        "sigungu_en": "gangnam",
+        "address": "서울 강남구 테헤란로 518",
+        "venue": "섬유센터 2층",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일"
+      ],
+      "gift_conditions": "현장 상담 완료 또는 박람회 당일 업체별 정계약 체결 시 혜택 제공",
+      "trust_indicators": [
+        "신혼여행지별 맞춤 프로모션 검증",
+        "삼성스토어 제휴를 통한 가전 구매 신뢰도 확보",
+        "현장 1:1 전문 상담 및 투명한 견적 비교"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "서울 신혼여행 웨딩박람회",
+        "startDate": "2026-08-29T11:00:00",
+        "endDate": "2026-08-29T19:00:00",
+        "location": {
+          "@type": "Place",
+          "name": "섬유센터 2층",
+          "address": "서울 강남구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "주식회사 플랜온웨딩",
+          "url": "https://ad.cpaad.co.kr/planon46/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "입장료가 있나요?",
+          "answer": "본 박람회는 사전등록 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+          "answer": "네, 신혼여행부터 혼수, 예복, 예물까지 전문가가 1:1 맞춤 상담을 제공합니다."
+        },
+        {
+          "question": "사전등록은 어떻게 하나요?",
+          "answer": "페이지 내 이름, 연락처, 결혼예정일을 입력하여 무료 초대장을 신청하시면 됩니다."
+        },
+        {
+          "question": "혼수 가전 혜택은 어떤 것이 있나요?",
+          "answer": "삼성스토어 제휴를 통해 구매 금액대별 포인트 지급 및 다양한 사은품 혜택을 제공합니다."
+        },
+        {
+          "question": "박람회 운영 시간은 어떻게 되나요?",
+          "answer": "8월 29일(토) 오전 11시부터 오후 7시까지 진행됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 결혼 준비 과정을 줄이고 싶은 커플, 그리고 스드메와 신혼여행, 혼수 가전을 한곳에서 비교하고 싶은 신혼부부를 위한 행사입니다. 특히 허니문 여행지의 상세 정보가 필요하거나, 가전 구매 시 최대 혜택을 누리고 싶은 분들에게 최적화된 정보를 제공합니다. 결혼 준비의 시작부터 마무리까지 전문적인 가이드가 필요한 분들이라면 누구나 환영합니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행사",
+        "삼성스토어 혼수가전",
+        "웨딩 드레스샵",
+        "맞춤 예복 브랜드",
+        "웨딩 주얼리 및 예물",
+        "에스테틱 케어 브랜드"
+      ],
+      "comparison_hooks": [
+        "지역별 신혼여행지 맞춤 프로모션 및 단독 혜택 제공",
+        "삼성스토어와 직접 연계된 가전 구매 최대 할인 패키지",
+        "결혼 준비의 전 과정을 아우르는 현장 1:1 전문가 상담 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "신혼여행지 추천",
+        "혼수가전 구매 팁",
+        "스드메 비용 절약법",
+        "웨딩박람회 상담 혜택",
+        "결혼 박람회 당일 계약 혜택",
+        "강남 웨딩박람회 일정",
+        "허니문 여행사 선택 기준",
+        "웨딩 예복 가격 비교"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩박람회 전체 일정 보기",
+          "category": "wedding_event_schedule"
+        },
+        {
+          "anchor": "신혼여행 준비 가이드",
+          "category": "honeymoon_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "허니문",
+        "혼수",
+        "웨딩홀",
+        "예복",
+        "예물",
+        "가전",
+        "스냅 촬영",
+        "박람회 혜택",
+        "결혼 준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "서울 신혼여행 웨딩박람회 | 단 하루 특별 혜택",
+      "og_description": "허니문 특전부터 혼수 가전 할인까지! 8월 29일 섬유센터에서 만나는 결혼 준비 필승 전략.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#결혼준비",
+        "#신혼여행",
+        "#서울웨딩박람회",
+        "#허니문",
+        "#혼수가전",
+        "#스드메",
+        "#예복",
+        "#예물",
+        "#강남웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planon46/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg"
+    },
+    "updated_at": "2026-08-07 19:31:09",
+    "revenue": 30000
   }
 ]
