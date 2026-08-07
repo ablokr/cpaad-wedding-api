@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 148,
+    "total_count": 152,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-08-07 13:01:21"
+    "updated_at": "2026-08-07 16:02:08"
   },
   "items": [
     {
@@ -1813,6 +1813,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1861,
       "campaign_id": "wedingcrowd117",
       "gather_name": "부천 웨딩크라우드 웨딩박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
@@ -1821,7 +1822,8 @@
       "sigungu": "부천시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_gG7XJYO9Gz7DIMjTOPJNQQeKRcF5E.jpg",
-      "updated_at": "2026-08-04 16:00:47"
+      "updated_at": "2026-08-04 16:00:47",
+      "revenue": 30000
     },
     {
       "idx": 946,
@@ -1913,6 +1915,56 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pq4QRy3hkL1S4f.jpg",
       "updated_at": "2026-08-07 13:01:21",
       "revenue": 40000
+    },
+    {
+      "campaign_id": "DirectWeddingFair02",
+      "gather_name": "다이렉트 결혼준비 웨딩&혼수 대박람회",
+      "display_date": "",
+      "venue": "aT센터 제1전시관",
+      "sido": "서울",
+      "sigungu": "서초구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_NOQjTKSNt3IAXPE.jpg",
+      "updated_at": "2026-08-07 16:00:36"
+    },
+    {
+      "idx": 1443,
+      "campaign_id": "planon45",
+      "gather_name": "서울 웨딩홀 박람회",
+      "display_date": "08월 29일(토) 단, 하루!",
+      "venue": "섬유센터 2층",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_ESoBuvDK3HlhcbNXoanCiW8YCCdEdhEJ.jpg",
+      "updated_at": "2026-08-07 16:01:22",
+      "revenue": 30000
+    },
+    {
+      "idx": 1392,
+      "campaign_id": "planon43",
+      "gather_name": "서울 웨딩드레스 페어",
+      "display_date": "08월 29일(토) 단, 하루!",
+      "venue": "섬유센터 2층",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_Kg5WKWd1C74IejCzfEZboECu4U7.jpg",
+      "updated_at": "2026-08-07 16:01:40",
+      "revenue": 30000
+    },
+    {
+      "idx": 1497,
+      "campaign_id": "planon46",
+      "gather_name": "서울 신혼여행 박람회",
+      "display_date": "08월 29일(토) 단, 하루!",
+      "venue": "섬유센터 2층",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
+      "updated_at": "2026-08-07 16:02:08",
+      "revenue": 30000
     }
   ]
 }
