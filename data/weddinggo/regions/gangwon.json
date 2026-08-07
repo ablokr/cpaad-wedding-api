@@ -3156,5 +3156,207 @@
     },
     "updated_at": "2026-08-04 13:09:18",
     "revenue": 50000
+  },
+  {
+    "idx": 1362,
+    "campaign_id": "weddingplus01",
+    "gather_name": "웨딩더하기 원주웨딩박람회",
+    "organizer_name": "웨딩더하기",
+    "seo_metadata": {
+      "title": "원주 웨딩박람회 | 웨딩더하기 LG전자베스트샵 방문혜택 및 상담신청",
+      "meta_description": "원주에서 결혼 준비 중이신가요? 웨딩더하기 원주 웨딩박람회에 방문하여 스드메 패키지 특가(69만원~) 및 LG전자 가전 구매 시 최대 780만원 혜택을 확인하세요. 선착순 방문 선물 증정 중!",
+      "keywords": [
+        "원주웨딩박람회",
+        "원주결혼준비",
+        "원주스드메",
+        "웨딩더하기",
+        "강원도웨딩박람회",
+        "신혼부부혼수가전",
+        "원주예식장",
+        "결혼준비체크리스트",
+        "웨딩패키지특가",
+        "LG전자베스트샵원주"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 무엇부터 해야 할지 막막하신가요? 원주에서 가장 믿을 수 있는 '웨딩더하기 원주 웨딩박람회'가 여러분의 완벽한 예식을 위해 열립니다. LG전자 베스트샵 AKPLAZA 원주점에서 예비부부를 위한 실속 있는 정보와 특별한 혜택을 한자리에서 만나보세요.",
+      "benefits_description": "이번 웨딩박람회는 방문만 해도 스타벅스 쿠폰 또는 블루투스 스피커 등 100% 증정 방문 선물을 제공하며, 스드메 패키지(스튜디오, 드레스, 메이크업)를 최저 69만원부터 제공하는 파격적인 혜택을 준비했습니다. 또한, 예물, 예복, 허니문 등 결혼 준비에 필요한 모든 카테고리별 전문가와 1:1 상담을 통해 나에게 꼭 맞는 맞춤형 견적을 받을 수 있습니다. 계약 시에는 최대 50만원의 축하금과 추가 할인 혜택이 기다리고 있으니, 지금 바로 신청하고 예산을 절감하는 현명한 예비부부가 되어보세요.",
+      "summary_for_search": "원주 웨딩더하기 박람회가 LG전자베스트샵 AKPLAZA 원주점에서 개최됩니다. 방문 시 100% 증정 선물, 스드메 패키지 최저가 보장, LG 가전 최대 780만원 혜택을 제공합니다. 지금 무료 상담 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 원주 웨딩박람회에서 최대 780만원 혜택 받고 시작하세요!",
+      "secondary_headline": "스드메 패키지 최저 69만원부터! 예비부부를 위한 1:1 맞춤형 컨설팅과 혼수가전 특별 할인을 한 번에.",
+      "urgency_text": "단 이틀간 진행되는 박람회! 지금 신청하고 선착순 방문 선물까지 챙기세요.",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 고객 전원 스타벅스 쿠폰 또는 블루투스 스피커 증정 (100% 증정)"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최저 69만원부터",
+        "계약 축하금 최대 50만원 지원",
+        "LG전자 다품목 구매 시 최대 780만원 혜택",
+        "혼수/예물 계약 시 여행권 및 추가 할인"
+      ],
+      "special_events": [
+        "1:1 맞춤 웨딩 컨설팅",
+        "LG전자 베스트샵 가전 체험",
+        "얼리버드 방문객 타임 세일"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "display_date": "08월 22일(토) ~ 08월 23일(일)",
+        "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+      },
+      "location": {
+        "sido": "강원",
+        "sido_en": "gangwon",
+        "sigungu": "원주시",
+        "sigungu_en": "wonju",
+        "address": "강원특별자치도 원주시 봉화로 1 6층",
+        "venue": "LG전자베스트샵 AKPLAZA원주점",
+        "parking_info": "AK플라자 주차장 이용 가능",
+        "region_code": "gangwon"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "현장 방문 시 제공, 상세 조건은 상담 시 안내",
+      "trust_indicators": [
+        "100% 예약제 맞춤 상담",
+        "투명한 웨딩 견적 공개",
+        "다수의 만족스러운 실제 후기 보유"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "웨딩더하기 원주웨딩박람회",
+        "startDate": "2025-08-22",
+        "endDate": "2025-08-23",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 AKPLAZA원주점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "강원 원주시",
+            "addressLocality": "원주",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩더하기",
+          "url": "https://ad.cpaad.co.kr/weddingplus01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 웨딩더하기 원주 웨딩박람회는 무료로 입장이 가능하며 사전에 신청만 하시면 됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사 장소인 AK플라자 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "스드메 패키지 가격은 어느 정도인가요?",
+          "answer": "박람회 기간 중 특가로 구성되어 최저 69만원부터 만나보실 수 있습니다."
+        },
+        {
+          "question": "상담 시 선물을 바로 받을 수 있나요?",
+          "answer": "네, 현장 방문 고객님들께 스타벅스 쿠폰 또는 블루투스 스피커 등 선물을 100% 증정하고 있습니다."
+        },
+        {
+          "question": "혼수가전 혜택도 같이 받을 수 있나요?",
+          "answer": "네, LG전자 베스트샵과 협업하여 박람회 방문객을 위한 혼수가전 최대 780만원 할인 혜택을 제공합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "강원도 원주 및 인근 지역에서 결혼을 앞둔 예비 신랑, 신부님들을 위한 맞춤형 박람회입니다. 결혼 준비를 어디서부터 시작해야 할지, 비용은 어느 정도로 책정해야 할지 고민되는 커플들에게 최적의 솔루션을 제공합니다. 특히 합리적인 가격의 스드메 패키지를 찾는 분, 효율적인 시간 관리를 원하는 맞벌이 부부, 혼수가전을 묶음으로 저렴하게 구매하고 싶은 신혼부부 모두에게 추천합니다. 전문가와의 1:1 상담을 통해 개인의 취향과 예산에 맞춘 최적의 플랜을 제안해 드립니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 패키지 업체",
+        "웨딩홀 상담 및 섭외",
+        "예물 및 예복 브랜드",
+        "LG전자 혼수가전 상담"
+      ],
+      "comparison_hooks": [
+        "타 박람회와 차별화된 1:1 맞춤형 전문가 무료 상담",
+        "스드메 최저가 보장제 및 계약 축하금 추가 지급",
+        "가전부터 웨딩까지 원스톱 해결 가능한 실속 구성"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "원주 웨딩홀 추천",
+        "강원도 웨딩박람회 일정",
+        "스드메 비용 절약법",
+        "결혼 준비 체크리스트",
+        "신혼 가전 구매 팁",
+        "원주 예복 전문점",
+        "원주 허니문 여행사",
+        "웨딩박람회 방문 후기",
+        "스튜디오 촬영 준비",
+        "본식 드레스 트렌드"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "강원 지역 웨딩박람회 전체 일정 보기",
+          "category": "gangwon_wedding"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "예물",
+        "예복",
+        "혼수가전",
+        "신혼여행",
+        "결혼준비",
+        "드레스"
+      ]
+    },
+    "social_meta": {
+      "og_title": "원주 웨딩박람회 | 스드메 특가 & 가전 혜택",
+      "og_description": "웨딩더하기 원주 웨딩박람회! 지금 신청하면 방문 선물 증정 & 스드메 최저가 혜택을 받으실 수 있습니다.",
+      "hashtags": [
+        "#원주웨딩박람회",
+        "#원주결혼준비",
+        "#웨딩더하기",
+        "#원주스드메",
+        "#결혼준비시작",
+        "#원주웨딩홀",
+        "#신혼가전",
+        "#예비부부",
+        "#강원도웨딩",
+        "#웨딩박람회후기"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/weddingplus01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_MvHMZB726tQXFyTcH5JV.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pq4QRy3hkL1S4f.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_9SMU2HPWG8o9QccIsgnPWQn.jpg"
+    },
+    "updated_at": "2026-08-07 13:01:21",
+    "revenue": 40000
   }
 ]

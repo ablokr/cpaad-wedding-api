@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 146,
+    "total_count": 148,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-08-06 19:01:03"
+    "updated_at": "2026-08-07 13:01:21"
   },
   "items": [
     {
@@ -981,19 +981,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1781,
-      "campaign_id": "paranfair05",
-      "gather_name": "창원 대형 웨딩박람회",
-      "display_date": "08월 15일(토) ~ 08월 16일(일)",
-      "venue": "썸웨드 혼수타워 특별행사장",
-      "sido": "경남",
-      "sigungu": "창원시",
-      "region_en": "gyeongnam",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ZO8kuRjGSs3i.jpg",
-      "updated_at": "2026-07-27 13:08:14",
-      "revenue": 30000
-    },
-    {
       "idx": 1334,
       "campaign_id": "wwedding09",
       "gather_name": "창원 롯데백화점 웨딩박람회",
@@ -1876,6 +1863,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1592,
       "campaign_id": "reveweddingH05",
       "gather_name": "청주 OSCO 허니문박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
@@ -1883,8 +1871,48 @@
       "sido": "충북",
       "sigungu": "청주시",
       "region_en": "chungbuk",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_cn3m1Hazom.jpg",
-      "updated_at": "2026-08-06 19:01:03"
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_qyjC1Hu4U4I.jpg",
+      "updated_at": "2026-08-07 13:00:19",
+      "revenue": 50000
+    },
+    {
+      "idx": 1436,
+      "campaign_id": "knockWed11",
+      "gather_name": "광주 웨딩박람회 in 홀리데이인호텔",
+      "display_date": "08월 15일(토) ~ 08월 16일(일)",
+      "venue": "홀리데이인호텔 별관웨딩홀",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_UrKKA7gTKGdOr.jpg",
+      "updated_at": "2026-08-07 13:00:46",
+      "revenue": 50000
+    },
+    {
+      "idx": 1383,
+      "campaign_id": "weddingplus05",
+      "gather_name": "웨딩더하기 일산킨텍스 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 현대킨텍스점",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RHzwettdSuJAPwyJguptv3.jpg",
+      "updated_at": "2026-08-07 13:01:03",
+      "revenue": 40000
+    },
+    {
+      "idx": 1362,
+      "campaign_id": "weddingplus01",
+      "gather_name": "웨딩더하기 원주웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 AKPLAZA원주점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pq4QRy3hkL1S4f.jpg",
+      "updated_at": "2026-08-07 13:01:21",
+      "revenue": 40000
     }
   ]
 }
