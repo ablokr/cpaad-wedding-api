@@ -276,7 +276,7 @@ _COMMON_TASKS = (
     "\n"
     "[임무 3 - 구조화 데이터 (structured_data)]:\n"
     "  - Schema.org Event JSON-LD 객체 생성 (event_schema). "
-    "startDate/endDate ISO8601, location name+address, "
+    "startDate/endDate ISO8601(제시된 행사 시작/종료 날짜 YYYY-MM-DD 활용), location name+address, "
     "eventStatus 'https://schema.org/EventScheduled', "
     "offers.price 무료 입장이면 '0', priceCurrency 'KRW'\n"
     "  - 실제 방문자 궁금증 기반 FAQ 5개 이상 (faq_schema)\n"
@@ -295,7 +295,7 @@ _COMMON_TASKS = (
     "  - 카카오/인스타 공유 최적화 OG 제목(40자 이내)과 설명\n"
     "  - SNS 해시태그 10개 이상 (# 기호 포함)\n"
     "\n"
-    "위치(시도/시군구)와 날짜 정보는 이미 별도로 확보되었으므로 분석에서 제외합니다. "
+    "위치(시도/시군구)와 날짜 정보는 [행사 기본 정보]에 제공된 정제 데이터(연도 포함 ISO 날짜)를 그대로 활용하세요. "
     "값이 이미지에서 확인되지 않으면 null 또는 빈 문자열로 처리합니다."
 )
 
@@ -394,6 +394,10 @@ class WeddingDataProcessor:
                 context_parts.append(f"추정 장소명: {loc.get('venue')}")
             if dates.get("display_date"):
                 context_parts.append(f"행사 일시: {dates.get('display_date')}")
+            if dates.get("start_date"):
+                context_parts.append(f"행사 시작일(ISO): {dates.get('start_date')}")
+            if dates.get("end_date"):
+                context_parts.append(f"행사 종료일(ISO): {dates.get('end_date')}")
 
         context_str = "\n".join(context_parts)
 
@@ -456,14 +460,19 @@ class WeddingDataProcessor:
         # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
         structured_data = ai_data.get("structured_data", {})
         
-        # [추가] event_schema 내부에 organizer 정보 주입 (mapping 기반)
-        if organizer_name and "event_schema" in structured_data:
-            if isinstance(structured_data["event_schema"], dict):
-                structured_data["event_schema"]["organizer"] = {
+        # [추가] event_schema 내부에 organizer 정보 및 날짜(startDate, endDate) 강제 동기화
+        if "event_schema" in structured_data and isinstance(structured_data["event_schema"], dict):
+            schema_obj = structured_data["event_schema"]
+            if organizer_name:
+                schema_obj["organizer"] = {
                     "@type": "Organization",
                     "name": organizer_name,
                     "url": api_basic_data.get("ad_url", "")
                 }
+            if dates_pre.get("start_date"):
+                schema_obj["startDate"] = dates_pre["start_date"]
+            if dates_pre.get("end_date"):
+                schema_obj["endDate"] = dates_pre["end_date"]
 
         result = {
             "campaign_id": campaign_id,

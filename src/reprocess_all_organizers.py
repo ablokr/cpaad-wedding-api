@@ -56,10 +56,14 @@ def reprocess_all_organizers():
                                 "name": org_name,
                                 "url": data.get("campaign_assets", {}).get("target_url", "")
                             }
+                            s_date = data.get("event_details", {}).get("event", {}).get("start_date")
+                            e_date = data.get("event_details", {}).get("event", {}).get("end_date")
+                            if s_date: schema["startDate"] = s_date
+                            if e_date: schema["endDate"] = e_date
                     
                     with open(path, 'w', encoding='utf-8') as f:
                         json.dump(data, f, indent=2, ensure_ascii=False)
-            print(f"  [✔] {campaign_dir} 업데이트 완료")
+            print(f"  [OK] {campaign_dir} 업데이트 완료")
 
         # 3. 색인 및 전체 파일 처리 (all.json, all_index.json, regions/*.json)
         # 처리할 리스트 파일 목록
@@ -110,12 +114,16 @@ def reprocess_all_organizers():
                                 "name": org_name,
                                 "url": item.get("campaign_assets", {}).get("target_url", "")
                             }
+                            s_date = item.get("event_details", {}).get("event", {}).get("start_date")
+                            e_date = item.get("event_details", {}).get("event", {}).get("end_date")
+                            if s_date: schema["startDate"] = s_date
+                            if e_date: schema["endDate"] = e_date
                     updated_count += 1
             
             if updated_count > 0:
                 with open(path, 'w', encoding='utf-8') as f:
                     json.dump(content, f, indent=2, ensure_ascii=False)
-            print(f"  [✔] {path} 업데이트 완료 ({updated_count}건)")
+            print(f"  [OK] {path} 업데이트 완료 ({updated_count}건)")
 
     # 4. 최종적으로 매핑 파일 한번 더 복사 (최신화 확인)
     try:
