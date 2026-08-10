@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-10T10:00:03Z",
-  "total_ad_count": 110,
+  "last_updated": "2026-08-10T13:00:03Z",
+  "total_ad_count": 121,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -187,6 +187,7 @@
       "revenue": 30000
     },
     "wedingcrowd103": {
+      "idx": 1755,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_NSjojzc7YGRPDqmun1M6r2iKyq8.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ePnt1SbWi.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_hTYrEgQqjeLKRE.jpg",
@@ -208,7 +209,8 @@
           "address": "서울 영등포구 영중로 9 리빙관 3층",
           "venue": "삼성스토어 신세계타임스퀘어"
         }
-      }
+      },
+      "revenue": 30000
     },
     "weddingdc03": {
       "idx": 586,
@@ -232,6 +234,32 @@
           "sigungu_en": "gangnam",
           "address": "서울 강남구 테헤란로7길 22 한국과학기술회관 1층",
           "venue": "SC컨벤션센터 12F"
+        }
+      },
+      "revenue": 40000
+    },
+    "palmfair01": {
+      "idx": 580,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kOzQ7ljjiXGVdLwZyYzi6ZQ4WckeN5.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_CrgDTpKXBmQSLuqJ.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/palmfair01/",
+      "region": "capital",
+      "gather_name": "팜투어 직거래 허니문 박람회",
+      "ad_info": "스드메, 웨딩, 혼수, 허니문까지 한번에!  팜웨딩 직거래 웨딩박람회!",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "서울시 강남구 언주로 711||학동역 10번 출구 도보 5분||건설회관빌딩 1층",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "서울",
+          "sido_en": "seoul",
+          "sigungu": "강남구",
+          "sigungu_en": "gangnam",
+          "address": "서울시 강남구 언주로 711",
+          "venue": "건설회관빌딩 1층"
         }
       },
       "revenue": 40000
@@ -289,6 +317,7 @@
       "revenue": 30000
     },
     "hannawedding01": {
+      "idx": 1283,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_EApxl8asXRO.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MhQBahCqpK4XuKDlntl.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_dlsn1gtiETETJDCwGb15.jpg",
@@ -310,7 +339,8 @@
           "address": "서울 서초구 서초대로52길 12",
           "venue": "삼성스토어 서초점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "planon61": {
       "idx": 1798,
@@ -571,7 +601,6 @@
       "revenue": 30000
     },
     "wedingcrowd88": {
-      "idx": 1655,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_OYJa299k2RK2Pm.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_CAPcBDlM8tfG6j6UD4mjgaR1siP9V.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_oY2OQS75aaHKnbYL8MngMuPr7n7Z.jpg",
@@ -593,8 +622,7 @@
           "address": "경기 광명시 양지로 17",
           "venue": "AK플라자 광명 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "howto23": {
       "idx": 1571,
@@ -674,6 +702,32 @@
       },
       "revenue": 30000
     },
+    "wncowedding02": {
+      "idx": 1537,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_wkoIHrzPGHkncQZyx9ju3hjN9URA4.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Zx6ce3PrGLegmrhF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Bq2KGeWx.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wncowedding02/",
+      "region": "gyeonggi",
+      "gather_name": "동탄웨딩박람회",
+      "ad_info": "신랑,신부를 위한 웨딩&혼수 업체가 함께합니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "경기 화성시 동탄역로 160||(오산동 1089)||롯데백화점 동탄점 6층 특별행사장",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "화성시",
+          "sigungu_en": "hwaseong",
+          "address": "경기 화성시 동탄역로 160",
+          "venue": "롯데백화점 동탄점 6층 특별행사장"
+        }
+      },
+      "revenue": 30000
+    },
     "labelleellin01": {
       "idx": 1097,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_O3uYZxCA3hvFxSs3Y5eaPqBz512is.jpg",
@@ -726,6 +780,32 @@
       },
       "revenue": 30000
     },
+    "wncowedding21": {
+      "idx": 1832,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_wGQRqL74X.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Kvd13w1pD7A3vKjuCLPFGLf1VKDokF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_eFxPM8TvYhZVG8bcUs1lz.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wncowedding21/",
+      "region": "gyeonggi",
+      "gather_name": "안산 웨딩박람회",
+      "ad_info": "신랑,신부를 위한 웨딩&혼수 업체가 함께합니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "경기 안산시 단원구 중앙대로 873 롯데백화점 안산점||(고잔동 537-9)||안산롯데백화점 신관 5층 문화홀",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "안산시",
+          "sigungu_en": "ansan",
+          "address": "경기 안산시 단원구 중앙대로 873 롯데백화점 안산점",
+          "venue": "안산롯데백화점 신관 5층 문화홀"
+        }
+      },
+      "revenue": 30000
+    },
     "wncowedding05": {
       "idx": 1549,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_peAk7krRTYN9uKO3cYQVdTtQ3Lc3.jpg",
@@ -748,6 +828,32 @@
           "sigungu_en": "suwon",
           "address": "경기 수원시 권선구 세화로 134",
           "venue": "타임빌라스 수원 B1 특별행사장"
+        }
+      },
+      "revenue": 30000
+    },
+    "wncowedding19": {
+      "idx": 1753,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_Q2EvNtIgfjwzU6kqEQk5Yr.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_etnBxxNkqgPA2oH9EoRQ6ACkNpKPbS.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_ZjG7irjkku4hdMRxm.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wncowedding19/",
+      "region": "gyeonggi",
+      "gather_name": "고양 웨딩박람회",
+      "ad_info": "신랑,신부를 위한 웨딩&혼수 업체가 함께합니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "경기 고양시 덕양구 고양대로 1955||(동산동 370)||스타필드 고양 B1층",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "고양시",
+          "sigungu_en": "goyang",
+          "address": "경기 고양시 덕양구 고양대로 1955",
+          "venue": "스타필드 고양 B1층"
         }
       },
       "revenue": 30000
@@ -1116,6 +1222,32 @@
       },
       "revenue": 30000
     },
+    "wncowedding08": {
+      "idx": 1575,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_gKei3gPTvWIFIA5y91J.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_KbdteMtxW3PgO.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/2337ea9ac0ebeb271ae4fe609b8d7149_Fe7gXHZCih7bbQpcqjPlRC.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wncowedding08/",
+      "region": "gyeonggi",
+      "gather_name": "평택웨딩박람회",
+      "ad_info": "신랑,신부를 위한 웨딩&혼수 업체가 함께합니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "경기 평택시 평택로 51||(평택동 185-579)||평택 AK플라자 6층 특별행사장",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "평택시",
+          "sigungu_en": "pyeongtaek",
+          "address": "경기 평택시 평택로 51",
+          "venue": "평택 AK플라자 6층 특별행사장"
+        }
+      },
+      "revenue": 30000
+    },
     "wedingcrowd39": {
       "idx": 1318,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YQK8G8GKu6aNNY3MP4R7SPp8UDLOAGF.jpg",
@@ -1247,7 +1379,6 @@
       "revenue": 30000
     },
     "wwedding04": {
-      "idx": 1210,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_hxXOVYaNHozpf.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_qb97DRqAZcbVscD4a4LwLSa.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_4IKtcol6FBPVItrj3SsC7s.jpg",
@@ -1269,8 +1400,59 @@
           "address": "부산 해운대구 센텀남대로 35",
           "venue": "신세계백화점 센텀시티점 9층 문화홀"
         }
+      }
+    },
+    "wwedding01": {
+      "idx": 1163,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_RTsUAW39rILrzSZ.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_MdCNMBIFHFUTwV.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding01/",
+      "region": "busan",
+      "gather_name": "부산웨딩박람회 W웨딩시티",
+      "ad_info": "주말에도 OK! 평일에도 OK! 365일 웨딩상담",
+      "ad_year": "2026",
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "부산 부산진구 자유평화로 11||(범천동 839-48)||W웨딩시티",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "preprocessed": {
+        "location": {
+          "sido": "부산",
+          "sido_en": "busan",
+          "sigungu": "부산진구",
+          "sigungu_en": "busanjin",
+          "address": "부산 부산진구 자유평화로 11",
+          "venue": "W웨딩시티"
+        }
       },
       "revenue": 30000
+    },
+    "palmfair04": {
+      "idx": 588,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x7aKwylATE4tIIJwaPEJl52VWeWb1qbU.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_CMHidV6nEgxlkoSRU64gatdByCQAbsyf.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_E23vE3xyC6PuQ7N6be42.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/palmfair04/",
+      "region": "busan",
+      "gather_name": "부산 팜투어 허니문박람회",
+      "ad_info": "팜투어는 행복과 신뢰를 파는 대한민국 허니문 1등 여행사 입니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "부산광역시 부산진구 황령대로9||유성빌딩 6층(범천동 858-64)||범내골역 6번출구에서 도보로 5분거리",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "부산",
+          "sido_en": "busan",
+          "sigungu": "부산진구",
+          "sigungu_en": "busanjin",
+          "address": "부산광역시 부산진구 황령대로9",
+          "venue": "유성빌딩 6층"
+        }
+      },
+      "revenue": 35000
     },
     "bwc02": {
       "idx": 1254,
@@ -1320,6 +1502,32 @@
           "sigungu_en": "haeundae",
           "address": "부산 해운대구 센텀서로 30",
           "venue": "KNN센텀신사옥 1층 특설웨딩박람회장"
+        }
+      },
+      "revenue": 30000
+    },
+    "wwedding11": {
+      "idx": 1415,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_6AYjn6XRgop8KsZ8cFttFlX6.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_wbX6ePsbF3qJ.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_ac25pnPSLjvSM5Vf.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding11/",
+      "region": "busan",
+      "gather_name": "롯데백화점 부산본점 웨딩박람회",
+      "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "부산 부산진구 가야대로 772||(부전동 503-15)||롯데백화점 부산본점",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "preprocessed": {
+        "location": {
+          "sido": "부산",
+          "sido_en": "busan",
+          "sigungu": "부산진구",
+          "sigungu_en": "busanjin",
+          "address": "부산 부산진구 가야대로 772",
+          "venue": "롯데백화점 부산본점"
         }
       },
       "revenue": 30000
@@ -1610,6 +1818,32 @@
       },
       "revenue": 30000
     },
+    "palmfair03": {
+      "idx": 583,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_O8D2ivdc2auU.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_5j2UYK1LTeznLhzw1eCeAAheMc.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_p6lLGAyPqSg2.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/palmfair03/",
+      "region": "chungcheong",
+      "gather_name": "대전 팜투어 허니문박람회",
+      "ad_info": "팜투어는 행복과 신뢰를 파는 대한민국 허니문 1등 여행사 입니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "대전 서구 둔산로 63|| (둔산동 1273)||대자빌딩 4층",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "대전",
+          "sido_en": "daejeon",
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "대전 서구 둔산로 63",
+          "venue": "대자빌딩 4층"
+        }
+      },
+      "revenue": 35000
+    },
     "planittour03": {
       "idx": 1853,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_EiqjiKEa58g9U7YGHqa.jpg",
@@ -1637,7 +1871,6 @@
       "revenue": 30000
     },
     "planittour01": {
-      "idx": 1772,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_56YONPwXTjXZMNdz7Cmf3g.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_SNxDTUUCnRgIGUwWEN6vSLsf4nfq.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iLh9tRUC.jpg",
@@ -1658,6 +1891,31 @@
           "sigungu_en": "seo",
           "address": "대전 서구 계룡로 639",
           "venue": "플래닛투어 본사"
+        }
+      }
+    },
+    "withyouwedding35": {
+      "idx": 1520,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4v8XmkS4Wqh.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pBvWxZ1GuJtigXqkhKV6UsawMpMnPM.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_sd4rXwiYso2Qou7HQg3eA3jve.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding35/",
+      "region": "chungcheong",
+      "gather_name": "천안 아일랜드유웨딩홀 웨딩박람회",
+      "ad_info": "당신만을 위한 천안 위드유 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "충남 천안시 서북구 부대3길 26||(부대동 105-81)||아일랜드유 Cafe&웨딩홀",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "충남",
+          "sido_en": "chungnam",
+          "sigungu": "천안시",
+          "sigungu_en": "cheonan",
+          "address": "충남 천안시 서북구 부대3길 26",
+          "venue": "아일랜드유 Cafe&웨딩홀"
         }
       },
       "revenue": 30000
@@ -1766,33 +2024,8 @@
       },
       "revenue": 30000
     },
-    "withyouwedding19": {
-      "idx": 1236,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pahWiuVwNq8h5GiUPTuNP.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Cxy93iT4ufps7MPYrwCLaicUtGMh5H.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_LqkabMqLnc3VvZj4HG.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/withyouwedding19/",
-      "region": "chungcheong",
-      "gather_name": "충주 위드유 웨딩박람회",
-      "ad_info": "당신만을 위한 충주 위드유 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
-      "ad_location": "충북 충주시 탄금대로 139||(봉방동 88-1)||LG전자베스트샵 충주본점",
-      "start_date": "2026-08-22",
-      "end_date": "2026-08-23",
-      "preprocessed": {
-        "location": {
-          "sido": "충북",
-          "sido_en": "chungbuk",
-          "sigungu": "충주시",
-          "sigungu_en": "chungju",
-          "address": "충북 충주시 탄금대로 139",
-          "venue": "LG전자베스트샵 충주본점"
-        }
-      },
-      "revenue": 30000
-    },
     "wedingcrowd05": {
+      "idx": 1074,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Xh5REVypPeMS.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RnN5Mq8xYMHFDn1DNw6eZAoJcnmyr.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_nO4YJmKrVgK5.jpg",
@@ -1814,7 +2047,8 @@
           "address": "충북 청주시 서원구 1순환로 1066",
           "venue": "삼성스토어 청주점"
         }
-      }
+      },
+      "revenue": 30000
     },
     "revewedding05": {
       "idx": 1414,
@@ -1841,32 +2075,6 @@
         }
       },
       "revenue": 50000
-    },
-    "withyouwedding35": {
-      "idx": 1520,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4v8XmkS4Wqh.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pBvWxZ1GuJtigXqkhKV6UsawMpMnPM.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_sd4rXwiYso2Qou7HQg3eA3jve.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/withyouwedding35/",
-      "region": "chungcheong",
-      "gather_name": "천안 아일랜드유웨딩홀 웨딩박람회",
-      "ad_info": "당신만을 위한 천안 위드유 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "충남 천안시 서북구 부대3길 26||(부대동 105-81)||아일랜드유 Cafe&웨딩홀",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "preprocessed": {
-        "location": {
-          "sido": "충남",
-          "sido_en": "chungnam",
-          "sigungu": "천안시",
-          "sigungu_en": "cheonan",
-          "address": "충남 천안시 서북구 부대3길 26",
-          "venue": "아일랜드유 Cafe&웨딩홀"
-        }
-      },
-      "revenue": 30000
     },
     "wedcompanyL02": {
       "idx": 1710,
@@ -1946,6 +2154,32 @@
       },
       "revenue": 30000
     },
+    "emywedding02": {
+      "idx": 1805,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_S2jHRfTgB1ab9srGnHdk.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_oabHldSpI4fTJucQqzZTwLGFg8U.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Fdc15YxRey4KKbGDfUON1hQWxpsZM.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/emywedding02/",
+      "region": "chungcheong",
+      "gather_name": "e마이웨딩 대전 웨딩박람회",
+      "ad_info": "대전 대표웨딩 e마이웨딩 대전 최고의 웨딩&혼수업체 참가",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "대전 중구 대종로 523||(선화동 10-1)||e마이웨딩 1층 전관",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "대전",
+          "sido_en": "daejeon",
+          "sigungu": "중구",
+          "sigungu_en": "jung",
+          "address": "대전 중구 대종로 523",
+          "venue": "e마이웨딩 1층 전관"
+        }
+      },
+      "revenue": 30000
+    },
     "withyouwedding06": {
       "idx": 1183,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_NVCaHG2Ix2P4yFD.jpg",
@@ -1968,6 +2202,32 @@
           "sigungu_en": "seo",
           "address": "대전 서구 계룡로 598",
           "venue": "LG전자베스트샵 특별행사장"
+        }
+      },
+      "revenue": 30000
+    },
+    "withyouwedding19": {
+      "idx": 1236,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pahWiuVwNq8h5GiUPTuNP.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Cxy93iT4ufps7MPYrwCLaicUtGMh5H.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_LqkabMqLnc3VvZj4HG.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding19/",
+      "region": "chungcheong",
+      "gather_name": "충주 위드유 웨딩박람회",
+      "ad_info": "당신만을 위한 충주 위드유 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "충북 충주시 탄금대로 139||(봉방동 88-1)||LG전자베스트샵 충주본점",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "preprocessed": {
+        "location": {
+          "sido": "충북",
+          "sido_en": "chungbuk",
+          "sigungu": "충주시",
+          "sigungu_en": "chungju",
+          "address": "충북 충주시 탄금대로 139",
+          "venue": "LG전자베스트샵 충주본점"
         }
       },
       "revenue": 30000
@@ -2051,6 +2311,7 @@
       "revenue": 30000
     },
     "whw05": {
+      "idx": 1634,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_AbqFijwewMxmPFc6Su7XVuQTJyZNPN.jpg",
@@ -2072,7 +2333,8 @@
           "address": "전북 군산시 은파순환길 20",
           "venue": "호텔은파팰리스 특별행사장"
         }
-      }
+      },
+      "revenue": 40000
     },
     "theBW01": {
       "idx": 946,
@@ -2464,6 +2726,32 @@
       },
       "revenue": 50000
     },
+    "palmfair06": {
+      "idx": 1806,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_RCdEQC9E2no6EkpbqriLIh9PCf.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_2UMkLWvcwvkhjkMCZ1p36LPix.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_y8rpLRbELsAZKeK1kd7tR1HTT7ovUHa.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/palmfair06/",
+      "region": "gyeongsang",
+      "gather_name": "창원 팜투어 허니문박람회",
+      "ad_info": "팜투어는 행복과 신뢰를 파는 대한민국 허니문 1등 여행사 입니다.",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "경남 창원시 성산구 상남로 75||위드필타워오피스텔 212호(상남동 73-2)||팜투어 창원직영지사",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16",
+      "preprocessed": {
+        "location": {
+          "sido": "경남",
+          "sido_en": "gyeongnam",
+          "sigungu": "창원시",
+          "sigungu_en": "changwon",
+          "address": "경남 창원시 성산구 상남로 75",
+          "venue": "팜투어 창원직영지사"
+        }
+      },
+      "revenue": 35000
+    },
     "wwedding12": {
       "idx": 1440,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_T8eN4ayw1pL23JqxFyGg6m7QU.png",
@@ -2474,7 +2762,7 @@
       "gather_name": "울산 롯데백화점 W웨딩박람회",
       "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일) 08월 22일(토) ~ 08월 23일(일)",
       "ad_location": "울산 남구 삼산로 261||(삼산동 1521-1)||롯데백화점 울산점 특별행사장",
       "start_date": "2026-08-15",
       "end_date": "2026-08-16",
@@ -2491,7 +2779,6 @@
       "revenue": 30000
     },
     "yeonwedding01": {
-      "idx": 1450,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_mviBZQZa2ysOlvnZv3BAHa8pwodAV.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_XyDmXSvo.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_rm34jL3wuZ7DjerqzWd2SpllB.jpg",
@@ -2513,11 +2800,9 @@
           "address": "대구 북구 유통단지로 80 (산격동 1674)",
           "venue": "인터불고엑스코"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wwedding08": {
-      "idx": 1333,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Dwe1tT4WnAUjyxJ.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_o24ojwfXKvjuE6vO9Ne3iqJ7duf.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3JQL7ydBHQ4ddactRja6ceFv2knIrB6.jpg",
@@ -2539,8 +2824,7 @@
           "address": "경남 창원시 성산구 중앙대로 69",
           "venue": "호텔인터내셔널 특별행사장"
         }
-      },
-      "revenue": 40000
+      }
     },
     "wwedding07": {
       "idx": 1319,
@@ -2656,10 +2940,10 @@
       "gather_name": "제주 팜투어 허니문박람회",
       "ad_info": "팜투어는 행복과 신뢰를 파는 대한민국 허니문 1등 여행사 입니다.",
       "ad_year": "2026",
-      "ad_date": "08월 08일(토) ~ 08월 10일(월)",
+      "ad_date": "08월 15일(토) ~ 08월 17일(월)",
       "ad_location": "제주특별자치도 제주시 연삼로 38||(연동 300-1)||제주연빌딩",
-      "start_date": "2026-08-08",
-      "end_date": "2026-08-10",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-17",
       "preprocessed": {
         "location": {
           "sido": "제주",
@@ -2803,6 +3087,7 @@
       "revenue": 40000
     },
     "labelleellin09": {
+      "idx": 1427,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_Nhbaoree7d34xQt3TN7Ge74WV417PKsc.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_1rjhNhd7Y8SWfOYJ8pZaaSA6XlIXoMa.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_SxO7xNEvctj5QtnUi6.jpg",
@@ -2824,7 +3109,8 @@
           "address": "경기 수원시 팔달구 효원로 62",
           "venue": "라벨르엘린 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "whw03": {
       "idx": 1039,
