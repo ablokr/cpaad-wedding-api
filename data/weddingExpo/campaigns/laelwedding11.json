@@ -1,0 +1,205 @@
+{
+  "idx": 1841,
+  "campaign_id": "laelwedding11",
+  "gather_name": "제주 롯데시티호텔 웨딩박람회",
+  "organizer_name": "라엘웨딩",
+  "seo_metadata": {
+    "title": "제주 롯데시티호텔 웨딩박람회 | 스드메 할인 및 계약 축하금 혜택",
+    "meta_description": "2026년 9월 5일~6일, 롯데시티호텔 제주에서 열리는 웨딩박람회. 스드메 최대 350만원 할인, 현금 30만원 지원 및 다양한 혼수 혜택을 사전등록으로 만나보세요.",
+    "keywords": [
+      "제주 웨딩박람회",
+      "롯데시티호텔 제주 웨딩",
+      "제주 결혼준비",
+      "제주 스드메",
+      "제주 웨딩홀",
+      "제주 혼수",
+      "제주 신혼여행",
+      "웨딩박람회 일정",
+      "제주 예물",
+      "제주 예복"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "제주에서 결혼을 준비하는 예비부부라면 주목해야 할 '제주 롯데시티호텔 웨딩박람회'가 9월 5일부터 6일까지 개최됩니다. 이번 박람회는 스드메 패키지부터 혼수, 예물, 신혼여행까지 결혼 준비의 전 과정을 한자리에서 비교하고 합리적인 조건으로 계약할 수 있도록 기획되었습니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문객을 위한 다양한 경품과 계약 혜택이 준비되어 있습니다. 우선 상담만 받아도 다이슨 슈퍼소닉 등 푸짐한 경품 추첨 기회가 주어지며, 스드메 최대 350만 원 할인과 현금 30만 원 지원 등 파격적인 혜택을 확인하실 수 있습니다. 또한, 각 부스별로 제공되는 할인 쿠폰과 업그레이드 혜택을 활용하면 예산 절감은 물론 더욱 완성도 높은 결혼 준비가 가능합니다.",
+    "summary_for_search": "2026년 9월 5일~6일, 롯데시티호텔 제주에서 열리는 웨딩박람회. 스드메 할인, 현금 30만원 지원 등 풍성한 혜택을 지금 사전등록으로 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전등록하면 현금 30만원 지원 & 스드메 최대 350만원 할인!",
+    "secondary_headline": "롯데시티호텔 제주에서 만나는 제주 최대 규모 웨딩박람회",
+    "urgency_text": "선착순 방문객 한정 경품 및 특별 할인 제공",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 경품 추첨 기회 (다이슨 슈퍼소닉 등)"
+    ],
+    "contract_benefits": [
+      "스드메 최대 350만원 할인",
+      "현금 30만원 지원",
+      "웨딩홀 무료 시식 및 특별 혜택",
+      "맞춤예복 10만원 할인 및 혼주복 50% 할인",
+      "가전 구매 시 6개월 무이자 혜택"
+    ],
+    "special_events": [
+      "퍼스널 컬러 진단",
+      "3D 피부 나이 측정",
+      "두피/피부 정밀 스쿠프",
+      "눈썹 디자인 체험"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "original_display_date": "09월 05일(토) ~ 09월 06일(일)"
+    },
+    "location": {
+      "sido": "제주",
+      "sido_en": "jeju",
+      "sigungu": "제주시",
+      "sigungu_en": "jeju",
+      "address": "제주특별자치도 제주시 도령로 83",
+      "venue": "롯데시티호텔 제주",
+      "parking_info": "호텔 내 주차장 이용 가능 (상세 안내는 사전등록 페이지 확인 요망)",
+      "region_code": "jeju"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 후 이벤트 참여 시 제공",
+    "trust_indicators": [
+      "롯데시티호텔 공식 후원",
+      "제주 주요 웨딩업체 대거 입점",
+      "투명한 상담 및 견적 안내"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제주 롯데시티호텔 웨딩박람회",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "location": {
+        "@type": "Place",
+        "name": "롯데시티호텔 제주",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "제주시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "라엘웨딩",
+        "url": "https://ad.cpaad.co.kr/laelwedding11/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 있나요?",
+        "answer": "아니요, 사전에 무료 참가 신청을 하시면 비용 없이 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "공식 홈페이지의 무료 사전신청 폼을 통해 이름, 연락처, 예식 예정일을 입력하시면 접수됩니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데시티호텔 제주 내 주차장을 이용하실 수 있으며, 박람회 방문객을 위한 안내가 제공됩니다."
+      },
+      {
+        "question": "상담 시 혜택은 어떤 것이 있나요?",
+        "answer": "스드메 할인, 현금 지원, 혼수 가전 무이자 혜택 등 업체별 특별 프로모션이 준비되어 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "제주 지역의 드레스, 스튜디오, 웨딩홀, 예복, 예물, 가전 등 결혼 준비에 필요한 모든 카테고리 업체가 참가합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 제주의 예비부부들을 위한 맞춤형 박람회입니다. 결혼 준비 시작 단계인 6개월~1년 전 커플부터, 스드메 예산 합리화가 필요한 신혼부부, 제주에서의 특별한 웨딩홀 투어를 고민 중인 예비부부라면 필수 코스입니다. 전문가와의 1:1 상담을 통해 막연했던 결혼 준비 과정을 체계적으로 정리하고, 현장에서만 제공되는 가격 혜택을 통해 경제적인 준비를 돕습니다.",
+    "exhibitor_highlights": [
+      "웨딩홀/스튜디오",
+      "드레스/메이크업",
+      "맞춤정장/예복",
+      "혼수/가전",
+      "허니문 여행사",
+      "예물/주얼리",
+      "금융/재무 상담"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최대 350만원 할인 및 현금 지원",
+      "제주 지역 최다 웨딩 업체 한자리 비교",
+      "전문가 1:1 맞춤형 컨설팅 및 퍼스널 컬러 진단 등 체험 이벤트"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "제주 웨딩박람회 일정",
+      "제주 스드메 비용",
+      "제주 웨딩홀 추천",
+      "제주 결혼 준비 체크리스트",
+      "제주 허니문 여행사",
+      "결혼 박람회 방문 팁",
+      "제주 예복 맞춤 추천",
+      "롯데시티호텔 웨딩",
+      "제주 스튜디오 촬영",
+      "제주 웨딩드레스샵"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "제주 웨딩박람회 전체 일정",
+        "category": "event_calendar"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "제주웨딩",
+      "웨딩패키지",
+      "허니문",
+      "결혼준비",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제주 롯데시티호텔 웨딩박람회 | 스드메 혜택 확인",
+    "og_description": "현금 30만원 지원부터 최대 350만원 할인까지! 9월 제주 결혼 준비는 여기에서 시작하세요.",
+    "hashtags": [
+      "#제주웨딩박람회",
+      "#제주결혼준비",
+      "#제주웨딩",
+      "#롯데시티호텔제주",
+      "#제주스드메",
+      "#제주웨딩홀",
+      "#예비부부",
+      "#제주허니문",
+      "#결혼준비",
+      "#제주예물"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/laelwedding11/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Z8x3FHdXZ7XRtHTUXDMOIM.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_xDTRlac5O2U7Fk.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_aPerFSu3gxaBqdmQooqi.jpg"
+  },
+  "updated_at": "2026-08-10 19:34:31",
+  "revenue": 30000
+}
