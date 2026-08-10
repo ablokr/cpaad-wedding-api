@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-10T13:00:03Z",
-  "total_ad_count": 121,
+  "last_updated": "2026-08-10T16:00:07Z",
+  "total_ad_count": 124,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -1208,6 +1208,20 @@
       "start_date": "2026-08-22",
       "end_date": "2026-08-23"
     },
+    "knockWed04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ef3Ty8jYzHcxxp7fAbWbp.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_h61tNjhKS9UPMENI57xuXSdrmQjnIwb.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed04/",
+      "region": "jeolla",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "ad_info": "품격이 다른 웨딩문화 체험관",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "광주 서구 무진대로 904||(광천동 49-1)||광주 유스퀘어 문화관",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
+    },
     "whw01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_NDGQfbt6kYtOiW3tahYxh.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cLMAdT6ZDexfhXxDoy6K.jpg",
@@ -1292,19 +1306,19 @@
       "start_date": "2026-08-15",
       "end_date": "2026-08-16"
     },
-    "knockWed11": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_KnP5ZEDRq48uv.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_UrKKA7gTKGdOr.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_eVk4BnRhU6VOCSouqWgjp5LnVzmC.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/knockWed11/",
+    "theBWSF01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_rfVMfn3KmCREgHqIifEn.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_VjLlyLddjMkIrAG5xhLYf8YuVzgY.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_gr2jCNmKNkOLAMB.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBWSF01/",
       "region": "jeolla",
-      "gather_name": "광주 웨딩박람회 in 홀리데이인호텔",
-      "ad_info": "신뢰와 믿음을 바탕으로 고객님들과 함께!",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "ad_info": "광주웨딩박람회는 오직 스타일링 웨딩페어",
       "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "광주 서구 상무누리로 55 1층||(치평동 573-1)||홀리데이인호텔 별관웨딩홀",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16"
+      "ad_date": "08월 22일(토) ~ 08월 23일(일)",
+      "ad_location": "광주 동구 서석로 13-1 3층||(불로동 97-6)||더베스트웨딩컴퍼니 사옥",
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23"
     },
     "jwc02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_XIIeUi6HsaJYLoRiwaCPupaWtMcpwiu.jpg",
@@ -1555,6 +1569,34 @@
       "ad_year": "2026",
       "ad_date": "08월 15일(토) ~ 08월 16일(일)",
       "ad_location": "경남 김해시 김해대로 2352 4층 A401호||(부원동 1046)||김해 더파티웨딩홀",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
+    },
+    "banhanaH03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_16dY4Uyi9Lz2oot4bOWbIW.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QBZLRkGjA6GZ5D7a.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_qCImNqwqOcfXLFLMZtUbFsOJHZNFvvJu.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/banhanaH03/",
+      "region": "gyeongsang",
+      "gather_name": "대구 반하나 허니문 박람회",
+      "ad_info": "만족도 1등 브랜드의 차별화된 허니문 페스티벌",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "대구 동구 동부로 149||(신천동 1506)||신세계백화점 대구점 7층 LG베스트샵",
+      "start_date": "2026-08-15",
+      "end_date": "2026-08-16"
+    },
+    "banhanaH06": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_lcFD1ZOYPrcWA7t.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YkHv816m7zgruu.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_S9axIgnBQ5id75aMi2asMtYMc.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/banhanaH06/",
+      "region": "gyeongsang",
+      "gather_name": "울산 반하나 허니문 박람회",
+      "ad_info": "만족도 1등 브랜드의 차별화된 허니문박람회",
+      "ad_year": "2026",
+      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
+      "ad_location": "울산 북구 진장17길 10 (진장동 705)||신선도원몰 1층 반하나투어",
       "start_date": "2026-08-15",
       "end_date": "2026-08-16"
     },
