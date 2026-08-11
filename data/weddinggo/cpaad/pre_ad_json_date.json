@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-11T13:00:04Z",
-  "total_ad_count": 137,
+  "last_updated": "2026-08-11T16:00:03Z",
+  "total_ad_count": 134,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -135,7 +135,6 @@
       "revenue": 30000
     },
     "wedingcrowd90": {
-      "idx": 1662,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_Tzl9aBGtpyXVbEAziRsCcAJRRRw.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_FyPvl8tm63dMX29wL.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_J3N1eMAN3xJalxTR.jpg",
@@ -157,8 +156,7 @@
           "address": "서울 동대문구 왕산로 214",
           "venue": "롯데백화점 청량리점 7층 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "DirectWeddingFair01": {
       "idx": 1640,
@@ -239,7 +237,6 @@
       "revenue": 40000
     },
     "palmfair01": {
-      "idx": 580,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kOzQ7ljjiXGVdLwZyYzi6ZQ4WckeN5.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_CrgDTpKXBmQSLuqJ.jpg",
@@ -261,8 +258,7 @@
           "address": "서울시 강남구 언주로 711",
           "venue": "건설회관빌딩 1층"
         }
-      },
-      "revenue": 40000
+      }
     },
     "wedingcrowd67": {
       "idx": 1557,
@@ -551,6 +547,7 @@
       "revenue": 30000
     },
     "wedingcrowd48": {
+      "idx": 1385,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_rBGj7Ihk.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_44fp626yrnowiadMEPAUjFKPQxXxX3M.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_DfsQKhdMTyVZl5nZ2k5WFDtMREr4G.jpg",
@@ -572,7 +569,8 @@
           "address": "경기 수원시 영통구 광교중앙로 124",
           "venue": "갤러리아백화점 광교점 8층 특별전시장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wedingcrowd35": {
       "idx": 1291,
@@ -757,6 +755,7 @@
       "revenue": 30000
     },
     "labelleellin01": {
+      "idx": 1097,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_O3uYZxCA3hvFxSs3Y5eaPqBz512is.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YmmNGeaQqD6mZiIXjGktCvdkM4ffFEfw.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4KTX6PESpVR6QKKAx7Ggoks6YnwwSk.jpg",
@@ -778,7 +777,8 @@
           "address": "경기 수원시 권선구 세화로 134",
           "venue": "LG베스트샵 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wedingcrowd77": {
       "idx": 1593,
@@ -1171,6 +1171,7 @@
       "revenue": 50000
     },
     "weddingplus14": {
+      "idx": 1681,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_3dPxRIifnAp8FfkbkMsRWmo4.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_i957SMYkCj.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_B545dKlkEHOxY.jpg",
@@ -1192,7 +1193,8 @@
           "address": "경기 안양시 동안구 시민대로 180 7층",
           "venue": "LG전자베스트샵 롯데백화점 평촌점 특별행사장"
         }
-      }
+      },
+      "revenue": 40000
     },
     "weddingplus18": {
       "idx": 1859,
@@ -1323,6 +1325,30 @@
         }
       },
       "revenue": 30000
+    },
+    "revewedding30": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_NABGGVxn5HYSWgi.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Na3O3yS8WxJqVy7uhPP9safJ8w.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_tf4kx1GUzM.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding30/",
+      "region": "gyeonggi",
+      "gather_name": "안산 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 안산 최대규모 웨딩박람회",
+      "ad_year": "0000",
+      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_location": "경기 안산시 단원구 화랑로 312||(고잔동 817)||안산문화예술의전당",
+      "start_date": "0000-00-00",
+      "end_date": "0000-00-00",
+      "preprocessed": {
+        "location": {
+          "sido": "경기",
+          "sido_en": "gyeonggi",
+          "sigungu": "안산시",
+          "sigungu_en": "ansan",
+          "address": "경기 안산시 단원구 화랑로 312",
+          "venue": "안산문화예술의전당"
+        }
+      }
     },
     "withyouwedding12": {
       "idx": 1189,
@@ -1611,6 +1637,7 @@
       "revenue": 30000
     },
     "palmfair04": {
+      "idx": 588,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x7aKwylATE4tIIJwaPEJl52VWeWb1qbU.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_CMHidV6nEgxlkoSRU64gatdByCQAbsyf.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_E23vE3xyC6PuQ7N6be42.jpg",
@@ -1632,9 +1659,11 @@
           "address": "부산광역시 부산진구 황령대로9",
           "venue": "유성빌딩 6층"
         }
-      }
+      },
+      "revenue": 35000
     },
     "bwc02": {
+      "idx": 1254,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_nCvrvLWIED8fKz1k1924CnA3Xe.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_gMyr8Ign2OCXywJ.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_GrxpVkb8.jpg",
@@ -1656,9 +1685,11 @@
           "address": "부산 해운대구 APEC로 30",
           "venue": "벡스코 제2전시장 1층 4F홀"
         }
-      }
+      },
+      "revenue": 30000
     },
     "charlesWedBusan12": {
+      "idx": 1544,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_abwX5qGcITk6lMoIMUOPwuG8Axco.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_cMiQ1VVJe1P7L95dgmfM.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_VK4TsTxlgXinvFJomgIRBe.jpg",
@@ -1680,7 +1711,8 @@
           "address": "부산 해운대구 센텀서로 30",
           "venue": "KNN센텀신사옥 1층 특설웨딩박람회장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "wwedding11": {
       "idx": 1415,
@@ -2047,7 +2079,6 @@
       "revenue": 30000
     },
     "planittour01": {
-      "idx": 1772,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_56YONPwXTjXZMNdz7Cmf3g.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_SNxDTUUCnRgIGUwWEN6vSLsf4nfq.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_iLh9tRUC.jpg",
@@ -2069,8 +2100,7 @@
           "address": "대전 서구 계룡로 639",
           "venue": "플래닛투어 본사"
         }
-      },
-      "revenue": 30000
+      }
     },
     "familywedding11": {
       "idx": 1330,
@@ -2099,7 +2129,6 @@
       "revenue": 30000
     },
     "withyouwedding35": {
-      "idx": 1520,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_4v8XmkS4Wqh.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pBvWxZ1GuJtigXqkhKV6UsawMpMnPM.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_sd4rXwiYso2Qou7HQg3eA3jve.jpg",
@@ -2121,8 +2150,7 @@
           "address": "충남 천안시 서북구 부대3길 26",
           "venue": "아일랜드유 Cafe&웨딩홀"
         }
-      },
-      "revenue": 30000
+      }
     },
     "wedingcrowd01": {
       "idx": 1068,
@@ -2149,56 +2177,6 @@
         }
       },
       "revenue": 30000
-    },
-    "revewedding25": {
-      "idx": 1795,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_s5YiGyDjjw1KC1Nxz9MT8w.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_SAkpR8t9m.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_nD2B7WjE4skiuknLONGphtFF.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/revewedding25/",
-      "region": "chungcheong",
-      "gather_name": "천안 신세계백화점 웨딩박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "preprocessed": {
-        "location": {
-          "sido": "충남",
-          "sido_en": "chungnam",
-          "sigungu": "천안시",
-          "sigungu_en": "cheonan",
-          "address": "충남 천안시 동남구 만남로 43",
-          "venue": "신세계백화점 천안아산점 A관 4층"
-        }
-      },
-      "revenue": 50000
-    },
-    "reveweddingE25": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_La4tgtsSYXHnnr2hAahSK8chDWfex.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MjjZrISRhIqDBO53Sgq6.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_jeVVuLsQgUS3oWmyChRV.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/reveweddingE25/",
-      "region": "chungcheong",
-      "gather_name": "천안 신세계백화점 혼수가전박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 혼수가전박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층 LG전자",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "preprocessed": {
-        "location": {
-          "sido": "충남",
-          "sido_en": "chungnam",
-          "sigungu": "천안시",
-          "sigungu_en": "cheonan",
-          "address": "충남 천안시 동남구 만남로 43",
-          "venue": "신세계백화점 천안아산점 A관 4층 LG전자"
-        }
-      }
     },
     "objetWed04": {
       "idx": 1858,
@@ -2435,7 +2413,6 @@
       "revenue": 30000
     },
     "withyouwedding19": {
-      "idx": 1236,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pahWiuVwNq8h5GiUPTuNP.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Cxy93iT4ufps7MPYrwCLaicUtGMh5H.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_LqkabMqLnc3VvZj4HG.jpg",
@@ -2457,8 +2434,7 @@
           "address": "충북 충주시 탄금대로 139",
           "venue": "LG전자베스트샵 충주본점"
         }
-      },
-      "revenue": 30000
+      }
     },
     "knockWed04": {
       "idx": 1212,
@@ -2747,7 +2723,6 @@
       "revenue": 30000
     },
     "wedingcrowd08": {
-      "idx": 1082,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_S7f2ackQ7E8d8.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_KcAq2kMRJPv8WNpRHIosRIO.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_AOkiuiJT8kGq9ol8HXNl3Qtpkat.jpg",
@@ -2769,8 +2744,7 @@
           "address": "강원특별자치도 강릉시 사임당로 88 1층",
           "venue": "벨리시모웨딩컨벤션 특별행사장"
         }
-      },
-      "revenue": 30000
+      }
     },
     "withyouwedding09": {
       "idx": 1186,
@@ -2902,33 +2876,8 @@
       },
       "revenue": 30000
     },
-    "reveweddingE29": {
-      "idx": 1839,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ZgUW8l5K.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_AhJVupAsiKf4VWwAXUax.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Nnz98ySiqFI9NjWs6ptep5KxiDy.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/reveweddingE29/",
-      "region": "gangwon",
-      "gather_name": "춘천 혼수가전박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 춘천 최대규모 혼수가전박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "강원특별자치도 춘천시 영서로 2099||(퇴계동 178-1)||LG전자베스트샵 춘천점",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "preprocessed": {
-        "location": {
-          "sido": "강원",
-          "sido_en": "gangwon",
-          "sigungu": "춘천시",
-          "sigungu_en": "chuncheon",
-          "address": "강원특별자치도 춘천시 영서로 2099",
-          "venue": "LG전자베스트샵 춘천점"
-        }
-      },
-      "revenue": 50000
-    },
     "wedingcrowd118": {
+      "idx": 1864,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3Q4fvWGDI2LFu8M2.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YWCwMzJo4Lx2fAMtqAeYmTUgZ1QEiG.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_R6C1sfvg.jpg",
@@ -2950,7 +2899,8 @@
           "address": "강원특별자치도 강릉시 경강로 2380",
           "venue": "삼성스토어 강릉 특별행사장"
         }
-      }
+      },
+      "revenue": 30000
     },
     "reveweddingH29": {
       "idx": 1860,
@@ -3005,7 +2955,6 @@
       "revenue": 30000
     },
     "weddingplus01": {
-      "idx": 1362,
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_MvHMZB726tQXFyTcH5JV.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_pq4QRy3hkL1S4f.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_9SMU2HPWG8o9QccIsgnPWQn.jpg",
@@ -3027,34 +2976,7 @@
           "address": "강원특별자치도 원주시 봉화로 1 6층",
           "venue": "LG전자베스트샵 AKPLAZA원주점"
         }
-      },
-      "revenue": 40000
-    },
-    "revewedding29": {
-      "idx": 1838,
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_ty4wi5gEbBejIewGUKO.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MnjYEYd6OlJ2Ci3Uj.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_Yt1v5St5z3zQW1Dw.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/revewedding29/",
-      "region": "gangwon",
-      "gather_name": "춘천 웨딩박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 춘천 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "08월 15일(토) ~ 08월 16일(일)",
-      "ad_location": "강원특별자치도 춘천시 영서로 2099||(퇴계동 178-1)||LG전자베스트샵 춘천점",
-      "start_date": "2026-08-15",
-      "end_date": "2026-08-16",
-      "preprocessed": {
-        "location": {
-          "sido": "강원",
-          "sido_en": "gangwon",
-          "sigungu": "춘천시",
-          "sigungu_en": "chuncheon",
-          "address": "강원특별자치도 춘천시 영서로 2099",
-          "venue": "LG전자베스트샵 춘천점"
-        }
-      },
-      "revenue": 50000
+      }
     },
     "palmfair06": {
       "idx": 1806,
