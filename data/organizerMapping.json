@@ -106,6 +106,26 @@
       "higherweddingplan02"
     ]
   },
+  "hongswd": {
+    "name": "더블유앤코",
+    "campaigns": [
+      "hongswd01",
+      "wncowedding02",
+      "wncowedding03",
+      "wncowedding04",
+      "wncowedding05",
+      "wncowedding08",
+      "wncowedding09",
+      "wncowedding16",
+      "wncowedding17",
+      "wncowedding19",
+      "wncowedding10",
+      "wncowedding07",
+      "wncowedding21",
+      "wncowedding22",
+      "wncowedding20"
+    ]
+  },
   "howto": {
     "name": "하우투웨딩",
     "campaigns": [
@@ -458,23 +478,7 @@
     ]
   },
   "wncowedding": {
-    "name": "더블유앤코",
-    "campaigns": [
-      "wncowedding02",
-      "wncowedding03",
-      "wncowedding04",
-      "wncowedding05",
-      "wncowedding08",
-      "wncowedding09",
-      "wncowedding16",
-      "wncowedding17",
-      "wncowedding19",
-      "wncowedding10",
-      "wncowedding07",
-      "wncowedding21",
-      "wncowedding22",
-      "wncowedding20"
-    ]
+    "alias_of": "hongswd"
   },
   "wwedding": {
     "name": "더리본 주식회사",
