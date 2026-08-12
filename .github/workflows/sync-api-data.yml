@@ -129,3 +129,21 @@ jobs:
           token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
           repository: ablokr/WeddingDay
           event-type: api_data_updated
+
+      # [트리거 D] 웨딩고 정보 데이터(weddinggo)가 바뀌었을 때 WeddingHub 프론트엔드 빌드 갱신
+      - name: Trigger Frontend Revalidation (WeddingHub)
+        if: success() && (needs.sync_data.outputs.weddinggo_changed == 'true' || github.event_name == 'workflow_dispatch')
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
+          repository: ablokr/WeddingHub
+          event-type: api_data_updated
+
+      # [트리거 E] 박람회 정보 데이터(weddingExpo)가 바뀌었을 때 WeddingExpo 프론트엔드 빌드 갱신
+      - name: Trigger Frontend Revalidation (WeddingExpo)
+        if: success() && (needs.sync_data.outputs.weddingExpo_changed == 'true' || github.event_name == 'workflow_dispatch')
+        uses: peter-evans/repository-dispatch@v3
+        with:
+          token: ${{ secrets.WEDDINGGO_PAT_TOKEN }}
+          repository: ablokr/WeddingExpo
+          event-type: api_data_updated
