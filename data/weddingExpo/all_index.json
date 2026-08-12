@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 138,
+    "total_count": 139,
     "region_count": 15,
     "district_count": 44,
-    "updated_at": "2026-08-12 13:31:57"
+    "updated_at": "2026-08-12 19:30:48"
   },
   "items": [
     {
@@ -1792,19 +1792,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1196,
-      "campaign_id": "withyouwedding16",
-      "gather_name": "광명 위드유 웨딩박람회",
-      "display_date": "08월 29일(토) ~ 08월 30일(일)",
-      "venue": "삼성스토어 광명소하점",
-      "sido": "경기",
-      "sigungu": "광명시",
-      "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_mRnQt6UVYOfoW6oO.jpg",
-      "updated_at": "2026-08-10 19:34:46",
-      "revenue": 30000
-    },
-    {
       "idx": 1862,
       "campaign_id": "hongswd01",
       "gather_name": "홍스웨딩 프리미엄 웨딩페어",
@@ -1877,6 +1864,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_qP7SeSGvYa5aG17K5jxcdcp7HkoU8nx.jpg",
       "updated_at": "2026-08-12 13:31:57",
       "revenue": 30000
+    },
+    {
+      "idx": 1718,
+      "campaign_id": "weddingan04",
+      "gather_name": "영등포 웨딩박람회",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "venue": "LG전자베스트샵 롯데영등포점",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Vt55gjHHVm.jpg",
+      "updated_at": "2026-08-12 19:30:27",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd29",
+      "gather_name": "리움웨딩 청주 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "리움웨딩컨벤션",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iovkK4N1QCrNdZutA7C.jpg",
+      "updated_at": "2026-08-12 19:30:48"
     }
   ]
 }
