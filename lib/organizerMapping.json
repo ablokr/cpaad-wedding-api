@@ -82,16 +82,7 @@
     ]
   },
   "familywedding": {
-    "name": "패밀리투어",
-    "campaigns": [
-      "familywedding02",
-      "familywedding11",
-      "familywedding16",
-      "familywedding24",
-      "familywedding07",
-      "familywedding29",
-      "familywedding12"
-    ]
+    "alias_of": "wantwedfair"
   },
   "hannawedding": {
     "name": "한나웨딩",
@@ -330,6 +321,19 @@
     "campaigns": [
       "tourmin02",
       "tourmin01"
+    ]
+  },
+  "wantwedfair": {
+    "name": "패밀리투어",
+    "campaigns": [
+      "wantwedfair01",
+      "familywedding02",
+      "familywedding11",
+      "familywedding16",
+      "familywedding24",
+      "familywedding07",
+      "familywedding29",
+      "familywedding12"
     ]
   },
   "wedcompanyL": {
