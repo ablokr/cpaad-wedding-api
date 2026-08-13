@@ -1,0 +1,208 @@
+{
+  "idx": 1316,
+  "campaign_id": "theshirleywedding04",
+  "gather_name": "의정부 더셜리 웨딩박람회",
+  "organizer_name": "더셜리",
+  "seo_metadata": {
+    "title": "의정부 더셜리 웨딩박람회 | 스드메 150만원대 패키지 및 상담 혜택",
+    "meta_description": "2026년 9월 5일~6일, 의정부 LG전자베스트샵에서 열리는 더셜리 웨딩박람회. 스드메 패키지 최대 40% 할인, 방문자 경품 증정 및 전문가 1:1 맞춤 컨설팅을 지금 사전등록으로 만나보세요.",
+    "keywords": [
+      "의정부웨딩박람회",
+      "경기웨딩박람회",
+      "의정부스드메",
+      "결혼준비",
+      "웨딩박람회혜택",
+      "더셜리웨딩",
+      "스드메패키지",
+      "웨딩홀추천",
+      "예물예복할인",
+      "신혼여행패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하려는 예비부부라면 이번 의정부 더셜리 웨딩박람회 참가를 고민해 보세요. 2026년 9월 5일부터 6일까지 진행되는 이번 행사는 결혼 준비의 필수 요소를 한자리에서 비교하고 합리적인 비용으로 컨설팅받을 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회에서는 스드메 패키지를 150만 원대의 파격적인 혜택으로 구성하여 예비부부의 비용 부담을 낮췄습니다. 또한, 웨딩홀 대관료 무료 및 식대 할인, 혼수 최대 40% 할인 등 실질적인 경제적 혜택이 다양하게 준비되어 있습니다. 방문만 해도 드리는 선물과 건강검진 혜택 등 다채로운 이벤트가 마련되어 있어, 결혼 준비의 시작을 효율적으로 하실 수 있도록 돕습니다.",
+    "summary_for_search": "의정부 더셜리 웨딩박람회(9/5~9/6, LG전자베스트샵) 개최! 스드메 150만원 패키지, 혼수 40% 할인, 웨딩홀 대관료 무료 등 특별 혜택을 사전등록으로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 비용, 전문가와 함께 100~300만 원 아껴보세요",
+    "secondary_headline": "의정부 더셜리 웨딩박람회, 스드메부터 혼수까지 원스톱 웨딩 컨설팅",
+    "urgency_text": "선착순 사전 예약자 대상 특별 선물 증정",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "박람회 방문객 특별 사은품 증정",
+      "양가 부모님 포함 6인 건강검진 혜택"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 150만 원 구성",
+      "웨딩홀 대관료 무료 및 식대 할인",
+      "혼수 최대 40% 할인",
+      "예물/예복/허니문 현장 계약 시 20~40% 할인"
+    ],
+    "special_events": [
+      "웨딩드레스 블랙라벨 업그레이드 혜택",
+      "메이크업 실장님을 부원장급으로 업그레이드"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "original_display_date": "09월 05일(토) ~ 09월 06일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "의정부시",
+      "sigungu_en": "uijeongbu",
+      "address": "경기 의정부시 평화로 525",
+      "venue": "LG전자베스트샵 특별행사장",
+      "parking_info": "별도 기재되어 있지 않으나 LG전자베스트샵 주차장 이용 가능 여부 사전 확인 권장",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "사전 등록 후 현장 상담 완료 시 혜택 제공",
+    "trust_indicators": [
+      "1:1 전문 맞춤 상담 제공",
+      "검증된 프리미엄 드레스샵 다수 입점",
+      "전국 12개 센터 연계 건강검진 혜택"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "의정부 더셜리 웨딩박람회",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "평화로 525",
+          "addressLocality": "의정부시",
+          "addressRegion": "경기도",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더셜리",
+        "url": "https://ad.cpaad.co.kr/theshirleywedding04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 참가 비용은 얼마인가요?",
+        "answer": "본 행사는 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "사전 등록은 어떻게 하나요?",
+        "answer": "공식 랜딩페이지에서 성함, 연락처, 결혼 예정일을 입력하여 신청 가능합니다."
+      },
+      {
+        "question": "박람회에서 스드메 패키지 상담을 받을 수 있나요?",
+        "answer": "네, 전문 웨딩 컨설턴트가 1:1로 맞춤 스드메 패키지 상담을 진행합니다."
+      },
+      {
+        "question": "건강검진 혜택은 누구나 받을 수 있나요?",
+        "answer": "박람회 현장 상담 계약 등 특정 조건 충족 시 부모님을 포함한 건강검진 혜택이 제공됩니다."
+      },
+      {
+        "question": "혼수와 예물도 현장에서 확인 가능한가요?",
+        "answer": "네, 박람회 내 혼수, 예물, 예복 브랜드가 입점하여 현장 할인 혜택을 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 처음 시작해 무엇부터 해야 할지 막막한 예비부부, 스드메 업체의 가격 거품을 걷어내고 합리적인 비용으로 결혼식을 올리고 싶은 신혼부부, 웨딩홀부터 신혼여행지까지 한자리에서 비교하고 시간을 절약하고 싶은 커플을 대상으로 합니다. 결혼 준비의 전체적인 예산 산출 및 전문가의 1:1 맞춤 컨설팅이 필요한 분들에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "프리미엄 드레스샵(로즈로사, 클라라 등 다수)",
+      "스드메 전문 컨설팅 부스",
+      "웨딩홀 및 대관 전문 업체",
+      "예물 및 명품 예복 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 20~40% 할인 혜택 제공",
+      "전문가가 설계하는 100~300만 원 절감 패키지",
+      "부모님 건강검진까지 챙기는 차별화된 웨딩 서비스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "의정부 웨딩홀 추천",
+      "스드메 가격 비교",
+      "결혼 준비 체크리스트",
+      "웨딩 박람회 사기 주의사항",
+      "예물 예복 계약 팁",
+      "신혼여행지 추천",
+      "2026 결혼 준비",
+      "웨딩박람회 무료초대권",
+      "신혼부부 건강검진"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 리스트 바로가기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 모아보기",
+        "category": "sudeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "결혼식",
+      "드레스투어",
+      "맞춤정장"
+    ]
+  },
+  "social_meta": {
+    "og_title": "의정부 더셜리 웨딩박람회 | 결혼 준비 할인 혜택",
+    "og_description": "스드메 150만 원, 혼수 40% 할인! 의정부 웨딩박람회 사전등록하고 전문가 상담과 특별 경품을 모두 챙기세요.",
+    "hashtags": [
+      "#의정부웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#의정부결혼",
+      "#웨딩박람회",
+      "#신혼부부",
+      "#예비부부",
+      "#결혼준비체크리스트",
+      "#더셜리웨딩",
+      "#웨딩할인"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleywedding04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_EgKOySOA9sNnX.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_nmMWRgawLMaLxqxHq.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_NKrCWNhZirig.jpg"
+  },
+  "updated_at": "2026-08-13 19:30:28",
+  "revenue": 30000
+}
