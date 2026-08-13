@@ -1,0 +1,199 @@
+{
+  "campaign_id": "wantwedfair01",
+  "gather_name": "수원 원트웨딩 웨딩박람회 ",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "수원 원트웨딩박람회 | 수원컨벤션센터 당일 계약 최대 혜택",
+    "meta_description": "2026년 9월 5일~6일, 수원컨벤션센터에서 열리는 원트웨딩박람회. 스드메 당일 계약 30% 할인 및 가전 혜택, 다양한 경품 증정. 지금 사전등록하고 결혼 준비의 시작을 효율적으로 준비하세요.",
+    "keywords": [
+      "수원웨딩박람회",
+      "경기웨딩박람회",
+      "수원컨벤션센터웨딩박람회",
+      "원트웨딩박람회",
+      "수원스드메",
+      "수원웨딩홀",
+      "결혼준비박람회",
+      "수원혼수",
+      "예비부부혜택",
+      "웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하신 예비부부라면 수원 원트웨딩 웨딩박람회 참가를 고민해보세요. 이번 박람회는 수원컨벤션센터에서 개최되며, 스드메부터 혼수, 예물까지 한자리에서 비교하고 실속 있는 혜택을 챙길 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문 고객을 대상으로 스타벅스 커피 쿠폰을 제공하며, 당일 계약 시 스드메 30% 할인 및 신부수계 서비스 50% 할인 혜택이 확인됩니다. 특히 계약 금액대별로 로봇청소기 등 실질적인 가전제품을 지원하여 비용 부담을 낮춘 것이 특징입니다. 각 카테고리별 전문 브랜드가 다수 참가하므로, 상담을 통해 나에게 맞는 최적의 웨딩 패키지를 구성해보시길 바랍니다.",
+    "summary_for_search": "2026년 9월 5일부터 6일까지 수원컨벤션센터에서 열리는 수원 원트웨딩박람회 정보를 확인하세요. 스드메 할인, 혼수 혜택, 가전 증정 이벤트 등 풍성한 혜택을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전등록하면 스드메 당일 계약 시 최대 30% 할인!",
+    "secondary_headline": "수원 최대 규모 원트웨딩박람회, 결혼 준비의 모든 것을 한자리에 모았습니다.",
+    "urgency_text": "박람회 기간 중 선착순 상담 및 계약 시 한정 사은품 증정",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 커피 쿠폰 증정"
+    ],
+    "contract_benefits": [
+      "스드메 당일 계약 시 30% 할인",
+      "신부수계 서비스 50% 할인",
+      "계약 금액대별 가전제품(로봇청소기 등) 증정",
+      "예물 전 품목 25% 할인 및 커플링 14K 귀걸이 증정"
+    ],
+    "special_events": [
+      "웨딩홀 무료 식대 할인 및 섭외 서비스",
+      "허니문 여행지별 특가 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "original_display_date": "09월 05일(토) ~ 09월 06일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 특별행사장",
+      "parking_info": "무료 주차권 제공",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 후 안내에 따라 증정",
+    "trust_indicators": [
+      "대한민국 청소 선호도 1위 업체 참여",
+      "다양한 브랜드의 웨딩홀 및 스드메 업체 입점",
+      "1:1 맞춤형 웨딩 컨설팅 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 원트웨딩 웨딩박람회",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": "경기 수원시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/wantwedfair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회는 무료입장인가요?",
+        "answer": "네, 사전등록 시 무료로 입장 및 상담을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "수원컨벤션센터 내 주차장을 이용할 수 있으며, 박람회 참가 시 무료 주차권을 지원합니다."
+      },
+      {
+        "question": "스드메 비용을 어느 정도 절약할 수 있나요?",
+        "answer": "당일 계약 시 최대 30% 할인 혜택을 제공하고 있으며, 업체별 다양한 프로모션이 준비되어 있습니다."
+      },
+      {
+        "question": "박람회장에서 웨딩홀 상담도 가능한가요?",
+        "answer": "네, 제휴 웨딩홀의 실시간 잔여 타임 확인과 식대 할인 혜택 등을 상담받으실 수 있습니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "박람회 공식 홈페이지의 상담 신청 폼에 성함, 연락처, 예식 예정일을 입력하시면 접수됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜는 정해졌으나 어디서부터 시작해야 할지 막막한 예비부부, 스드메(스튜디오·드레스·메이크업) 비용을 효율적으로 비교하고 싶은 분, 혼수와 가전을 합리적인 가격에 구매하고 싶은 분들을 대상으로 합니다. 복잡한 결혼 준비 과정을 전문가의 1:1 상담을 통해 명확한 로드맵으로 정리하고 싶은 커플에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 추천 업체",
+      "스드메 패키지 스튜디오/드레스/메이크업 업체",
+      "혼수 가전 브랜드",
+      "예물 및 예복 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "국내 청소 가전 1위 업체와의 협업으로 차별화된 계약 사은품 제공",
+      "수원 지역 최다 업체 입점 및 1:1 맞춤형 컨설팅 진행",
+      "당일 계약 시 파격적인 할인율과 신부수계 서비스 혜택 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원웨딩박람회 일정",
+      "결혼 준비 순서",
+      "스드메 견적 비교",
+      "웨딩홀 투어 팁",
+      "웨딩박람회 필수 체크리스트",
+      "수원 웨딩컨설팅 추천",
+      "혼수가전 할인 혜택",
+      "결혼 박람회 사은품",
+      "예복 맞춤 가격",
+      "허니문 자유여행 vs 패키지"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 지역 웨딩홀 정보",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 안내",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩드레스",
+      "예복",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 원트웨딩박람회 | 최대 혜택 확인",
+    "og_description": "스드메 30% 할인부터 가전 증정까지! 수원컨벤션센터 웨딩박람회 혜택 확인하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원예신",
+      "#수원스드메",
+      "#웨딩박람회혜택",
+      "#원트웨딩",
+      "#수원컨벤션센터",
+      "#예비부부",
+      "#혼수준비",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wantwedfair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_6fdZlWeIJBa5vPN793ZSREwdHv.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_T2AqEGx5I3iyucIjZ2eZWGoYukoO.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ZKI7Vyp7bVMOcGum4lVop7hxmzU.jpg"
+  },
+  "updated_at": "2026-08-13 19:31:07"
+}
