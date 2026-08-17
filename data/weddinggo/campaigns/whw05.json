@@ -1,0 +1,206 @@
+{
+  "idx": 1634,
+  "campaign_id": "whw05",
+  "gather_name": "군산 웨딩스퀘어 웨딩박람회",
+  "organizer_name": "하얀웨딩",
+  "seo_metadata": {
+    "title": "군산 웨딩스퀘어 웨딩박람회 | 호텔은파팰리스 최대 200만원 할인 혜택",
+    "meta_description": "2026년 8월 군산 웨딩스퀘어 웨딩박람회 개최! 호텔은파팰리스에서 만나는 스드메 패키지 특가와 최대 200만원 할인 혜택을 놓치지 마세요. 지금 무료 초대권 신청하고 특별한 결혼준비를 시작하세요.",
+    "keywords": [
+      "군산 웨딩박람회",
+      "군산 결혼준비",
+      "호텔은파팰리스 웨딩",
+      "군산 스드메",
+      "군산 웨딩홀",
+      "신혼부부 웨딩 혜택",
+      "군산 예식장 추천",
+      "웨딩박람회 일정",
+      "전북 웨딩박람회",
+      "군산 결혼 박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞둔 예비부부님들을 위해 군산 웨딩스퀘어가 준비한 특별한 웨딩박람회에 초대합니다. 전북 지역 최고의 호텔인 호텔은파팰리스에서 열리는 이번 행사는 복잡한 결혼 준비를 한 번에 해결할 수 있는 최적의 기회입니다.",
+    "benefits_description": "이번 박람회에서는 현장 계약 시 최대 200만원 상당의 파격적인 할인 혜택과 함께 호텔 예식 특전이 제공됩니다. 드레스 전문 브랜드 엘리자베스 그룹의 최신 트렌드를 직접 확인하고, 1:1 맞춤 상담을 통해 나만의 웨딩 스타일을 완성해 보세요. 전문 컨설턴트가 제안하는 합리적인 가격의 스드메 패키지는 신혼부부의 경제적 부담을 덜어드리고 만족도는 높여드립니다.",
+    "summary_for_search": "2026년 8월 군산 호텔은파팰리스에서 열리는 웨딩스퀘어 웨딩박람회! 최대 200만원 할인 및 호텔 예식 특전을 제공합니다. 예비부부를 위한 1:1 맞춤 상담과 스드메 패키지 프로모션을 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "웨딩스퀘어 단독, 최대 200만원 할인 및 특별 혜택 제공",
+    "secondary_headline": "군산 호텔은파팰리스에서 만나는 품격 있는 웨딩, 지금 사전 등록으로 누리세요.",
+    "urgency_text": "매주 토·일 한정 운영, 선착순 상담 신청 마감 임박",
+    "call_to_action_text": "지금 무료 초대권 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "박람회 무료 초대권 제공",
+      "1:1 맞춤 웨딩 전문 컨설팅"
+    ],
+    "contract_benefits": [
+      "최대 200만원 상당 할인 혜택",
+      "호텔예식 최대 100만원 할인",
+      "스드메 패키지 특별가 제공"
+    ],
+    "special_events": [
+      "엘리자베스 그룹 명품 드레스 전시",
+      "전북 최다 드레스샵 및 스튜디오 비교 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-22",
+      "end_date": "2026-08-23",
+      "display_date": "매주 토요일/일요일",
+      "original_display_date": "매주 토요일/일요일"
+    },
+    "location": {
+      "sido": "전북",
+      "sido_en": "jeonbuk",
+      "sigungu": "군산시",
+      "sigungu_en": "gunsan",
+      "address": "전북 군산시 은파순환길 20",
+      "venue": "호텔은파팰리스 특별행사장",
+      "parking_info": "호텔 내 주차 시설 완비 (여유로운 주차 공간)",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 계약 체결 시 혜택 적용",
+    "trust_indicators": [
+      "웨딩홀/호텔 스드메 진행 업계 1위",
+      "전북 최다 2,3,4층 웨딩전주 보유",
+      "엘리자베스 그룹 공식 제휴 업체",
+      "500명 이상이 선택한 검증된 드레스 라인업"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "군산 웨딩스퀘어 웨딩박람회",
+      "startDate": "2026-08-22",
+      "endDate": "2026-08-23",
+      "location": {
+        "@type": "Place",
+        "name": "호텔은파팰리스",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "군산시 은파순환길 20",
+          "addressLocality": "전북 군산시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하얀웨딩",
+        "url": "https://ad.cpaad.co.kr/whw05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료입장이 가능한가요?",
+        "answer": "네, 사전 온라인 신청을 통해 무료 초대권을 받으시면 박람회장 무료 입장이 가능합니다."
+      },
+      {
+        "question": "주차 공간은 충분한가요?",
+        "answer": "개최지인 호텔은파팰리스 내에 여유로운 주차 시설이 마련되어 있어 편안하게 자차로 방문하실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 상담은 어떻게 진행되나요?",
+        "answer": "전문 웨딩 컨설턴트가 1:1로 배정되어 예비부부님의 예산과 취향에 맞춘 최적의 스드메 조합을 제안해 드립니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "당일 박람회 계약 고객에게는 최대 200만원 할인 및 호텔 예식 특별 프로모션이 제공됩니다."
+      },
+      {
+        "question": "엘리자베스 드레스는 어떤 브랜드인가요?",
+        "answer": "상위 1% VVIP를 위한 프리미엄 수입 드레스를 보유한 브랜드로, 국내에서 독점권을 가지고 있는 명품 라인업입니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼 준비를 막 시작하여 웨딩홀, 스드메(스튜디오, 드레스, 메이크업), 예물 등 고민이 많은 예비부부를 위한 행사입니다. 특히 합리적인 예산 안에서 호텔 웨딩의 품격을 누리고 싶은 분들, 전북 지역 내 검증된 업체를 한눈에 비교하고 싶은 커플들에게 추천합니다. 막막한 결혼 준비 절차를 단계별로 안내받고 싶거나, 최신 웨딩 트렌드 정보를 얻고자 하는 분들에게 최적화된 맞춤형 웨딩 페어입니다.",
+    "exhibitor_highlights": [
+      "엘리자베스 그룹 명품 드레스",
+      "호텔 예식 웨딩홀",
+      "전북 유명 스튜디오 브랜드",
+      "맞춤형 스드메 패키지 업체"
+    ],
+    "comparison_hooks": [
+      "현장에서만 제공되는 최대 200만원 상당의 계약 할인 프로모션",
+      "전북 최다 웨딩업체 입점으로 비교 범위가 넓은 압도적 선택지",
+      "검증된 호텔 예식 전문가의 1:1 맞춤 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "호텔 결혼식 비용",
+      "전주 군산 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 순서",
+      "웨딩드레스 종류",
+      "신혼여행 패키지 추천",
+      "웨딩박람회 상담 시 주의사항",
+      "호텔 예식 장단점"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "전북 웨딩홀 비교하기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "최신 스드메 트렌드 보기",
+        "category": "st_dr_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "결혼식",
+      "본식스냅",
+      "예복",
+      "웨딩플래너",
+      "결혼준비",
+      "허니문",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "군산 웨딩스퀘어 박람회 혜택 안내",
+    "og_description": "최대 200만원 할인! 호텔은파팰리스에서 열리는 웨딩박람회, 지금 무료 초대권 신청하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#군산웨딩박람회",
+      "#결혼준비",
+      "#호텔은파팰리스",
+      "#스드메",
+      "#웨딩스퀘어",
+      "#예비부부",
+      "#결혼식준비",
+      "#전북웨딩",
+      "#웨딩할인"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/whw05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_Cvsa46HcRo.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_srHpcf3bMKGpR88f82mWqbWdjBgr.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_AbqFijwewMxmPFc6Su7XVuQTJyZNPN.jpg"
+  },
+  "updated_at": "2026-08-17 16:04:55",
+  "revenue": 40000
+}
