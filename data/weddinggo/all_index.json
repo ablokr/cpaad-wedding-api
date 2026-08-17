@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 127,
+    "total_count": 129,
     "region_count": 16,
     "district_count": 42,
-    "updated_at": "2026-08-17 16:07:44"
+    "updated_at": "2026-08-17 19:01:10"
   },
   "items": [
     {
@@ -1594,6 +1594,7 @@
       "revenue": 40000
     },
     {
+      "idx": 1183,
       "campaign_id": "withyouwedding06",
       "gather_name": "대전 위드유 웨딩박람회",
       "display_date": "08월 29일(토) ~ 08월 30일(일)",
@@ -1602,7 +1603,8 @@
       "sigungu": "서구",
       "region_en": "daejeon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_xrNkJzcWgCQissxT.jpg",
-      "updated_at": "2026-08-17 16:04:29"
+      "updated_at": "2026-08-17 16:04:29",
+      "revenue": 30000
     },
     {
       "idx": 1634,
@@ -1693,6 +1695,32 @@
       "region_en": "ulsan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_xobf4zTmPrAlQYfCeZxvnZ1TAN.png",
       "updated_at": "2026-08-17 16:07:44",
+      "revenue": 30000
+    },
+    {
+      "idx": 1549,
+      "campaign_id": "wncowedding05",
+      "gather_name": "수원 웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "타임빌라스 수원 B1 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_H35nrpVGxxYIrA.jpg",
+      "updated_at": "2026-08-17 19:00:42",
+      "revenue": 30000
+    },
+    {
+      "idx": 1545,
+      "campaign_id": "wncowedding04",
+      "gather_name": "원주 웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "AK플라자 원주 6층 특별행사장",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
+      "updated_at": "2026-08-17 19:01:10",
       "revenue": 30000
     }
   ]
