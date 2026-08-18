@@ -1,0 +1,202 @@
+{
+  "campaign_id": "wantwedfair02",
+  "gather_name": "이천 원트웨딩 웨딩박람회",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "이천 원트웨딩 박람회 | 경기 결혼준비 최대 혜택 및 경품 이벤트",
+    "meta_description": "8월 22일~23일 LG전자베스트샵 이천본점에서 열리는 이천 원트웨딩 박람회! 스드메 최대 50% 할인, 혼수 가전 혜택, 계약 축하금 등 예비부부를 위한 파격적인 혜택을 놓치지 마세요. 지금 무료 참가 신청하세요.",
+    "keywords": [
+      "이천웨딩박람회",
+      "이천결혼준비",
+      "경기웨딩박람회",
+      "스드메패키지",
+      "혼수가전할인",
+      "원트웨딩",
+      "결혼준비체크리스트",
+      "이천웨딩홀",
+      "신혼부부혜택",
+      "웨딩박람회경품"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함을 설렘으로 바꿔줄 이천 원트웨딩 박람회가 8월 22일부터 23일까지 개최됩니다. LG전자베스트샵 이천본점에서 진행되는 이번 박람회는 스드메부터 혼수, 가전까지 예비부부님들이 고민하는 모든 과정을 한 번에 해결할 수 있는 최적의 기회입니다.",
+    "benefits_description": "이번 이천 원트웨딩 박람회 방문객을 위해 스타벅스 커피 쿠폰부터 100% 당첨 경품 이벤트 등 풍성한 방문 선물이 준비되어 있습니다. 현장 계약 시 스드메 최대 50% 할인, 혼수 가전 구매 시 최대 675만 원의 혜택과 더불어 로보락 청소기 등 프리미엄 사은품을 추가로 증정합니다. 결혼 준비의 부담은 낮추고 퀄리티는 높일 수 있는 이번 기회를 통해 현명한 예비부부로 거듭나 보세요.",
+    "summary_for_search": "8월 22일~23일 LG전자베스트샵 이천본점에서 진행되는 이천 원트웨딩 박람회! 스드메 최대 50% 할인과 혼수가전 675만 원 혜택, 방문객 사은품까지 예비부부를 위한 역대급 혜택을 지금 바로 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "이천 최대 규모, 결혼 준비 끝판왕 원트웨딩 박람회",
+    "secondary_headline": "스드메 최대 50% 할인부터 가전 675만 원 혜택까지, 한 번에 끝내는 완벽한 웨딩",
+    "urgency_text": "8월 22일~23일 단 2일간, 지금 신청 시 선착순 사은품 증정!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 커피 쿠폰 증정",
+      "선착순 사은품 증정 (VIP 혜택)"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 50% 할인",
+      "혼수 가전 최대 675만 원 혜택",
+      "계약 시 축하금 최대 150만 원",
+      "로보락 로봇청소기 증정(조건부)"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 체험",
+      "1:1 맞춤형 웨딩 컨설팅",
+      "허니문 박람회 동시 개최"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "0000-00-00",
+      "end_date": "0000-00-00",
+      "display_date": "08월 22일(토) ~ 08월 23일(일)",
+      "original_display_date": "08월 22일(토) ~ 08월 23일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "이천시",
+      "sigungu_en": "icheon",
+      "address": "경기 이천시 이섭대천로 1430",
+      "venue": "LG전자베스트샵 이천본점",
+      "parking_info": "무료 주차 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 시 증정",
+    "trust_indicators": [
+      "대한민국 청소기 선호도 1위 브랜드 협찬",
+      "지역 내 최대 규모 입점 업체",
+      "1:1 전문가 맞춤 상담 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "이천 원트웨딩 웨딩박람회",
+      "startDate": "0000-00-00",
+      "endDate": "0000-00-00",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 이천본점",
+        "address": "경기 이천시"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/wantwedfair02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 얼마인가요?",
+        "answer": "이천 원트웨딩 박람회는 온라인 사전 신청 시 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 행사 장소인 LG전자베스트샵 이천본점에 무료 주차가 가능합니다."
+      },
+      {
+        "question": "스드메 패키지 할인은 얼마나 되나요?",
+        "answer": "박람회 현장 계약 시 최대 50% 할인 혜택을 제공하고 있습니다."
+      },
+      {
+        "question": "상담 예약은 필수인가요?",
+        "answer": "원활한 1:1 맞춤 상담을 위해 사전 신청을 권장하며, 신청 시 다양한 방문 혜택도 제공됩니다."
+      },
+      {
+        "question": "가전제품 혜택도 받을 수 있나요?",
+        "answer": "네, 박람회와 동시에 진행되는 가전 이벤트를 통해 최대 675만 원 상당의 혜택을 받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 무엇을 준비해야 할지 막막한 예비부부, 합리적인 예산으로 고퀄리티 스드메를 원하는 커플, 혼수 가전과 예물·예복을 한자리에서 비교하고 싶어 하는 신혼부부를 위한 전문 박람회입니다. 결혼 준비 6개월~1년 전인 예비부부라면 현장의 전문가와 1:1 상담을 통해 나만의 맞춤 웨딩 플랜을 세우고, 박람회 전용 프로모션 혜택을 모두 누리실 수 있습니다.",
+    "exhibitor_highlights": [
+      "프리미엄 웨딩 드레스샵",
+      "스드메 토탈 패키지 업체",
+      "허니문 여행사",
+      "예물 및 명품 예복 브랜드",
+      "혼수 가전 전문 상담관"
+    ],
+    "comparison_hooks": [
+      "이천 지역 내 최대 규모, 최다 업체 입점",
+      "가전·스드메·혼수 동시 진행으로 시간과 비용 절감",
+      "현장 계약 즉시 할인 및 1:1 맞춤 컨설팅 시스템"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "이천 웨딩홀 추천",
+      "결혼 준비 비용 절약 팁",
+      "스드메 업체 비교",
+      "혼수 가전 저렴하게 사는 법",
+      "웨딩박람회 사은품",
+      "결혼식 순서 정리",
+      "신혼여행 패키지 추천",
+      "예물 예복 박람회",
+      "웨딩 플래너 상담 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "이천 웨딩 박람회 전체 일정",
+        "category": "event_calendar"
+      },
+      {
+        "anchor": "스드메 패키지 상세 안내",
+        "category": "wedding_service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예식장",
+      "결혼 준비",
+      "신혼가전",
+      "허니문",
+      "예복",
+      "웨딩드레스",
+      "웨딩메이크업"
+    ]
+  },
+  "social_meta": {
+    "og_title": "이천 원트웨딩 박람회, 결혼 준비 혜택 총정리!",
+    "og_description": "스드메 50% 할인에 가전 675만 원 혜택까지! 이천 예비부부라면 지금 바로 무료 참가 신청하세요.",
+    "hashtags": [
+      "#이천웨딩박람회",
+      "#원트웨딩",
+      "#이천결혼준비",
+      "#스드메할인",
+      "#결혼준비",
+      "#신혼부부혜택",
+      "#웨딩박람회",
+      "#이천웨딩홀",
+      "#혼수가전",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wantwedfair02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_1moziWywk5.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_XgurMXocA3SxP1hHC2Mg24pniDts7Nc.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_v3UxGoLHitgnajQb.jpg"
+  },
+  "updated_at": "2026-08-18 13:01:34"
+}
