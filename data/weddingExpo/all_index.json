@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 144,
+    "total_count": 147,
     "region_count": 16,
-    "district_count": 48,
-    "updated_at": "2026-08-18 19:40:58"
+    "district_count": 49,
+    "updated_at": "2026-08-19 13:31:15"
   },
   "items": [
     {
@@ -1886,6 +1886,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1870,
       "campaign_id": "wantwedfair03",
       "gather_name": "파주 원트웨딩 웨딩박람회",
       "display_date": "08월 22일(토) ~ 08월 23일(일)",
@@ -1894,7 +1895,8 @@
       "sigungu": "파주시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ou4EmxaCgdv98qX.jpg",
-      "updated_at": "2026-08-18 19:39:56"
+      "updated_at": "2026-08-18 19:39:56",
+      "revenue": 30000
     },
     {
       "idx": 1084,
@@ -1921,6 +1923,43 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_8bKosi7wSyxwdsW9S88.jpg",
       "updated_at": "2026-08-18 19:40:58",
       "revenue": 30000
+    },
+    {
+      "idx": 1604,
+      "campaign_id": "weddingplus12",
+      "gather_name": "웨딩더하기 영등포웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "신세계 타임스퀘어점 3층 LG전자베스트샵",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_p7q8KrItJCTPJZ3FmMsZvE2H.jpg",
+      "updated_at": "2026-08-19 13:30:19",
+      "revenue": 40000
+    },
+    {
+      "campaign_id": "planittour04",
+      "gather_name": "대전 플래닛투어 DCC 신혼여행박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "DCC 대전 컨벤션센터 1층 특별행사장",
+      "sido": "대전",
+      "sigungu": "유성구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_FkjiwqjtOWNz8.jpg",
+      "updated_at": "2026-08-19 13:30:40"
+    },
+    {
+      "idx": 1401,
+      "campaign_id": "weddingplus07",
+      "gather_name": "웨딩더하기 속초웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "LG전자베스트샵 속초점",
+      "sido": "강원",
+      "sigungu": "속초시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_hzayjYCvVlzx18jXOfTlTCEEF.jpg",
+      "updated_at": "2026-08-19 13:31:15",
+      "revenue": 40000
     }
   ]
 }
