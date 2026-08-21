@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-20T19:30:03Z",
-  "total_ad_count": 148,
+  "last_updated": "2026-08-21T13:30:02Z",
+  "total_ad_count": 153,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -45,6 +45,20 @@
       "ad_location": "서울 강남구 남부순환로 3104||(대치동 514)||SETEC 2층 전시실",
       "start_date": "2026-08-22",
       "end_date": "2026-08-23"
+    },
+    "howto03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202505/892ab487ea3d4bc46f77994e7078533a_1eSRI1GP6CVZC4ifjgjxVusIcjNuXTo.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_GSCDaZUkyTR3IPqZc7JTYSSAyC5ovY.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_iR6WYxnux8g1bEBBNA5j6f.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/howto03/",
+      "region": "capital",
+      "gather_name": "하우투 대형 웨딩박람회",
+      "ad_info": "풍부한 경험 및 전통이 있는 하우투웨딩과 행복한 결혼 준비하세요!",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "서울 강남구 선릉로85길 6||(역삼동 708-35)||호텔 뉴브",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30"
     },
     "planon43": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_FXaQY9XIsiuG7.jpg",
@@ -269,6 +283,20 @@
       "ad_location": "서울 강서구 강서로 388||(등촌동 678-14)||더베뉴지서울 특별행사장",
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
+    },
+    "wedingcrowd17": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_fpnv4ktwymuQeLfuMhAaIU4A9.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_xZQn9S7vrXGb4jGVA29YPze2v.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_zRzokquSu9JsSkcHYapLEw.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd17/",
+      "region": "capital",
+      "gather_name": "서울 롯데월드타워 대형 웨딩박람회",
+      "ad_info": "우주급 혜택과 안심 보장제도로 믿을 수 있는 웨딩박람회!",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "서울 송파구 올림픽로 300 8-9층||(신천동 29)||롯데면세점 월드타워점 8층 갤러리 라운지",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
     },
     "DirectWeddingFair02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_uIo5CY15RHntB.jpg",
@@ -830,6 +858,20 @@
       "start_date": "0000-00-00",
       "end_date": "0000-00-00"
     },
+    "wantwedfair04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_eqx63K1Eq1YU.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_oYmDeGoX.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wantwedfair04/",
+      "region": "gyeonggi",
+      "gather_name": "동탄 원트웨딩 웨딩박람회",
+      "ad_info": "최대할인혜택!! 동탄 최대규모 웨딩박람회!!\t",
+      "ad_year": "2026",
+      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_location": "경기 화성시 동탄역로 160 롯데백화점 동탄점 6층||(오산동 1089)||LG전자베스트샵 롯데동탄점",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06"
+    },
     "wedingcrowd57": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_VVqIFbTAZFA7IZWnoMtLWPfk4VhFo.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_AANWgQWOglog.jpg",
@@ -955,6 +997,20 @@
       "ad_location": "인천 미추홀구 연남로 35||(관교동 15)||롯데백화점 인천점 5층 특별행사장",
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
+    },
+    "leveilbridal01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_HXt8uITmHK4NwNboSgECzgnZclhcfc.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_rtJnrPulag783VDN9MUCaKa.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_trzuGARPn3XD83LlxjQnjT.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/leveilbridal01/",
+      "region": "incheon",
+      "gather_name": "인천 직거래 웨딩박람회",
+      "ad_info": "25년 웨딩 경력의 검증된 업체!! 웨딩드레스 입어보고 선택하세요",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "인천 남동구 인주대로 533||(구월동 1116-5)||웨딩유리구두 본사 사옥",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30"
     },
     "charlesWedBusan07": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_hbuFRa1y7U3FMvJZVLu7pzSfVacECWO.jpg",
@@ -1431,6 +1487,20 @@
       "ad_location": "충북 청주시 서원구 1순환로 1066||(분평동 204)||삼성스토어 청주점",
       "start_date": "2026-08-22",
       "end_date": "2026-08-23"
+    },
+    "wedingcrowd03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ol3VLlXyLJAIXtlOfcNGjzikkZdGrH.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_S8ySbPcW.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_WjBRBAK7I3.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd03/",
+      "region": "chungcheong",
+      "gather_name": "대전 웨딩크라우드 웨딩박람회",
+      "ad_info": "대전 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_location": "대전 서구 계룡로 598 롯데백화점 대전점 B1||(괴정동 423-1)||삼성스토어 롯데대전점",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06"
     },
     "revewedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Y3fDTKqporQnZPCxjUoPVWIpjfEZ.jpg",
