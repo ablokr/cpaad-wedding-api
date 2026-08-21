@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 154,
+    "total_count": 158,
     "region_count": 16,
-    "district_count": 50,
-    "updated_at": "2026-08-20 16:00:07"
+    "district_count": 51,
+    "updated_at": "2026-08-21 13:02:07"
   },
   "items": [
     {
@@ -1998,6 +1998,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1872,
       "campaign_id": "planittour04",
       "gather_name": "대전 플래닛투어 DCC 신혼여행박람회",
       "display_date": "10월 10일(토) ~ 10월 11일(일)",
@@ -2006,7 +2007,8 @@
       "sigungu": "유성구",
       "region_en": "daejeon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_FkjiwqjtOWNz8.jpg",
-      "updated_at": "2026-08-19 13:00:32"
+      "updated_at": "2026-08-19 13:00:32",
+      "revenue": 30000
     },
     {
       "idx": 1604,
@@ -2046,6 +2048,54 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_BponjzT6OIyAgR.jpg",
       "updated_at": "2026-08-19 19:01:13",
       "revenue": 50000
+    },
+    {
+      "idx": 1239,
+      "campaign_id": "wedingcrowd17",
+      "gather_name": "서울 롯데월드타워 대형 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "롯데면세점 월드타워점 8층 갤러리 라운지",
+      "sido": "서울",
+      "sigungu": "송파구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202604/568762912459e51e2cbac9155f241418_xZQn9S7vrXGb4jGVA29YPze2v.jpg",
+      "updated_at": "2026-08-21 13:00:53",
+      "revenue": 30000
+    },
+    {
+      "idx": 1802,
+      "campaign_id": "leveilbridal01",
+      "gather_name": "인천 직거래 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "웨딩유리구두 본사 사옥",
+      "sido": "인천",
+      "sigungu": "남동구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_rtJnrPulag783VDN9MUCaKa.jpg",
+      "updated_at": "2026-08-21 13:01:19",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd03",
+      "gather_name": "대전 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "삼성스토어 롯데대전점",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_S8ySbPcW.jpg",
+      "updated_at": "2026-08-21 13:01:41"
+    },
+    {
+      "campaign_id": "wantwedfair04",
+      "gather_name": "동탄 원트웨딩 웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "LG전자베스트샵 롯데동탄점",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
+      "updated_at": "2026-08-21 13:02:07"
     }
   ]
 }
