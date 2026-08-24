@@ -1,0 +1,207 @@
+{
+  "idx": 1611,
+  "campaign_id": "wedingcrowd80",
+  "gather_name": "잠실 롯데백화점 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "잠실 롯데백화점 웨딩박람회 | 스드메 패키지 최대 혜택",
+    "meta_description": "9월 19일~20일 잠실 롯데백화점 웨딩박람회 개최! 스드메 패키지 특가부터 허니문 최대 150만원 할인까지, 예비부부를 위한 실속 있는 결혼 준비 혜택을 확인해보세요.",
+    "keywords": [
+      "잠실웨딩박람회",
+      "롯데백화점웨딩박람회",
+      "서울웨딩박람회",
+      "스드메견적",
+      "결혼준비",
+      "웨딩홀추천",
+      "신혼여행할인",
+      "웨딩드레스",
+      "예물예복",
+      "결혼박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 고민이시라면 잠실 롯데백화점 웨딩박람회를 주목해주세요. 이번 행사는 예비부부님들의 합리적인 결혼 준비를 돕기 위해 스드메부터 예물, 허니문까지 원스톱 상담 서비스를 제공합니다.",
+    "benefits_description": "이번 박람회는 스드메 패키지 거품 없는 가격을 보장하며, 블랙라벨 드레스 무료 업그레이드 등 파격적인 계약 혜택이 준비되어 있습니다. 또한 방문만 해도 스타벅스 기프티콘을 증정하며, 허니문 계약 시 최대 150만원 할인 등 실질적으로 예산을 절감할 수 있는 다양한 혜택이 마련되어 있습니다. 복잡한 웨딩 준비 과정을 전문가와 1:1로 해결해보세요.",
+    "summary_for_search": "9월 19일~20일, 잠실 롯데백화점 특별행사장에서 열리는 웨딩박람회입니다. 스드메 패키지 특가, 허니문 최대 150만원 할인 등 실속 있는 혜택을 제공하니 결혼 준비 중인 예비부부라면 꼭 방문해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 89만원부터, 파격적인 웨딩 프로모션",
+    "secondary_headline": "잠실 롯데백화점 특별행사장, 예비부부를 위한 원스톱 웨딩 솔루션",
+    "urgency_text": "이번 주말 9월 19일-20일 양일간 한정 진행",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 기프티콘 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 89만원부터",
+      "웨딩드레스 100만원 상당 블랙라벨 무료 업그레이드",
+      "허니문 최대 150만원 할인"
+    ],
+    "special_events": [
+      "웨딩홀 무료 시식 및 대관료 할인 서비스",
+      "맞춤정장 및 한복 특별 할인",
+      "웨딩검진 및 피부관리 패키지"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "송파구",
+      "sigungu_en": "songpa",
+      "address": "서울 송파구 올림픽로 240",
+      "venue": "롯데백화점 잠실점 특별행사장",
+      "parking_info": "롯데백화점 잠실점 주차장 이용 가능 (상세 안내는 안내 데스크 확인)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "롯데백화점 특별행사장 개최",
+      "스드메 최저가 보장제",
+      "전문 웨딩 플래너 1:1 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "잠실 롯데백화점 웨딩박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 잠실점 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "송파구 잠실동",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd80/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 꼭 해야 하나요?",
+        "answer": "사전등록을 하시면 대기 없이 입장 가능하며, 현장 방문 시 제공되는 다양한 사은품 혜택을 우선적으로 확인하실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 가격은 어느 정도인가요?",
+        "answer": "이번 박람회에서는 거품을 뺀 89만원대부터 다양한 가격대의 패키지를 구성하여 예비부부의 예산에 맞는 상담을 제공합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데백화점 잠실점 내 주차장을 이용하실 수 있으며, 박람회 참가 시 주차 지원 여부는 현장 안내 데스크에서 안내받으실 수 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "상담 내용에 따라 다르지만 보통 1시간에서 2시간 정도 소요됩니다. 충분한 상담을 위해 여유 있게 방문하시는 것을 추천합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 무엇을 물어봐야 할까요?",
+        "answer": "예식장 예약부터 스드메 준비까지 웨딩 플래너가 1:1로 맞춤형 체크리스트를 제공하므로, 편안한 마음으로 방문하시면 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부로서, 합리적인 예산으로 스드메부터 혼수, 신혼여행까지 원스톱으로 준비하고 싶은 커플을 대상으로 합니다. 특히 어디서부터 결혼 준비를 시작해야 할지 막막한 신랑신부님을 위해 현직 웨딩 플래너의 전문적인 컨설팅을 제공하며, 시간과 비용을 동시에 절약하고자 하는 실속파 예비부부들에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 섭외 및 대관료 할인 업체",
+      "프리미엄 웨딩드레스샵",
+      "허니문 여행사",
+      "예물 및 명품 맞춤정장 브랜드",
+      "한복 및 예단 전문 업체"
+    ],
+    "comparison_hooks": [
+      "잠실 롯데백화점 단독 특가 패키지 제공",
+      "스드메 최저가 보장제 실시",
+      "상담 시 스타벅스 쿠폰 등 방문객 혜택 강화"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "스드메 비용 절약법",
+      "서울 웨딩홀 투어 팁",
+      "신혼여행 가성비 예약",
+      "예물 고르는 법",
+      "웨딩박람회 예약 방법",
+      "박람회 계약 주의사항",
+      "2026 결혼 트렌드",
+      "웨딩패키지 구성"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 웨딩홀 정보",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 비교하기",
+        "category": "service_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "신혼여행",
+      "예물",
+      "맞춤정장",
+      "한복",
+      "웨딩드레스",
+      "웨딩촬영",
+      "결혼박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "잠실 롯데백화점 웨딩박람회 초대",
+    "og_description": "스드메 89만원부터! 지금 사전등록하고 방문 상담 혜택을 받아보세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#잠실웨딩박람회",
+      "#롯데백화점웨딩",
+      "#스드메",
+      "#예신예랑",
+      "#결혼준비시작",
+      "#서울웨딩박람회",
+      "#웨딩플래너",
+      "#웨딩박람회혜택"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd80/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_fGNBuNKubBgFJZkF8ttG66sAu.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_h2M92Q72J8.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_GK8GVDiYBYUWaruw.jpg"
+  },
+  "updated_at": "2026-08-24 19:30:40",
+  "revenue": 30000
+}

@@ -1,0 +1,208 @@
+{
+  "idx": 1409,
+  "campaign_id": "knockWed07",
+  "gather_name": "광주 롯데 팝업스토어",
+  "organizer_name": "광주웨딩연합회",
+  "seo_metadata": {
+    "title": "광주 롯데 웨딩박람회 | 8월 29-30일 개최, 방문 상담 시 선물 증정",
+    "meta_description": "광주 동구 롯데백화점 9층에서 열리는 광주 롯데 웨딩 팝업스토어! 8월 29일부터 30일까지, 상담만 받아도 선물을 드립니다. 웨딩홀, 스드메 혜택까지 실속 있게 챙기세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "광주웨딩홀",
+      "광주스드메",
+      "롯데백화점광주점웨딩",
+      "광주웨딩패키지",
+      "광주예물",
+      "광주예복",
+      "광주혼수",
+      "결혼준비꿀팁"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞두고 어디서부터 어떻게 시작해야 할지 고민인 예비부부님들을 위해 광주 롯데 팝업스토어가 찾아옵니다. 이번 박람회는 8월 29일(토)부터 30일(일)까지 롯데백화점 광주점 9층 행사장에서 열리며, 실질적인 결혼 준비 정보를 한자리에서 확인하실 수 있습니다.",
+    "benefits_description": "이번 팝업스토어에서는 방문객을 위한 다양한 혜택이 마련되어 있습니다. 우선 상담만 받아도 상품권을 증정하며, 계약 시 포토부케 또는 가방 영상 등 특별한 사은품을 추가로 제공합니다. 특히 12시 이전 방문자에게는 백화점 상품권을 드리는 이벤트가 진행 중이니 서두르시는 것을 추천드립니다. 또한 현장 계약 시 20만원 상당의 혜택이 제공되며, 웨딩홀 대관료 및 식대 할인 등 예산 절감에 도움 되는 정보들이 가득합니다.",
+    "summary_for_search": "8월 29일~30일 롯데백화점 광주점에서 열리는 광주 롯데 웨딩 팝업스토어! 방문 상담만 해도 상품권 증정, 현장 계약 시 최대 20만원 혜택까지! 광주 지역 예비부부를 위한 맞춤형 결혼 준비 정보를 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "단 2일, 광주 롯데 웨딩 팝업스토어 OPEN",
+    "secondary_headline": "상담만 받아도 선물 증정! 2026 웨딩홀 & 스드메 프로모션",
+    "urgency_text": "단 2일간만 진행되는 한정 혜택을 놓치지 마세요.",
+    "call_to_action_text": "무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 상품권 증정",
+      "12시 이전 방문 시 백화점 상품권 증정"
+    ],
+    "contract_benefits": [
+      "현장 계약 시 20만원 상당 혜택",
+      "계약 시 포토부케 또는 가방 영상 제공",
+      "웨딩홀 대관료 및 식대 프로모션 할인"
+    ],
+    "special_events": [
+      "26년 신규 웨딩홀 공개",
+      "스드메 원장 지정비 0원 혜택",
+      "웨딩 촬영 1회, 드레스 피팅 1회 등 총 3회 혜택"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "original_display_date": "08월 29일(토) ~ 08월 30일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "광주 동구 독립로 268",
+      "venue": "롯데백화점 광주점 9층 행사장",
+      "parking_info": "100% 주차 지원",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "방문 예정일"
+    ],
+    "gift_conditions": "상담 완료 시 증정하며, 계약 시 해당 혜택 제공. 12시 이전 방문 시 백화점 상품권 증정(선착순).",
+    "trust_indicators": [
+      "계약 강요 없는 상담 보장",
+      "광주 지역 주요 웨딩홀 및 스드메 업체 참여",
+      "상담만 받아도 선물 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 롯데 웨딩 팝업스토어",
+      "startDate": "2026-08-29",
+      "endDate": "2026-08-30",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 광주점 9층 행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "광주광역시 동구 독립로 268",
+          "addressLocality": "광주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 상담 시 계약을 꼭 해야 하나요?",
+        "answer": "아니요, 상담만 받아도 선물을 증정하며 계약 강요가 없는 박람회입니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "네, 100% 주차를 지원하고 있어 편안하게 방문하실 수 있습니다."
+      },
+      {
+        "question": "방문 혜택을 받으려면 어떻게 해야 하나요?",
+        "answer": "사전등록 후 방문하여 현장 상담을 완료하시면 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "박람회에서는 어떤 정보를 얻을 수 있나요?",
+        "answer": "웨딩홀, 스드메 패키지, 예물, 예복 등 결혼 준비에 필요한 전반적인 업체 정보를 비교하고 상담받을 수 있습니다."
+      },
+      {
+        "question": "12시 이전 방문 혜택은 무엇인가요?",
+        "answer": "오전 12시 이전 방문 시 선착순으로 백화점 상품권을 증정하는 이벤트가 진행 중입니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 업체 선정에 어려움을 겪는 예비 신랑신부, 합리적인 웨딩홀 대관료와 식대 프로모션을 찾는 커플들을 위한 맞춤형 박람회입니다. 결혼 준비의 전체적인 로드맵이 필요한 분들이나 광주 지역에서 내실 있는 결혼 준비를 원하는 분들에게 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "신규 오픈 웨딩홀",
+      "스드메 토탈 패키지 업체",
+      "허니문 여행사",
+      "혼수 전문 브랜드",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "상담만 받아도 증정되는 실속 있는 방문 선물",
+      "계약 강요 없는 쾌적하고 편안한 상담 분위기",
+      "광주 전 지역 웨딩홀 및 스드메 한자리 비교"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩홀 추천",
+      "광주 스드메 비용",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 팁",
+      "광주 예복 투어",
+      "2026년 웨딩 트렌드",
+      "웨딩홀 대관료 절약법",
+      "광주 혼수 가전",
+      "결혼 상담 시 질문 리스트",
+      "광주 웨딩 스튜디오 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩박람회 일정",
+        "category": "local_wedding_info"
+      },
+      {
+        "anchor": "스드메 패키지 구성 확인",
+        "category": "wedding_service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "결혼준비",
+      "신혼여행",
+      "예물",
+      "예복",
+      "부케",
+      "웨딩박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 롯데 팝업스토어 | 웨딩 혜택 가득",
+    "og_description": "상담만 받아도 선물 증정! 광주 롯데 웨딩박람회에서 합리적인 결혼 준비 시작하세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#광주웨딩홀",
+      "#광주스드메",
+      "#롯데백화점광주점",
+      "#예신",
+      "#예랑",
+      "#결혼준비",
+      "#광주예물",
+      "#광주예복"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/knockWed07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_7wxqUnCZukmR2AEY9NRLS1P.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_oX7YdRPT68FnXhmw8k4nIwr1CwNPK.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_2QerV3xtpVafxcfOaT.jpg"
+  },
+  "updated_at": "2026-08-24 19:37:09",
+  "revenue": 30000
+}

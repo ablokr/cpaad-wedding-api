@@ -1,0 +1,203 @@
+{
+  "idx": 1767,
+  "campaign_id": "tourmin02",
+  "gather_name": "제주 투어민 허니문 박람회",
+  "organizer_name": "투어민 제주",
+  "seo_metadata": {
+    "title": "제주 투어민 허니문 박람회 | 호텔샬롬 제주 신혼여행 혜택 총정리",
+    "meta_description": "2026년 9월 19일~20일 호텔샬롬 제주에서 열리는 투어민 허니문 박람회. 신혼여행지 맞춤 상담, 계약 축하금 및 사은품 혜택을 확인하고 지금 무료 초대권을 신청하세요.",
+    "keywords": [
+      "제주웨딩박람회",
+      "제주허니문박람회",
+      "투어민박람회",
+      "호텔샬롬제주",
+      "제주신혼여행",
+      "신혼여행박람회",
+      "제주결혼준비",
+      "허니문특전",
+      "신혼여행상담",
+      "투어민제주"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘만큼이나 중요한 신혼여행지 선택, 이번 제주 투어민 허니문 박람회 참가를 고민 중이시라면 아래 정보를 참고해 보세요. 2026년 9월 19일부터 20일까지 이틀간 호텔샬롬 제주에서 진행되는 이번 박람회는 전문 여행 컨설턴트와의 1:1 상담을 통해 나에게 꼭 맞는 허니문 리조트를 찾을 수 있도록 구성되었습니다.",
+    "benefits_description": "이번 박람회에서는 계약 고객을 위한 다양한 혜택이 준비되어 있습니다. 방문 및 상담만으로도 여행 준비에 필요한 실속 있는 사은품을 제공하며, 허니문 패키지 계약 시 계약 축하금 및 리조트별 특별 프로모션을 적용받을 수 있는 것으로 확인됩니다. 특히 몰디브, 코사무이, 푸켓 등 인기 허니문 지역에 대한 투어민 단독 특전이 마련되어 있어 합리적인 가격에 여행을 계획 중인 예비부부에게 큰 도움이 될 것입니다.",
+    "summary_for_search": "제주 투어민 허니문 박람회가 2026년 9월 19일~20일 호텔샬롬 제주에서 개최됩니다. 신혼여행 전문 상담과 리조트별 특별 할인 혜택을 제공하며, 사전 등록 시 사은품 증정 등 다양한 현장 이벤트를 진행합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "나에게 맞는 허니문 리조트 찾기, 투어민 박람회",
+    "secondary_headline": "신혼여행 전문 컨설턴트와 함께하는 1:1 맞춤 상담 및 지역별 단독 특전",
+    "urgency_text": "9월 19일~20일, 단 이틀간 진행되는 특별 혜택",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 대상 사은품 증정",
+      "전문 컨설턴트 1:1 맞춤 상담"
+    ],
+    "contract_benefits": [
+      "허니문 패키지 계약 축하금",
+      "지역별 리조트 단독 특전 제공",
+      "백화점 상품권 등 계약 사은품"
+    ],
+    "special_events": [
+      "맞춤형 신혼여행지 큐레이션",
+      "허니문 리조트 전문 비교 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "제주",
+      "sido_en": "jeju",
+      "sigungu": "제주시",
+      "sigungu_en": "jeju",
+      "address": "제주특별자치도 제주시 동광로 34",
+      "venue": "호텔샬롬 제주",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "jeju"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 시 제공되며, 자세한 조건은 신청 후 상담 과정에서 안내받으실 수 있습니다.",
+    "trust_indicators": [
+      "허니문 전문 투어민 브랜드 주관",
+      "지역별 리조트 실시간 비교 가능",
+      "신뢰도 높은 1:1 전문 상담 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제주 투어민 허니문 박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "호텔샬롬 제주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "동광로 34",
+          "addressLocality": "제주시",
+          "addressRegion": "제주도",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "투어민 제주",
+        "url": "https://ad.cpaad.co.kr/tourmin02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 투어민 허니문 박람회는 사전 신청을 통해 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "어떤 혜택을 받을 수 있나요?",
+        "answer": "박람회 현장 방문 시 사은품 증정, 허니문 계약 시 축하금 및 리조트 특전 등 다양한 프로모션이 준비되어 있습니다."
+      },
+      {
+        "question": "사전 등록은 어떻게 하나요?",
+        "answer": "공식 페이지의 신청 양식에 성함, 연락처, 결혼 예정일 등을 입력하시면 신청이 완료됩니다."
+      },
+      {
+        "question": "상담은 어떻게 진행되나요?",
+        "answer": "허니문 전문 컨설턴트가 배치되어 예비부부의 취향과 예산에 맞춰 1:1 맞춤 상담을 진행합니다."
+      },
+      {
+        "question": "어디서 열리나요?",
+        "answer": "제주시 동광로 34에 위치한 '호텔샬롬 제주'에서 개최됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 가장 설레지만 고민이 많은 예비부부를 위한 박람회입니다. 특히 일반적인 여행사 상품과 차별화된, 나만의 맞춤형 신혼여행을 계획하고 싶은 신혼부부에게 적합합니다. 결혼 6개월 이내를 앞두고 허니문 장소와 리조트 선택에 고민이 많은 커플, 혹은 합리적인 예산으로 알찬 신혼여행 패키지를 찾고 있는 분들이라면 이번 박람회를 통해 전문가의 조언과 비교 견적을 확인해 보시는 것을 추천드립니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "해외 리조트 제휴 업체",
+      "신혼여행 맞춤 상담 데스크"
+    ],
+    "comparison_hooks": [
+      "온라인 대비 박람회 현장 한정 단독 특전 제공",
+      "전문 컨설턴트의 1:1 맞춤형 여행 큐레이션",
+      "전 세계 인기 지역 리조트 실시간 가격 비교"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "제주 허니문 박람회 일정",
+      "신혼여행지 추천",
+      "투어민 여행사 후기",
+      "결혼 준비 체크리스트",
+      "제주도 웨딩홀 박람회",
+      "몰디브 신혼여행 비용",
+      "코사무이 리조트 추천",
+      "허니문 패키지 구성",
+      "결혼 비용 절약 방법",
+      "박람회 방문 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "제주 웨딩/허니문 박람회 정보",
+        "category": "weddings"
+      }
+    ],
+    "semantic_keywords": [
+      "허니문",
+      "신혼여행",
+      "리조트",
+      "패키지",
+      "결혼준비",
+      "웨딩박람회",
+      "해외여행",
+      "상담",
+      "투어민",
+      "프로모션"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제주 투어민 허니문 박람회 무료 초대권",
+    "og_description": "제주 예비부부를 위한 신혼여행 특전! 투어민 박람회에서 계약 축하금과 리조트 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#제주웨딩박람회",
+      "#제주허니문박람회",
+      "#투어민",
+      "#신혼여행",
+      "#결혼준비",
+      "#허니문특전",
+      "#예비부부",
+      "#호텔샬롬제주",
+      "#제주결혼",
+      "#신혼여행지추천"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/tourmin02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_tAGIEUq8q5CIsTKa.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_eNY46npRSC3oL1Sf.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_GMvJdZllaL6Q.jpg"
+  },
+  "updated_at": "2026-08-24 19:40:17",
+  "revenue": 30000
+}
