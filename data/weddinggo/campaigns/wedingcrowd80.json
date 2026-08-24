@@ -1,0 +1,211 @@
+{
+  "idx": 1611,
+  "campaign_id": "wedingcrowd80",
+  "gather_name": "잠실 롯데백화점 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "잠실 롯데백화점 웨딩박람회 | 스드메 패키지 최대 혜택 및 무료 상담",
+    "meta_description": "9월 19일-20일, 롯데백화점 잠실점 웨딩박람회 개최! 스드메 최저가 보장, 블랙라벨 드레스 업그레이드, 허니문 최대 150만원 할인까지. 지금 사전 신청하고 100% 증정 스타벅스 상품권을 받아보세요.",
+    "keywords": [
+      "잠실웨딩박람회",
+      "롯데백화점웨딩박람회",
+      "서울웨딩박람회",
+      "스드메견적",
+      "결혼준비체크리스트",
+      "웨딩박람회혜택",
+      "신혼부부혼수",
+      "스드메패키지",
+      "웨딩홀추천",
+      "2026결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 롯데백화점 잠실점에서 펼쳐지는 대규모 웨딩박람회에 예비부부 여러분을 초대합니다. 복잡한 결혼 준비를 한 번에 해결할 수 있도록 업계 최고의 전문가들이 모여 최적의 솔루션을 제안합니다.",
+    "benefits_description": "이번 잠실 웨딩박람회는 오직 현장에서만 만날 수 있는 파격적인 혜택으로 가득합니다. 스드메 패키지 최저가 보장은 물론, 블랙라벨 드레스 무료 업그레이드와 계약 축하금 등 예산 절감을 위한 실질적인 지원을 아끼지 않습니다. 또한, 방문객 전원에게 제공되는 스타벅스 상품권부터 신혼여행 최대 150만 원 할인 혜택까지, 준비 과정의 부담을 덜어드리는 다양한 선물과 함께 즐거운 결혼 준비를 시작해 보세요.",
+    "summary_for_search": "9월 19일부터 20일까지 롯데백화점 잠실점에서 열리는 웨딩박람회. 스드메 최저가 보장, 블랙라벨 드레스 업그레이드 및 다양한 방문 계약 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 최저가 보장! 잠실 롯데백화점 웨딩박람회",
+    "secondary_headline": "100만원 상당 블랙라벨 드레스 무료 업그레이드 및 신혼여행 최대 150만원 지원",
+    "urgency_text": "선착순 방문객 대상 혜택 마감 임박!",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "온라인 사전 신청 방문객 스타벅스 상품권 100% 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 150만원 구성",
+      "블랙라벨 드레스 무료 업그레이드",
+      "허니문 여행권 최대 150만원 할인",
+      "청첩장 15% 할인",
+      "예물 25% 할인 및 커플링 증정"
+    ],
+    "special_events": [
+      "1:1 맞춤 웨딩 컨설팅",
+      "웨딩 검진 프로그램 운영",
+      "피부관리 체험 혜택"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "송파구",
+      "sigungu_en": "songpa",
+      "address": "서울 송파구 올림픽로 240",
+      "venue": "롯데백화점 잠실점 특별행사장",
+      "parking_info": "롯데백화점 잠실점 주차장 이용 가능",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑신부 여부",
+      "결혼 예정일",
+      "관심 매장"
+    ],
+    "gift_conditions": "온라인 사전 신청 후 현장 방문 시 증정",
+    "trust_indicators": [
+      "스드메 최저가 보장제 실시",
+      "국내 유일 안심 보장제도 운영",
+      "롯데백화점 잠실점 특별행사장 개최"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "잠실 롯데백화점 웨딩박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 잠실점 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "송파구 올림픽로 240",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd80/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데백화점 잠실점 주차장을 이용하실 수 있으며 방문객 편의를 제공합니다."
+      },
+      {
+        "question": "사전 신청 혜택은 무엇인가요?",
+        "answer": "사전 신청 후 방문 시 스타벅스 상품권 증정 및 박람회 특별 할인 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "스드메 계약 시 혜택은 어떤 것이 있나요?",
+        "answer": "블랙라벨 드레스 무료 업그레이드와 스드메 패키지 최저가 보장 혜택이 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업), 허니문, 예물, 혼수 등 결혼 준비 필수 업체들이 대거 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 스드메 업체 선정과 예식장, 허니문 결정에 고민이 많은 예비부부들을 위한 맞춤형 박람회입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 6개월 내외의 예비 신랑신부, 합리적인 비용으로 프리미엄 웨딩을 완성하고 싶은 알뜰파 커플에게 최적의 정보를 제공합니다. 전문가의 1:1 상담을 통해 나만의 맞춤형 웨딩 로드맵을 설계하고, 시간과 비용을 동시에 절약하고 싶은 모든 예비부부의 방문을 환영합니다.",
+    "exhibitor_highlights": [
+      "스드메 전문 패키지 업체",
+      "국내외 웨딩홀 정보 제공",
+      "허니문 여행사",
+      "예물 및 명품 주얼리 브랜드",
+      "전통 한복 및 맞춤 정장 브랜드"
+    ],
+    "comparison_hooks": [
+      "국내 최저가 스드메 패키지 보장제 실시",
+      "블랙라벨 드레스 무료 업그레이드 등 현장 단독 특전 제공",
+      "국내 유일 안심 보장제도를 통한 투명한 계약 체계 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 비용 절약법",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 혜택 비교",
+      "신혼여행 패키지 추천",
+      "웨딩드레스 종류",
+      "예물 예복 트렌드",
+      "서울 웨딩홀 견적 비교",
+      "신혼가전 구매 팁",
+      "결혼준비 시작 시기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 웨딩박람회 일정",
+        "category": "event_schedule"
+      },
+      {
+        "anchor": "스드메 패키지 할인 혜택",
+        "category": "wedding_services"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "맞춤정장",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "잠실 웨딩박람회, 스드메 역대급 혜택!",
+    "og_description": "결혼 준비의 모든 것! 지금 사전 신청하고 스타벅스 상품권과 블랙라벨 드레스 업그레이드 혜택을 받아보세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#잠실웨딩박람회",
+      "#스드메",
+      "#신혼부부혜택",
+      "#롯데백화점웨딩박람회",
+      "#웨딩드레스",
+      "#결혼준비체크리스트",
+      "#예비부부",
+      "#서울웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd80/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_fGNBuNKubBgFJZkF8ttG66sAu.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_h2M92Q72J8.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_GK8GVDiYBYUWaruw.jpg"
+  },
+  "updated_at": "2026-08-24 16:01:35",
+  "revenue": 30000
+}

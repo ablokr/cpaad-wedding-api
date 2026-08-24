@@ -1,0 +1,206 @@
+{
+  "idx": 1555,
+  "campaign_id": "wedingcrowd66",
+  "gather_name": "대전 컨벤션센터 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "대전 웨딩박람회 | DCC 9월 특별행사 스드메 패키지 최대 혜택",
+    "meta_description": "9월 12일~13일 DCC 대전 컨벤션센터 웨딩박람회! 스드메 최저가 보장, 계약 시 최대 110만원 혜택과 신혼가전 특별 할인을 한자리에서 확인하세요. 지금 무료 사전신청하고 방문 선물까지 챙기세요.",
+    "keywords": [
+      "대전웨딩박람회",
+      "DCC웨딩박람회",
+      "대전결혼준비",
+      "대전스드메",
+      "대전웨딩홀추천",
+      "신혼가전할인",
+      "대전혼수",
+      "결혼박람회혜택",
+      "대전웨딩컨설팅",
+      "9월웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 대전 DCC에서 열리는 프리미엄 웨딩박람회에서 합리적인 결혼 계획을 세워보세요. 9월 12일부터 13일까지 단 이틀간, 예비 신혼부부를 위한 스드메 패키지와 혼수, 예식장 정보를 한자리에서 비교하고 전문가의 1:1 컨설팅을 경험하실 수 있습니다.",
+    "benefits_description": "방문만 하셔도 100% 증정되는 스타벅스 상품권부터 계약 고객을 위한 파격적인 혜택이 준비되어 있습니다. 스드메 패키지 최대 110만원 할인, 허니문 최대 150만원 지원, 예물 및 한복 특별 프로모션까지 결혼 준비 비용을 획기적으로 줄일 수 있는 기회를 놓치지 마세요. 선착순 한정으로 진행되는 이번 박람회는 복잡한 결혼 준비를 투명하고 경제적으로 해결할 수 있는 최적의 솔루션을 제공합니다.",
+    "summary_for_search": "9월 12~13일 DCC 대전 컨벤션센터에서 개최되는 대규모 웨딩박람회입니다. 스드메 최저가 보장제와 계약 고객 대상 110만원 상당의 혜택 및 경품 추첨 기회를 놓치지 마세요. 지금 온라인 사전 신청으로 다양한 무료 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "DCC 대전 웨딩박람회, 스드메 69만원부터 시작하는 파격 특가!",
+    "secondary_headline": "계약 시 최대 110만원 혜택 & 선착순 방문 선물 증정으로 알뜰하게 준비하세요.",
+    "urgency_text": "선착순 10쌍 한정 패키지 및 조기 마감 주의",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 스타벅스 상품권 100% 증정",
+      "선착순 방문객 경품 추첨"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 110만원 혜택",
+      "계약 축하금 최대 50만원 및 포인트 활용",
+      "롯데백화점 상품권 증정",
+      "허니문 최대 150만원 지원"
+    ],
+    "special_events": [
+      "웨딩 드레스 무료 업그레이드",
+      "스튜디오 무료 원본 CD 및 수정본 제공",
+      "가전제품 구매 금액별 최대 할인 및 추가 상품권"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "유성구",
+      "sigungu_en": "yuseong",
+      "address": "대전 유성구 엑스포로 107",
+      "venue": "DCC 대전 컨벤션센터 1층 특별행사장",
+      "parking_info": "대전 컨벤션센터 주차장 이용 가능 (유료/행사 확인)",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "신랑 이름",
+      "신부 이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "온라인 사전 신청 후 현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "국내 유일 안심 보장제 실시",
+      "스드메 최저가 보장제",
+      "검증된 파트너사 입점",
+      "1:1 맞춤 컨설팅 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 컨벤션센터 대형 웨딩박람회",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "DCC 대전 컨벤션센터",
+        "address": "대전광역시 유성구"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd66/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장 가능한가요?",
+        "answer": "네, 온라인 사전 신청을 하시면 무료로 입장이 가능하며 방문 선물 혜택도 함께 받으실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 가격대는 어떻게 되나요?",
+        "answer": "행사 현장에서 69만원부터 시작하는 다양한 실속 패키지를 비교해보실 수 있습니다."
+      },
+      {
+        "question": "주차장은 어떻게 이용하나요?",
+        "answer": "DCC 대전 컨벤션센터 주차장을 이용하실 수 있으며, 자세한 주차 안내는 행사 당일 현장 안내 데스크에서 확인 가능합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "스드메 패키지 할인, 백화점 상품권 증정, 허니문 지원금 등 다양한 캐시백과 사은품이 준비되어 있습니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 상담을 완료하시는 분들께 스타벅스 상품권 등 소정의 방문 선물을 증정하고 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작한 예비 신랑·신부, 합리적인 비용으로 스드메 패키지를 구성하고 싶은 커플, 신혼가전과 혼수 준비로 고민인 6개월 이내 예식 예정자들을 위한 박람회입니다. 결혼 준비의 순서와 웨딩홀 예약 팁, 스튜디오 촬영 준비물 등 정보가 부족한 초보 부부들에게 전문가의 1:1 컨설팅을 통해 맞춤형 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "신혼가전 전문 매장",
+      "웨딩홀 및 예식 전문 상담",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 및 혼수 업체"
+    ],
+    "comparison_hooks": [
+      "타 박람회 대비 100% 현장 즉시 계약 할인제",
+      "국내 유일의 안심 보장제 실시로 사기 걱정 없는 상담",
+      "1:1 전문 플래너 배정으로 개인 맞춤형 예산 설계"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 웨딩박람회 일정",
+      "대전 결혼 준비 비용",
+      "대전 스드메 패키지 추천",
+      "웨딩박람회 방문 팁",
+      "대전 혼수 가전 할인",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 계약 주의사항",
+      "대전 예식장 상담",
+      "신혼여행 패키지 비교",
+      "스드메 최저가 구하기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩홀 전체 정보",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 가격 알아보기",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "결혼예물",
+      "웨딩드레스",
+      "스튜디오촬영",
+      "예복",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 웨딩박람회 | 스드메 혜택 최대 110만원",
+    "og_description": "9월 DCC 웨딩박람회! 지금 신청하고 무료 초대권과 100% 증정 선물을 받아보세요.",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#DCC웨딩박람회",
+      "#대전결혼준비",
+      "#대전스드메",
+      "#대전웨딩홀",
+      "#신혼부부혜택",
+      "#결혼준비",
+      "#대전예물",
+      "#혼수가전",
+      "#웨딩박람회후기"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd66/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_CdZLKF62DCm8tllxKypetEjoOpDnwa.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_1H4HESCxmpuV5uNBO84QDDPnk.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_J9k4gZFI8rh55X9CNy.jpg"
+  },
+  "updated_at": "2026-08-24 16:04:19",
+  "revenue": 30000
+}
