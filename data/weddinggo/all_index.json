@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 120,
-    "region_count": 15,
+    "total_count": 129,
+    "region_count": 16,
     "district_count": 45,
-    "updated_at": "2026-08-24 10:04:07"
+    "updated_at": "2026-08-24 13:02:58"
   },
   "items": [
     {
@@ -836,7 +836,8 @@
       "sigungu": "강남구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
-      "updated_at": "2026-08-24 10:00:26"
+      "updated_at": "2026-08-24 10:00:26",
+      "revenue": 40000
     },
     {
       "idx": 588,
@@ -1576,6 +1577,123 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_cKCbKOcDafWRf2th1ireK81EAx.jpg",
       "updated_at": "2026-08-24 10:04:07",
       "revenue": 45000
+    },
+    {
+      "idx": 586,
+      "campaign_id": "weddingdc03",
+      "gather_name": "제이웨딩페어",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "venue": "SC컨벤션센터 12F",
+      "sido": "서울",
+      "sigungu": "강남구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_L8GNGdD8zVcn8tv.jpg",
+      "updated_at": "2026-08-24 13:00:34",
+      "revenue": 40000
+    },
+    {
+      "idx": 1819,
+      "campaign_id": "revewedding28",
+      "gather_name": "잠실 롯데백화점 웨딩박람회",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "venue": "롯데백화점 잠실점 10층 LG전자",
+      "sido": "서울",
+      "sigungu": "송파구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Ccep6NOEe4bsA6NzjPSJct2Pd.jpg",
+      "updated_at": "2026-08-24 13:00:52",
+      "revenue": 50000
+    },
+    {
+      "idx": 1592,
+      "campaign_id": "reveweddingH05",
+      "gather_name": "청주 OSCO 허니문박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "청주오스코 특별전시장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_qeRugqZjFlAAxQTrx.jpg",
+      "updated_at": "2026-08-24 13:01:07",
+      "revenue": 50000
+    },
+    {
+      "idx": 1414,
+      "campaign_id": "revewedding05",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "청주오스코 특별전시장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_G6waQ7J6E2yPr.jpg",
+      "updated_at": "2026-08-24 13:01:24",
+      "revenue": 50000
+    },
+    {
+      "idx": 1810,
+      "campaign_id": "connectwedding01",
+      "gather_name": "천안 신세계 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "신세계백화점 천안아산점",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_6M3jVzfPNsvioPeQQC8oN.jpg",
+      "updated_at": "2026-08-24 13:01:41",
+      "revenue": 30000
+    },
+    {
+      "idx": 1375,
+      "campaign_id": "revewedding01",
+      "gather_name": "강릉 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "세인트존스호텔 특별행사장",
+      "sido": "강원",
+      "sigungu": "강릉시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_65dXrsVG8adzuvUhkk4.jpg",
+      "updated_at": "2026-08-24 13:02:05",
+      "revenue": 50000
+    },
+    {
+      "idx": 1543,
+      "campaign_id": "reveweddingH01",
+      "gather_name": "강릉 신혼여행&혼수박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "세인트존스호텔 특별행사장",
+      "sido": "강원",
+      "sigungu": "강릉시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_IZPTKWgiokUskrkP2x7QmT7CC3JQA.jpg",
+      "updated_at": "2026-08-24 13:02:25",
+      "revenue": 50000
+    },
+    {
+      "idx": 1653,
+      "campaign_id": "banhanaH06",
+      "gather_name": "울산 반하나 허니문 박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "신선도원몰 1층 반하나투어",
+      "sido": "울산",
+      "sigungu": "북구",
+      "region_en": "ulsan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_eIMIvCPwT.jpg",
+      "updated_at": "2026-08-24 13:02:40",
+      "revenue": 30000
+    },
+    {
+      "idx": 1274,
+      "campaign_id": "banhanaH04",
+      "gather_name": "포항 반하나 허니문 박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "롯데백화점 포항점 8층 LG전자베스트",
+      "sido": "경북",
+      "sigungu": "포항시",
+      "region_en": "gyeongbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_fCxnWHzrwsKuA3LiCDFB.jpg",
+      "updated_at": "2026-08-24 13:02:58",
+      "revenue": 30000
     }
   ]
 }
