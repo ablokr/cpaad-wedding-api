@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 161,
+    "total_count": 163,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-08-24 19:07:30"
+    "updated_at": "2026-08-25 10:03:17"
   },
   "items": [
     {
@@ -1412,6 +1412,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1873,
       "campaign_id": "wantwedfair04",
       "gather_name": "동탄 원트웨딩 웨딩박람회",
       "display_date": "09월 05일(토) ~ 09월 06일(일)",
@@ -1420,7 +1421,8 @@
       "sigungu": "화성시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
-      "updated_at": "2026-08-21 13:02:07"
+      "updated_at": "2026-08-21 13:02:07",
+      "revenue": 30000
     },
     {
       "idx": 726,
@@ -1953,7 +1955,7 @@
       "region_en": "gwangju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_oX7YdRPT68FnXhmw8k4nIwr1CwNPK.jpg",
       "updated_at": "2026-08-24 19:03:19",
-      "revenue": 30000
+      "revenue": 50000
     },
     {
       "idx": 1170,
@@ -2017,7 +2019,8 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_dCKkC6Jgum5EGkScMgh.jpg",
-      "updated_at": "2026-08-24 19:05:13"
+      "updated_at": "2026-08-24 19:05:13",
+      "revenue": 30000
     },
     {
       "idx": 1184,
@@ -2109,6 +2112,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
       "updated_at": "2026-08-24 19:07:30",
       "revenue": 50000
+    },
+    {
+      "idx": 1874,
+      "campaign_id": "wantwedfair05",
+      "gather_name": "원주 원트웨딩 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "LG베스트샵 남원주점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_MICl8x3nMCgA2xX564PQjUYLPtC.jpg",
+      "updated_at": "2026-08-25 10:02:57",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wantwedfair06",
+      "gather_name": "하남 원트웨딩 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "LG전자베스트샵 신세계하남점",
+      "sido": "경기",
+      "sigungu": "하남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_z8K7CLYO6hhtVTPGB8OaRzxTD.jpg",
+      "updated_at": "2026-08-25 10:03:17"
     }
   ]
 }
