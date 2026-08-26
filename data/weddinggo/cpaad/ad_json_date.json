@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-26T13:00:05Z",
-  "total_ad_count": 165,
+  "last_updated": "2026-08-26T16:00:03Z",
+  "total_ad_count": 167,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -1698,6 +1698,20 @@
       "start_date": "2026-08-29",
       "end_date": "2026-08-30"
     },
+    "knockWed04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_gbLE41W3lsppG6cwzw.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_1Rs77lIfBHaPAiehmNjUjF.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/knockWed04/",
+      "region": "jeolla",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "ad_info": "품격이 다른 웨딩문화 체험관",
+      "ad_year": "2026",
+      "ad_date": "08월 29일(토) ~ 08월 30일(일)",
+      "ad_location": "광주 서구 무진대로 904||(광천동 49-1)||광주 유스퀘어 문화관",
+      "start_date": "2026-08-29",
+      "end_date": "2026-08-30"
+    },
     "whw01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_NDGQfbt6kYtOiW3tahYxh.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cLMAdT6ZDexfhXxDoy6K.jpg",
@@ -2229,6 +2243,20 @@
       "ad_location": "제주특별자치도 제주시 연삼로 193||(오라이동 1212)||아뜰리에벨라",
       "start_date": "2026-08-29",
       "end_date": "2026-08-30"
+    },
+    "bwithk01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_AebHGQA8C9ktGBnwWs.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_t79gHnpg.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_o5hncGrHYWat4VrMwZxmYlYrL4f7FO.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/bwithk01/",
+      "region": "jeju",
+      "gather_name": "제주 MBC 웨딩페어",
+      "ad_info": "주MBC주최의 믿을 수 있는 제주MBC웨딩페어",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "제주특별자치도 제주시 노연로 12||(노형동 925)||제주 드림타워 4층 특별행사장",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
     },
     "laelwedding11": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Z8x3FHdXZ7XRtHTUXDMOIM.jpg",

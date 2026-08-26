@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 171,
+    "total_count": 173,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-08-26 13:01:27"
+    "updated_at": "2026-08-26 16:00:51"
   },
   "items": [
     {
@@ -2216,6 +2216,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1163,
       "campaign_id": "wwedding01",
       "gather_name": "부산웨딩박람회 W웨딩시티",
       "display_date": "08월 29일(토) ~ 08월 30일(일)",
@@ -2224,7 +2225,8 @@
       "sigungu": "부산진구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
-      "updated_at": "2026-08-26 13:01:09"
+      "updated_at": "2026-08-26 13:01:09",
+      "revenue": 30000
     },
     {
       "idx": 1871,
@@ -2237,6 +2239,32 @@
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_8MD2MSgA9kfjjh1OJY4D.jpg",
       "updated_at": "2026-08-26 13:01:27",
+      "revenue": 30000
+    },
+    {
+      "idx": 1212,
+      "campaign_id": "knockWed04",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "광주 유스퀘어 문화관",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_1Rs77lIfBHaPAiehmNjUjF.jpg",
+      "updated_at": "2026-08-26 16:00:19",
+      "revenue": 50000
+    },
+    {
+      "idx": 1801,
+      "campaign_id": "bwithk01",
+      "gather_name": "제주 MBC 웨딩페어",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "제주 드림타워 4층 특별행사장",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_t79gHnpg.jpg",
+      "updated_at": "2026-08-26 16:00:51",
       "revenue": 30000
     }
   ]
