@@ -1,0 +1,206 @@
+{
+  "idx": 1871,
+  "campaign_id": "colorinwed01",
+  "gather_name": "DDP 컬러인 웨딩페어",
+  "organizer_name": "컬러인웨딩",
+  "seo_metadata": {
+    "title": "DDP 컬러인 웨딩페어 | 서울 웨딩박람회 최대 73% 할인 혜택",
+    "meta_description": "2026년 9월, 동대문디자인플라자(DDP)에서 열리는 DDP 컬러인 웨딩페어! 스드메 최대 73% 할인 및 방문자 4종 사은품 증정. 선착순 혜택을 지금 사전등록으로 확인하세요.",
+    "keywords": [
+      "DDP웨딩박람회",
+      "서울웨딩박람회",
+      "결혼준비",
+      "스드메할인",
+      "웨딩페어",
+      "동대문결혼박람회",
+      "신혼여행특가",
+      "웨딩패키지",
+      "예식준비",
+      "결혼박람회사전등록"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞둔 예비부부라면 한 번쯤 고민하게 되는 스드메와 혼수 준비, 이번 'DDP 컬러인 웨딩페어'에서 그 해답을 찾아보세요. 오는 9월 12일부터 13일까지 동대문디자인플라자(DDP) 이간수문전시장에서 개최되는 이번 박람회는 예비부부의 합리적인 결혼 준비를 돕기 위해 기획되었습니다.",
+    "benefits_description": "이번 박람회는 스드메 패키지 최대 73% 할인이라는 파격적인 혜택으로 주목받고 있습니다. 현장 방문만 해도 LG전자 가전 기프트 및 웨딩 필수 4종 사은품을 증정하며, 얼리버드 선착순 30쌍에게는 특별 경품까지 준비되어 있습니다. 또한, 전문 메이크업 시연과 신혼여행 초특가 상담 등 결혼 준비의 모든 과정을 한자리에서 효율적으로 해결할 수 있도록 구성되었습니다.",
+    "summary_for_search": "9월 12일~13일 DDP에서 열리는 컬러인 웨딩페어! 스드메 최대 73% 할인과 방문자 4종 사은품, 신혼여행 초특가 혜택을 지금 바로 사전등록으로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "네고왕 협상완료! 스드메 최대 73% 할인",
+    "secondary_headline": "DDP에서 만나는 프리미엄 웨딩 페스티벌, 방문만 해도 4종 선물 증정",
+    "urgency_text": "단 2일간, 선착순 30쌍 한정 혜택",
+    "call_to_action_text": "무료 참가 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 4종 사은품 증정",
+      "LG전자 가전 경품",
+      "얼리버드 선착순 30쌍 특별 경품"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 73% 할인",
+      "계약 시 웨딩 상품권 추가 증정",
+      "신혼여행 초특가 할인 및 추가 혜택"
+    ],
+    "special_events": [
+      "DDP 현장 메이크업 무료 시연",
+      "스드메 패키지 1:1 맞춤 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "중구",
+      "sigungu_en": "jung",
+      "address": "서울 중구 을지로 281",
+      "venue": "동대문디자인플라자 이간수문전시장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 시 사은품 지급, 선착순 혜택은 조기 마감될 수 있음",
+    "trust_indicators": [
+      "국내 유일 DDP 웨딩페어",
+      "네고왕 협상 완료 업체",
+      "전문 컨설턴트 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "DDP 컬러인 웨딩페어",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "동대문디자인플라자(DDP) 이간수문전시장",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "서울 중구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "컬러인웨딩",
+        "url": "https://ad.cpaad.co.kr/colorinwed01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "입장료가 있나요?",
+        "answer": "사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 시 확인을 거쳐 증정되며, 조기 소진 시 마감될 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 할인은 어떻게 적용되나요?",
+        "answer": "현장 박람회 전용 상담을 통해 네고왕 협상가로 계약 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "DDP 공영주차장을 이용하실 수 있으며, 주차 지원 여부는 현장 안내 데스크에서 확인 가능합니다."
+      },
+      {
+        "question": "사전등록은 필수인가요?",
+        "answer": "입장 원활 및 특별 혜택 수령을 위해 사전등록을 권장합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 시작한 지 6개월 이내의 예비부부, 합리적인 스드메 비용을 고민하는 실속파 커플, 그리고 혼수와 신혼여행까지 한 번에 비교 상담받고 싶은 예비 신랑 신부를 위한 행사입니다. 막막한 결혼 준비 과정에서 어떤 업체가 신뢰할 만한지, 예산은 어떻게 분배해야 할지 고민하는 분들에게 전문적인 1:1 컨설팅을 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩드레스 전문샵",
+      "스드메 패키지 구성 업체",
+      "신혼여행 여행사",
+      "혼수 가전 브랜드",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "국내 유일 DDP에서 진행되는 프리미엄 박람회",
+      "최대 73% 할인이 적용된 투명한 가격 정책",
+      "네고왕 협상을 통한 강력한 제휴 혜택 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 비용 평균",
+      "결혼 준비 순서",
+      "웨딩박람회 사기 방지",
+      "서울 웨딩박람회 일정",
+      "웨딩패키지 가격 비교",
+      "신혼여행 박람회 혜택",
+      "박람회 당일 계약 혜택",
+      "결혼 예산 짜기",
+      "DDP 웨딩페어 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "스드메 합리적인 견적 알아보기",
+        "category": "wedding_guides"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "결혼준비",
+      "웨딩드레스",
+      "메이크업",
+      "예복",
+      "혼수가전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "DDP 컬러인 웨딩페어, 지금 사전등록 하세요!",
+    "og_description": "스드메 73% 할인! 방문만 해도 4종 사은품 증정. 9월 12-13일 DDP에서 만나요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#DDP웨딩페어",
+      "#스드메",
+      "#신혼여행",
+      "#결혼박람회",
+      "#서울웨딩박람회",
+      "#예비부부",
+      "#웨딩패키지",
+      "#혼수"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/colorinwed01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_IeqAQsUCE23gIEm.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_8MD2MSgA9kfjjh1OJY4D.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Xwqax31n4EGU6lk1BymKaMJpOPl.jpg"
+  },
+  "updated_at": "2026-08-26 13:30:24",
+  "revenue": 30000
+}
