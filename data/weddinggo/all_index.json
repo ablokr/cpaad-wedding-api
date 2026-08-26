@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 168,
+    "total_count": 171,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-08-25 19:01:45"
+    "updated_at": "2026-08-26 13:01:27"
   },
   "items": [
     {
@@ -2177,6 +2177,7 @@
       "revenue": 40000
     },
     {
+      "idx": 1820,
       "campaign_id": "reveweddingE28",
       "gather_name": "잠실 롯데백화점 혼수가전박람회",
       "display_date": "09월 05일(토) ~ 09월 06일(일)",
@@ -2185,7 +2186,8 @@
       "sigungu": "송파구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_7MTOOKVAMzGImcrijI.jpg",
-      "updated_at": "2026-08-25 13:01:29"
+      "updated_at": "2026-08-25 13:01:29",
+      "revenue": 50000
     },
     {
       "idx": 1248,
@@ -2198,6 +2200,43 @@
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YJoE8uy2.jpg",
       "updated_at": "2026-08-25 19:01:45",
+      "revenue": 30000
+    },
+    {
+      "idx": 1210,
+      "campaign_id": "wwedding04",
+      "gather_name": "부산 신세계백화점 웨딩박람회",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "신세계 센텀시티몰 B2 영풍문고앞",
+      "sido": "부산",
+      "sigungu": "해운대구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_qb97DRqAZcbVscD4a4LwLSa.jpg",
+      "updated_at": "2026-08-26 13:00:49",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wwedding01",
+      "gather_name": "부산웨딩박람회 W웨딩시티",
+      "display_date": "08월 29일(토) ~ 08월 30일(일)",
+      "venue": "W웨딩시티",
+      "sido": "부산",
+      "sigungu": "부산진구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
+      "updated_at": "2026-08-26 13:01:09"
+    },
+    {
+      "idx": 1871,
+      "campaign_id": "colorinwed01",
+      "gather_name": "DDP 컬러인 웨딩페어",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "동대문디자인플라자 이간수문전시장",
+      "sido": "서울",
+      "sigungu": "중구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_8MD2MSgA9kfjjh1OJY4D.jpg",
+      "updated_at": "2026-08-26 13:01:27",
       "revenue": 30000
     }
   ]
