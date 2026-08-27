@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 170,
+    "total_count": 173,
     "region_count": 16,
-    "district_count": 48,
-    "updated_at": "2026-08-26 19:31:06"
+    "district_count": 49,
+    "updated_at": "2026-08-27 19:31:05"
   },
   "items": [
     {
@@ -728,17 +728,15 @@
       "revenue": 30000
     },
     {
-      "idx": 1194,
       "campaign_id": "wwedding03",
       "gather_name": "부산 벡스코웨딩페어",
-      "display_date": "09월 11일(금) ~ 09월 31일(일)",
+      "display_date": "09월 11일(금) ~ 09월 13일(일)",
       "venue": "벡스코 제2전시장 4F홀",
       "sido": "부산",
       "sigungu": "해운대구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_dEdjB7lKufsQYKKAYB4US1.jpg",
-      "updated_at": "2026-08-14 13:30:40",
-      "revenue": 30000
+      "updated_at": "2026-08-27 19:30:50"
     },
     {
       "idx": 1578,
@@ -2231,6 +2229,45 @@
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_t79gHnpg.jpg",
       "updated_at": "2026-08-26 19:31:06",
+      "revenue": 30000
+    },
+    {
+      "idx": 1075,
+      "campaign_id": "wedingcrowd06",
+      "gather_name": "고양 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "스타필드 고양 삼성스토어 특별행사장",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RIIa54SWKbgWvhniBKT2OxkBm.jpg",
+      "updated_at": "2026-08-27 19:30:19",
+      "revenue": 30000
+    },
+    {
+      "idx": 1566,
+      "campaign_id": "wedingcrowd70",
+      "gather_name": "이천 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "LG전자베스트샵 이천본점",
+      "sido": "경기",
+      "sigungu": "이천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_c2VTWzqVwDun.jpg",
+      "updated_at": "2026-08-27 19:30:35",
+      "revenue": 30000
+    },
+    {
+      "idx": 1535,
+      "campaign_id": "wedingcrowd64",
+      "gather_name": "당진 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "삼성스토어 당진본점",
+      "sido": "충남",
+      "sigungu": "당진시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_bHIEqiGyEo6OEvFz2AH83N5BOcCCr7.jpg",
+      "updated_at": "2026-08-27 19:31:05",
       "revenue": 30000
     }
   ]
