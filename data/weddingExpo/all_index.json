@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 173,
+    "total_count": 174,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-08-27 19:31:05"
+    "updated_at": "2026-08-28 13:30:55"
   },
   "items": [
     {
@@ -374,15 +374,14 @@
       "idx": 1228,
       "campaign_id": "wwedding05",
       "gather_name": "부산 프라이빗 웨딩박람회",
-      "display_date": "08월 27일(목)",
+      "display_date": "09월 10일(목)",
       "venue": "W웨딩시티",
       "sido": "부산",
       "sigungu": "부산진구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
-      "updated_at": "2026-07-31 13:30:35",
-      "revenue": 30000,
-      "organizer_name": "더리본 주식회사"
+      "updated_at": "2026-08-28 13:30:55",
+      "revenue": 30000
     },
     {
       "idx": 1653,
@@ -728,6 +727,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1194,
       "campaign_id": "wwedding03",
       "gather_name": "부산 벡스코웨딩페어",
       "display_date": "09월 11일(금) ~ 09월 13일(일)",
@@ -736,7 +736,8 @@
       "sigungu": "해운대구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_dEdjB7lKufsQYKKAYB4US1.jpg",
-      "updated_at": "2026-08-27 19:30:50"
+      "updated_at": "2026-08-27 19:30:50",
+      "revenue": 30000
     },
     {
       "idx": 1578,
@@ -2078,6 +2079,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1875,
       "campaign_id": "wantwedfair06",
       "gather_name": "하남 원트웨딩 웨딩박람회",
       "display_date": "09월 12일(토) ~ 09월 13일(일)",
@@ -2086,7 +2088,8 @@
       "sigungu": "하남시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_z8K7CLYO6hhtVTPGB8OaRzxTD.jpg",
-      "updated_at": "2026-08-25 13:31:13"
+      "updated_at": "2026-08-25 13:31:13",
+      "revenue": 30000
     },
     {
       "idx": 1366,
@@ -2269,6 +2272,17 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_bHIEqiGyEo6OEvFz2AH83N5BOcCCr7.jpg",
       "updated_at": "2026-08-27 19:31:05",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "withyouwedding52",
+      "gather_name": "광명 이케아 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "LG전자베스트샵 이케아광명점",
+      "sido": "경기",
+      "sigungu": "광명시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jhmbzD2iKKN4ZhmJmvbTcqUxE.jpg",
+      "updated_at": "2026-08-28 13:30:37"
     }
   ]
 }
