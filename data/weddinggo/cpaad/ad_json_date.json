@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-28T10:00:02Z",
-  "total_ad_count": 173,
+  "last_updated": "2026-08-28T13:00:05Z",
+  "total_ad_count": 174,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -911,6 +911,20 @@
       "ad_year": "2026",
       "ad_date": "09월 12일(토) ~ 09월 13일(일)",
       "ad_location": "충북 청주시 흥덕구 오송읍 오송생명로 250||(오송읍 만수리 925)||청주오스코 특별전시장",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
+    },
+    "withyouwedding52": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_OpCc6IqGspqUf2Bti1q.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jhmbzD2iKKN4ZhmJmvbTcqUxE.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_qCQXL74Bwi8GhyNB4VvoFbw.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/withyouwedding52/",
+      "region": "gyeonggi",
+      "gather_name": "광명 이케아 웨딩박람회",
+      "ad_info": "당신만을 위한 광명 위드유 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "경기 광명시 일직로 17 1층||(일직동 500)||LG전자베스트샵 이케아광명점",
       "start_date": "2026-09-12",
       "end_date": "2026-09-13"
     },
