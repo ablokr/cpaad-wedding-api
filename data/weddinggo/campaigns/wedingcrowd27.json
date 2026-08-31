@@ -1,0 +1,204 @@
+{
+  "idx": 1258,
+  "campaign_id": "wedingcrowd27",
+  "gather_name": "라카이 샌드파인 강릉 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "라카이 샌드파인 강릉 웨딩박람회 | 스드메 110만원 할인 혜택",
+    "meta_description": "2026년 9월 12일-13일 강릉 라카이 샌드파인에서 열리는 웨딩박람회! 스드메 패키지 최대 110만원 할인과 백화점 상품권 등 풍성한 방문/계약 혜택을 지금 확인하고 무료로 사전 참가 신청하세요.",
+    "keywords": [
+      "강릉웨딩박람회",
+      "라카이샌드파인웨딩",
+      "강원도결혼준비",
+      "강릉스드메",
+      "웨딩박람회혜택",
+      "결혼준비꿀팁",
+      "신혼부부박람회",
+      "스드메패키지할인",
+      "강릉웨딩홀",
+      "강원도웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 9월 12일부터 13일까지 강릉 라카이 샌드파인 리셉션동에서 열리는 웨딩박람회에서 그 해답을 찾으세요. 예비부부를 위한 실속 있는 패키지와 전문가의 1:1 맞춤 상담이 준비되어 있습니다.",
+    "benefits_description": "이번 강릉 웨딩박람회에서는 스드메 패키지 최대 110만원 할인이라는 파격적인 혜택을 제공합니다. 현장 방문만 해도 스타벅스 상품권을 증정하며, 상담 및 계약 시 백화점 상품권 증정 등 다양한 선물과 업그레이드 서비스가 여러분을 기다립니다. 꼼꼼한 비교가 필요한 스드메부터 혼수, 예물까지 한자리에서 해결하며 합리적인 결혼 준비를 경험해 보세요.",
+    "summary_for_search": "강릉 라카이 샌드파인 웨딩박람회(9/12-13). 스드메 최대 110만원 할인과 상담 경품 혜택까지! 강원도 예비부부를 위한 가장 완벽한 결혼 준비 가이드를 지금 바로 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 최대 110만원 할인! 지금 바로 신청하세요",
+    "secondary_headline": "강릉 라카이 샌드파인에서 만나는 실속 있는 결혼 준비의 모든 것",
+    "urgency_text": "선착순 방문객 대상 혜택 마감 임박",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 상품권 증정",
+      "100% 증정 방문 경품"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 총 110만원 할인 혜택",
+      "백화점 상품권 2만원 증정",
+      "웨딩드레스 무료 업그레이드",
+      "블랙라벨 드레스 100만원 상당 무료 혜택"
+    ],
+    "special_events": [
+      "예식장 비교 상담",
+      "허니문 최대 150만원 할인 혜택",
+      "1:1 전문가 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "강릉시",
+      "sigungu_en": "gangneung",
+      "address": "강원특별자치도 강릉시 해안로 536",
+      "venue": "라카이 샌드파인 리셉션동 천연홀 1층",
+      "parking_info": "현장 주차 가능 (추후 상세 안내 예정)",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "관심 분야"
+    ],
+    "gift_conditions": "박람회 현장 방문 상담 및 계약 완료 고객 대상",
+    "trust_indicators": [
+      "스드메 최저가 보장제 운영",
+      "검증된 전문 웨딩 플래너 1:1 상담",
+      "웨딩크라우드 인증 업체 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "라카이 샌드파인 강릉 웨딩박람회",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "location": {
+        "@type": "Place",
+        "name": "라카이 샌드파인 리셉션동 천연홀 1층",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "강릉시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd27/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 무료입장 가능한가요?",
+        "answer": "네, 사전 참가 신청을 하시면 무료로 입장이 가능하며 다양한 상담 혜택을 누리실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 혜택은 무엇인가요?",
+        "answer": "이번 박람회에서는 스드메 패키지 최대 110만원 할인 및 블랙라벨 드레스 무료 업그레이드 혜택을 제공합니다."
+      },
+      {
+        "question": "상담만 받아도 경품을 주나요?",
+        "answer": "네, 현장 방문 및 상담을 진행하시는 모든 분께 스타벅스 상품권 등 100% 증정 선물을 드립니다."
+      },
+      {
+        "question": "주차는 편리한가요?",
+        "answer": "행사가 열리는 라카이 샌드파인 리셉션동 내 주차가 가능합니다."
+      },
+      {
+        "question": "참여 업체는 어떤 곳들이 있나요?",
+        "answer": "스드메를 포함하여 웨딩홀, 허니문, 예물, 맞춤정장, 한복, 혼수가전 등 결혼 준비의 모든 카테고리 전문 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부로서 합리적인 비용으로 퀄리티 높은 결혼식을 준비하고 싶은 분들께 최적입니다. 특히 스드메 업체 비교가 어렵거나 강원도 지역 예식장 정보를 한눈에 보고 싶은 분들, 전문가의 1:1 맞춤 컨설팅을 통해 시행착오를 줄이고 싶은 신혼부부에게 강력 추천합니다. 결혼 준비를 어디서부터 시작할지 막막한 초보 예비부부라면 현장 방문을 통해 체계적인 타임라인과 예산 관리 팁을 얻으실 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메 전문 업체 및 드레스 샵",
+      "강릉 및 강원도 웨딩홀",
+      "허니문 여행사",
+      "예물 및 명품 주얼리",
+      "맞춤 정장 및 신랑 예복",
+      "전통 한복 및 혼수 가전"
+    ],
+    "comparison_hooks": [
+      "스드메 총 110만원 파격 할인으로 비용 부담 최소화",
+      "강원 지역 최대 규모의 입점 업체 및 웨딩홀 정보",
+      "전문가와 1:1로 진행되는 맞춤형 웨딩 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼준비 예산 짜기",
+      "스드메 업체 비교",
+      "강릉 웨딩홀 추천",
+      "웨딩박람회 사기 방지",
+      "신혼여행지 추천",
+      "웨딩패키지 구성",
+      "결혼박람회 예약 방법",
+      "웨딩촬영 스튜디오 선택",
+      "혼수 준비 체크리스트"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강원도 웨딩박람회 일정 전체보기",
+        "category": "gangwon_weddings"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "허니문",
+      "맞춤정장",
+      "웨딩컨설팅",
+      "결혼비용"
+    ]
+  },
+  "social_meta": {
+    "og_title": "강릉 라카이 웨딩박람회 | 스드메 110만원 할인!",
+    "og_description": "강릉 예비부부 필수 코스! 라카이 샌드파인 웨딩박람회에서 스드메 최저가 보장 혜택과 푸짐한 선물을 받아가세요.",
+    "hashtags": [
+      "#강릉웨딩박람회",
+      "#강원도결혼준비",
+      "#라카이샌드파인",
+      "#웨딩박람회",
+      "#스드메할인",
+      "#결혼준비",
+      "#신혼부부혜택",
+      "#강릉웨딩",
+      "#예신예랑",
+      "#웨딩패키지"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd27/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_9NBKgwvQNGkGio6xfFj7oFKJNu4LjOJj.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jnpWpzdEH6uXhUrWrUnHe8LMwIFfP7V.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_VWPEoTNhdp.jpg"
+  },
+  "updated_at": "2026-08-31 16:01:50",
+  "revenue": 30000
+}
