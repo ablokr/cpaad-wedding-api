@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-08-31T13:00:04Z",
-  "total_ad_count": 138,
+  "last_updated": "2026-08-31T16:00:03Z",
+  "total_ad_count": 143,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -309,6 +309,20 @@
       "ad_year": "2026",
       "ad_date": "09월 12일(토) ~ 09월 13일(일)",
       "ad_location": "서울 강남구 남부순환로 3104||(대치동 514)||SETEC 2층 전시실",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
+    },
+    "wedingcrowd111": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_IcOsosOQf6Dj3kDcLROT8M1SKF9VGeL.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_KzUsfMi9L.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Eg1qXLCtN44YeITrcI.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd111/",
+      "region": "capital",
+      "gather_name": "여의도 대형 웨딩박람회",
+      "ad_info": "우주급 혜택과 안심 보장제도로 믿을 수 있는 웨딩박람회!",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "서울 영등포구 여의대로 108 5층||(여의도동 22)||삼성스토어 더현대서울",
       "start_date": "2026-09-12",
       "end_date": "2026-09-13"
     },
@@ -816,6 +830,20 @@
       "start_date": "2026-09-12",
       "end_date": "2026-09-13"
     },
+    "wedingcrowd39": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_f1sbtEl3fm7yrjQ7ePNWubLuuw9EuOE8.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_bqjEXPkc.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202311/42635e34d702a842a5408bf099b3a49d_MBWgq6x6Lax7.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd39/",
+      "region": "incheon",
+      "gather_name": "인천 송도컨벤시아 웨딩박람회",
+      "ad_info": "인천 송도컨벤시아에서 열리는 인천 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "인천 연수구 센트럴로 123||(송도동 6-1)||송도컨벤시아 특별행사장",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
+    },
     "wedingcrowd98": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_SAkWvZzVI5AuF59gCOtaA9u2bmvnxOl.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iFiTT5H9F3NBWUbUPRpLJ9fStmv.jpg",
@@ -1208,6 +1236,20 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
     },
+    "revewedding25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ahx2htvXFVR.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_y5CzjaTyk.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_5KMo6t7cevlpKHS4pwBmqsU.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding25/",
+      "region": "chungcheong",
+      "gather_name": "천안 신세계백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
+      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
+    },
     "larawedding01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_rX8PLY8ogSQZhi1GG2j5yjJXiAmD5t.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_SJyjsAR4uAO8Y.jpg",
@@ -1219,6 +1261,20 @@
       "ad_year": "2026",
       "ad_date": "09월 19일(토) ~ 09월 20일(일)",
       "ad_location": "충북 청주시 서원구 용평로113번길 35||)(분평동 631-5)||라라웨딩페어",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
+    },
+    "reveweddingE25": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_EtoaP6kPw7VPx3K7rMeHh.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ArRphbGBo5fIqS.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_mmvU2A9s9P2585xiSOrVGapa4XQ7R2.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingE25/",
+      "region": "chungcheong",
+      "gather_name": "천안 신세계백화점 혼수가전박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 천안 최대규모 혼수가전박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
+      "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점 A관 4층 LG전자",
       "start_date": "2026-09-19",
       "end_date": "2026-09-20"
     },
@@ -1571,6 +1627,20 @@
       "ad_location": "강원특별자치도 강릉시 경강로 2370||(송정동 612)||LG전자베스트샵 강릉본점",
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
+    },
+    "wedingcrowd27": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_9NBKgwvQNGkGio6xfFj7oFKJNu4LjOJj.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jnpWpzdEH6uXhUrWrUnHe8LMwIFfP7V.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_VWPEoTNhdp.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd27/",
+      "region": "gangwon",
+      "gather_name": "라카이 샌드파인 강릉 웨딩박람회",
+      "ad_info": "우주급 혜택과 안심 보장제도로 믿을 수 있는 웨딩박람회!",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "강원특별자치도 강릉시 해안로 536||(안현동 89-87)||라카이 샌드파인 리셉션동 천연홀 1층",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
     },
     "weddingplus03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_DCUqcgAjZcihczFXMlCc.jpg",
