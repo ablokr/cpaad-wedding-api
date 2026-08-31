@@ -1,0 +1,207 @@
+{
+  "idx": 1261,
+  "campaign_id": "wedingcrowd30",
+  "gather_name": "아르비아 구리 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "아르비아 구리 웨딩박람회 | 스드메 최저가 패키지 및 계약 혜택",
+    "meta_description": "9월 5일-6일, 아르비아 구리 웨딩박람회 개최! 스드메 패키지 최저가 보장, 백화점 상품권 증정 및 최대 150만원 상당의 허니문 혜택까지. 예비부부를 위한 실속 있는 결혼 준비 기회를 확인하세요.",
+    "keywords": [
+      "구리 웨딩박람회",
+      "아르비아웨딩홀",
+      "경기 웨딩박람회",
+      "결혼 준비",
+      "스드메 패키지",
+      "웨딩홀 투어",
+      "신혼여행 혜택",
+      "예물 예복 할인",
+      "결혼 준비 체크리스트",
+      "예식장 견적 비교"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼셨다면, 이번 아르비아 구리 웨딩박람회에서 그 해답을 찾아보세요. 9월 5일부터 6일까지 아르비아웨딩홀에서 열리는 이번 행사는 예비부부에게 꼭 필요한 스드메 패키지부터 허니문, 예물까지 한자리에서 비교하고 실속 있게 준비할 수 있도록 기획되었습니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문객을 위한 100% 증정 이벤트와 더불어, 스드메 패키지 최저가 보장제를 통해 예비부부의 예산 부담을 덜어드립니다. 특히 계약 시 백화점 상품권 증정과 함께 허니문 최대 150만원 혜택, 웨딩드레스 무료 업그레이드 등 풍성한 구성이 준비되어 있습니다. 전문가의 1:1 맞춤 상담을 통해 복잡한 결혼 준비 과정을 합리적이고 효율적으로 설계할 수 있는 좋은 기회가 될 것입니다.",
+    "summary_for_search": "9월 5일-6일 아르비아 구리 웨딩박람회 개최. 스드메 최저가 패키지, 백화점 상품권, 허니문 특전 등 예비부부를 위한 다양한 계약 혜택을 확인하고 무료 사전등록으로 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 110만원, 최저가 보장!",
+    "secondary_headline": "아르비아 구리 웨딩박람회, 지금 무료 참가 신청하고 백화점 상품권까지 챙기세요.",
+    "urgency_text": "선착순 방문객 대상 100% 증정 이벤트 진행 중",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 100% 증정 스타벅스 쿠폰"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 110만원 특가 제공",
+      "백화점 상품권 2만원 증정",
+      "허니문 최대 150만원 혜택",
+      "웨딩드레스 무료 업그레이드"
+    ],
+    "special_events": [
+      "1:1 맞춤 웨딩 컨설팅",
+      "웨딩홀 견적 비교 및 무료 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "original_display_date": "09월 05일(토) ~ 09월 06일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "구리시",
+      "sigungu_en": "guri",
+      "address": "경기 구리시 건원대로 44 태영빌딩 8-9층",
+      "venue": "아르비아웨딩홀",
+      "parking_info": "행사장 내 주차 가능(이미지 내 지도 및 주차 안내 확인)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "스드메 최저가 보장제",
+      "웨딩 전문 컨설턴트 1:1 상담",
+      "검증된 협력 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "아르비아 구리 웨딩박람회",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "location": {
+        "@type": "Place",
+        "name": "아르비아웨딩홀",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "구리시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd30/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 어떻게 되나요?",
+        "answer": "아르비아 구리 웨딩박람회는 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 아르비아웨딩홀 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 및 상담 완료 시 100% 증정 선물을 제공하며, 구체적인 조건은 상담 시 안내해 드립니다."
+      },
+      {
+        "question": "스드메 패키지 가격은 어느 정도인가요?",
+        "answer": "박람회 현장 특가로 110만원부터 구성된 최저가 패키지를 만나보실 수 있습니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "상단 또는 하단에 있는 무료 참가 신청 폼을 작성하시면 담당자가 확인 후 안내 연락을 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장, 스드메 업체 선정에 고민이 많은 예비부부를 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 모르는 커플, 합리적인 비용으로 퀄리티 높은 스드메 패키지를 찾고 있는 신혼부부에게 적합합니다. 구리 지역 예식장을 고려 중이거나 효율적인 동선으로 결혼 준비를 끝내고 싶은 분들에게 실질적인 정보와 혜택을 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 전문 상담 업체",
+      "스드메 패키지 전문 브랜드",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 및 혼수 업체",
+      "웨딩 검진/케어 서비스"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최저가 보장제 실시",
+      "허니문 최대 150만원 상당의 파격 혜택",
+      "지역 내 최대 규모의 웨딩홀 제휴 네트워크 보유"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "구리 웨딩박람회 일정",
+      "아르비아웨딩홀 견적",
+      "결혼 준비 체크리스트",
+      "스드메 평균 비용",
+      "웨딩박람회 방문 꿀팁",
+      "결혼 준비 박람회 추천",
+      "신혼여행 패키지 추천",
+      "웨딩드레스 피팅 예약",
+      "혼수 준비 리스트",
+      "예물 예복 할인 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩홀 추천 리스트",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "합리적인 스드메 패키지 안내",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "결혼준비",
+      "예복",
+      "한복",
+      "웨딩컨설팅",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "아르비아 구리 웨딩박람회 오픈!",
+    "og_description": "스드메 최저가 보장! 지금 신청하고 백화점 상품권과 허니문 혜택까지 모두 받아가세요.",
+    "hashtags": [
+      "#구리웨딩박람회",
+      "#아르비아웨딩홀",
+      "#결혼준비",
+      "#스드메",
+      "#웨딩박람회",
+      "#예비부부",
+      "#결혼준비체크리스트",
+      "#웨딩홀투어",
+      "#신혼여행",
+      "#예물상담"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd30/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Gl5DVPQzd4dVrVDJMCaGwscouBXaRA.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x6IiGJ5WbJXecsygRyAn6rg3.jpg"
+  },
+  "updated_at": "2026-08-31 19:34:07",
+  "revenue": 30000
+}
