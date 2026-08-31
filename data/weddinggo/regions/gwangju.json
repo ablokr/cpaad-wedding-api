@@ -414,5 +414,211 @@
     },
     "updated_at": "2026-08-24 16:05:20",
     "revenue": 30000
+  },
+  {
+    "idx": 1086,
+    "campaign_id": "theBWSF01",
+    "gather_name": "광주 스타일링 웨딩페어",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 스타일링 웨딩페어 | 신세계백화점 광주점 결혼준비 혜택 모음",
+      "meta_description": "2026년 9월 12일~13일, 광주 신세계백화점 웨딩페어 개최! 스드메 패키지부터 혼수, 예물까지 총 70만원 상당의 할인 특전과 방문 선물 혜택을 지금 바로 확인하고 사전 예약하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주신세계웨딩페어",
+        "광주스드메",
+        "광주웨딩홀",
+        "광주예물",
+        "광주혼수",
+        "2026웨딩박람회",
+        "광주결혼박람회",
+        "광주신혼부부혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 막막한 예비부부를 위해 준비한 광주 스타일링 웨딩페어가 신세계백화점 광주점에서 열립니다. 복잡한 결혼 준비를 한곳에서 해결하고, 전문가의 1:1 상담을 통해 나만의 스타일을 완성해보세요.",
+      "benefits_description": "이번 웨딩페어는 총 70만원 상당의 특전 쿠폰팩을 제공하여 경제적인 결혼 준비를 돕습니다. 현장 방문 시 스타벅스 커피 쿠폰과 선착순 경품 추첨 기회가 주어지며, 계약 시에는 추가 할인과 혼수 가전 혜택까지 더해집니다. 실속 있는 예비부부를 위한 1:1 맞춤 플래닝으로 예식장부터 스드메, 허니문까지 완벽하게 준비할 수 있습니다.",
+      "summary_for_search": "2026년 9월 12~13일, 광주 신세계백화점 8층에서 개최되는 광주 스타일링 웨딩페어! 사전 예약 시 70만원 할인 혜택과 푸짐한 방문 선물을 증정합니다. 광주 지역 예비부부를 위한 최적의 결혼 준비 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼준비 최대 70만원 할인! 광주 스타일링 웨딩페어",
+      "secondary_headline": "신세계백화점에서 만나는 1:1 맞춤 상담, 2026 웨딩 트렌드 총집합",
+      "urgency_text": "선착순 사전 예약자 한정 방문 혜택 증정",
+      "call_to_action_text": "지금 무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 고객 스타벅스 쿠폰 증정",
+        "선착순 방문객 경품 추첨 기회"
+      ],
+      "contract_benefits": [
+        "결혼준비 특전 쿠폰팩 (스드메, 예물, 예복, 한복 등 최대 70만원 상당)",
+        "계약 시 혼수 가전 특전 제공",
+        "웨딩홀 대관료 할인 및 특전"
+      ],
+      "special_events": [
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "2026 신상 웨딩드레스 전시",
+        "웨딩홀 비교 분석 및 실시간 예약 특전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "display_date": "09월 12일(토) ~ 09월 13일(일)",
+        "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "광주 서구 무진대로 932",
+        "venue": "신세계백화점 광주신세계점 8층",
+        "parking_info": "신세계백화점 주차장 이용 가능",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 시 증정",
+      "trust_indicators": [
+        "1,300쌍 이상의 누적 선택",
+        "광주 지역 유명 웨딩홀 및 업체 대거 입점",
+        "신세계백화점 개최로 신뢰도 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 스타일링 웨딩페어",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "location": {
+          "@type": "Place",
+          "name": "신세계백화점 광주신세계점 8층",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "광주 서구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBWSF01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "사전 예약 시 다양한 방문 혜택과 할인 쿠폰이 제공되므로 원활한 상담을 위해 사전 예약을 권장합니다."
+        },
+        {
+          "question": "입장료가 있나요?",
+          "answer": "광주 스타일링 웨딩페어는 사전 무료 초대권 신청을 통해 무료로 입장 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "광주 지역 주요 웨딩홀, 스드메 패키지, 예물, 예복, 한복 등 결혼 준비에 필요한 전 분야의 검증된 업체가 참여합니다."
+        },
+        {
+          "question": "주차는 편리한가요?",
+          "answer": "신세계백화점 광주점 내 주차장을 이용할 수 있어 편리한 주차가 가능합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 소요되나요?",
+          "answer": "평균적으로 1시간~2시간 정도 소요되며, 1:1 맞춤 상담을 통해 예비부부의 예산과 취향에 맞춘 큐레이션을 제공합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "광주 및 전남권에서 결혼을 앞둔 예비부부를 대상으로 합니다. 특히 결혼 준비를 어디서부터 어떻게 시작해야 할지 막막한 초보 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 신뢰할 수 있는 업체와 한 번에 상담을 해결하고 싶은 분들에게 최적화된 행사입니다. 2026년 웨딩 트렌드를 확인하고 전문가의 조언이 필요한 모든 분들이 방문하시기 좋습니다.",
+      "exhibitor_highlights": [
+        "광주 프리미엄 웨딩홀",
+        "스드메 토탈 패키지샵",
+        "허니문 전문 여행사",
+        "명품 예물 및 웨딩 밴드",
+        "맞춤 정장 및 한복 브랜드"
+      ],
+      "comparison_hooks": [
+        "검증된 업체만 엄선한 광주 지역 유일 스타일링 전문 박람회",
+        "현장 즉시 사용 가능한 최대 70만원 특전 쿠폰 제공",
+        "백화점 개최로 상담의 퀄리티와 신뢰도 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩홀 추천",
+        "광주 스드메 가격",
+        "결혼 준비 체크리스트",
+        "광주 웨딩박람회 방문 후기",
+        "신혼여행 준비 기간",
+        "스드메 패키지 구성",
+        "결혼 예물 트렌드",
+        "광주 맞춤 예복",
+        "웨딩박람회 무료 초대권",
+        "결혼 준비 비용 절약법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 비교 페이지",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "2026 스드메 패키지 견적",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "드레스투어",
+        "웨딩촬영",
+        "본식스냅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 결혼준비 끝! 신세계 웨딩페어 혜택 공개",
+      "og_description": "사전 예약 시 70만원 할인! 광주 스타일링 웨딩페어에서 생애 단 한 번뿐인 결혼을 완벽하게 준비하세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주신세계백화점",
+        "#광주웨딩홀",
+        "#광주스드메",
+        "#예비부부",
+        "#웨딩박람회",
+        "#결혼준비",
+        "#광주예물",
+        "#2026결혼"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBWSF01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_IXbqtAkZPoThKRYjWCGtL2.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_E8GjltQ6Pl2McHKbPlMxr2.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_D6GUOLPnbz4VRxWJnKQULe.jpg"
+    },
+    "updated_at": "2026-08-31 19:06:39",
+    "revenue": 30000
   }
 ]
