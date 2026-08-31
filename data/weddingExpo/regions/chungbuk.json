@@ -2501,5 +2501,212 @@
     },
     "updated_at": "2026-08-26 19:30:52",
     "revenue": 30000
+  },
+  {
+    "idx": 1330,
+    "campaign_id": "familywedding11",
+    "gather_name": "청주 OSCO 웨딩박람회",
+    "organizer_name": "패밀리투어",
+    "seo_metadata": {
+      "title": "청주 OSCO 웨딩박람회 | 결혼 준비 혜택 및 무료 초대권 신청",
+      "meta_description": "9월 19일~20일 청주오스코 웨딩박람회 개최! 로보락 로봇청소기, 스타벅스 텀블러 등 푸짐한 방문 및 계약 혜택을 확인하세요. 지금 무료 사전등록하고 실속 있는 결혼 준비를 시작해보세요.",
+      "keywords": [
+        "청주웨딩박람회",
+        "청주오스코",
+        "청주결혼준비",
+        "청주웨딩홀",
+        "스드메견적",
+        "웨딩박람회혜택",
+        "예비부부결혼준비",
+        "청주혼수",
+        "웨딩박람회무료입장",
+        "충북결혼박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 막막한 준비 과정에 고민이 많으신가요? 이번 청주 OSCO 웨딩박람회는 예비부부님들을 위한 실속 있는 혜택과 최신 트렌드를 한눈에 확인할 수 있는 기회입니다. 9월 19일부터 20일까지 청주오스코에서 열리는 이번 행사를 통해 효율적인 결혼 준비를 계획해보세요.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 스타벅스 텀블러 등 실용적인 선물을 증정하며, 상담 및 계약 시 로보락 로봇청소기를 포함한 파격적인 가전 혜택을 제공합니다. 특히 드레스 최대 50% 할인, 허니문 특가 패키지, 예물·예복 상담 시 추가 25~30% 할인 등 예산 절감에 실질적인 도움을 드릴 예정입니다. 복잡한 결혼 준비를 전문가와 1:1 상담으로 해결하고, 현장에서만 제공되는 특별 프로모션을 누려보시기 바랍니다.",
+      "summary_for_search": "9월 19일(토) ~ 9월 20일(일) 청주오스코에서 열리는 청주 웨딩박람회! 방문 시 스타벅스 텀블러 증정 및 계약 시 로봇청소기 혜택을 제공합니다. 스드메, 혼수, 예물 등 결혼 준비의 모든 것을 한자리에 모았습니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 사전등록하면 로보락 로봇청소기가 내 손에!",
+      "secondary_headline": "스드메부터 혼수까지, 청주 최대 규모 웨딩박람회에서 준비하는 스마트한 결혼의 시작",
+      "urgency_text": "선착순 한정 혜택 마감 임박",
+      "call_to_action_text": "무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 스타벅스 텀블러 증정",
+        "현장 방문자 대상 선착순 경품 이벤트"
+      ],
+      "contract_benefits": [
+        "계약 시 로보락 로봇청소기 증정",
+        "웨딩 드레스 최대 50% 할인",
+        "예복 및 예물 당일 계약 시 25~30% 할인",
+        "혼수 가전 결합 할인 프로모션"
+      ],
+      "special_events": [
+        "스드메 1:1 전문 상담 서비스",
+        "인기 웨딩홀 실시간 비교 추천",
+        "허니문 특가 패키지 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "display_date": "09월 19일(토) ~ 09월 20일(일)",
+        "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+      },
+      "location": {
+        "sido": "충북",
+        "sido_en": "chungbuk",
+        "sigungu": "청주시",
+        "sigungu_en": "cheongju",
+        "address": "충북 청주시 흥덕구 오송읍 오송생명로 250",
+        "venue": "청주오스코 특별행사장",
+        "parking_info": "청주오스코 주차장 이용 가능 (자세한 주차 지원은 현장 안내 참고)",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 상담 완료 및 상담 카드 작성 시 증정",
+      "trust_indicators": [
+        "다양한 웨딩 업체 입점",
+        "1:1 맞춤형 전문 웨딩 플래닝",
+        "투명한 스드메 패키지 견적 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "청주 OSCO 웨딩박람회",
+        "startDate": "2026-09-19",
+        "endDate": "2026-09-20",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "청주오스코 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "청주시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "패밀리투어",
+          "url": "https://ad.cpaad.co.kr/familywedding11/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 무료입장이 가능한가요?",
+          "answer": "사전등록을 하시면 무료로 입장이 가능합니다. 신청 페이지에서 예식 예정일과 정보를 입력해주시면 됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "청주오스코 내 주차장을 이용하실 수 있습니다. 상세 정보는 행사장 안내를 참조해주세요."
+        },
+        {
+          "question": "스드메 상담은 어떻게 진행되나요?",
+          "answer": "박람회 현장에서 웨딩 플래너와 1:1로 진행되며, 신랑신부님 취향에 맞는 맞춤형 업체 추천을 받아보실 수 있습니다."
+        },
+        {
+          "question": "방문하면 선물을 바로 받을 수 있나요?",
+          "answer": "현장에서 상담 카드를 작성하고 상담을 완료하시면 선착순으로 증정되는 사은품을 수령하실 수 있습니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것들이 있나요?",
+          "answer": "계약 시 로봇청소기 증정을 비롯해 드레스, 예물, 예복 등 분야별로 상당한 할인 프로모션이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 날짜를 확정하고 본격적으로 스드메(스튜디오, 드레스, 메이크업) 업체와 웨딩홀을 비교 중인 예비부부, 예산 범위 내에서 실속 있는 혼수 준비를 원하는 신혼부부, 바쁜 일정 속에서 한자리에서 효율적으로 결혼 정보를 얻고자 하는 예비 신랑신부님을 위한 행사입니다. 결혼 준비의 첫걸음을 떼기 어려운 분들에게 전문가의 맞춤형 가이드와 최신 웨딩 트렌드를 제안합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 제휴 업체",
+        "스튜디오·드레스·메이크업(스드메) 스튜디오",
+        "허니문 여행사",
+        "예물·예복 전문 브랜드",
+        "혼수 가전 및 인테리어 업체"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 시 파격 할인 적용",
+        "전문 웨딩 플래너의 1:1 맞춤 밀착 상담 제공",
+        "다양한 분야의 브랜드가 모인 원스톱 웨딩 쇼핑"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "청주 웨딩홀 추천",
+        "스드메 견적 비교",
+        "웨딩박람회 혜택 비교",
+        "신혼여행 패키지 추천",
+        "예복 맞춤 가격",
+        "혼수 가전 구매 팁",
+        "웨딩박람회 예약 방법",
+        "박람회 계약 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "청주 웨딩박람회 일정 전체보기",
+          "category": "청주_웨딩_행사"
+        },
+        {
+          "anchor": "결혼 준비 가이드 모음",
+          "category": "웨딩_정보_블로그"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "결혼박람회",
+        "예비부부",
+        "플래닝"
+      ]
+    },
+    "social_meta": {
+      "og_title": "청주 OSCO 웨딩박람회 | 결혼 준비 혜택 총정리",
+      "og_description": "9월 19일-20일 청주오스코! 무료 사전등록하고 로봇청소기, 스타벅스 텀블러 등 푸짐한 선물 받아가세요.",
+      "hashtags": [
+        "#청주웨딩박람회",
+        "#청주결혼준비",
+        "#청주웨딩홀",
+        "#청주스드메",
+        "#결혼준비시작",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#청주데이트",
+        "#결혼박람회",
+        "#오스코웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/familywedding11/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_hoENLagldxosJqE5RNriCoEntv.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_pqQUzBW5XHk1da7ztVDhCx4.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_XeZtchApJFo.jpg"
+    },
+    "updated_at": "2026-08-31 19:35:33",
+    "revenue": 30000
   }
 ]
