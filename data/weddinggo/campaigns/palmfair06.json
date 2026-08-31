@@ -1,0 +1,205 @@
+{
+  "idx": 1806,
+  "campaign_id": "palmfair06",
+  "gather_name": "창원 팜투어 허니문박람회",
+  "organizer_name": "제이씨커뮤니케이션",
+  "seo_metadata": {
+    "title": "창원 허니문 박람회 | 팜투어 창원지사 단독 혜택 및 허니문 특가",
+    "meta_description": "2026년 9월 5일-6일, 창원 팜투어 허니문 박람회 개최! 신혼여행 최대 60만원 할인 및 계약 시 여행용 캐리어, 고급 포인트 쇼핑몰 할인권 등 파격 혜택 제공. 지금 사전 예약하고 신혼여행 고민 해결하세요.",
+    "keywords": [
+      "창원허니문박람회",
+      "팜투어창원지사",
+      "창원웨딩박람회",
+      "결혼준비",
+      "신혼여행박람회",
+      "신혼부부혜택",
+      "허니문특가",
+      "창원결혼준비",
+      "신혼여행추천",
+      "웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘, 신혼여행부터 완벽하게 시작하세요. 2026년 9월 5일부터 6일까지, 창원 팜투어 직영지사에서 허니문 전문가와 함께하는 특별한 박람회가 열립니다. 복잡한 허니문 고민을 한 번에 해결하고 업계 1위 팜투어만의 독보적인 혜택을 누릴 수 있는 기회입니다.",
+    "benefits_description": "이번 창원 팜투어 허니문 박람회에서는 방문만 하셔도 라면 티포트, 여행용 파우치 등 실속 있는 사은품을 전원 증정합니다. 또한, 현장 계약 시 고급 캐리어와 포인트 쇼핑몰 상품권 등 다채로운 혜택이 기다리고 있습니다. 무엇보다 허니문 직거래를 통해 일반 여행사 대비 약 10% 이상 저렴한 가격으로 발리, 몰디브, 하와이 등 인기 신혼여행지를 예약할 수 있는 절호의 찬스입니다.",
+    "summary_for_search": "2026년 9월 5일~6일 창원 팜투어 허니문 박람회 개최! 방문자 전원 사은품 증정 및 신혼여행지별 최대 60만원 할인 등 직거래 박람회만의 파격적인 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "신혼여행 준비, 팜투어라면 10% 이상 더 저렴하게!",
+    "secondary_headline": "창원 허니문 박람회 단독 프로모션, 지금 사전 예약하고 최대 60만원 추가 할인 혜택까지 챙기세요.",
+    "urgency_text": "선착순 예약 한정! 9월 5일~6일 단 이틀간 진행",
+    "call_to_action_text": "박람회 무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 라면 티포트 또는 여행용 파우치 세트 전원 증정",
+      "신세계 면세점 할인권 등 추가 방문 사은품"
+    ],
+    "contract_benefits": [
+      "허니문 상품 최대 60만원 할인",
+      "계약 시 고급 PC 캐리어 증정",
+      "포인트 쇼핑몰 20만원 상당 할인권 증정"
+    ],
+    "special_events": [
+      "신혼여행 안심보험 21억 5천만원 가입",
+      "1:1 허니문 전문가 맞춤 컨설팅",
+      "직거래 박람회 단독 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06",
+      "display_date": "09월 05일(토) ~ 09월 06일(일)",
+      "original_display_date": "09월 05일(토) ~ 09월 06일(일)"
+    },
+    "location": {
+      "sido": "경남",
+      "sido_en": "gyeongnam",
+      "sigungu": "창원시",
+      "sigungu_en": "changwon",
+      "address": "경남 창원시 성산구 상남로 75",
+      "venue": "팜투어 창원직영지사",
+      "parking_info": "별도 안내 예정",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "희망 여행지"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "10년 연속 허니문 판매 1위",
+      "한국 소비자 평가 최고 브랜드 대상 수상",
+      "21억 5천만원 상당 신혼여행 안심보험 가입"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "창원 팜투어 허니문 박람회",
+      "startDate": "2026-09-05",
+      "endDate": "2026-09-06",
+      "location": {
+        "@type": "Place",
+        "name": "팜투어 창원직영지사",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "창원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이씨커뮤니케이션",
+        "url": "https://ad.cpaad.co.kr/palmfair06/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 시 사은품은 무엇인가요?",
+        "answer": "방문객 전원에게 라면 티포트 또는 여행용 파우치 세트 등 실속 있는 사은품을 증정합니다."
+      },
+      {
+        "question": "허니문 박람회 혜택은 일반 여행사와 어떻게 다른가요?",
+        "answer": "팜투어는 직거래 허니문 박람회로, 일반 여행사 대비 약 10% 이상 저렴한 가격과 박람회 단독 할인 혜택을 제공합니다."
+      },
+      {
+        "question": "박람회 참가 비용은 있나요?",
+        "answer": "본 박람회는 예비부부들을 위한 무료 행사입니다. 사전 예약을 통해 간편하게 참가 신청이 가능합니다."
+      },
+      {
+        "question": "계약 시 어떤 혜택을 받을 수 있나요?",
+        "answer": "신혼여행 상품 최대 60만원 할인과 함께 고급 캐리어, 포인트 쇼핑몰 할인권 등 파격적인 추가 혜택을 드립니다."
+      },
+      {
+        "question": "안심보험이란 무엇인가요?",
+        "answer": "팜투어는 여행객의 안전을 위해 21억 5천만원 상당의 안심보험에 가입되어 있어 안심하고 여행을 준비할 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 완벽한 신혼여행을 계획 중인 예비부부를 대상으로 합니다. 특히 허니문 여행지 선택에 어려움을 겪고 있거나, 스드메 못지않게 신혼여행 비용 합리화가 중요한 커플, 안전하고 보장된 여행사를 찾는 실속파 신혼부부에게 최적화된 정보를 제공합니다. 전문 상담사와 1:1 상담을 통해 나만의 맞춤 허니문 일정을 설계하고 싶은 분들에게 유용한 박람회입니다.",
+    "exhibitor_highlights": [
+      "인기 신혼여행지별 직거래 여행사 부스",
+      "허니문 전문 컨설턴트 상담",
+      "면세점 및 여행 쇼핑몰 연계 혜택"
+    ],
+    "comparison_hooks": [
+      "일반 여행사 대비 10% 이상 저렴한 직거래 허니문 가격",
+      "업계 유일 21억 5천만원 안심보험 가입 보장",
+      "10년 연속 허니문 판매 1위 브랜드의 전문성 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행 추천지",
+      "허니문 박람회 준비물",
+      "팜투어 후기",
+      "결혼준비 체크리스트",
+      "스드메 비용 비교",
+      "창원 웨딩박람회 일정",
+      "신혼여행지순위",
+      "허니문 안심보험",
+      "신혼여행 싸게 가는 법",
+      "결혼박람회 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "창원 웨딩박람회 전체 일정",
+        "category": "events"
+      },
+      {
+        "anchor": "신혼여행지 BEST 10",
+        "category": "honeymoon"
+      }
+    ],
+    "semantic_keywords": [
+      "허니문",
+      "신혼여행",
+      "팜투어",
+      "직거래박람회",
+      "결혼준비",
+      "웨딩컨설팅",
+      "해외여행",
+      "여행패키지",
+      "면세점",
+      "캐리어"
+    ]
+  },
+  "social_meta": {
+    "og_title": "창원 허니문 박람회 | 신혼여행 60만원 할인",
+    "og_description": "9월 5-6일 팜투어 창원지사 방문하고 허니문 최대 할인과 캐리어 선물까지 모두 챙기세요!",
+    "hashtags": [
+      "#창원웨딩박람회",
+      "#팜투어",
+      "#신혼여행",
+      "#결혼준비",
+      "#허니문박람회",
+      "#창원결혼준비",
+      "#신혼부부",
+      "#예비부부",
+      "#허니문특가",
+      "#여행박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/palmfair06/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_RCdEQC9E2no6EkpbqriLIh9PCf.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_2UMkLWvcwvkhjkMCZ1p36LPix.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_y8rpLRbELsAZKeK1kd7tR1HTT7ovUHa.jpg"
+  },
+  "updated_at": "2026-08-31 13:05:21",
+  "revenue": 35000
+}
