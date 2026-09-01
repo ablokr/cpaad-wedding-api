@@ -1,0 +1,210 @@
+{
+  "idx": 1747,
+  "campaign_id": "wedingcrowd101",
+  "gather_name": "수원 컨벤션센터 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "수원 컨벤션센터 웨딩박람회 | 스드메 할인 및 계약 사은품 혜택 안내",
+    "meta_description": "9월 19일~20일, 수원 컨벤션센터에서 열리는 대규모 웨딩박람회! 스드메 패키지 특가부터 혼수, 허니문 최저가 혜택까지. 지금 사전등록하고 풍성한 방문 사은품을 받아보세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "결혼 준비",
+      "수원 컨벤션센터 웨딩박람회",
+      "스드메 패키지",
+      "수원 웨딩홀",
+      "예물 예복",
+      "신혼여행 허니문",
+      "혼수가전",
+      "웨딩 박람회 일정",
+      "결혼 준비 체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 수원 컨벤션센터 웨딩박람회, 결혼 준비의 시작점을 고민 중이시라면 아래 정보를 참고해보세요. 9월 19일부터 20일까지 수원컨벤션센터에서 개최되는 이번 박람회는 예비부부를 위한 실질적인 혜택과 다양한 업체 정보를 한자리에서 확인할 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회는 방문만 해도 스타벅스 기프트카드 등 풍성한 사은품을 제공하는 것으로 확인됩니다. 또한 계약자 전원에게는 웨딩 다이어리를 비롯한 특별 사은품이 증정되며, 스드메 상담만 받아도 에어프라이어 등의 가전 혜택을 기대할 수 있습니다. 특히 현장 계약 시 캐스퍼 경품 당첨 기회와 함께 허니문 여행권 등 추가적인 혜택이 마련되어 있으니, 결혼 비용을 절감하고자 하는 예비부부라면 현장 상담을 통해 구체적인 견적을 비교해보시는 것을 권장합니다.",
+    "summary_for_search": "9월 19일~20일 수원 컨벤션센터 웨딩박람회 개최! 스드메 패키지 특가와 혼수, 예물, 허니문까지 한자리에서 비교하세요. 지금 사전등록하고 방문 사은품과 계약 혜택을 확인해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "2026 수원 컨벤션센터 초대형 웨딩박람회",
+    "secondary_headline": "스드메부터 혼수, 허니문까지 단 한 번의 방문으로 결혼 준비 끝!",
+    "urgency_text": "선착순 방문 사은품 및 계약자 대상 특별 경품 추첨 진행 중",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "참가자 전원 사은품 제공",
+      "스타벅스 기프트카드 증정"
+    ],
+    "contract_benefits": [
+      "계약자 100% 전원 사은품 증정",
+      "웨딩 다이어리 제공",
+      "스드메 상담 시 에어프라이어 등 사은품 증정",
+      "캐스퍼 당첨 경품 이벤트 응모권",
+      "혼수/허니문 최저가 혜택"
+    ],
+    "special_events": [
+      "스드메 패키지 특가전",
+      "허니문 최저가 직거래",
+      "웨딩홀 추천 및 식대 할인 혜택"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 2층 특별전시장",
+      "parking_info": "수원컨벤션센터 내 주차 가능 (현장 상황에 따라 주차 지원 여부 확인 필요)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 혜택이 제공되며, 사전 등록자 우선으로 혜택이 적용될 수 있습니다.",
+    "trust_indicators": [
+      "대규모 스드메 업체 참가",
+      "전문 웨딩 플래너 1:1 상담",
+      "혼수·예물·가전 원스톱 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 컨벤션센터 웨딩박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터 2층 특별전시장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "수원시",
+          "addressLocality": "수원",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd101/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 사전등록은 꼭 해야 하나요?",
+        "answer": "사전등록을 하시면 무료 입장 혜택과 함께 현장 상담 시 제공되는 다양한 사은품을 우선적으로 챙기실 수 있습니다."
+      },
+      {
+        "question": "박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "방문객 전원에게는 사은품이 증정되며, 스드메 상담 시 추가 가전제품 등 계약 사은품 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사가 열리는 수원컨벤션센터 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메) 업체는 물론 웨딩홀, 예물, 예복, 허니문, 혼수가전 등 결혼 준비에 필요한 모든 카테고리의 업체가 참여합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 상담이 가능할까요?",
+        "answer": "네, 박람회 현장에 전문 웨딩 플래너들이 상주하여 예비부부의 예산과 취향에 맞춘 1:1 맞춤형 컨설팅을 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 패키지 가격을 투명하게 비교하고 싶은 커플, 결혼 준비 시간을 효율적으로 단축하고 싶은 직장인 커플을 위한 행사입니다. 또한, 합리적인 혼수 가전 구매와 예식장 예약 등 결혼 전반에 걸친 정보 수집이 필요한 분들에게 최적화되어 있습니다. 박람회 방문을 통해 최신 웨딩 트렌드를 파악하고 전문가의 1:1 상담을 통해 나만의 웨딩 플랜을 구체화할 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메 전문 패키지 업체",
+      "수원 지역 인기 웨딩홀",
+      "명품 예물 및 맞춤 정장 브랜드",
+      "허니문 전문 여행사",
+      "삼성 AI 혼수가전 상담 부스"
+    ],
+    "comparison_hooks": [
+      "수원 지역 내 최다 규모의 웨딩 업체 입점",
+      "박람회 당일 계약 시 추가 할인 및 현장 특전 제공",
+      "예산별 맞춤 스드메 패키지 1:1 정밀 비교 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 순서",
+      "스드메 뜻",
+      "수원 웨딩홀 추천",
+      "웨딩박람회 계약 팁",
+      "허니문 여행사 비교",
+      "예물 예복 박람회",
+      "신혼가전 할인",
+      "웨딩 플래너 상담",
+      "결혼 준비 비용 절약"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩박람회 일정 전체보기",
+        "category": "suwon_events"
+      },
+      {
+        "anchor": "결혼 준비 체크리스트 확인",
+        "category": "guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예복",
+      "웨딩촬영",
+      "결혼 비용"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩박람회 사전등록하고 혜택받기",
+    "og_description": "9/19-20 수원컨벤션센터! 스드메 패키지 특가부터 계약 사은품까지, 지금 확인하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원컨벤션센터",
+      "#스드메",
+      "#예비부부",
+      "#신혼부부",
+      "#웨딩박람회혜택",
+      "#결혼준비체크리스트",
+      "#수원결혼준비",
+      "#예신"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd101/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_2NWes1ionilQgQWlg6.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_B9BCeMbRTKJVPfbNH.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_9sfAJ7grHUQo.jpg"
+  },
+  "updated_at": "2026-09-01 13:32:06",
+  "revenue": 30000
+}

@@ -1,0 +1,207 @@
+{
+  "idx": 1360,
+  "campaign_id": "wedingcrowd45",
+  "gather_name": "수원 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "수원 웨딩크라우드 웨딩박람회 | 삼성스토어 AK수원 상담 혜택",
+    "meta_description": "9월 12일~13일 삼성스토어 AK수원에서 열리는 수원 웨딩크라우드 웨딩박람회! 캐스퍼 경품 추첨, 스드메 패키지 특가, 혼수 상담 혜택까지 예비부부를 위한 알찬 정보와 사전등록 방법을 지금 확인하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "결혼 준비",
+      "수원 웨딩홀",
+      "스드메 패키지",
+      "신혼가전",
+      "삼성스토어 AK수원",
+      "웨딩박람회 일정",
+      "수원 스드메",
+      "웨딩 박람회 혜택",
+      "예비부부 결혼 준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼셨다면 이번 수원 웨딩크라우드 웨딩박람회를 주목해 보세요. 9월 12일부터 13일까지 삼성스토어 AK수원에서 진행되는 이번 박람회는 복잡한 결혼 준비 과정을 한자리에서 효율적으로 해결할 수 있도록 돕습니다.",
+    "benefits_description": "이번 박람회는 방문만 해도 주어지는 다양한 경품과 계약 시 제공되는 실속 있는 혜택이 눈에 띕니다. 현장 상담을 진행하는 모든 예비부부에게 스타벅스 기프트카드와 청첩장 10% 할인권을 증정하며, 특히 스드메 및 혼수 계약 시 에어프라이어와 같은 실생활 필수 가전을 사은품으로 제공합니다. 또한, 방문객 대상 경품 이벤트로 캐스퍼 자동차 당첨의 기회까지 마련되어 있어 즐겁게 결혼 준비를 시작할 수 있습니다.",
+    "summary_for_search": "9월 12일~13일 삼성스토어 AK수원에서 수원 웨딩크라우드 웨딩박람회가 열립니다. 스드메 패키지, 혼수, 신혼가전 할인 등 실질적인 혜택과 상담 기회를 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "수원 초대형 웨딩박람회, 지금 무료 참가 신청하세요!",
+    "secondary_headline": "스드메부터 혼수, 신혼가전까지 삼성스토어 AK수원에서 한 번에 준비하는 합리적인 결혼식",
+    "urgency_text": "이번 주말까지만 진행되는 특별한 혜택, 지금 사전등록하고 모두 챙겨가세요.",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 스타벅스 기프트카드 증정",
+      "청첩장 10% 할인권"
+    ],
+    "contract_benefits": [
+      "스드메+혼수 계약 시 에어프라이어 증정",
+      "계약자 전원 웨딩 다이어리 증정",
+      "삼성 신혼가전 특별 할인 및 사은품"
+    ],
+    "special_events": [
+      "방문객 대상 캐스퍼 자동차 경품 추첨",
+      "1:1 전문가 맞춤형 웨딩 플래닝"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 팔달구 덕영대로 924 AK플라자 5층",
+      "venue": "삼성스토어 AK수원",
+      "parking_info": "현장 주차 가능 (행사장 내 문의)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 후 제공",
+    "trust_indicators": [
+      "초대형 규모 박람회",
+      "삼성스토어 공식 제휴",
+      "전문가 1:1 상담 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 AK수원",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd45/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 얼마인가요?",
+        "answer": "수원 웨딩크라우드 웨딩박람회는 사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메(스튜디오, 드레스, 메이크업) 업체를 비롯해 웨딩홀, 예물, 예복, 한복, 신혼가전 전문 브랜드가 대거 참여합니다."
+      },
+      {
+        "question": "방문하면 선물을 받을 수 있나요?",
+        "answer": "현장 방문 및 상담 완료 시 스타벅스 기프트카드와 청첩장 할인권 등 다양한 사은품을 증정합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 삼성스토어 AK수원 내 주차 공간을 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담은 어떻게 진행되나요?",
+        "answer": "전문 웨딩 플래너와의 1:1 맞춤형 상담을 통해 예산과 취향에 맞는 결혼 준비 정보를 확인하실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 어디서부터 어떻게 시작해야 할지 고민인 예비부부를 위한 최적의 정보 공유 장입니다. 예식장 섭외부터 스드메 패키지 선정, 혼수 가전 준비까지 한꺼번에 해결하고 싶은 바쁜 커플들에게 추천합니다. 특히 예산 대비 효율적인 결혼 준비를 원하거나, 수원 지역에서 검증된 업체들의 견적을 비교하고 싶은 신혼부부에게 실질적인 도움을 제공합니다. 결혼 준비 6개월~1년 전 단계의 커플이라면 필수적으로 방문해 볼 만한 정보가 가득합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "드레스 샵",
+      "메이크업 전문점",
+      "웨딩홀 섭외 업체",
+      "허니문 여행사",
+      "웨딩 주얼리 및 예물",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "삼성스토어와 협업하여 가전 구매 혜택 극대화",
+      "상담만 받아도 현장 경품 및 실속 사은품 제공",
+      "수원 지역 내 다수 업체 입점으로 폭넓은 비교 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 견적 비교",
+      "수원 웨딩홀 추천",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 사은품",
+      "신혼가전 할인 팁",
+      "수원 웨딩박람회 후기",
+      "결혼 박람회 신청 방법",
+      "예식장 계약 주의사항",
+      "웨딩 플래너 상담 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 정보 더보기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 가격 알아보기",
+        "category": "service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예복",
+      "청첩장",
+      "결혼준비"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩크라우드 박람회 초대권",
+    "og_description": "9월 12일~13일! 상담만 받아도 선물 증정, 수원 예비부부라면 지금 바로 신청하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#수원결혼준비",
+      "#웨딩크라우드",
+      "#스드메",
+      "#신혼가전",
+      "#수원웨딩홀",
+      "#결혼준비",
+      "#예비부부",
+      "#삼성스토어AK수원",
+      "#웨딩박람회일정"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd45/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_MSmPPR65gns.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_EFB9lvQNKRfqa5zazNgJSAIpaxfp.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_aJNcNciozOXk8XMN6cj.jpg"
+  },
+  "updated_at": "2026-09-01 13:31:50",
+  "revenue": 30000
+}
