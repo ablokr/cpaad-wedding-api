@@ -1,0 +1,209 @@
+{
+  "idx": 1183,
+  "campaign_id": "withyouwedding06",
+  "gather_name": "대전 위드유 웨딩박람회",
+  "organizer_name": "위드유 웨딩박람회",
+  "seo_metadata": {
+    "title": "대전 위드유 웨딩박람회 | 대전 결혼준비 혜택 총정리 및 무료초대권",
+    "meta_description": "2026년 9월 12일~13일 개최! 대전 위드유 웨딩박람회에서 스드메 패키지 최대 혜택과 웨딩 건강검진권, 방문 선물까지 모두 받으세요. 대전 예비부부를 위한 필수 웨딩 코스!",
+    "keywords": [
+      "대전웨딩박람회",
+      "대전결혼준비",
+      "대전스드메",
+      "대전웨딩홀",
+      "대전신혼여행",
+      "대전웨딩박람회일정",
+      "대전결혼박람회",
+      "대전예물",
+      "대전예복",
+      "위드유웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함은 덜어내고 혜택은 가득 채우세요. 2026년 9월 12일부터 13일까지 LG전자베스트샵 특별행사장에서 열리는 '대전 위드유 웨딩박람회'는 대전 예비부부들을 위한 최적의 결혼 준비 솔루션을 제공합니다.",
+    "benefits_description": "방문만 하셔도 100% 증정되는 식전영상, 모바일/종이 청첩장 할인권과 함께 박람회 현장에서만 만날 수 있는 파격적인 계약 혜택이 기다립니다. 웨딩 건강검진권 증정부터 스튜디오, 드레스, 메이크업(스드메) 패키지 특가, 그리고 예물·예복·한복·허니문까지 전 품목 할인 혜택을 제공합니다. 특히 선착순이 아닌 누구나 누릴 수 있는 알뜰 웨딩 프로젝트를 통해 합리적인 결혼 준비를 도와드립니다.",
+    "summary_for_search": "대전 위드유 웨딩박람회가 9월 12일부터 13일까지 LG전자베스트샵에서 열립니다. 스드메 패키지 할인, 웨딩 건강검진권, 각종 방문 선물 등 대전 예비부부를 위한 최대 규모의 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 대전 위드유 웨딩박람회에서 한 번에 해결하세요!",
+    "secondary_headline": "스드메 패키지부터 혼수, 허니문까지 대전 최대 규모 혜택 제공",
+    "urgency_text": "9월 12일~13일 양일간만 진행되는 특별 프로모션",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "식전영상 무료 쿠폰",
+      "모바일 청첩장 무료 쿠폰",
+      "종이 청첩장 할인 쿠폰",
+      "웨딩 다이어리"
+    ],
+    "contract_benefits": [
+      "웨딩 건강검진권 증정",
+      "알뜰 웨딩 프로젝트 패키지 50만원 할인",
+      "예물 25% 할인 및 커플링 증정",
+      "허니문 특별 혜택 및 여행 할인"
+    ],
+    "special_events": [
+      "웨딩 퍼스널 컬러 진단 체험",
+      "예비부부 찐후기 이벤트",
+      "바디관리체험(70만원 상당) 추첨"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "대전 서구 계룡로 598",
+      "venue": "LG전자베스트샵 특별행사장",
+      "parking_info": "이미지 내 약도 참조, 주차 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "수많은 예비부부의 찐후기 보유",
+      "LG전자베스트샵 제휴 행사",
+      "1:1 맞춤형 웨딩 플래닝 서비스"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 위드유 웨딩박람회",
+      "startDate": "2026-09-12",
+      "endDate": "2026-09-13",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "대전 서구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "위드유 웨딩박람회",
+        "url": "https://ad.cpaad.co.kr/withyouwedding06/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 신청을 하시면 무료로 초대장을 받아 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차는 어떻게 하나요?",
+        "answer": "LG전자베스트샵 특별행사장 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업, 예물, 예복, 한복, 허니문 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "상담만 받아도 혜택이 있나요?",
+        "answer": "네, 방문만 하셔도 식전영상 쿠폰, 청첩장 할인권 등 다양한 기본 혜택을 드립니다."
+      },
+      {
+        "question": "스드메 비용은 어느 정도인가요?",
+        "answer": "현장 패키지를 통해 정가 대비 훨씬 합리적인 가격으로 구성되어 있으며, 상담을 통해 맞춤형 견적 확인이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 준비를 시작하고 싶은 커플, 결혼 6개월 이내의 예비 부부를 대상으로 합니다. 스드메 비용 비교와 예식장 선정에 어려움을 겪는 신혼부부에게 전문가의 1:1 상담을 통해 시간과 비용을 절약하는 최적의 솔루션을 제공합니다. 또한 실속파 커플들을 위한 알뜰 패키지 정보와 최신 웨딩 트렌드까지 상세히 안내받을 수 있습니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 전문 상담 업체",
+      "스드메 패키지 전문 스튜디오 및 드레스샵",
+      "예물 및 예복 브랜드",
+      "맞춤 한복점",
+      "허니문 여행 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "현장에서 즉시 상담 가능한 1:1 웨딩 플래너 배치",
+      "선착순 혜택에 치중하지 않는 전원 제공 알뜰 선물 구성",
+      "LG전자베스트샵 제휴로 혼수 가전과 웨딩을 한 번에 해결하는 편리함"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 웨딩박람회 일정",
+      "대전 스드메 비용",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 혜택",
+      "대전 결혼준비 어디서",
+      "웨딩박람회 사기 예방법",
+      "신혼여행 준비물",
+      "예복 투어 추천",
+      "웨딩홀 견적 비교",
+      "청첩장 할인 받는 법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "최신 스드메 패키지 가격 알아보기",
+        "category": "wedding_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "부케",
+      "신혼여행",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "한복",
+      "식전영상"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 위드유 웨딩박람회 9월 대개최!",
+    "og_description": "대전 예비부부 필수 코스! 무료 초대권 신청하고 스드메 특가와 건강검진권 혜택까지 모두 받아가세요.",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#대전결혼준비",
+      "#위드유웨딩",
+      "#대전스드메",
+      "#대전웨딩홀",
+      "#예비부부",
+      "#결혼준비",
+      "#대전예물",
+      "#신혼부부혜택",
+      "#대전핫플"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/withyouwedding06/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_tcEtNs2UNsz4fIcnu.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_tvQrd4GCsxXuqeBsvv5.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_hRbtikGFDK8LIhlBw.jpg"
+  },
+  "updated_at": "2026-09-01 10:05:19",
+  "revenue": 30000
+}
