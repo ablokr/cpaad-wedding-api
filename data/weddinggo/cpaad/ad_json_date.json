@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-09-02T10:00:06Z",
-  "total_ad_count": 175,
+  "last_updated": "2026-09-02T13:00:03Z",
+  "total_ad_count": 176,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MSuUFyySe.jpg",
@@ -1320,6 +1320,20 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
     },
+    "wwedding01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_RTsUAW39rILrzSZ.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_MdCNMBIFHFUTwV.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding01/",
+      "region": "busan",
+      "gather_name": "부산웨딩박람회 W웨딩시티",
+      "ad_info": "주말에도 OK! 평일에도 OK! 365일 웨딩상담",
+      "ad_year": "2026",
+      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_location": "부산 부산진구 자유평화로 11||(범천동 839-48)||W웨딩시티",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06"
+    },
     "wwedding02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wjXNla7g7wC.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_KcGnSRzLYAfTGat6mnZ9ag7.jpg",
@@ -1334,19 +1348,19 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
     },
-    "wwedding01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_RTsUAW39rILrzSZ.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_MdCNMBIFHFUTwV.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wwedding01/",
+    "wwedding04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_hxXOVYaNHozpf.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_qb97DRqAZcbVscD4a4LwLSa.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202509/568762912459e51e2cbac9155f241418_4IKtcol6FBPVItrj3SsC7s.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wwedding04/",
       "region": "busan",
-      "gather_name": "부산웨딩박람회 W웨딩시티",
-      "ad_info": "주말에도 OK! 평일에도 OK! 365일 웨딩상담",
+      "gather_name": "부산 신세계백화점 웨딩박람회",
+      "ad_info": "최대규모, 최고의 서비스, 명품웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
-      "ad_location": "부산 부산진구 자유평화로 11||(범천동 839-48)||W웨딩시티",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
+      "ad_location": "부산 해운대구 센텀남대로 35||(우동 1495)||신세계백화점 센텀시티점 9층 문화홀",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
     },
     "tourmin01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_Hf5ioU6e.jpg",
