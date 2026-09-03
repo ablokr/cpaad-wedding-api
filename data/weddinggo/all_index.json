@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 183,
+    "total_count": 186,
     "region_count": 16,
-    "district_count": 50,
-    "updated_at": "2026-09-03 16:01:12"
+    "district_count": 51,
+    "updated_at": "2026-09-03 19:01:45"
   },
   "items": [
     {
@@ -2325,13 +2325,13 @@
       "idx": 1395,
       "campaign_id": "weddingplus06",
       "gather_name": "잠실 롯데백화점 웨딩박람회",
-      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
       "venue": "LG전자베스트샵 롯데잠실점",
       "sido": "서울",
       "sigungu": "송파구",
       "region_en": "seoul",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_QVco3AXFI9ohE6lCs6jB.jpg",
-      "updated_at": "2026-09-03 16:00:23",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_niVrdJD8TJc8m55XY8USrcsEJdk1E8LZ.jpg",
+      "updated_at": "2026-09-03 19:00:27",
       "revenue": 40000
     },
     {
@@ -2385,6 +2385,45 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_mFHJFWLnwXdv3Lu.jpg",
       "updated_at": "2026-09-03 16:01:12",
       "revenue": 40000
+    },
+    {
+      "idx": 1755,
+      "campaign_id": "wedingcrowd103",
+      "gather_name": "서울 영등포 대형 웨딩박람회",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "venue": "삼성스토어 신세계타임스퀘어",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_EyOlKXNQIcuTeXilSeuX3A.jpg",
+      "updated_at": "2026-09-03 19:01:08",
+      "revenue": 30000
+    },
+    {
+      "idx": 1666,
+      "campaign_id": "wedingcrowd91",
+      "gather_name": "시흥 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "venue": "삼성스토어 신세계시흥프리미엄아울렛",
+      "sido": "경기",
+      "sigungu": "시흥시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_jZnAMsNRdgwYmu48CG2GAFSrp.jpg",
+      "updated_at": "2026-09-03 19:01:26",
+      "revenue": 30000
+    },
+    {
+      "idx": 1589,
+      "campaign_id": "wedingcrowd76",
+      "gather_name": "안산 웨딩크라우드 웨딩박람회",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "venue": "LG전자베스트샵 고잔점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_QarqbxTJIuA6ig5TAE.jpg",
+      "updated_at": "2026-09-03 19:01:45",
+      "revenue": 30000
     }
   ]
 }
