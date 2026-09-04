@@ -1,0 +1,210 @@
+{
+  "campaign_id": "howto01",
+  "gather_name": "하우투 대형 웨딩박람회",
+  "organizer_name": "하우투웨딩",
+  "seo_metadata": {
+    "title": "하우투 대형 웨딩박람회 | SETEC 서울 결혼 준비 박람회 혜택",
+    "meta_description": "2026년 9월 서울 SETEC에서 열리는 하우투 대형 웨딩박람회! 스드메 할인부터 혼수 계약 혜택까지, 사전등록 시 방문 선물과 상담 경품을 놓치지 마세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "하우투웨딩박람회",
+      "결혼 준비",
+      "스드메 패키지",
+      "웨딩홀 추천",
+      "혼수 할인",
+      "SETEC 웨딩박람회",
+      "결혼 박람회 일정",
+      "웨딩 드레스",
+      "신혼여행 상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 어디서부터 손을 대야 할지 막막한 예비부부님들을 위해 이번 하우투 대형 웨딩박람회가 서울 SETEC에서 개최됩니다. 이번 행사는 스드메부터 혼수, 예물, 예복까지 결혼의 모든 과정을 한자리에서 비교하고 실속 있게 준비할 수 있도록 구성되었습니다.",
+    "benefits_description": "박람회 현장에서는 방문만 하셔도 드리는 스타벅스 에코백과 선착순 경품 등 풍성한 혜택이 준비되어 있습니다. 특히 스드메 패키지 계약 시 최대 20만 원 추가 할인과 함께 허니문, 예물, 한복, 예복 등 카테고리별 계약 특전이 마련되어 있어 실질적인 비용 절감이 가능합니다. 1:1 맞춤 상담을 통해 우리 커플에게 꼭 맞는 웨딩 계획을 세워보세요.",
+    "summary_for_search": "2026년 9월 19일~20일, 서울 SETEC에서 하우투 대형 웨딩박람회가 열립니다. 스드메 패키지 할인, 방문 상담 경품 증정 및 혼수 계약 특별 혜택을 통해 알뜰한 결혼 준비를 도와드립니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전등록하면 최대 20만원 추가 할인 혜택!",
+    "secondary_headline": "서울 SETEC 최대 규모 웨딩박람회, 예비부부를 위한 1:1 맞춤 컨설팅",
+    "urgency_text": "선착순 방문 고객 대상 경품 증정, 이번 주말 단 2일간 진행",
+    "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 에코백 증정",
+      "박람회 방문객 선착순 20명 스타벅스 에코백",
+      "방문 상담 고객 미니 캐리어 증정",
+      "2시간 무료 주차 지원"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 계약 시 최대 20만원 추가 할인",
+      "혼수 상담 및 계약 시 5만원 상품권 증정",
+      "허니문/예물/한복/예복 계약 시 카테고리별 특별 할인 및 증정품",
+      "결혼 예물 계약 시 최대 30% 할인"
+    ],
+    "special_events": [
+      "헤어 & 메이크업 시연 이벤트",
+      "웨딩드레스 피팅 전시",
+      "1:1 전문가 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 남부순환로 3104",
+      "venue": "SETEC 2층 전시실",
+      "parking_info": "2시간 무료 주차 제공",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 후 QR코드 스캔 및 안내 데스크 확인 시 증정",
+    "trust_indicators": [
+      "서울 최대 규모 웨딩박람회",
+      "검증된 전문 웨딩플래너 1:1 배정",
+      "투명한 상담 및 정찰제 운영",
+      "다양한 브랜드 파트너사 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "하우투 대형 웨딩박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "SETEC 2층 전시실",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서울 강남구 남부순환로 3104",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하우투웨딩",
+        "url": "https://ad.cpaad.co.kr/howto01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 관람료가 있나요?",
+        "answer": "아니요, 사전에 온라인으로 무료 초대장을 신청하시면 입장료 없이 무료로 관람하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 박람회 방문 고객분들께 2시간 무료 주차권을 제공해 드립니다."
+      },
+      {
+        "question": "방문하면 선물을 받을 수 있나요?",
+        "answer": "네, 상담 완료 시 미니 캐리어 등 다양한 방문 및 상담 감사 선물을 증정하고 있습니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "대략적인 예식 날짜와 예산 범위를 생각하고 오시면 더 구체적인 맞춤 상담이 가능합니다."
+      },
+      {
+        "question": "현장에서 바로 계약해야 하나요?",
+        "answer": "필수 사항은 아니며, 여러 업체와 서비스 내용을 비교하신 후 신중하게 결정하실 수 있도록 1:1 상담을 지원합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작한 예비부부, 스드메 비용과 구성 비교에 어려움을 겪는 커플, 합리적인 혼수 구매를 희망하는 신혼부부를 대상으로 합니다. 박람회는 결혼 준비의 체계적인 가이드를 제공하며, 전문가와의 1:1 상담을 통해 시간과 비용을 절약하고자 하는 분들에게 최적화되어 있습니다. 결혼 준비가 처음인 분들도 박람회 내 현장 시연과 상담을 통해 명확한 정보를 얻어갈 수 있습니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 전문 샵",
+      "스드메 패키지 전문 업체",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "가전 및 혼수 전문 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 할인 및 추가 증정 혜택",
+      "서울 최대 규모 업체 입점 및 다양한 선택지",
+      "전문 웨딩플래너의 1:1 맞춤형 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "웨딩박람회 예약 방법",
+      "결혼 준비 비용 절약 팁",
+      "스드메 패키지 포함 내역",
+      "웨딩홀 투어 체크리스트",
+      "혼수 가전 구매 시기",
+      "신혼여행 상품 비교",
+      "박람회 상담 후기",
+      "웨딩드레스 트렌드",
+      "예복 맞춤 가격"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정 보기",
+        "category": "event_list"
+      },
+      {
+        "anchor": "스드메 패키지 견적 상담",
+        "category": "wedding_service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예물",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "웨딩플래너",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "하우투 대형 웨딩박람회 혜택 총정리",
+    "og_description": "서울 SETEC 개최! 사전등록 후 방문만 해도 100% 선물 증정. 스드메부터 혼수까지 최대 할인 혜택을 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#하우투웨딩박람회",
+      "#스드메",
+      "#서울웨딩박람회",
+      "#신혼부부",
+      "#결혼박람회",
+      "#혼수준비",
+      "#SETEC웨딩박람회",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/howto01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_MyFZlEtG7PWcpUuEefBcN4Pa.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_jPeBpRcaxMJGnlfcb8SWB8LK5t.jpg"
+  },
+  "updated_at": "2026-09-04 19:30:24"
+}
