@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-09-03T19:30:03Z",
+  "last_updated": "2026-09-04T13:30:03Z",
   "total_ad_count": 180,
   "advertisements": {
     "iniwedding05": {
@@ -657,10 +657,10 @@
       "gather_name": "브라이덜 블랑쉬 평택 웨딩드레스 페어",
       "ad_info": "체험형 웨딩박람회 인기 웨딩드레스무료피팅 체험",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
       "ad_location": "경기도 평택시 평택4로 96||(비전동 273-12)||브라이덜 블랑쉬 특별행사장",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
     },
     "wedingcrowd77": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Xi98Y33BK8X2vtYaZJ.jpg",
@@ -801,6 +801,20 @@
       "ad_location": "경기 수원시 팔달구 인계로94번길 26 영창타워 1층||(인계동 1017-2)||투어민",
       "start_date": "2026-09-12",
       "end_date": "2026-09-13"
+    },
+    "wedingcrowd30": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Gl5DVPQzd4dVrVDJMCaGwscouBXaRA.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x6IiGJ5WbJXecsygRyAn6rg3.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd30/",
+      "region": "gyeonggi",
+      "gather_name": "아르비아 구리 웨딩박람회",
+      "ad_info": "인천 오크우드프리미어에서 열리는 인천 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_location": "경기 구리시 건원대로 44 태영빌딩 8-9층||(인창동 670-1)||아르비아웨딩홀",
+      "start_date": "2026-09-05",
+      "end_date": "2026-09-06"
     },
     "reveweddingH30": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RkHcdbVkUre.jpg",
@@ -953,20 +967,6 @@
       "ad_year": "2026",
       "ad_date": "09월 05일(토) ~ 09월 06일(일)",
       "ad_location": "경기 의정부시 평화로 525 ||(의정부동 168-54)||신세계백화점 의정부점 8층||LG전자베스트샵 특별행사장",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
-    },
-    "wedingcrowd30": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Gl5DVPQzd4dVrVDJMCaGwscouBXaRA.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x6IiGJ5WbJXecsygRyAn6rg3.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd30/",
-      "region": "gyeonggi",
-      "gather_name": "아르비아 구리 웨딩박람회",
-      "ad_info": "인천 오크우드프리미어에서 열리는 인천 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
-      "ad_location": "경기 구리시 건원대로 44 태영빌딩 8-9층||(인창동 670-1)||아르비아웨딩홀",
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
     },
@@ -1357,10 +1357,10 @@
       "gather_name": "롯데백화점 부산본점 웨딩엑스포",
       "ad_info": "부산경남 결혼준비 완전정복 부산 스드메 최저가 보장",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
       "ad_location": "부산 부산진구 가야대로 772||(부전동 503-15)||롯데백화점 부산 본점 10층",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
     },
     "palmfair04": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_AdkWtIGqi5mu4cLycApTAbPjBC.jpg",
@@ -1447,7 +1447,7 @@
       "end_date": "2026-09-20"
     },
     "charlesWedBusan01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_acDsXFpoL7TWkiEfROZV.jpg",
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_K5rpnOt58Pk7anx7Boy5HuXf5eZQyz3J.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_gCVigwOBo1erfu54IqKL6dPDf.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_ghVuRpRPAR.jpg",
       "ad_url": "https://ad.cpaad.co.kr/charlesWedBusan01/",
@@ -1455,13 +1455,13 @@
       "gather_name": "부산 찰스 웨딩박람회",
       "ad_info": "부산경남 VIP 프리미엄 웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
       "ad_location": "부산 부산진구 황령대로 13||(범천동 858-23)||한라시그마타워 1층",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
     },
     "charlesWedBusan04": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ksF571E9WRFKElWe9tt.jpg",
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_E5cBI9FTkjl4wNJn86DrG5y7ZNNWFMWJ.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_6YDj1pPTQPqCbsD7.jpg",
       "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202402/2337ea9ac0ebeb271ae4fe609b8d7149_EEkfmgHlhdYprmCOArDj26As.jpg",
       "ad_url": "https://ad.cpaad.co.kr/charlesWedBusan04/",
@@ -1469,10 +1469,10 @@
       "gather_name": "부산 더블혜택 웨딩박람회",
       "ad_info": "부산 최고 인기 웨딩박람회 부산 스드메 최저가 보장",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
       "ad_location": "부산 부산진구 황령대로 13||(범천동 858-23)||한라시그마타워 1층",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
     },
     "wwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_3I8IHYsGmC4rHCN.jpg",
@@ -1581,10 +1581,10 @@
       "gather_name": "천안아산 웨딩드레스 페어",
       "ad_info": "천안 대표 체험형 웨딩박람회 무료 드레스/헤어/메이크업 체험",
       "ad_year": "2026",
-      "ad_date": "09월 05일(토) ~ 09월 06일(일)",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
       "ad_location": "충청남도 천안시 서북구 백석로 206 ||(성정동 987)||천안 오브제 특별행사장",
-      "start_date": "2026-09-05",
-      "end_date": "2026-09-06"
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
     },
     "palmfair03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_mBwbGkmUwIZRS7bkSev.jpg",
@@ -1614,6 +1614,20 @@
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
     },
+    "wedingcrowd28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_FUfJ57kQHqiVHEvK2Oc.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3KxsilP1NX.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_yij3Hfqh.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd28/",
+      "region": "chungcheong",
+      "gather_name": "청주 지웰시티몰 웨딩박람회",
+      "ad_info": "안심보장 제도로 믿을 수 있는 청주 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "충북 청주시 흥덕구 대농로 47-1 B1층 B13호 (복대동 3381)||청주 지웰시티몰2 특별전시장",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
+    },
     "emywedding01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jlMA2KIsSDeIq2mAqFbnqD.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_aqXluab4xbkCY.jpg",
@@ -1641,20 +1655,6 @@
       "ad_location": "충남 천안시 동남구 만남로 43||(신부동 354-1)||신세계백화점 천안아산점",
       "start_date": "2026-09-05",
       "end_date": "2026-09-06"
-    },
-    "wedingcrowd28": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_FUfJ57kQHqiVHEvK2Oc.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3KxsilP1NX.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_yij3Hfqh.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd28/",
-      "region": "chungcheong",
-      "gather_name": "청주 지웰시티몰 웨딩박람회",
-      "ad_info": "안심보장 제도로 믿을 수 있는 청주 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
-      "ad_location": "충북 청주시 흥덕구 대농로 47-1 B1층 B13호 (복대동 3381)||청주 지웰시티몰2 특별전시장",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13"
     },
     "withyouwedding03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_KkSltq24XeNF5oHf5AvvNBrxijA6aoq.jpg",
