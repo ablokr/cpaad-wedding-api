@@ -1030,5 +1030,217 @@
     },
     "updated_at": "2026-09-01 10:04:59",
     "revenue": 30000
+  },
+  {
+    "idx": 1810,
+    "campaign_id": "connectwedding01",
+    "gather_name": "천안 신세계 웨딩박람회",
+    "organizer_name": "커넥팅웨딩",
+    "seo_metadata": {
+      "title": "천안 신세계 웨딩박람회 | 삼성전자 혼수 가전 혜택 및 스드메 할인",
+      "meta_description": "2026년 9월 12일~13일 신세계백화점 천안아산점에서 열리는 천안 최대 웨딩박람회! 스드메 패키지 할인부터 삼성전자 가전 구매 시 최대 400만 포인트 증정까지, 예비부부를 위한 특별 혜택을 지금 확인하고 무료 초대권을 신청하세요.",
+      "keywords": [
+        "천안웨딩박람회",
+        "신세계천안아산웨딩박람회",
+        "천안결혼준비",
+        "천안스드메",
+        "삼성전자혼수혜택",
+        "결혼준비박람회",
+        "천안웨딩홀",
+        "천안예물",
+        "신혼가전할인",
+        "충남웨딩박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 천안 신세계 웨딩박람회는 예비부부의 고민을 한 번에 해결해 드리는 지역 최대 규모의 웨딩 축제입니다. 실력 있는 웨딩 전문가들의 1:1 맞춤 상담을 통해 복잡한 스드메 계약부터 예물, 혼수까지 현명하게 준비할 수 있는 최적의 기회를 잡으세요.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 드리는 특별 선물은 물론, 현장 계약 시 파격적인 혜택이 쏟아집니다. 삼성전자와 함께하는 혼수 특별전에서는 가전 구매 금액대별 최대 400만 포인트 증정 및 다양한 사은품 패키지를 준비했습니다. 또한, 청첩장 10% 할인부터 고급 와인 증정 등 현장 고객만을 위한 실속 있는 이벤트가 가득하니 이번 주말, 소중한 결혼 준비의 첫발을 신세계 천안아산점에서 내디뎌 보세요.",
+      "summary_for_search": "2026년 9월 12일~13일 개최되는 천안 신세계 웨딩박람회! 스드메 패키지 상담부터 삼성전자 혼수 가전 최대 400만 포인트 혜택까지, 결혼 준비의 모든 것을 한자리에 모았습니다. 지금 무료 초대권을 신청하고 현장 특별 혜택을 모두 챙기세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "천안 최대 규모! 신세계백화점 웨딩박람회 사전 신청 시 무료 입장",
+      "secondary_headline": "스드메 패키지 특가 상담 & 삼성전자 혼수 가전 최대 400만 포인트 혜택",
+      "urgency_text": "선착순 사전 신청자 대상 특별 경품 제공! 이번 주말 단 2일간 진행",
+      "call_to_action_text": "지금 무료 초대권 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "사전 예약 시 박람회 무료 입장",
+        "현장 상담 고객 대상 고급 와인 증정",
+        "제휴 청첩장 10% 할인"
+      ],
+      "contract_benefits": [
+        "혼수 가전 구매 시 최대 400만 포인트 증정",
+        "가전 구매 금액대별 사은품 4종 증정",
+        "웨딩홀 대관료 및 식대 할인 특전",
+        "삼성전자 혼수 가전 3년 무료 AS 혜택"
+      ],
+      "special_events": [
+        "삼성전자 혼수 고객 특별 초대전",
+        "스드메 1:1 맞춤 상담 서비스",
+        "프리미엄 웨딩드레스 전시 및 피팅 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "display_date": "09월 12일(토) ~ 09월 13일(일)",
+        "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+      },
+      "location": {
+        "sido": "충남",
+        "sido_en": "chungnam",
+        "sigungu": "천안시",
+        "sigungu_en": "cheonan",
+        "address": "충남 천안시 동남구 만남로 43",
+        "venue": "신세계백화점 천안아산점",
+        "parking_info": "신세계백화점 천안아산점 주차장 이용 가능",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "신부 이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "사전 신청 후 박람회 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "삼성전자 공식 제휴 박람회",
+        "지역 웨딩홀 최다 제휴",
+        "1:1 전문 웨딩 플래너 상담 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "천안 신세계 웨딩박람회",
+        "startDate": "2026-09-12",
+        "endDate": "2026-09-13",
+        "location": {
+          "@type": "Place",
+          "name": "신세계백화점 천안아산점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "충남 천안시 동남구 만남로 43",
+            "addressLocality": "천안",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "커넥팅웨딩",
+          "url": "https://ad.cpaad.co.kr/connectwedding01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 얼마인가요?",
+          "answer": "본 웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "신세계백화점 천안아산점 주차장을 편리하게 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 혜택이 있나요?",
+          "answer": "네, 현장에서 웨딩 상담을 받으시면 고급 와인 및 다양한 방문 사은품을 드립니다."
+        },
+        {
+          "question": "삼성전자 가전 혜택은 무엇인가요?",
+          "answer": "구매 금액대별 최대 400만 포인트 증정 및 3년 무료 AS 등 혼수 고객을 위한 특별 프로모션을 제공합니다."
+        },
+        {
+          "question": "스드메 패키지 상담은 어떻게 진행되나요?",
+          "answer": "전문 플래너가 신랑신부님의 스타일과 예산에 맞춰 1:1 맞춤형 스드메 컨설팅을 진행합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 천안 및 충남 지역 예비부부를 위한 맞춤형 박람회입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 커플, 실속 있는 스드메 패키지를 찾는 실속파 신랑신부, 그리고 삼성전자 가전으로 신혼집 혼수를 효율적으로 구성하고자 하는 예비부부에게 최적화되어 있습니다. 결혼 준비 과정의 시행착오를 줄이고 전문가의 검증된 가이드를 얻고자 하는 모든 커플을 환영합니다.",
+      "exhibitor_highlights": [
+        "프리미엄 웨딩드레스샵",
+        "감성 웨딩 스튜디오",
+        "전문 웨딩 메이크업 샵",
+        "삼성전자 프리미엄 가전",
+        "천안/청주 지역 웨딩홀",
+        "맞춤 예물 및 예복 브랜드"
+      ],
+      "comparison_hooks": [
+        "삼성전자와 공동 기획으로 신뢰할 수 있는 혼수 혜택 보장",
+        "천안 지역 최대 규모 웨딩홀 및 스드메 업체 비교 가능",
+        "전문 플래너와 함께하는 투명한 가격 상담 및 맞춤형 견적 설계"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "천안 웨딩박람회 일정",
+        "결혼 준비 체크리스트",
+        "천안 스드메 비용",
+        "신혼가전 할인 혜택",
+        "웨딩박람회 방문 팁",
+        "천안 예식장 추천",
+        "삼성전자 혼수 가전 패키지",
+        "천안 예복 투어",
+        "결혼 준비 박람회 추천",
+        "스드메 계약 시 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "천안 웨딩홀 실시간 견적 확인",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "2026 스드메 패키지 가격 알아보기",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "혼수가전",
+        "웨딩드레스",
+        "예물",
+        "맞춤정장",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "천안 신세계 웨딩박람회 | 최대 혼수 혜택",
+      "og_description": "지금 신청하면 무료입장! 스드메 특가와 삼성전자 가전 400만 포인트 혜택을 놓치지 마세요.",
+      "hashtags": [
+        "#천안웨딩박람회",
+        "#천안결혼준비",
+        "#신세계웨딩박람회",
+        "#천안스드메",
+        "#결혼준비시작",
+        "#예비부부",
+        "#삼성가전혼수",
+        "#천안웨딩홀",
+        "#신혼부부혜택",
+        "#박람회무료초대권"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/connectwedding01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_pXXFk5XxAwqV5dz7a5Yc6Ar3z.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_6M3jVzfPNsvioPeQQC8oN.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_UnYp9oVAiTqPXKl.jpg"
+    },
+    "updated_at": "2026-09-07 13:02:37",
+    "revenue": 30000
   }
 ]
