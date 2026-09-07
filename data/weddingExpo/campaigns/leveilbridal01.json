@@ -1,0 +1,209 @@
+{
+  "idx": 1802,
+  "campaign_id": "leveilbridal01",
+  "gather_name": "인천 직거래 웨딩박람회",
+  "organizer_name": "웨딩유리구두",
+  "seo_metadata": {
+    "title": "인천 직거래 웨딩박람회 | 스드메 패키지 최대 혜택 및 무료 피팅",
+    "meta_description": "2026년 9월 19일~20일, 인천 웨딩유리구두 본사에서 열리는 인천 직거래 웨딩박람회. 스드메 패키지 최저가 및 웨딩홀 대관료 할인, 드레스 피팅 등 예비부부를 위한 실속 혜택을 확인하세요.",
+    "keywords": [
+      "인천웨딩박람회",
+      "인천결혼준비",
+      "웨딩유리구두",
+      "인천스드메",
+      "인천웨딩홀",
+      "직거래웨딩박람회",
+      "인천예물",
+      "인천맞춤정장",
+      "2026결혼준비",
+      "인천허니문"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이 많으셨죠? 이번 인천 직거래 웨딩박람회는 복잡한 수수료를 뺀 투명한 가격으로 합리적인 결혼 준비를 돕기 위해 마련되었습니다. 예비부부라면 놓칠 수 없는 실속 있는 혜택과 다채로운 체험 이벤트가 준비되어 있으니 아래 정보를 참고해 보세요.",
+    "benefits_description": "이번 박람회는 스드메 패키지를 합리적인 구성인 79만 원부터 169만 원대까지 다양한 가격대로 선보이며 예산에 맞춘 선택이 가능합니다. 현장에서는 웨딩 드레스 피팅은 물론 턱시도 체험과 메이크업 시연까지 직접 받아볼 수 있어 나만의 스타일을 찾는 좋은 기회가 될 것입니다. 또한, 상담 및 계약 시 웨딩홀 대관료 할인, 식대 할인, 롯데상품권 증정 등 다양한 현장 혜택이 기다리고 있습니다.",
+    "summary_for_search": "2026년 9월 19일~20일, 인천 웨딩유리구두 본사에서 열리는 인천 직거래 웨딩박람회. 스드메 패키지 특가 및 드레스 피팅, 혼수 상담까지 원스톱으로 해결하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "25년 검증된 직거래 웨딩박람회, 스드메 패키지 최저가 도전",
+    "secondary_headline": "웨딩플래너 수수료 없는 투명한 가격, 드레스부터 허니문까지 한 곳에서 준비하세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 사전 등록 시 추가 혜택 제공",
+    "call_to_action_text": "사전 등록하고 무료 초대권 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 대상 드레스 피팅 체험",
+      "전문 메이크업 시연 기회"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 79만원부터 시작",
+      "웨딩홀 대관료 최대 무료 및 식대 할인",
+      "100만원 상당 롯데상품권 증정",
+      "허니문 투어스테이 8억 이상 배상보험 가입"
+    ],
+    "special_events": [
+      "웨딩 드레스 및 턱시도 무료 피팅",
+      "웨딩홀 실시간 견적 및 비교 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "인천",
+      "sido_en": "incheon",
+      "sigungu": "남동구",
+      "sigungu_en": "namdong",
+      "address": "인천 남동구 인주대로 533",
+      "venue": "웨딩유리구두 본사 사옥",
+      "parking_info": "본사 주차장 이용 가능 (상세 위치 정보 확인 필요)",
+      "region_code": "incheon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 및 계약 완료 후 프로모션 조건에 따라 지급",
+    "trust_indicators": [
+      "25년 전통의 직거래 시스템",
+      "웨딩플래너 수수료 0원",
+      "실제 방문객 후기 3,000건 돌파",
+      "웨딩업체 1:1 직접 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "인천 직거래 웨딩박람회",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "웨딩유리구두 본사 사옥",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "인천 남동구",
+          "addressLocality": "인천",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩유리구두",
+        "url": "https://ad.cpaad.co.kr/leveilbridal01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 관람료가 있나요?",
+        "answer": "아니요, 사전 등록 시 무료로 관람 및 상담이 가능합니다."
+      },
+      {
+        "question": "웨딩플래너가 동행하나요?",
+        "answer": "본 박람회는 거품 뺀 직거래 방식의 박람회로, 과도한 플래너 수수료 없이 업체와 직접 상담하는 시스템입니다."
+      },
+      {
+        "question": "주차는 어떻게 하나요?",
+        "answer": "웨딩유리구두 본사 사옥 내 주차가 가능합니다. 혼잡할 수 있으니 대중교통 이용을 권장합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "스드메 패키지 할인부터 웨딩홀 대관료 할인, 롯데상품권 증정 등 다양한 계약 사은품이 준비되어 있습니다."
+      },
+      {
+        "question": "드레스 피팅을 직접 해볼 수 있나요?",
+        "answer": "네, 박람회장에서 직접 웨딩 드레스와 턱시도를 피팅해볼 수 있는 체험 기회를 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막연한 예산 계획과 업체 선택에 어려움을 겪는 예비부부를 위한 맞춤형 박람회입니다. 특히 합리적인 결혼 준비를 위해 스드메 패키지를 비교 중이거나, 웨딩홀 대관료 부담을 줄이고 싶은 분들에게 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 모르는 초보 신랑신부에게는 웨딩의 기초부터 실전 팁까지 한 번에 확인할 수 있는 유익한 자리가 될 것입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 상담 및 견적 업체",
+      "스드메 토털 패키지 업체",
+      "웨딩 드레스 및 턱시도 브랜드",
+      "허니문 여행사",
+      "예물 및 혼수 전문 브랜드"
+    ],
+    "comparison_hooks": [
+      "웨딩플래너 수수료 없는 100% 직거래 방식",
+      "25년 경력의 신뢰도 높은 검증된 업체만 참여",
+      "현장 즉시 계약 시 최대 150만원 상당의 혜택 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "인천 웨딩박람회 일정",
+      "스드메 직거래 장단점",
+      "웨딩박람회 방문 혜택",
+      "인천 웨딩홀 추천",
+      "인천 스드메 비용",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 무료 초대권",
+      "인천 예물 샵 추천",
+      "혼수 준비 박람회",
+      "웨딩 드레스 피팅 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "인천 웨딩홀 투어 바로가기",
+        "category": "weddings_hall"
+      },
+      {
+        "anchor": "실속 스드메 패키지 더보기",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "신혼여행",
+      "턱시도",
+      "결혼준비",
+      "웨딩패키지",
+      "직거래"
+    ]
+  },
+  "social_meta": {
+    "og_title": "인천 직거래 웨딩박람회 - 25년 전통의 합리적인 결혼 준비",
+    "og_description": "스드메 수수료 0원! 롯데상품권 증정 및 웨딩홀 할인 혜택을 놓치지 마세요.",
+    "hashtags": [
+      "#인천웨딩박람회",
+      "#인천결혼준비",
+      "#웨딩유리구두",
+      "#인천스드메",
+      "#예비부부",
+      "#결혼준비",
+      "#웨딩박람회혜택",
+      "#인천웨딩홀",
+      "#직거래웨딩",
+      "#인천예물"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/leveilbridal01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ewNDxRrEiv.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_1MTkrNfqwr.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_fVL5zxnVvFpYv9I5Y3k.jpg"
+  },
+  "updated_at": "2026-09-07 19:32:17",
+  "revenue": 30000
+}
