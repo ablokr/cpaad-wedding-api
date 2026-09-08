@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 156,
+    "total_count": 158,
     "region_count": 16,
     "district_count": 48,
-    "updated_at": "2026-09-08 16:00:52"
+    "updated_at": "2026-09-08 19:00:53"
   },
   "items": [
     {
@@ -32418,6 +32418,420 @@
       },
       "updated_at": "2026-09-08 16:00:52",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "knockWed02",
+      "gather_name": "광주 웨딩박람회",
+      "organizer_name": "광주웨딩연합회",
+      "seo_metadata": {
+        "title": "광주 웨딩박람회 | 9월 13일 단 하루, 스드메 패키지 특가 혜택",
+        "meta_description": "9월 13일 광주 메종드엘 웨딩홀 특별행사장 개최! 광주 웨딩박람회에서 스드메 패키지 계약 시 10만원 지원 및 원장 직지정 0원 혜택을 놓치지 마세요. 지금 무료 참가 신청하세요.",
+        "keywords": [
+          "광주웨딩박람회",
+          "광주결혼준비",
+          "광주스드메",
+          "광주웨딩홀",
+          "결혼박람회혜택",
+          "메종드엘웨딩홀",
+          "광주예물예복",
+          "광주허니문",
+          "신혼부부박람회",
+          "웨딩패키지특가"
+        ]
+      },
+      "detailed_content": {
+        "intro_text": "결혼 준비의 시작, 2026년 9월 13일 단 하루 열리는 광주 웨딩박람회에서 품격 있는 웨딩을 완성하세요. 메종드엘 웨딩홀 특별행사장에서 진행되는 이번 박람회는 광주 지역 예비부부를 위해 엄선된 업체와 파격적인 프로모션을 준비했습니다.",
+        "benefits_description": "이번 박람회에서는 상담만 받아도 제공되는 특별 선물과 함께, 스드메 계약 시 10만원 예약금 지원이라는 강력한 혜택을 드립니다. 또한 메이크업 원장 직지정비 0원, 포토 1회, 드레스 피팅 1회 등 신부를 위한 프리미엄 혜택이 총 3회 제공됩니다. 합리적인 가격으로 시크릿 웨딩드레스와 프리미엄 패키지를 만나보며, 결혼 비용 부담을 획기적으로 낮출 기회를 놓치지 마세요.",
+        "summary_for_search": "9월 13일 단 하루, 광주 메종드엘 웨딩홀에서 열리는 광주 웨딩박람회! 스드메 패키지 10만원 지원 및 원장 직지정 0원 혜택 등 예비부부를 위한 최고의 혜택을 확인하고 지금 무료 참가 신청하세요."
+      },
+      "marketing_hooks": {
+        "primary_headline": "2026 광주 웨딩박람회, 9월 13일(일) 단 하루!",
+        "secondary_headline": "웨딩홀 대관료부터 스드메 패키지까지, 광주 예비부부를 위한 최대 프로모션",
+        "urgency_text": "단 하루 진행되는 특별 행사, 지금 바로 무료 초대장을 신청하세요!",
+        "call_to_action_text": "무료 사전참가신청"
+      },
+      "benefits": {
+        "visit_gifts": [
+          "상담만 받아도 제공되는 현장 선물",
+          "견적 비교 시 제공되는 추가 선물"
+        ],
+        "contract_benefits": [
+          "웨딩+스드메 계약 시 10만원 지원",
+          "메이크업 원장 직지정비 0원",
+          "포토 1회, 드레스 피팅 1회 포함 총 3회 신부 혜택"
+        ],
+        "special_events": [
+          "시크릿 & 수 & 마리브 최고급 드레스샵 투어",
+          "메종드엘 웨딩홀 특별행사장 오픈 이벤트"
+        ]
+      },
+      "event_details": {
+        "event": {
+          "start_date": "2026-09-13",
+          "end_date": "2026-09-13",
+          "display_date": "09월 13일(일) 단, 하루!",
+          "original_display_date": "09월 13일(일) 단, 하루!"
+        },
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "광주 서구 시청로 67",
+          "venue": "메종드엘 웨딩홀 특별행사장",
+          "parking_info": "웨딩홀 건물 및 건너편 현대해상 건물 이용",
+          "region_code": "jeolla"
+        }
+      },
+      "conversion_and_trust": {
+        "required_form_fields": [
+          "이름",
+          "연락처",
+          "예식 예정일"
+        ],
+        "gift_conditions": "현장 상담 및 계약 체결 완료 시 조건부 제공",
+        "trust_indicators": [
+          "광주 지역 전문 웨딩 컨설팅",
+          "인증된 웨딩 결과 파트너십",
+          "계약 강요 없는 투명한 상담"
+        ]
+      },
+      "structured_data": {
+        "event_schema": {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": "광주 웨딩박람회",
+          "startDate": "2026-09-13",
+          "endDate": "2026-09-13",
+          "location": {
+            "@type": "Place",
+            "name": "메종드엘 웨딩홀 특별행사장",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "광주 서구",
+              "addressCountry": "KR"
+            }
+          },
+          "eventStatus": "https://schema.org/EventScheduled",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "KRW",
+            "availability": "https://schema.org/InStock"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "광주웨딩연합회",
+            "url": "https://ad.cpaad.co.kr/knockWed02/"
+          }
+        },
+        "faq_schema": [
+          {
+            "question": "박람회 입장은 무료인가요?",
+            "answer": "네, 사전 신청 시 무료로 입장 가능하며 다양한 상담 혜택을 받으실 수 있습니다."
+          },
+          {
+            "question": "주차는 어디에 하나요?",
+            "answer": "행사장 건물 및 건너편 현대해상 건물 주차장을 이용하실 수 있습니다."
+          },
+          {
+            "question": "어떤 업체들이 참여하나요?",
+            "answer": "웨딩홀, 스튜디오, 드레스샵, 허니문, 예물, 예복 등 결혼 준비에 필요한 모든 필수 업체가 참여합니다."
+          },
+          {
+            "question": "계약을 꼭 해야 하나요?",
+            "answer": "본 박람회는 계약 강요 없이 예비부부님들께서 충분히 정보를 얻고 비교하실 수 있는 편안한 분위기를 지향합니다."
+          },
+          {
+            "question": "상담만 받아도 선물을 주나요?",
+            "answer": "네, 방문 및 상담 고객을 위한 다양한 경품과 선물이 마련되어 있으니 부담 없이 방문해 주세요."
+          }
+        ]
+      },
+      "content_depth": {
+        "target_audience_description": "결혼을 앞두고 막막함을 느끼는 광주 지역 예비부부를 위한 맞춤형 박람회입니다. 결혼 준비 6개월~1년 전 단계에서 스드메 패키지 가격을 비교 중이거나, 웨딩홀 대관료 할인 정보를 찾는 커플들에게 최적화되어 있습니다. 결혼 준비의 효율성을 높이고 전문가의 1:1 상담을 통해 나만의 웨딩을 완성하고 싶은 모든 신랑 신부님을 환영합니다.",
+        "exhibitor_highlights": [
+          "광주 지역 인기 웨딩홀",
+          "최고급 드레스샵(시크릿, 수, 마리브 등)",
+          "광주 전 스튜디오 라인업",
+          "신혼여행 및 허니문 전문 여행사",
+          "프리미엄 예물 및 예복 브랜드"
+        ],
+        "comparison_hooks": [
+          "계약 강요 없는 자유롭고 편안한 상담 환경 제공",
+          "상담만 받아도 제공되는 풍성한 방문 기념 선물",
+          "웨딩+스드메 동시 계약 시 파격적인 10만원 지원 혜택"
+        ]
+      },
+      "search_cluster": {
+        "related_queries": [
+          "광주 결혼준비 순서",
+          "광주 웨딩박람회 일정",
+          "스드메 패키지 비용",
+          "광주 웨딩홀 추천",
+          "결혼 박람회 방문 후기",
+          "웨딩 박람회 필수 체크리스트",
+          "광주 예물 추천",
+          "광주 신혼여행 상담",
+          "웨딩 드레스 투어 팁",
+          "광주 메이크업 샵 추천"
+        ],
+        "internal_link_anchors": [
+          {
+            "anchor": "광주 웨딩홀 견적 비교하기",
+            "category": "wedding_hall"
+          },
+          {
+            "anchor": "스드메 패키지 상세 안내",
+            "category": "sdeume"
+          }
+        ],
+        "semantic_keywords": [
+          "스드메",
+          "혼수",
+          "예식장",
+          "웨딩홀",
+          "부케",
+          "혼수가전",
+          "신혼여행",
+          "웨딩드레스",
+          "본식메이크업",
+          "폐백"
+        ]
+      },
+      "social_meta": {
+        "og_title": "광주 웨딩박람회 9월 13일 오픈! 혜택 확인",
+        "og_description": "광주 예비부부 필수 코스! 스드메 10만원 지원 및 원장 직지정 0원 혜택을 지금 신청하세요.",
+        "hashtags": [
+          "#광주웨딩박람회",
+          "#광주결혼준비",
+          "#광주웨딩홀",
+          "#광주스드메",
+          "#결혼준비",
+          "#신혼부부혜택",
+          "#예비부부",
+          "#광주데이트",
+          "#웨딩박람회일정",
+          "#결혼준비시작"
+        ]
+      },
+      "campaign_assets": {
+        "target_url": "https://ad.cpaad.co.kr/knockWed02/",
+        "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_XH1VFbgX.jpg",
+        "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_y2mz2fxxk9Alg2cVKCIeja.jpg",
+        "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_KmvKOQnkgdJZTpLNUE.jpg"
+      },
+      "updated_at": "2026-09-08 19:00:35"
+    },
+    {
+      "campaign_id": "knockWed04",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "organizer_name": "광주웨딩연합회",
+      "seo_metadata": {
+        "title": "광주 유스퀘어 웨딩박람회 | 2026 결혼준비 최대 혜택 사전예약",
+        "meta_description": "광주 유스퀘어 웨딩박람회 개최! 2026 결혼준비 필수 코스, 상담 시 최대 50만원 지원 및 웨딩패키지 할인 혜택을 확인하세요. 선착순 방문자 경품까지! 지금 바로 무료 사전등록하고 완벽한 결혼식 준비를 시작해보세요.",
+        "keywords": [
+          "광주웨딩박람회",
+          "광주결혼준비",
+          "광주스드메",
+          "유스퀘어웨딩박람회",
+          "광주웨딩홀",
+          "신혼부부혜택",
+          "광주예식장",
+          "광주혼수",
+          "결혼준비체크리스트",
+          "광주웨딩플래너"
+        ]
+      },
+      "detailed_content": {
+        "intro_text": "결혼 준비의 시작, 어디서부터 해야 할지 막막하신가요? 광주 유스퀘어에서 개최되는 이번 웨딩박람회는 예비부부의 고민을 한 번에 해결해 드릴 전문 컨설팅과 풍성한 혜택을 준비했습니다.",
+        "benefits_description": "이번 박람회는 현장 방문만으로도 카페 음료권과 선착순 경품 추첨의 기회를 드립니다. 또한, 현장 상담 및 계약 시 최대 50만원의 웨딩 지원금과 드레스 추가 할인, 모바일 청첩장 등 실질적인 결혼 비용 절감 혜택을 제공합니다. 검증된 업체들과 함께 1:1 맞춤 상담을 통해 복잡한 스드메 고민을 합리적인 예산으로 해결해 보세요.",
+        "summary_for_search": "9월 12일~13일, 광주 유스퀘어 문화관에서 열리는 웨딩박람회! 스드메, 혼수, 예식장 정보를 한자리에서 비교하고 계약 시 최대 50만원 상당의 혜택을 받아보세요. 예비부부를 위한 맞춤형 웨딩 페어입니다."
+      },
+      "marketing_hooks": {
+        "primary_headline": "2026 광주 유스퀘어 웨딩박람회, 방문 시 최대 50만원 혜택!",
+        "secondary_headline": "호객행위 없는 클린 박람회, 드레스 피팅부터 1:1 전문가 상담까지 완벽하게 준비하세요.",
+        "urgency_text": "단 이틀간만 진행, 선착순 경품 증정",
+        "call_to_action_text": "지금 무료 사전신청하기"
+      },
+      "benefits": {
+        "visit_gifts": [
+          "방문객 전원 카페 음료 무료 쿠폰",
+          "선착순 방문객 경품 추첨 이벤트"
+        ],
+        "contract_benefits": [
+          "최대 50만원 상당의 웨딩 지원금",
+          "웨딩 드레스 추가 할인",
+          "모바일 청첩장 및 답례장 제공",
+          "현장 계약 시 허니문/가전/예물 특전"
+        ],
+        "special_events": [
+          "웨딩 드레스 피팅 체험",
+          "1:1 전문 웨딩플래너 맞춤 상담",
+          "브랜드 웨딩드레스 전시"
+        ]
+      },
+      "event_details": {
+        "event": {
+          "start_date": "2026-09-12",
+          "end_date": "2026-09-13",
+          "display_date": "09월 12일(토) ~ 09월 13일(일)",
+          "original_display_date": "09월 12일(토) ~ 09월 13일(일)"
+        },
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "광주 서구 무진대로 904",
+          "venue": "광주 유스퀘어 문화관",
+          "parking_info": "유스퀘어 주차장 이용 가능",
+          "region_code": "jeolla"
+        }
+      },
+      "conversion_and_trust": {
+        "required_form_fields": [
+          "이름",
+          "연락처",
+          "신부 이름",
+          "방문 예정일"
+        ],
+        "gift_conditions": "상담 완료 및 현장 방문 시 증정",
+        "trust_indicators": [
+          "업체 만족도 96% 달성",
+          "25년 경력 웨딩 컨설팅",
+          "가격 정찰제 시행",
+          "현장 호객행위 없는 프리미엄 박람회"
+        ]
+      },
+      "structured_data": {
+        "event_schema": {
+          "@context": "https://schema.org",
+          "@type": "Event",
+          "name": "광주 유스퀘어 웨딩박람회",
+          "startDate": "2026-09-12",
+          "endDate": "2026-09-13",
+          "location": {
+            "@type": "Place",
+            "name": "광주 유스퀘어 문화관",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "광주 서구 무진대로 904",
+              "addressLocality": "광주 서구",
+              "addressCountry": "KR"
+            }
+          },
+          "eventStatus": "https://schema.org/EventScheduled",
+          "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "KRW",
+            "availability": "https://schema.org/InStock"
+          },
+          "organizer": {
+            "@type": "Organization",
+            "name": "광주웨딩연합회",
+            "url": "https://ad.cpaad.co.kr/knockWed04/"
+          }
+        },
+        "faq_schema": [
+          {
+            "question": "박람회 입장료는 얼마인가요?",
+            "answer": "본 행사는 예비부부를 위해 무료로 진행되며, 사전 예약 시 다양한 방문 혜택을 추가로 받으실 수 있습니다."
+          },
+          {
+            "question": "주차는 가능한가요?",
+            "answer": "광주 유스퀘어 문화관 주차장을 편리하게 이용하실 수 있습니다."
+          },
+          {
+            "question": "박람회 방문 예약은 어떻게 하나요?",
+            "answer": "온라인 신청 페이지에서 방문 예정일을 선택하고 간단한 정보를 입력하시면 예약이 완료됩니다."
+          },
+          {
+            "question": "스드메 상담은 어떻게 진행되나요?",
+            "answer": "검증된 전문 웨딩플래너와 1:1 맞춤 상담을 통해 예산과 취향에 맞는 패키지를 제안받으실 수 있습니다."
+          },
+          {
+            "question": "계약 혜택은 어떤 것이 있나요?",
+            "answer": "박람회 현장 계약 시 최대 50만원의 웨딩 지원금과 드레스 할인, 모바일 청첩장 제작 등 특별 프로모션이 적용됩니다."
+          }
+        ]
+      },
+      "content_depth": {
+        "target_audience_description": "결혼을 앞두고 예식장부터 스드메, 혼수 가전까지 무엇부터 준비해야 할지 고민인 광주 및 전남 지역 예비부부를 대상으로 합니다. 특히 합리적인 예산으로 최신 웨딩 트렌드를 반영한 결혼식을 올리고 싶은 신혼부부, 바쁜 일상 속에서 여러 업체를 발품 팔지 않고 한자리에서 비교하고 싶은 커플에게 최적화된 박람회입니다. 결혼 준비에 대한 막연한 불안감을 전문 플래너와의 1:1 맞춤 상담으로 해소하고, 박람회 전용 프로모션 혜택을 통해 비용 절감의 기회를 잡으세요.",
+        "exhibitor_highlights": [
+          "웨딩홀 제휴 네트워크",
+          "프리미엄 웨딩 드레스샵",
+          "웨딩 전문 메이크업 브랜드",
+          "허니문 여행사",
+          "예물 및 예복 전문 브랜드",
+          "혼수 가전"
+        ],
+        "comparison_hooks": [
+          "강매나 호객행위 없는 쾌적하고 투명한 상담 환경",
+          "가격 정찰제 시행으로 안심할 수 있는 웨딩 준비",
+          "참가자 만족도 96%가 증명하는 검증된 웨딩 브랜드 입점"
+        ]
+      },
+      "search_cluster": {
+        "related_queries": [
+          "광주 결혼 준비 순서",
+          "웨딩박람회 방문 준비물",
+          "스드메 패키지 가격대",
+          "광주 웨딩홀 추천 리스트",
+          "결혼 준비 비용 절약 팁",
+          "웨딩플래너 상담 내용",
+          "혼수 가전 준비 시기",
+          "광주 예복 맞춤 브랜드",
+          "신혼여행 패키지 비교",
+          "웨딩박람회 계약 혜택"
+        ],
+        "internal_link_anchors": [
+          {
+            "anchor": "광주 웨딩박람회 전체 일정",
+            "category": "gwangju_wed_event"
+          },
+          {
+            "anchor": "예비부부를 위한 결혼준비 체크리스트",
+            "category": "planning_guide"
+          }
+        ],
+        "semantic_keywords": [
+          "스드메",
+          "혼수",
+          "예식장",
+          "웨딩홀",
+          "웨딩플래너",
+          "부케",
+          "혼수가전",
+          "신혼여행",
+          "결혼반지",
+          "예복"
+        ]
+      },
+      "social_meta": {
+        "og_title": "광주 유스퀘어 웨딩박람회 초대",
+        "og_description": "상담만 받아도 50만원 혜택! 2026 웨딩 준비, 지금 사전 예약하고 경품 받아가세요.",
+        "hashtags": [
+          "#광주웨딩박람회",
+          "#광주결혼준비",
+          "#유스퀘어웨딩박람회",
+          "#광주스드메",
+          "#광주웨딩홀",
+          "#결혼준비",
+          "#예비부부",
+          "#신혼부부",
+          "#웨딩박람회혜택",
+          "#광주웨딩플래너"
+        ]
+      },
+      "campaign_assets": {
+        "target_url": "https://ad.cpaad.co.kr/knockWed04/",
+        "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_3KhYj8NoLq6Vzhqf7e.jpg",
+        "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_hxego97fTu.jpg",
+        "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg"
+      },
+      "updated_at": "2026-09-08 19:00:53"
     }
   ]
 }
