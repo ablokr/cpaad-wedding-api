@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 150,
+    "total_count": 152,
     "region_count": 16,
     "district_count": 47,
-    "updated_at": "2026-09-07 19:36:05"
+    "updated_at": "2026-09-08 19:31:13"
   },
   "items": [
     {
@@ -311,19 +311,6 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
       "updated_at": "2026-08-28 13:30:55",
       "revenue": 30000
-    },
-    {
-      "idx": 1375,
-      "campaign_id": "revewedding01",
-      "gather_name": "강릉 웨딩박람회",
-      "display_date": "09월 12일(토) ~ 09월 13일(일)",
-      "venue": "세인트존스호텔 특별행사장",
-      "sido": "강원",
-      "sigungu": "강릉시",
-      "region_en": "gangwon",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_65dXrsVG8adzuvUhkk4.jpg",
-      "updated_at": "2026-08-24 13:34:19",
-      "revenue": 50000
     },
     {
       "idx": 1414,
@@ -665,6 +652,7 @@
       "revenue": 35000
     },
     {
+      "idx": 1319,
       "campaign_id": "wwedding07",
       "gather_name": "창원 프리마베라 웨딩박람회",
       "display_date": "09월 12일(토) ~ 09월 13일(일) 09월 19일(토) ~ 09월 20일(일)",
@@ -673,7 +661,8 @@
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
-      "updated_at": "2026-09-07 19:35:16"
+      "updated_at": "2026-09-07 19:35:16",
+      "revenue": 40000
     },
     {
       "idx": 1872,
@@ -765,19 +754,6 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_cKCbKOcDafWRf2th1ireK81EAx.jpg",
       "updated_at": "2026-08-31 13:34:34",
       "revenue": 45000
-    },
-    {
-      "idx": 1543,
-      "campaign_id": "reveweddingH01",
-      "gather_name": "강릉 신혼여행&혼수박람회",
-      "display_date": "09월 12일(토) ~ 09월 13일(일)",
-      "venue": "세인트존스호텔 특별행사장",
-      "sido": "강원",
-      "sigungu": "강릉시",
-      "region_en": "gangwon",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YckerXC5VAPg7Bm4JshSCf6.jpg",
-      "updated_at": "2026-08-24 19:38:37",
-      "revenue": 50000
     },
     {
       "idx": 1249,
@@ -1957,6 +1933,54 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_dBUf1UwG.jpg",
       "updated_at": "2026-09-07 19:35:48",
       "revenue": 30000
+    },
+    {
+      "idx": 1150,
+      "campaign_id": "labelleellin04",
+      "gather_name": "수원 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "수원 결혼만들기 웨딩타운 전층",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_HzwcZvldDasNT3B67jElmgYQi8oy.jpg",
+      "updated_at": "2026-09-08 19:30:21",
+      "revenue": 30000
+    },
+    {
+      "idx": 1097,
+      "campaign_id": "labelleellin01",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "venue": "LG베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_QqWf52YDHL7dB4jjK.jpg",
+      "updated_at": "2026-09-08 19:30:39",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "knockWed04",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "display_date": "09월 12일(토) ~ 09월 13일(일)",
+      "venue": "광주 유스퀘어 문화관",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_hxego97fTu.jpg",
+      "updated_at": "2026-09-08 19:30:56"
+    },
+    {
+      "campaign_id": "knockWed02",
+      "gather_name": "광주 웨딩박람회",
+      "display_date": "09월 13일(일) 단, 하루!",
+      "venue": "메종드엘 웨딩홀 특별행사장",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_y2mz2fxxk9Alg2cVKCIeja.jpg",
+      "updated_at": "2026-09-08 19:31:13"
     }
   ]
 }
