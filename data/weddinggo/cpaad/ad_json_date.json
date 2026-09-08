@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-09-08T13:00:04Z",
+  "last_updated": "2026-09-08T16:00:03Z",
   "total_ad_count": 150,
   "advertisements": {
     "iniwedding05": {
@@ -774,6 +774,20 @@
       "start_date": "2026-09-19",
       "end_date": "2026-09-20"
     },
+    "labelleellin04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Y9Eu1s8RwN.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_HzwcZvldDasNT3B67jElmgYQi8oy.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Bb7abkULLhKMDjRG5rSOUgB9HzKc.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin04/",
+      "region": "gyeonggi",
+      "gather_name": "수원 웨딩박람회",
+      "ad_info": "경기도 최대규모의 프리미엄 드레스샵 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
+      "ad_location": "경기 수원시 팔달구 효원로 62||(매산로3가 72-18)||수원 결혼만들기 웨딩타운 전층",
+      "start_date": "2026-09-12",
+      "end_date": "2026-09-13"
+    },
     "revewedding02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_dyAhORvwqgozS.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_mMuPTLXCV5dO.jpg",
@@ -941,6 +955,20 @@
       "ad_location": "경기 하남시 미사대로 750 하남스타필드 지하 1층||(신장동 616)||LG전자베스트샵 신세계하남점",
       "start_date": "2026-09-12",
       "end_date": "2026-09-13"
+    },
+    "labelleellin01": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_8cWNpF2TmB95VkMzkFNGZ7tr1jLmWsR.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_QqWf52YDHL7dB4jjK.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Sz9IVchnaYPcEWS8.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin01/",
+      "region": "gyeonggi",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "ad_info": "롯데백화점에서 열리는 수원 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "09월 19일(토) ~ 09월 20일(일)",
+      "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1||LG베스트샵 특별행사장",
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20"
     },
     "wedingcrowd06": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_7kixepYJ6ja6KcfPwmUc5Z.jpg",
@@ -1768,20 +1796,6 @@
       "start_date": "2026-09-19",
       "end_date": "2026-09-20"
     },
-    "revewedding01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_WFRJXpg86IuzZgOLwipohH9RutWkU.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_65dXrsVG8adzuvUhkk4.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_TAlht8EMFmw9rpo9KtR.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/revewedding01/",
-      "region": "gangwon",
-      "gather_name": "강릉 웨딩박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
-      "ad_location": "강원특별자치도 강릉시 창해로 307||(강문동 1-1)||세인트존스호텔 특별행사장",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13"
-    },
     "withyouwedding09": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_RfcmuInkf.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_VGU2dTCZBMB.jpg",
@@ -1795,20 +1809,6 @@
       "ad_location": "강원특별자치도 춘천시 춘천로 18 1~3층||(퇴계동 1187-4)||LG전자베스트샵 춘천퇴계점 특별행사장",
       "start_date": "2026-09-19",
       "end_date": "2026-09-20"
-    },
-    "reveweddingH01": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_eUlVyJ1rozjDuxOY7g9PQTvrp5GBs.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_YckerXC5VAPg7Bm4JshSCf6.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_EGob57tLVhgMTa1eR64JNhWZUlfBWN48.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/reveweddingH01/",
-      "region": "gangwon",
-      "gather_name": "강릉 신혼여행&혼수박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 강릉 최대규모 신혼&혼수박람회",
-      "ad_year": "2026",
-      "ad_date": "09월 12일(토) ~ 09월 13일(일)",
-      "ad_location": "강원특별자치도 강릉시 창해로 307||(강문동 1-1)||세인트존스호텔 특별행사장",
-      "start_date": "2026-09-12",
-      "end_date": "2026-09-13"
     },
     "weddingplus03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_kv2f7eME8BEFr2TznlJHWKLne9Ug.jpg",
