@@ -1,0 +1,207 @@
+{
+  "idx": 1814,
+  "campaign_id": "knockWed18",
+  "gather_name": "광주 신세계웨딩 팝업스토어",
+  "organizer_name": "광주웨딩연합회",
+  "seo_metadata": {
+    "title": "광주 신세계웨딩 팝업스토어 | 스드메 견적 비교 및 현장 할인 혜택",
+    "meta_description": "광주 신세계백화점에서 열리는 웨딩 팝업스토어! 27년 상반기 예비부부를 위한 최대 50만원 할인과 백화점 상품권 증정 혜택을 확인하세요. 지금 사전 등록하고 합리적인 결혼 준비를 시작하세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "신세계웨딩팝업",
+      "광주스드메",
+      "2026결혼준비",
+      "광주웨딩홀",
+      "웨딩박람회혜택",
+      "결혼준비체크리스트",
+      "광주웨딩드레스",
+      "예비부부결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면, 광주 신세계백화점에서 열리는 이번 웨딩 팝업스토어에 주목해 보세요. 복잡한 웨딩 절차를 한자리에서 투명하게 확인하고, 신뢰할 수 있는 브랜드와 전문 플래너를 직접 만나볼 수 있는 실속 있는 기회입니다.",
+    "benefits_description": "이번 팝업스토어에서는 예비부부의 경제적 부담을 덜어드리기 위한 다양한 혜택이 준비되어 있습니다. 27년 상반기 예식 예정자에게 최대 50만원, 27년 하반기 예식 예정자에게는 최대 30만원의 할인 혜택을 제공하며, 행사 1시간 전 방문 고객에게는 백화점 상품권을 증정합니다. 또한, 브랜드별 촬영 드레스를 최다 전시하여 직접 확인하고 체험할 수 있는 특별한 경험도 마련되어 있으니, 이번 기회를 활용해 만족스러운 결혼 준비를 완성해 보시기 바랍니다.",
+    "summary_for_search": "광주 신세계백화점 8층에서 개최되는 웨딩 팝업스토어! 2026년 9월 19일부터 20일까지 열리는 이번 행사에서는 최대 50만원 할인 및 백화점 상품권 증정 등 다양한 계약 혜택을 제공합니다. 지금 무료 사전등록하고 실속 있는 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 사전 등록하면 최대 50만원 즉시 할인",
+    "secondary_headline": "광주 신세계 웨딩 팝업스토어, 백화점 상품권과 함께하는 실속 있는 결혼 준비",
+    "urgency_text": "이번 주말 09월 19일~20일, 양일간 한정 운영",
+    "call_to_action_text": "무료 사전등록하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "행사 1시간 전 방문 고객 백화점 상품권 증정"
+    ],
+    "contract_benefits": [
+      "27년 상반기 예식 최대 50만원 할인",
+      "27년 하반기 예식 최대 30만원 할인"
+    ],
+    "special_events": [
+      "브랜드별 촬영 드레스 최다 전시 및 피팅 체험",
+      "1:1 전문 웨딩 플래너 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-09-19",
+      "end_date": "2026-09-20",
+      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "original_display_date": "09월 19일(토) ~ 09월 20일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "광주 서구 무진대로 932",
+      "venue": "신세계백화점 광주신세계점 8층",
+      "parking_info": "백화점 주차장 이용 가능 (상세 내용은 현장 문의 권장)",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일",
+      "예식예정일"
+    ],
+    "gift_conditions": "사전 등록 후 현장 방문 및 상담 완료 시 혜택 제공",
+    "trust_indicators": [
+      "가격 정찰제 도입",
+      "카드 결제 및 현금 영수증 필수 발행",
+      "검증된 20개 이상의 제휴 업체",
+      "지난 박람회 참가자 만족도 96% 기록"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 신세계웨딩 팝업스토어",
+      "startDate": "2026-09-19",
+      "endDate": "2026-09-20",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 광주신세계점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "8층",
+          "addressLocality": "광주 서구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "광주웨딩연합회",
+        "url": "https://ad.cpaad.co.kr/knockWed18/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 등록 시 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 혼수, 가전, 예물 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "드레스 피팅이 가능한가요?",
+        "answer": "네, 박람회 현장에서 다양한 브랜드의 촬영 드레스를 관람하고 피팅 상담을 신청하실 수 있습니다."
+      },
+      {
+        "question": "박람회 장소와 시간은 어떻게 되나요?",
+        "answer": "신세계백화점 광주신세계점 8층에서 09월 19일(토)부터 20일(일)까지 진행됩니다."
+      },
+      {
+        "question": "사전 등록은 왜 필요한가요?",
+        "answer": "사전 등록 시 현장에서 제공되는 다양한 할인 혜택과 상담 우선권을 확보하실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 해야 할지 고민인 예비부부, 스드메 패키지 비용 비교를 통해 합리적인 예산을 세우고 싶은 신혼부부, 신뢰할 수 있는 웨딩홀과 전문가를 한곳에서 만나보고 싶은 분들을 위한 자리입니다. 특히 웨딩홀의 2026년 신규 정보가 필요한 분들이라면 이번 팝업스토어를 통해 트렌디하고 정확한 정보를 확인할 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "20개 이상의 엄선된 웨딩 브랜드",
+      "신규 웨딩홀 상담 부스",
+      "혼수 및 가전 전문 브랜드",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "가격 정찰제 시행으로 투명한 견적 확인 가능",
+      "카드 결제 및 현금 영수증 발행 보장으로 신뢰성 강화",
+      "타 박람회 대비 검증된 브랜드 중심의 큐레이션"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 일정",
+      "결혼 준비 순서",
+      "스드메 패키지 가격",
+      "신혼부부 가전 혼수",
+      "광주 웨딩홀 추천",
+      "웨딩박람회 방문 혜택",
+      "결혼 준비 비용 절약",
+      "광주 예복 예물 브랜드",
+      "웨딩플래너 상담 예약",
+      "2026 결혼 트렌드"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 지역 웨딩 박람회 전체 일정",
+        "category": "gwangju_weddings"
+      },
+      {
+        "anchor": "결혼 준비 체크리스트 바로가기",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "드레스 피팅",
+      "결혼 박람회",
+      "웨딩 플래너",
+      "신혼여행",
+      "예물",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 신세계웨딩 팝업스토어 개최",
+    "og_description": "최대 50만원 할인 혜택! 광주 신세계 웨딩 팝업스토어에서 현명한 결혼 준비를 시작하세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#신세계웨딩",
+      "#웨딩박람회",
+      "#스드메",
+      "#결혼준비",
+      "#예신",
+      "#광주웨딩",
+      "#결혼식",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/knockWed18/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_B7Q4swpGoI.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_WfmEiMap7H3lsXs7zmUUPJVic3QVnLF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_A3bspFpXdTGcDsF5gtpuSdTxtN9b.jpg"
+  },
+  "updated_at": "2026-09-11 13:31:37",
+  "revenue": 50000
+}
