@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 124,
+    "total_count": 126,
     "region_count": 15,
     "district_count": 41,
-    "updated_at": "2026-09-14 19:37:39"
+    "updated_at": "2026-09-15 13:31:11"
   },
   "items": [
     {
@@ -1443,6 +1443,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1880,
       "campaign_id": "reveweddingE16",
       "gather_name": "평촌 혼수가전 박람회",
       "display_date": "10월 03일(토) ~ 10월 04일(일)",
@@ -1451,7 +1452,8 @@
       "sigungu": "안양시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_byyJ57Hx9bTWB.jpg",
-      "updated_at": "2026-09-14 19:33:59"
+      "updated_at": "2026-09-14 19:33:59",
+      "revenue": 50000
     },
     {
       "idx": 1318,
@@ -1480,6 +1482,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1194,
       "campaign_id": "wwedding03",
       "gather_name": "부산 벡스코웨딩페어",
       "display_date": "10월 09일(금) ~ 10월 11일(일)",
@@ -1488,7 +1491,8 @@
       "sigungu": "해운대구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202408/2337ea9ac0ebeb271ae4fe609b8d7149_dEdjB7lKufsQYKKAYB4US1.jpg",
-      "updated_at": "2026-09-14 19:34:47"
+      "updated_at": "2026-09-14 19:34:47",
+      "revenue": 30000
     },
     {
       "idx": 1555,
@@ -1559,13 +1563,13 @@
       "idx": 1258,
       "campaign_id": "wedingcrowd27",
       "gather_name": "라카이 샌드파인 강릉 웨딩박람회",
-      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "display_date": "09월 26일(토) ~ 09월 27일(일)",
       "venue": "라카이 샌드파인 리셉션동 천연홀 1층",
       "sido": "강원",
       "sigungu": "강릉시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_jnpWpzdEH6uXhUrWrUnHe8LMwIFfP7V.jpg",
-      "updated_at": "2026-09-14 19:36:19",
+      "updated_at": "2026-09-15 13:30:54",
       "revenue": 30000
     },
     {
@@ -1584,15 +1588,15 @@
     {
       "idx": 1333,
       "campaign_id": "wwedding08",
-      "gather_name": "창원 웨딩박람회",
+      "gather_name": "창원 웨딩의전당 웨딩박람회",
       "display_date": "09월 19일(토) ~ 09월 20일(일)",
       "venue": "창원웨딩의전당",
       "sido": "경남",
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_jGAlo1CXfSN1Y96XPw.jpg",
-      "updated_at": "2026-09-14 19:37:08",
-      "revenue": 30000
+      "updated_at": "2026-09-15 13:31:11",
+      "revenue": 40000
     },
     {
       "idx": 1457,
@@ -1619,6 +1623,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_K5wb8YHQGb.jpg",
       "updated_at": "2026-09-14 19:37:39",
       "revenue": 50000
+    },
+    {
+      "idx": 1873,
+      "campaign_id": "wantwedfair04",
+      "gather_name": "동탄 원트웨딩 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "LG전자베스트샵 롯데동탄점",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
+      "updated_at": "2026-09-15 13:30:21",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wantwedfair07",
+      "gather_name": "평택 원트웨딩 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "LG전자베스트샵 AK PLAZA 평택점",
+      "sido": "경기",
+      "sigungu": "평택시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_6oHEdITUpKJeTXFQDQ.jpg",
+      "updated_at": "2026-09-15 13:30:39"
     }
   ]
 }
