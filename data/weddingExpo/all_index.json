@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 134,
+    "total_count": 141,
     "region_count": 15,
-    "district_count": 42,
-    "updated_at": "2026-09-16 13:31:41"
+    "district_count": 43,
+    "updated_at": "2026-09-16 19:32:19"
   },
   "items": [
     {
@@ -1355,13 +1355,13 @@
       "idx": 1289,
       "campaign_id": "wedingcrowd33",
       "gather_name": "수원 컨벤션 초대형 웨딩박람회",
-      "display_date": "09월 19일(토) ~ 09월 20일(일)",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
       "venue": "수원컨벤션센터 1층 전시관",
       "sido": "경기",
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_DAGrlTSL.jpg",
-      "updated_at": "2026-09-14 19:31:52",
+      "updated_at": "2026-09-16 19:30:20",
       "revenue": 30000
     },
     {
@@ -1638,6 +1638,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1881,
       "campaign_id": "wantwedfair07",
       "gather_name": "평택 원트웨딩 웨딩박람회",
       "display_date": "10월 03일(토) ~ 10월 04일(일)",
@@ -1646,7 +1647,8 @@
       "sigungu": "평택시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_6oHEdITUpKJeTXFQDQ.jpg",
-      "updated_at": "2026-09-15 13:30:39"
+      "updated_at": "2026-09-15 13:30:39",
+      "revenue": 30000
     },
     {
       "idx": 1653,
@@ -1750,6 +1752,95 @@
       "region_en": "daegu",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_jJ4m1n1MQy3Jb2Ir8noqy9CgSlrWcnw.jpg",
       "updated_at": "2026-09-16 13:31:41",
+      "revenue": 30000
+    },
+    {
+      "idx": 1189,
+      "campaign_id": "withyouwedding12",
+      "gather_name": "안산 위드유 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "삼성스토어 안산고잔점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_hgUZdOki4PzEvwesCcB5WLeeJ8KbV.jpg",
+      "updated_at": "2026-09-16 19:30:37",
+      "revenue": 30000
+    },
+    {
+      "idx": 1316,
+      "campaign_id": "theshirleywedding04",
+      "gather_name": "의정부 더셜리 웨딩페어",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_BQJBOWZhLHNj8gVvwFioeCKsyjIpsMd.jpg",
+      "updated_at": "2026-09-16 19:30:53",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "theshirleyweddingH04",
+      "gather_name": "의정부 더셜리 허니문페어",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ukpG9XNGQGHG5QKvB.jpg",
+      "updated_at": "2026-09-16 19:31:12"
+    },
+    {
+      "idx": 1415,
+      "campaign_id": "wwedding11",
+      "gather_name": "롯데백화점 부산본점 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "롯데백화점 부산본점",
+      "sido": "부산",
+      "sigungu": "부산진구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_wbX6ePsbF3qJ.jpg",
+      "updated_at": "2026-09-16 19:31:29",
+      "revenue": 30000
+    },
+    {
+      "idx": 1805,
+      "campaign_id": "emywedding02",
+      "gather_name": "e마이웨딩 대전 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "e마이웨딩 1층 전관",
+      "sido": "대전",
+      "sigungu": "중구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_D8k78jWGSM6xctaZn7qy.jpg",
+      "updated_at": "2026-09-16 19:31:47",
+      "revenue": 30000
+    },
+    {
+      "idx": 1183,
+      "campaign_id": "withyouwedding06",
+      "gather_name": "대전 위드유 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "대전",
+      "sigungu": "서구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_CZC77I73WwcV1bgfzWi.jpg",
+      "updated_at": "2026-09-16 19:32:03",
+      "revenue": 30000
+    },
+    {
+      "idx": 1691,
+      "campaign_id": "withyouwedding49",
+      "gather_name": "춘천 더테라리움 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "더테라리움 춘천",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_oPz85VTeEH9vqxzbBlBeFPY5nNuqJ.jpg",
+      "updated_at": "2026-09-16 19:32:19",
       "revenue": 30000
     }
   ]
