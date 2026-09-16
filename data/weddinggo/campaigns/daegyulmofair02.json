@@ -1,0 +1,210 @@
+{
+  "idx": 1879,
+  "campaign_id": "daegyulmofair02",
+  "gather_name": "대결모 대구웨딩박람회",
+  "organizer_name": "대구웨딩박람회",
+  "seo_metadata": {
+    "title": "대구웨딩박람회 | 대구그랜드호텔 특별행사 최대 200만원 혜택",
+    "meta_description": "대구 웨딩 준비의 정석, 대결모 대구웨딩박람회! 10월 17일-18일 대구그랜드호텔 개최. 방문 시 백화점 상품권 증정 및 스드메 계약 시 최대 200만원 파격 혜택을 지금 확인하세요.",
+    "keywords": [
+      "대구웨딩박람회",
+      "대구결혼박람회",
+      "대구그랜드호텔웨딩",
+      "대구스드메",
+      "대구웨딩홀",
+      "결혼준비박람회",
+      "대구웨딩준비",
+      "대결모",
+      "대구혼수",
+      "대구웨딩패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 해야 할지 막막하신가요? 대구 최대 규모를 자랑하는 '대결모 대구웨딩박람회'가 대구그랜드호텔에서 여러분을 찾아갑니다. 이번 박람회는 복잡한 결혼 준비 과정을 투명하고 합리적인 비용으로 해결할 수 있는 최적의 솔루션을 제공합니다.",
+    "benefits_description": "이번 대구웨딩박람회는 오직 예비부부님들을 위한 파격적인 혜택을 준비했습니다. 현장 방문만 해도 드리는 100% 선물 증정은 물론, 스드메 계약 시 최대 50% 할인과 혼수/예물 특별 할인 등 총 200만원 상당의 혜택을 누리실 수 있습니다. 특히 대결모만의 포인트 적립 시스템과 '최저가 정찰제'를 통해 예산 고민 없이 만족스러운 결혼 준비를 완성해 보세요.",
+    "summary_for_search": "10월 17일~18일, 대구그랜드호텔에서 열리는 대결모 대구웨딩박람회! 방문객 전원 선물 증정 및 최대 200만원 할인 혜택으로 스마트한 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "최대 200만원 혜택! 대구 최대 규모 웨딩박람회",
+    "secondary_headline": "대구그랜드호텔에서 만나는 스드메 최저가 정찰제와 다양한 혼수 특전",
+    "urgency_text": "선착순 방문객 백화점 상품권 증정",
+    "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 100% 선물 증정",
+      "방문 선착순 100명 백화점 상품권"
+    ],
+    "contract_benefits": [
+      "웨딩홀 계약 시 최대 20만원 지원",
+      "스드메 계약 시 최대 50% 할인",
+      "웨딩샵 계약 시 혼주 H/M 50만원 무료 제공",
+      "최대 200만원 상당 혜택 지원",
+      "대결모 포인트 적립"
+    ],
+    "special_events": [
+      "온누리상품권/대구로페이 결제 가능",
+      "웨딩홀/스드메 1:1 맞춤 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "대구",
+      "sido_en": "daegu",
+      "sigungu": "수성구",
+      "sigungu_en": "suseong",
+      "address": "대구 수성구 동대구로 305 (범어동 563-1)",
+      "venue": "대구그랜드호텔 특별행사장",
+      "parking_info": "지하주차장 무료 이용",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "방문 및 상담 완료 후 제공, 선착순 마감 가능",
+    "trust_indicators": [
+      "대결모 리얼 계약 후기 검증",
+      "최저가 정찰제 시행",
+      "대구 최대 업체 제휴"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대결모 대구웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "대구그랜드호텔 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "동대구로 305",
+          "addressLocality": "대구 수성구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "대구웨딩박람회",
+        "url": "https://ad.cpaad.co.kr/daegyulmofair02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "대결모 대구웨딩박람회는 사전 신청 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 대구그랜드호텔 내 지하주차장을 무료로 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "개인별 차이가 있으나, 보통 1:1 맞춤 상담으로 1~2시간 정도 소요됩니다."
+      },
+      {
+        "question": "스드메 비용은 어떻게 되나요?",
+        "answer": "최저가 정찰제를 운영하고 있으며, 박람회 전용 패키지를 통해 합리적인 가격으로 구성되어 있습니다."
+      },
+      {
+        "question": "사전 신청 혜택은 무엇인가요?",
+        "answer": "사전 신청 후 방문 시 방문객 전원 선물 및 선착순 100명에게 백화점 상품권을 증정합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 대구 지역 예비 신랑 신부님, 결혼 준비를 어디서부터 시작할지 고민 중인 커플을 위한 행사입니다. 특히 합리적인 결혼식 비용을 추구하며 스드메, 혼수, 웨딩홀을 한 곳에서 비교하고 싶으신 분들께 최적의 장소입니다. 전문 플래너의 도움으로 맞춤형 웨딩 견적을 받고 싶거나, 복잡한 결혼 준비 과정을 투명한 정보를 통해 효율적으로 해결하고 싶은 모든 커플들에게 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 전문 상담 업체",
+      "스드메 패키지 전문 샵",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수가전 및 가구 업체"
+    ],
+    "comparison_hooks": [
+      "국내 최대 업체 입점으로 최저가 정찰제 보장",
+      "계약 강요 없는 투명하고 편안한 상담 분위기",
+      "웨딩샵과 스튜디오를 한 번에 비교 가능한 원스톱 시스템"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대구 웨딩박람회 일정",
+      "대구 결혼 준비 체크리스트",
+      "대구 스드메 가격",
+      "대결모 후기",
+      "대구 웨딩홀 추천",
+      "결혼 준비 비용 절약법",
+      "대구 신혼여행 상담",
+      "박람회 방문 혜택",
+      "대구 혼수 가전 할인",
+      "결혼 박람회 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대구 웨딩홀 실시간 견적",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "대구 스드메 패키지 모음",
+        "category": "studiomakeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "예식장",
+      "혼수",
+      "웨딩홀",
+      "신혼여행",
+      "결혼준비",
+      "웨딩드레스",
+      "한복",
+      "예물",
+      "가전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대구 웨딩박람회 | 최대 200만원 혜택 지원",
+    "og_description": "10월 17~18일, 대구그랜드호텔! 방문만 해도 선물 증정, 스드메 파격 할인 진행 중.",
+    "hashtags": [
+      "#대구웨딩박람회",
+      "#대구결혼준비",
+      "#대구스드메",
+      "#대구웨딩홀",
+      "#대결모",
+      "#예비부부",
+      "#결혼준비시작",
+      "#대구웨딩",
+      "#웨딩박람회혜택",
+      "#대구예신"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/daegyulmofair02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_UZePyVWuvWbYoJd4qhBzq6kcg.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_jJ4m1n1MQy3Jb2Ir8noqy9CgSlrWcnw.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_L7o4cHvpE8Y.jpg"
+  },
+  "updated_at": "2026-09-16 13:00:57",
+  "revenue": 30000
+}
