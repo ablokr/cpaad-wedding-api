@@ -2293,5 +2293,207 @@
     },
     "updated_at": "2026-09-16 19:01:41",
     "revenue": 30000
+  },
+  {
+    "idx": 1853,
+    "campaign_id": "planittour03",
+    "gather_name": "대전 신세계 허니문박람회",
+    "organizer_name": "플래닛투어",
+    "seo_metadata": {
+      "title": "대전 신세계 허니문박람회 | 신혼여행 계약 시 최대 60만원 혜택",
+      "meta_description": "10월 3일-4일 대전 신세계 아트앤사이언스에서 열리는 허니문 박람회! 사전예약 시 26인치 캐리어 증정, 계약 시 최대 60만원 할인 및 5성급 호텔 숙박권 제공. 대전 예비부부를 위한 최고의 신혼여행 솔루션을 지금 확인하세요.",
+      "keywords": [
+        "대전웨딩박람회",
+        "대전신혼여행박람회",
+        "대전결혼준비",
+        "허니문박람회",
+        "대전신세계웨딩박람회",
+        "신혼여행패키지",
+        "플래닛투어",
+        "대전허니문",
+        "신혼여행경비",
+        "결혼박람회혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "평생 기억에 남을 신혼여행을 준비 중인 대전 예비부부님을 위해 대전 신세계 아트앤사이언스에서 프리미엄 허니문 박람회를 개최합니다. 복잡한 결혼 준비 과정 중 가장 설레는 허니문 일정을 전문가와 함께 1:1 맞춤형으로 완벽하게 설계해보세요.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 허니문 파우치나 어메니티 세트를 드리는 것은 물론, 사전예약 커플에게는 16만원 상당의 26인치 캐리어를 100% 증정합니다. 현장에서 계약 시 최대 60만원의 추가 할인 혜택을 제공하며, 특별 프로모션으로 5성급 호텔 1박 숙박권까지 준비되어 있어 신혼여행 경비 부담을 크게 덜어드립니다.",
+      "summary_for_search": "10월 3일-4일 대전 신세계 아트앤사이언스에서 진행되는 대전 허니문 박람회! 사전예약하고 26인치 캐리어와 최대 60만원 할인 혜택을 받아보세요. 5성급 호텔 숙박권의 기회까지 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "신혼여행 계약 시 최대 60만원 추가 할인 혜택!",
+      "secondary_headline": "대전·충청지역 최대 규모 허니문 박람회, 10월 대전 신세계 아트앤사이언스에서 개최",
+      "urgency_text": "선착순 사전 예약자 한정 26인치 캐리어 증정",
+      "call_to_action_text": "지금 무료 박람회 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담 시 허니문 파우치 또는 어메니티 5종 세트 중 택 1",
+        "사전 예약 방문 고객 26인치 캐리어 증정(16만원 상당)"
+      ],
+      "contract_benefits": [
+        "허니문 계약 시 최대 60만원 추가 할인",
+        "인천공항 인근 5성급 호텔 1박 숙박권 증정(현장 계약 고객)"
+      ],
+      "special_events": [
+        "현장 리뷰 이벤트 참여 시 신세계 상품권 또는 스타벅스 기프티콘 증정"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-04",
+        "display_date": "10월 03일(토) ~ 10월 04일(일)",
+        "original_display_date": "10월 03일(토) ~ 10월 04일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "유성구",
+        "sigungu_en": "yuseong",
+        "address": "대전 유성구 엑스포로 1",
+        "venue": "대전신세계 아트앤사이언스",
+        "parking_info": "무료 주차 제공",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일",
+        "방문 예정일",
+        "상담 희망 시간",
+        "관심 여행지"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "16년 업력의 허니문 전문 여행사",
+        "대전·충청지역 매출 1위",
+        "1:1 맞춤 상담 및 현지 가이드 체계 구축"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 신세계 허니문박람회",
+        "startDate": "2026-10-03",
+        "endDate": "2026-10-04",
+        "location": {
+          "@type": "Place",
+          "name": "대전신세계 아트앤사이언스",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "대전 유성구",
+            "addressLocality": "대전",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "url": "https://example.com/register"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "플래닛투어",
+          "url": "https://ad.cpaad.co.kr/planittour03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "대전 신세계 허니문 박람회는 사전 예약 시 무료로 입장 및 상담이 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 행사 장소인 대전 신세계 아트앤사이언스 내 무료 주차가 가능합니다."
+        },
+        {
+          "question": "사전 예약을 하면 어떤 혜택이 있나요?",
+          "answer": "사전 예약 후 방문하시면 26인치 캐리어를 100% 증정하며, 상담 시 다양한 사은품을 드립니다."
+        },
+        {
+          "question": "계약 혜택은 무엇인가요?",
+          "answer": "계약 시 최대 60만원 할인과 더불어 5성급 호텔 1박 숙박권 등 풍성한 지원이 제공됩니다."
+        },
+        {
+          "question": "입점 업체는 어떤 곳들인가요?",
+          "answer": "허니문 전문 여행사 및 관련 웨딩 브랜드들이 입점하여 1:1 맞춤 상담을 진행합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 신혼여행지 고민이 많은 예비 부부, 바쁜 일상 속에서 스드메와 허니문을 동시에 효율적으로 준비하고 싶은 커플을 위한 행사입니다. 막연하게 '신혼여행 어디로 가야 할까' 고민하거나, 가성비와 가심비를 모두 챙기고 싶은 6개월 이내 예비 부부라면 박람회 방문을 통해 현지 최신 정보와 전문가의 1:1 맞춤 컨설팅을 경험하실 수 있습니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행사(플래닛투어)",
+        "신혼여행 맞춤 컨설팅 브랜드",
+        "해외 리조트 및 항공권 제휴 업체"
+      ],
+      "comparison_hooks": [
+        "16년 업력의 허니문 전문 여행사가 직접 주관하는 신뢰도 높은 상담",
+        "현장 계약 시 타 업체 대비 최대 60만원 파격 할인 제공",
+        "대전·충청지역 매출 1위 기록이 증명하는 검증된 만족도"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "신혼여행 준비물 리스트",
+        "대전 웨딩박람회 일정",
+        "신혼여행지 추천",
+        "허니문 패키지 비용",
+        "대전 신세계 아트앤사이언스 웨딩",
+        "결혼 준비 체크리스트",
+        "허니문 자유여행 vs 패키지",
+        "플래닛투어 후기",
+        "대전 신혼여행 상담",
+        "예비부부 박람회 혜택"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩 정보 더보기",
+          "category": "대전 웨딩홀 및 결혼 준비"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "신혼여행지",
+        "혼수",
+        "예식장",
+        "허니문 패키지",
+        "결혼 준비",
+        "웨딩 플래너",
+        "신혼여행 경비",
+        "호텔 숙박권"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 허니문 박람회, 최대 60만원 혜택!",
+      "og_description": "10월 3일-4일 대전 신세계에서 만나는 허니문 특가! 지금 사전예약하고 캐리어와 5성급 호텔권 챙겨가세요.",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전결혼준비",
+        "#대전신혼여행",
+        "#허니문박람회",
+        "#대전신세계",
+        "#신혼여행지추천",
+        "#대전예비부부",
+        "#결혼준비시작",
+        "#허니문할인",
+        "#플래닛투어"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planittour03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_e1E6YAtBXDPH5hWYIRP6AqDx66C.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_YuXednxeov.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_bkT3ILCrd2nhQrMlgWmVMRns.jpg"
+    },
+    "updated_at": "2026-09-17 16:00:36",
+    "revenue": 35000
   }
 ]
