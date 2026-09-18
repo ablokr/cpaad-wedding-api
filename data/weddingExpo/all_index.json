@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 148,
+    "total_count": 152,
     "region_count": 15,
-    "district_count": 44,
-    "updated_at": "2026-09-18 13:32:49"
+    "district_count": 46,
+    "updated_at": "2026-09-18 19:32:04"
   },
   "items": [
     {
@@ -16,7 +16,7 @@
       "sigungu": "강남구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_95vrv8KePZZXipD.jpg",
-      "updated_at": "2026-09-14 13:30:39",
+      "updated_at": "2026-09-18 19:30:23",
       "revenue": 30000
     },
     {
@@ -1654,13 +1654,13 @@
       "idx": 1145,
       "campaign_id": "banhanaH03",
       "gather_name": "대구 반하나 허니문 박람회",
-      "display_date": "09월 19일(토) ~ 09월 20일(일)",
-      "venue": "신세계백화점 대구점 7층 LG베스트샵",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "LG전자베스트샵 신세계대구점",
       "sido": "대구",
       "sigungu": "동구",
       "region_en": "daegu",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_aOtOTNk45S233jbVzI7.jpg",
-      "updated_at": "2026-09-15 19:30:36",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_rDtUOrGRPzwBju5.jpg",
+      "updated_at": "2026-09-18 19:32:04",
       "revenue": 30000
     },
     {
@@ -1777,19 +1777,6 @@
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ukpG9XNGQGHG5QKvB.jpg",
       "updated_at": "2026-09-16 19:31:12"
-    },
-    {
-      "idx": 1415,
-      "campaign_id": "wwedding11",
-      "gather_name": "롯데백화점 부산본점 웨딩박람회",
-      "display_date": "10월 10일(토) ~ 10월 11일(일)",
-      "venue": "롯데백화점 부산본점",
-      "sido": "부산",
-      "sigungu": "부산진구",
-      "region_en": "busan",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_wbX6ePsbF3qJ.jpg",
-      "updated_at": "2026-09-16 19:31:29",
-      "revenue": 30000
     },
     {
       "idx": 1805,
@@ -1932,6 +1919,71 @@
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_8co85j9SRqwqG8Er.jpg",
       "updated_at": "2026-09-18 13:32:31",
+      "revenue": 30000
+    },
+    {
+      "idx": 1114,
+      "campaign_id": "howto14",
+      "gather_name": "수원 메쎄 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "수원 메쎄 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_3lqbxHZX.jpg",
+      "updated_at": "2026-09-18 19:30:40",
+      "revenue": 35000
+    },
+    {
+      "idx": 1432,
+      "campaign_id": "wedingcrowd57",
+      "gather_name": "하남 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "삼성스토어 신세계하남",
+      "sido": "경기",
+      "sigungu": "하남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_4d1rFjhPnr3Q1l2TTxp2z.jpg",
+      "updated_at": "2026-09-18 19:30:56",
+      "revenue": 30000
+    },
+    {
+      "idx": 1787,
+      "campaign_id": "howto26",
+      "gather_name": "수원 메쎄 허니문 박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "수원 메쎄 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_PUW1JPkBINqOoTjXeSDUloN.jpg",
+      "updated_at": "2026-09-18 19:31:13",
+      "revenue": 35000
+    },
+    {
+      "idx": 1084,
+      "campaign_id": "wedingcrowd10",
+      "gather_name": "송도컨벤시아 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "송도컨벤시아 특별행사장",
+      "sido": "인천",
+      "sigungu": "연수구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Io4QF6DESH.jpg",
+      "updated_at": "2026-09-18 19:31:29",
+      "revenue": 30000
+    },
+    {
+      "idx": 1840,
+      "campaign_id": "wedingcrowd114",
+      "gather_name": "인천 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "LG전자베스트샵 부평구청점 특별행사장",
+      "sido": "인천",
+      "sigungu": "부평구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Hhp6yBBkkoaGr9.jpg",
+      "updated_at": "2026-09-18 19:31:48",
       "revenue": 30000
     }
   ]
