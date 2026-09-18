@@ -8331,5 +8331,633 @@
     },
     "updated_at": "2026-09-17 19:31:08",
     "revenue": 30000
+  },
+  {
+    "idx": 1114,
+    "campaign_id": "howto14",
+    "gather_name": "수원 메쎄 웨딩박람회",
+    "organizer_name": "하우투웨딩",
+    "seo_metadata": {
+      "title": "수원 메쎄 웨딩박람회 | 방문 시 10만원 상당 선물 및 혼수 혜택",
+      "meta_description": "수원 메쎄 웨딩박람회 10월 10일~11일 개최! 스드메 패키지, 혼수, 예물 등 특별 할인과 방문객 대상 10만원 상당 선물 증정 및 선착순 경품 이벤트를 지금 확인하고 사전등록하세요.",
+      "keywords": [
+        "수원 웨딩박람회",
+        "수원 메쎄 웨딩박람회",
+        "결혼 준비",
+        "스드메 상담",
+        "웨딩홀 할인",
+        "수원 예식장",
+        "혼수 준비",
+        "웨딩박람회 혜택",
+        "결혼 박람회 추천",
+        "웨딩패키지 가격"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 첫걸음을 고민 중이시라면 이번 수원 메쎄 웨딩박람회 참가를 추천해 드립니다. 예비부부를 위해 스드메부터 예물, 혼수, 신혼여행까지 다양한 업체를 한자리에서 비교하고 상담받을 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 10만원 상당의 서프라이즈 선물을 증정하며, 혼수 상담 시 미니 캐리어 등 실속 있는 사은품을 제공합니다. 또한 예물, 한복, 예복 등 계약 시 최대 5만원 혼수 상품권을 지원하며, 선착순 10쌍에게는 영화 관람권을 드리는 등 풍성한 현장 혜택이 마련되어 있습니다. 신뢰할 수 있는 웨딩 플래너와의 1:1 상담을 통해 나만의 맞춤 웨딩 계획을 세워보시기 바랍니다.",
+      "summary_for_search": "수원 메쎄 웨딩박람회(10/10~11)에서 결혼 준비를 시작하세요. 방문 시 10만원 상당 선물 증정, 스드메 패키지 특별 할인 및 선착순 이벤트 등 다양한 혜택이 준비되어 있습니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "아낄 건 아끼고 받을 건 받자! 수원 메쎄 웨딩박람회",
+      "secondary_headline": "10년 이상 경력 플래너와 함께하는 스마트한 결혼 준비, 방문만 해도 10만원 상당 혜택 증정",
+      "urgency_text": "사전 등록 시 무료 입장 및 선착순 경품 증정",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 10만원 상당 서프라이즈 선물 증정",
+        "박람회 선착순 20쌍 스타벅스 에코백 증정",
+        "혼수 상담 4곳 이상 완료 시 미니 캐리어 증정",
+        "선착순 10쌍 옥탑방고양이 연극 관람권 증정"
+      ],
+      "contract_benefits": [
+        "계약 시 혼수 상품권 최대 5만원 지원",
+        "스튜디오 촬영 무료/10커플 추첨",
+        "드레스 무료 피팅(30커플 추첨)",
+        "예물/예복/한복 계약 시 혼수 상품권 증정"
+      ],
+      "special_events": [
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "웨딩홀 실시간 비교 및 최대 할인 혜택",
+        "예물/예복 정회원 프로모션",
+        "신혼여행 패키지 특별 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-11",
+        "display_date": "10월 10일(토) ~ 10월 11일(일)",
+        "original_display_date": "10월 10일(토) ~ 10월 11일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "수원시",
+        "sigungu_en": "suwon",
+        "address": "경기 수원시 권선구 세화로134번길 37",
+        "venue": "수원 메쎄 특별행사장",
+        "parking_info": "무료주차",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 상담 완료 후 인증 또는 선착순 조건 충족 시 수령 가능하며, 일부 혜택은 계약 시에만 적용됩니다.",
+      "trust_indicators": [
+        "경력 10년 이상 전문 웨딩 플래너 상담",
+        "수천 개의 웨딩 후기 입증",
+        "박람회 현장 실시간 혜택 확인 가능",
+        "유명 혼수/가전 브랜드 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "수원 메쎄 웨딩박람회",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "location": {
+          "@type": "Place",
+          "name": "수원 메쎄",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기 수원시 권선구 세화로134번길 37",
+            "addressLocality": "수원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하우투웨딩",
+          "url": "https://ad.cpaad.co.kr/howto14/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장료는 얼마인가요?",
+          "answer": "본 박람회는 온라인 사전 등록을 완료하시면 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장이 위치한 수원 메쎄 내에 무료 주차가 가능합니다."
+        },
+        {
+          "question": "누구와 함께 가야 하나요?",
+          "answer": "결혼을 앞둔 예비부부가 함께 방문하여 스드메, 웨딩홀, 혼수 등을 한자리에서 상담받는 것을 추천합니다."
+        },
+        {
+          "question": "사은품은 어떻게 받나요?",
+          "answer": "방문 고객 대상 선물과 상담 완료 시 제공되는 사은품은 현장 안내 데스크에서 상담 내역 확인 후 수령하실 수 있습니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "개인별 상담 항목에 따라 다르지만 보통 1~2시간 정도 충분한 상담을 진행하시는 것이 좋습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비의 막막함을 느끼는 예비부부, 스드메(스튜디오·드레스·메이크업) 비용과 업체를 비교하고 싶은 커플, 합리적인 예산으로 혼수와 가전을 준비하고자 하는 신혼부부에게 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 모르는 분들을 위해 10년 차 이상 경력의 전문 플래너가 체계적인 가이드를 제공하며, 실제 예식장 비교와 드레스 피팅 등 체험형 정보를 찾는 분들께 실질적인 도움을 드립니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 추천 및 대관료 할인 업체",
+        "스드메 토탈 패키지 웨딩샵",
+        "허니문 전문 여행사",
+        "맞춤 예복 및 한복 브랜드",
+        "웨딩 예물 및 주얼리 브랜드"
+      ],
+      "comparison_hooks": [
+        "온라인 대비 박람회 현장 즉시 할인 및 사은품 증정",
+        "10년 경력 베테랑 플래너의 1:1 맞춤형 웨딩 컨설팅",
+        "수원 지역 최다 웨딩 업체 참여로 한자리 비교 가능"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 팁",
+        "결혼 준비 체크리스트",
+        "수원 웨딩홀 대관료 비교",
+        "스드메 평균 비용",
+        "혼수 가전 준비시기",
+        "웨딩박람회 사은품",
+        "신혼여행 패키지 추천",
+        "결혼 예복 맞춤 가격",
+        "예비부부 박람회 필수 준비물",
+        "웨딩 촬영 스튜디오 예약"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "수원 웨딩박람회 일정 확인",
+          "category": "events"
+        },
+        {
+          "anchor": "신혼부부 혼수 준비 가이드",
+          "category": "guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예식장",
+        "결혼 준비",
+        "웨딩 플래너",
+        "신혼여행",
+        "한복",
+        "예복",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "수원 메쎄 웨딩박람회 사전등록 오픈!",
+      "og_description": "방문만 해도 10만원 상당 선물 증정! 2026 결혼 준비, 수원 메쎄에서 현명하게 시작하세요.",
+      "hashtags": [
+        "#수원웨딩박람회",
+        "#결혼준비",
+        "#웨딩박람회",
+        "#수원결혼준비",
+        "#스드메",
+        "#예비부부",
+        "#결혼박람회",
+        "#수원웨딩홀",
+        "#웨딩플래너",
+        "#신혼여행"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/howto14/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_PuI3jBxXaN7HeQQZQlqUPE7mtHB.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_3lqbxHZX.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202503/a0306c07cfce0aa955cf39a185c2ff26_NPBaG3kxQG41HQbycB6o4jOjKZDOzd.jpg"
+    },
+    "updated_at": "2026-09-18 19:30:40",
+    "revenue": 35000
+  },
+  {
+    "idx": 1432,
+    "campaign_id": "wedingcrowd57",
+    "gather_name": "하남 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "하남 웨딩크라우드 웨딩박람회 | 삼성스토어 신세계하남 상담 혜택",
+      "meta_description": "2026년 10월 10일~11일 개최되는 하남 웨딩크라우드 웨딩박람회! 캐스퍼 경품 이벤트와 스드메, 혼수 가전 특별 할인 혜택을 지금 확인하고 사전등록으로 알뜰하게 결혼 준비를 시작하세요.",
+      "keywords": [
+        "하남 웨딩박람회",
+        "결혼 준비",
+        "웨딩크라우드",
+        "삼성스토어 신세계하남",
+        "스드메 패키지",
+        "혼수 가전",
+        "예식장 상담",
+        "신혼여행 특가",
+        "웨딩 박람회 일정",
+        "결혼 준비 체크리스트"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 막막하신가요? 이번 하남 웨딩크라우드 웨딩박람회는 예비부부님들의 고민을 덜어드리기 위해 스드메부터 혼수, 가전까지 한자리에서 비교하고 합리적인 혜택을 제공합니다. 삼성스토어 신세계하남에서 열리는 이번 박람회를 통해 실속 있는 결혼 준비를 시작해 보세요.",
+      "benefits_description": "이번 박람회에서는 현장 방문객을 위한 풍성한 경품 이벤트가 준비되어 있습니다. 캐스퍼 당첨의 기회부터 삼성 가전, 동남아 여행권 등 계약 여부와 관계없이 상담만 받아도 챙길 수 있는 혜택이 다양합니다. 특히 스드메와 혼수를 동시에 계약할 경우 제공되는 파격적인 추가 사은품과 할인 혜택은 예산 절감에 실질적인 도움을 드릴 것입니다. 1:1 맞춤 상담으로 나만의 웨딩 스타일을 완성하고 박람회 한정 특전까지 모두 누려보시기 바랍니다.",
+      "summary_for_search": "10월 10일~11일 삼성스토어 신세계하남에서 개최되는 하남 웨딩크라우드 웨딩박람회 정보입니다. 경품 이벤트와 스드메, 혼수 상담 혜택을 확인하고 사전등록 후 방문해 보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "이번 주말, 하남에서 만나는 최상의 웨딩브랜드!",
+      "secondary_headline": "스드메부터 혼수 가전까지, 박람회 특별 혜택으로 스마트한 결혼 준비 시작하세요.",
+      "urgency_text": "박람회 기간 한정, 선착순 경품 응모권 증정!",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 시 스타벅스 기프트카드 제공",
+        "청첩장 15% 할인권 증정"
+      ],
+      "contract_benefits": [
+        "스드메+혼수 계약 시 추가 사은품 증정",
+        "웨딩 패키지 특가 혜택",
+        "웨딩홀 무료 비교 및 섭외 서비스",
+        "계약자 100% 증정 웨딩다이어리"
+      ],
+      "special_events": [
+        "방문객 대상 캐스퍼 추첨 이벤트",
+        "가전 구매 고객 특별 혜택"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-11",
+        "display_date": "10월 10일(토) ~ 10월 11일(일)",
+        "original_display_date": "10월 10일(토) ~ 10월 11일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "하남시",
+        "sigungu_en": "hanam",
+        "address": "경기 하남시 미사대로 750 스타필드 하남 B1",
+        "venue": "삼성스토어 신세계하남",
+        "parking_info": "스타필드 하남 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일",
+        "신혼집 입주 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 상담 완료 시 증정하며, 중복 당첨은 제한될 수 있습니다.",
+      "trust_indicators": [
+        "웨딩 전문 컨설턴트 1:1 맞춤 상담",
+        "전국 단위 네트워크 인프라",
+        "삼성스토어 입점 신뢰도"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "하남 웨딩크라우드 웨딩박람회",
+        "startDate": "2026-10-10",
+        "endDate": "2026-10-11",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 신세계하남",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "미사대로 750 스타필드 하남 B1",
+            "addressLocality": "하남시",
+            "addressRegion": "경기",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd57/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 어떻게 되나요?",
+          "answer": "해당 웨딩박람회는 사전등록 시 무료로 입장 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "개최지인 스타필드 하남 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 경품을 받을 수 있나요?",
+          "answer": "네, 상담 완료 고객을 대상으로 다양한 경품 이벤트가 준비되어 있습니다."
+        },
+        {
+          "question": "결혼 준비가 처음인데 무엇부터 해야 하나요?",
+          "answer": "박람회 현장의 전문 웨딩 컨설턴트가 1:1 맞춤 상담을 통해 예산과 취향에 맞는 준비 순서를 안내해 드립니다."
+        },
+        {
+          "question": "스드메 외에 어떤 업체를 볼 수 있나요?",
+          "answer": "혼수, 가전, 예물, 예복, 한복, 허니문 여행사 등 결혼 준비에 필요한 모든 카테고리 업체를 한자리에서 만나보실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 예산을 관리하고 싶은 신혼부부, 바쁜 일정 속에서 한자리에서 모든 혼수와 스드메를 해결하고 싶은 커플을 위한 박람회입니다. 결혼 준비의 전체적인 타임라인을 잡고 싶은 분들에게 적합합니다.",
+      "exhibitor_highlights": [
+        "스드메 전문 업체",
+        "혼수 가전 브랜드",
+        "웨딩 주얼리 및 예물",
+        "맞춤 정장 및 예복",
+        "웨딩 한복",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "전국 단위 네트워크를 활용한 합리적인 웨딩 패키지",
+        "삼성스토어와 연계된 혼수 가전 단독 프로모션",
+        "전문 컨설턴트의 1:1 웨딩홀 무료 비교 서비스"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 전 체크리스트",
+        "스드메 패키지 가격대",
+        "혼수 가전 준비 순서",
+        "웨딩박람회 계약 시 주의사항",
+        "하남 결혼 준비",
+        "웨딩홀 투어 팁",
+        "허니문 여행지 추천",
+        "예물 예복 트렌드",
+        "결혼 예산 짜는 법",
+        "웨딩 촬영 스튜디오 비교"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "전국 웨딩박람회 일정 안내",
+          "category": "wedding_fair_schedule"
+        },
+        {
+          "anchor": "결혼 준비 체크리스트 모음",
+          "category": "wedding_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "결혼 예산",
+        "신혼여행",
+        "혼수가전",
+        "웨딩 컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "하남 웨딩크라우드 웨딩박람회 10월 개최!",
+      "og_description": "상담만 받아도 선물 증정! 2026 결혼 준비의 시작, 하남 웨딩박람회에서 합리적인 혜택을 확인하세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#하남웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#신혼부부",
+        "#예비부부",
+        "#혼수가전",
+        "#웨딩크라우드",
+        "#스타필드하남",
+        "#삼성스토어"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd57/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_4448PVkGjvz6.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_4d1rFjhPnr3Q1l2TTxp2z.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_Un7FgHMbqjMWdkqdpB.jpg"
+    },
+    "updated_at": "2026-09-18 19:30:56",
+    "revenue": 30000
+  },
+  {
+    "idx": 1787,
+    "campaign_id": "howto26",
+    "gather_name": "수원 메쎄 허니문 박람회",
+    "organizer_name": "하우투웨딩",
+    "seo_metadata": {
+      "title": "수원 메쎄 허니문 박람회 | 신혼여행 특가 및 스드메 최대 혜택",
+      "meta_description": "2026년 8월, 수원 메쎄에서 열리는 허니문 웨딩박람회! 신혼여행 특가 프로모션과 스드메 무료 체험, 선착순 방문 선물까지 결혼 준비의 모든 것을 실속 있게 준비하세요.",
+      "keywords": [
+        "수원 웨딩박람회",
+        "결혼준비",
+        "신혼여행박람회",
+        "허니문특가",
+        "수원웨딩홀",
+        "스드메견적",
+        "웨딩박람회일정",
+        "예비부부",
+        "수원메쎄웨딩",
+        "결혼박람회사은품"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "이번 수원 메쎄 허니문 박람회, 결혼 준비를 앞두고 어디서부터 시작해야 할지 고민 중이신가요? 2026년 8월 8일부터 9일까지 수원 메쎄 특별행사장에서 개최되는 이번 박람회는 복잡한 결혼 준비를 한곳에서 효율적으로 해결할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회는 허니문 특가 프로모션은 물론, 결혼 준비의 필수 요소인 스드메 패키지 혜택이 풍성하게 준비되어 있습니다. 현장 방문객에게는 스타벅스 에코백을 증정하며, 상담 및 계약 시 신세계 상품권과 캠핑웨건 등 실질적인 선물이 제공됩니다. 특히 스튜디오 촬영 무료 지원, 드레스 무료 피팅 등 예비부부의 예산 절감에 직접적인 도움을 주는 혜택들을 꼼꼼히 확인해 보세요.",
+      "summary_for_search": "2026년 8월 8일~9일 수원 메쎄에서 개최되는 허니문 웨딩박람회입니다. 신혼여행 특가와 스드메 혜택, 방문 사은품을 확인하고 지금 바로 무료 사전등록을 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 지금 시작하면 최대 150만원 할인 혜택",
+      "secondary_headline": "신혼여행 특가부터 스드메 무료 서비스까지, 수원 최대 규모 웨딩박람회",
+      "urgency_text": "박람회 기간 한정 혜택, 선착순 20명 방문 선물 증정",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문객 선착순 20명 스타벅스 에코백 증정",
+        "박람회 정계약 시 신세계 상품권 10만원권",
+        "광폭타이어 캠핑웨건 증정"
+      ],
+      "contract_benefits": [
+        "스튜디오 촬영 무료 지원(10커플 추첨)",
+        "웨딩 드레스 무료 피팅(30커플 추첨)",
+        "가봉스냅 촬영 지원(20커플 추첨)",
+        "시연 메이크업 서비스(30커플 추첨)",
+        "조기 예약 시 최대 150만원 할인"
+      ],
+      "special_events": [
+        "몰디브/유럽/코사무이/발리 신혼여행 특가 프로모션",
+        "웨딩홀 식대 및 대관료 할인 혜택"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-09",
+        "display_date": "10월 10일(토) ~ 10월 11일(일)",
+        "original_display_date": "10월 10일(토) ~ 10월 11일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "수원시",
+        "sigungu_en": "suwon",
+        "address": "경기 수원시 권선구 세화로134번길 37",
+        "venue": "수원 메쎄 특별행사장",
+        "parking_info": "수원 메쎄 주차장 이용 가능(상세 확인 필요)",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일",
+        "방문일자"
+      ],
+      "gift_conditions": "상담 완료 후 및 계약 조건 달성 시 증정",
+      "trust_indicators": [
+        "15년 이상의 전문 상담사 상주",
+        "실제 검증된 신혼여행지 특가 프로모션",
+        "1:1 맞춤형 웨딩 상담"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "수원 메쎄 허니문 박람회",
+        "startDate": "2026-08-08",
+        "endDate": "2026-08-09",
+        "location": {
+          "@type": "Place",
+          "name": "수원 메쎄",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "세화로 134번길 37",
+            "addressLocality": "경기 수원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하우투웨딩",
+          "url": "https://ad.cpaad.co.kr/howto26/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장이 가능한가요?",
+          "answer": "네, 사전등록을 완료하시면 무료로 입장하여 다양한 웨딩 혜택을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차는 어떻게 하나요?",
+          "answer": "행사장인 수원 메쎄 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담 시 사은품을 바로 받을 수 있나요?",
+          "answer": "방문 사은품은 현장 상담을 완료하신 고객님들을 대상으로 증정되며, 조건에 따라 상이할 수 있습니다."
+        },
+        {
+          "question": "스드메 계약 혜택이 무엇인가요?",
+          "answer": "스튜디오 촬영, 드레스 피팅, 가봉 스냅, 메이크업 등 다양한 혜택이 추첨을 통해 제공됩니다."
+        },
+        {
+          "question": "허니문 패키지는 어떤 지역이 있나요?",
+          "answer": "몰디브, 유럽, 코사무이, 발리, 푸켓 등 다양한 지역의 특가 프로모션이 준비되어 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞둔 예비부부, 스드메 비용 비교와 예식장 섭외로 고민 중인 커플을 위한 행사입니다. 결혼 준비 과정을 간소화하면서도 전문적인 상담을 원하는 신혼부부에게 적합하며, 합리적인 비용으로 허니문을 계획 중인 분들에게 실질적인 가이드를 제공합니다. '결혼 준비 어떻게 시작하나요'라는 막연한 고민을 안고 있는 분들도 현장에서 전문가와의 1:1 상담을 통해 명확한 로드맵을 설계할 수 있습니다.",
+      "exhibitor_highlights": [
+        "신혼여행 전문 여행사",
+        "웨딩 드레스샵",
+        "웨딩 스튜디오",
+        "웨딩홀 및 예식 컨설팅 업체"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 상담 및 계약을 통한 최대 150만원 할인",
+        "검증된 15년 이상 경력의 전문 상담사 배치",
+        "스드메 무료 체험 이벤트 등 타 박람회와 차별화된 실질적 혜택 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 팁",
+        "수원 웨딩홀 비교",
+        "허니문 여행지 추천",
+        "스드메 패키지 가격",
+        "박람회 무료 사전등록",
+        "웨딩박람회 사은품",
+        "2026 결혼 준비",
+        "신혼여행 특가",
+        "웨딩플래너 상담",
+        "수원 메쎄 가는 길"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "수원 웨딩박람회 전체 일정",
+          "category": "events"
+        },
+        {
+          "anchor": "결혼 준비 체크리스트",
+          "category": "guides"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "허니문",
+        "혼수",
+        "웨딩홀",
+        "결혼준비",
+        "가봉스냅",
+        "예식장",
+        "드레스피팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "수원 메쎄 허니문 웨딩박람회",
+      "og_description": "2026년 8월, 신혼여행 특가부터 스드메 할인까지! 지금 무료 사전등록하고 혜택 받으세요.",
+      "hashtags": [
+        "#수원웨딩박람회",
+        "#결혼준비",
+        "#수원메쎄",
+        "#신혼여행",
+        "#허니문",
+        "#스드메",
+        "#웨딩홀",
+        "#예비부부",
+        "#결혼박람회",
+        "#웨딩상담"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/howto26/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_F8bUCv3lTDpOQiNSK9Dj.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_PUW1JPkBINqOoTjXeSDUloN.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_cQ9LU6DmSCGQjMbAr4MHqwJYthK2.jpg"
+    },
+    "updated_at": "2026-09-18 19:31:13",
+    "revenue": 35000
   }
 ]
