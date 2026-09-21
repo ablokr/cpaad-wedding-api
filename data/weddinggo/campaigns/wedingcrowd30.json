@@ -1,0 +1,208 @@
+{
+  "idx": 1261,
+  "campaign_id": "wedingcrowd30",
+  "gather_name": "아르비아 구리 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "구리 웨딩박람회 | 아르비아 혜택 및 스드메 최저가 상담 예약",
+    "meta_description": "10월 17일-18일 아르비아웨딩홀에서 열리는 구리 웨딩박람회! 스드메 최저가 보장부터 백화점 상품권 증정, 허니문 최대 150만원 할인 혜택까지. 예비부부를 위한 결혼 준비의 모든 것, 지금 무료 초대권을 신청하세요.",
+    "keywords": [
+      "구리 웨딩박람회",
+      "경기 웨딩박람회",
+      "아르비아웨딩홀",
+      "결혼준비",
+      "스드메 견적",
+      "웨딩박람회 일정",
+      "신혼부부 혜택",
+      "예식장 상담",
+      "혼수 할인",
+      "허니문 박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 한 번에 해결해줄 '아르비아 구리 웨딩박람회'가 10월 17일부터 18일까지 아르비아웨딩홀에서 개최됩니다. 복잡한 스드메 고민부터 허니문, 예물, 혼수까지 예비부부님들이 꿈꾸는 완벽한 결혼식을 위해 최신 트렌드와 파격적인 혜택을 한자리에 모았습니다.",
+    "benefits_description": "이번 박람회에서는 스드메 패키지 최대 110만원 할인과 더불어 방문 고객 전원에게 스타벅스 상품권을 증정하며, 계약 고객에게는 백화점 상품권 및 허니문 최대 150만원 할인이라는 역대급 혜택을 준비했습니다. 웨딩드레스 무료 업그레이드와 더불어 프리미엄 블랙라벨 드레스 추가금 제로 혜택까지, 예산은 낮추고 퀄리티는 높이는 스마트한 결혼 준비를 시작해보세요.",
+    "summary_for_search": "아르비아 구리 웨딩박람회(10/17-18) 개최! 스드메 패키지 최저가 보장, 방문 시 스타벅스 상품권 증정, 계약 시 백화점 상품권 등 풍성한 혜택을 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 지금 등록하고 최대 110만원 즉시 할인받으세요!",
+    "secondary_headline": "아르비아 구리 웨딩박람회: 스드메 최저가 보장 및 100% 증정 선물까지",
+    "urgency_text": "선착순 방문 고객 한정 사은품 증정 및 이번 주말 단 이틀간 진행",
+    "call_to_action_text": "지금 무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 상품권 증정",
+      "청첩장 15% 할인권 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 110만원 혜택",
+      "계약 시 백화점 상품권 2만원 증정",
+      "허니문 최대 150만원 할인",
+      "웨딩드레스 블랙라벨 무료 업그레이드",
+      "예물/예복 계약 시 20% 할인"
+    ],
+    "special_events": [
+      "양가 부모님 건강검진권 제공",
+      "웨딩홀 실시간 식대 할인 상담",
+      "스드메 최저가 보장제 실시"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "구리시",
+      "sigungu_en": "guri",
+      "address": "경기 구리시 건원대로 44 태영빌딩 8-9층",
+      "venue": "아르비아웨딩홀",
+      "parking_info": "현장 방문 시 확인 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "온라인 사전 신청 후 현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "스드메 최저가 보장제 실시",
+      "국내 최대 업체 제휴",
+      "예비부부 맞춤형 1:1 전문 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "아르비아 구리 웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "아르비아웨딩홀",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 구리시",
+          "addressLocality": "구리시",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd30/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장 가능한가요?",
+        "answer": "네, 온라인을 통해 사전 신청하시면 무료로 입장하실 수 있으며 방문 상담 시 다양한 혜택이 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메)을 포함하여 허니문, 예물, 예복, 한복, 혼수 등 결혼 준비의 모든 전문 브랜드가 참여합니다."
+      },
+      {
+        "question": "스드메 비용을 최저가로 할 수 있나요?",
+        "answer": "네, 저희는 스드메 최저가 보장제를 실시하여 합리적인 비용으로 프리미엄 퀄리티의 패키지를 이용하실 수 있도록 지원합니다."
+      },
+      {
+        "question": "계약 혜택은 무엇인가요?",
+        "answer": "계약 시 백화점 상품권 증정, 허니문 할인, 드레스 무료 업그레이드 등 상담 내용에 따라 추가 혜택이 적용됩니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "개인마다 차이가 있으나, 대략 1시간에서 2시간 정도 소요되며 전문가와 1:1 맞춤 상담이 진행됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장, 스튜디오, 드레스, 메이크업 등 무엇부터 시작해야 할지 막막한 예비부부, 스드메 견적 비교에 시간을 할애하기 어려운 직장인 예비부부, 그리고 허니문과 예물까지 합리적인 비용으로 준비하고 싶은 커플을 위한 전문 박람회입니다. 결혼 준비의 전체 흐름을 잡고 전문가의 1:1 맞춤 컨설팅을 통해 시행착오를 줄이고 싶으신 모든 분을 환영합니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "허니문 전문 여행사",
+      "예물 및 명품 주얼리 브랜드",
+      "맞춤 정장 및 예복 전문점",
+      "한복 및 혼수 가전 업체"
+    ],
+    "comparison_hooks": [
+      "타 박람회 대비 스드메 최저가 보장제 실시",
+      "상담만 받아도 백화점 상품권 등 100% 증정",
+      "블랙라벨 드레스 무료 업그레이드 독점 혜택 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 비용 절약법",
+      "결혼식장 대관료 비교",
+      "웨딩 패키지 구성",
+      "허니문 여행지 추천",
+      "예물 예산 세우기",
+      "웨딩플래너 역할",
+      "결혼 준비 체크리스트",
+      "웨딩드레스 종류",
+      "박람회 계약 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울/경기 웨딩박람회 전체 일정",
+        "category": "events_list"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩드레스",
+      "예복",
+      "청첩장"
+    ]
+  },
+  "social_meta": {
+    "og_title": "구리 웨딩박람회 최대 혜택 받고 결혼 준비 끝!",
+    "og_description": "스드메 최저가 보장! 지금 사전 예약하면 스타벅스 상품권과 110만원 할인 혜택을 드립니다.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#구리웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#아르비아웨딩홀",
+      "#신혼부부혜택",
+      "#웨딩플래너",
+      "#결혼준비체크리스트",
+      "#허니문",
+      "#예물"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd30/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_Gl5DVPQzd4dVrVDJMCaGwscouBXaRA.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_x6IiGJ5WbJXecsygRyAn6rg3.jpg"
+  },
+  "updated_at": "2026-09-21 10:01:16",
+  "revenue": 30000
+}
