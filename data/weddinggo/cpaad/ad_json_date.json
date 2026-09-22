@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-09-22T10:00:04Z",
-  "total_ad_count": 127,
+  "last_updated": "2026-09-22T13:00:03Z",
+  "total_ad_count": 128,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_rJHX3L5LK.jpg",
@@ -83,10 +83,10 @@
       "gather_name": "서울 명동 대형 웨딩박람회",
       "ad_info": "신세계백화점 본점에서 열리는 최대규모 웨딩박람회",
       "ad_year": "2026",
-      "ad_date": "10월 17일(토) ~ 10월 18일(일)",
+      "ad_date": "10월 10일(토) ~ 10월 11일(일)",
       "ad_location": "서울 중구 소공로 63||(충무로1가 52-5)||신세계백화점 본점 12층 특별행사장",
-      "start_date": "2026-10-17",
-      "end_date": "2026-10-18"
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11"
     },
     "planon43": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_FXaQY9XIsiuG7.jpg",
@@ -298,6 +298,20 @@
       "start_date": "2026-10-10",
       "end_date": "2026-10-11"
     },
+    "revewedding28": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_HgUrOupUNJmYRp544Cx.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_bZxvJ3qXwJ2F8OwcrnaRhfDGk.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_BrnHC1JYjdMwQs3BX.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/revewedding28/",
+      "region": "capital",
+      "gather_name": "잠실 롯데백화점 웨딩박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 서울 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "10월 10일(토) ~ 10월 11일(일)",
+      "ad_location": "서울 송파구 올림픽로 240||(잠실동 40-1)||롯데백화점 잠실점 10층 LG전자",
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11"
+    },
     "hannawedding01": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_1IKB8czRxKxPoVa985SrCgyW.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_dZfsRuzKEIsd9H9TJ7x2HGI.jpg",
@@ -311,6 +325,20 @@
       "ad_location": "서울 서초구 서초대로52길 12||(서초동 1672-6)||삼성스토어 서초점 2층 혼수관",
       "start_date": "2026-10-24",
       "end_date": "2026-10-24"
+    },
+    "weddex02": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_lxZidQDaK.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_UmT1XsjHrfnNDNiL.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_5NYGcgQBbggwt9VENyP89j6OUbm.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddex02/",
+      "region": "capital",
+      "gather_name": "웨딩박람회 in 코엑스마곡",
+      "ad_info": "결혼준비 AtoZ 스드메부터 혼수와 웨딩홀까지!",
+      "ad_year": "2025",
+      "ad_date": "08월 23일(토) ~ 08월 24일(일)",
+      "ad_location": "서울 강서구 마곡중앙로 143||(마곡동 767)||코엑스 마곡 B2",
+      "start_date": "2023-09-08",
+      "end_date": "2025-08-17"
     },
     "revewedding09": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_tA3S9unHIeyKHqrMLKETE1g3vo1GbQ.jpg",
@@ -1683,20 +1711,6 @@
       "ad_location": "제주특별자치도 제주시 연삼로 38||(연동 300-1)||제주연빌딩",
       "start_date": "2026-10-03",
       "end_date": "2026-10-04"
-    },
-    "weddex02": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_lxZidQDaK.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_UmT1XsjHrfnNDNiL.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_WHSIniZreiO5.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/weddex02/",
-      "region": "jeju",
-      "gather_name": "웨딩박람회 in 코엑스",
-      "ad_info": "결혼준비 AtoZ 스드메부터 혼수와 웨딩홀까지!",
-      "ad_year": "2025",
-      "ad_date": "08월 23일(토) ~ 08월 24일(일)",
-      "ad_location": "서울 강남구 영동대로 513||(삼성동 159)||코엑스 3층 웨딩박람회장",
-      "start_date": "2023-09-08",
-      "end_date": "2025-08-17"
     },
     "laelwedding09": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ljQHMWXbgioMhaC.jpg",
