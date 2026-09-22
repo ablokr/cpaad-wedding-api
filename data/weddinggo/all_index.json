@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 134,
+    "total_count": 138,
     "region_count": 15,
     "district_count": 49,
-    "updated_at": "2026-09-22 13:01:26"
+    "updated_at": "2026-09-22 16:01:42"
   },
   "items": [
     {
@@ -865,6 +865,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1883,
       "campaign_id": "theshirleyweddingH04",
       "gather_name": "의정부 더셜리 허니문페어",
       "display_date": "10월 10일(토) ~ 10월 11일(일)",
@@ -873,7 +874,8 @@
       "sigungu": "의정부시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ukpG9XNGQGHG5QKvB.jpg",
-      "updated_at": "2026-09-16 16:00:53"
+      "updated_at": "2026-09-16 16:00:53",
+      "revenue": 30000
     },
     {
       "idx": 1316,
@@ -1581,13 +1583,13 @@
       "idx": 1273,
       "campaign_id": "weddex02",
       "gather_name": "웨딩박람회 in 코엑스마곡",
-      "display_date": "08월 23일(토) ~ 08월 24일(일)",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
       "venue": "코엑스 마곡 B2",
       "sido": "서울",
       "sigungu": "강서구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_UmT1XsjHrfnNDNiL.jpg",
-      "updated_at": "2026-09-22 13:00:55",
+      "updated_at": "2026-09-22 16:00:22",
       "revenue": 30000
     },
     {
@@ -1745,6 +1747,56 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_bZxvJ3qXwJ2F8OwcrnaRhfDGk.jpg",
       "updated_at": "2026-09-22 13:01:26",
       "revenue": 50000
+    },
+    {
+      "campaign_id": "theshirleyweddingH13",
+      "gather_name": "일산 더셜리 허니문페어",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "현대백화점 (킨텍스점)",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_4P8w13MsmwQWDFSPLcz6M.jpg",
+      "updated_at": "2026-09-22 16:00:52"
+    },
+    {
+      "idx": 1884,
+      "campaign_id": "theshirleyweddingH01",
+      "gather_name": "수원 더셜리 허니문페어",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "LG전자베스트샵 특별전시장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_zL37GgvxeS5ZF3XNy5.jpg",
+      "updated_at": "2026-09-22 16:01:08",
+      "revenue": 30000
+    },
+    {
+      "idx": 1885,
+      "campaign_id": "theshirleywedding13",
+      "gather_name": "일산 더셜리 웨딩페어",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "현대백화점 (킨텍스점)",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_MCIGuVWTT3IAmA2yoWEFbfoJsET9.jpg",
+      "updated_at": "2026-09-22 16:01:27",
+      "revenue": 30000
+    },
+    {
+      "idx": 1281,
+      "campaign_id": "theshirleywedding01",
+      "gather_name": "수원 더셜리 웨딩페어",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "LG전자베스트샵 특별전시장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ARmUL55eR.jpg",
+      "updated_at": "2026-09-22 16:01:42",
+      "revenue": 30000
     }
   ]
 }
