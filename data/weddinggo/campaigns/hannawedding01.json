@@ -1,0 +1,208 @@
+{
+  "idx": 1283,
+  "campaign_id": "hannawedding01",
+  "gather_name": "한나 웨딩박람회",
+  "organizer_name": "한나웨딩",
+  "seo_metadata": {
+    "title": "한나 웨딩박람회 | 서울 서초 삼성스토어 단 하루 특별 혜택",
+    "meta_description": "2026년 10월 24일, 삼성스토어 서초점에서 열리는 한나 웨딩박람회! 스드메 패키지 최대 80만 포인트 혜택과 상담만 받아도 100% 증정하는 선물을 만나보세요. 지금 무료 참가 신청하고 알뜰한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "한나 웨딩박람회",
+      "서울 웨딩박람회",
+      "서초 웨딩박람회",
+      "결혼준비",
+      "스드메 패키지",
+      "삼성스토어 서초점",
+      "웨딩박람회 일정",
+      "신혼부부 혜택",
+      "혼수 가전 할인",
+      "결혼 준비 체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 2026년 10월 24일, 단 하루 동안 삼성스토어 서초점에서 열리는 '한나 웨딩박람회'가 여러분의 완벽한 예식을 도와드립니다. 스드메부터 혼수 가전까지 한자리에서 전문가와 함께 1:1 맞춤 상담을 받아보세요.",
+    "benefits_description": "이번 박람회는 방문만 하셔도 웨딩 다이어리, 텀블러, 크로플 와플기 등 실속 있는 사은품을 100% 증정합니다. 또한, 당일 상담 및 계약 시 최대 80만 포인트의 파격적인 현금 지원 혜택과 함께 허니문 여행권까지 준비되어 있습니다. 20년 전통의 신뢰를 바탕으로 복잡한 결혼 준비를 간소화하고, 합리적인 예산으로 최상의 결과를 만들어 드리는 최고의 기회를 놓치지 마세요.",
+    "summary_for_search": "10월 24일 단 하루, 삼성스토어 서초점에서 열리는 한나 웨딩박람회! 방문객 전원 사은품 증정 및 스드메·혼수 가전 최대 80만 포인트 혜택을 제공합니다. 지금 무료 참가 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메부터 혼수 가전까지, 단 하루 만에 끝내는 결혼 준비!",
+    "secondary_headline": "20년 전통 한나웨딩이 준비한 서울 서초 단독 웨딩 초대전",
+    "urgency_text": "10월 24일(토) 단 하루, 선착순 60커플 한정 초대!",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 웨딩 다이어리 증정",
+      "선착순 텀블러 증정",
+      "16시 이전 방문 시 크로플 와플기 증정"
+    ],
+    "contract_benefits": [
+      "최대 80만 포인트 지원",
+      "스드메 패키지 최대 할인",
+      "레트로 블루투스 스피커 + 백화점 상품권 5만원 증정"
+    ],
+    "special_events": [
+      "삼성 가전 10년 안심 케어",
+      "허니문 특가 지원",
+      "파트너 브랜드 추가 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-24",
+      "display_date": "10월 24일(토) 단 하루!",
+      "original_display_date": "10월 24일(토) 단 하루!"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "서초구",
+      "sigungu_en": "seocho",
+      "address": "서울 서초구 서초대로52길 12",
+      "venue": "삼성스토어 서초점 2층 혼수관",
+      "parking_info": "현장 주차 가능 (교대역 5번 출구 도보 5분)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 시 증정",
+    "trust_indicators": [
+      "20년 경력 웨딩 전문 브랜드",
+      "누적 60쌍 이상 참여 만족도",
+      "삼성스토어 공식 입점 초대전"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "한나 웨딩박람회",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-24",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 서초점 2층 혼수관",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서초대로52길 12",
+          "addressLocality": "서울 서초구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "한나웨딩",
+        "url": "https://ad.cpaad.co.kr/hannawedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 한나 웨딩박람회는 사전 신청 시 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 삼성스토어 서초점에 주차가 가능하며 대중교통 이용 시 교대역 5번 출구에서 도보로 5분 거리입니다."
+      },
+      {
+        "question": "상담 시 사은품을 모두 받을 수 있나요?",
+        "answer": "네, 방문만 하셔도 기본 사은품이 증정되며, 상담 및 계약 조건에 따라 추가 혜택이 제공됩니다."
+      },
+      {
+        "question": "결혼 일정이 확정되지 않아도 상담이 가능한가요?",
+        "answer": "네, 대략적인 일정을 바탕으로 예산 설계와 스케줄 관리 상담을 도와드리고 있습니다."
+      },
+      {
+        "question": "혼수 가전도 상담받을 수 있나요?",
+        "answer": "네, 삼성스토어 서초점에서 진행되므로 가전 전문가와 함께 최신 신혼 가전을 합리적인 가격에 상담받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작한 예비 신부님, 스드메 비용과 구성이 복잡해 고민인 커플, 가전과 예물 등 혼수 준비를 효율적으로 해결하고 싶은 신혼부부님들을 위한 맞춤형 박람회입니다. 결혼 준비의 전체적인 타임라인을 파악하고 싶거나, 전문가의 1:1 컨설팅을 통해 시행착오 없이 완벽한 결혼식을 꿈꾸는 모든 분들에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오·드레스·메이크업) 전문업체",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "삼성 가전 혼수관"
+    ],
+    "comparison_hooks": [
+      "현장 당일 계약 시 최대 80만 포인트 즉시 혜택",
+      "20년 경력의 한나웨딩이 엄선한 검증된 파트너사",
+      "스드메부터 가전까지 한자리에서 해결 가능한 올인원 프로세스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "서울 웨딩박람회 일정",
+      "스드메 패키지 가격",
+      "혼수 가전 할인 혜택",
+      "예식장 계약 팁",
+      "웨딩박람회 상담 후기",
+      "신혼여행 패키지 추천",
+      "결혼식 준비 체크리스트",
+      "스드메 비용 절약법",
+      "삼성스토어 웨딩 마일리지"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 웨딩박람회 전체 일정",
+        "category": "event_calendar"
+      },
+      {
+        "anchor": "합리적인 스드메 패키지 비교",
+        "category": "wedding_services"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "웨딩플래너",
+      "상견례",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "한나 웨딩박람회 | 서울 서초 최대 혼수 혜택",
+    "og_description": "스드메 최대 80만 포인트! 10/24 단 하루, 삼성스토어 서초점 웨딩 초대전 지금 사전 등록하고 선물 챙기세요.",
+    "hashtags": [
+      "#한나웨딩박람회",
+      "#웨딩박람회",
+      "#결혼준비",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#신혼부부",
+      "#혼수준비",
+      "#웨딩플래너",
+      "#예신",
+      "#예랑"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/hannawedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_1IKB8czRxKxPoVa985SrCgyW.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_dZfsRuzKEIsd9H9TJ7x2HGI.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_U42YImwgre6KenzQgDM6yR4wU.jpg"
+  },
+  "updated_at": "2026-09-22 10:01:18",
+  "revenue": 30000
+}
