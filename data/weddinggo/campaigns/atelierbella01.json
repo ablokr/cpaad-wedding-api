@@ -1,0 +1,211 @@
+{
+  "idx": 1865,
+  "campaign_id": "atelierbella01",
+  "gather_name": "제주 아뜰리에벨라 웨딩박람회",
+  "organizer_name": "제이씨커뮤니케이션",
+  "seo_metadata": {
+    "title": "제주 아뜰리에벨라 웨딩박람회 | 스드메·허니문 초특가 혜택",
+    "meta_description": "2026년 10월 3일~4일, 제주 아뜰리에벨라 웨딩박람회 개최! 스드메 초특가, 허니문 최대 60만원 할인, 방문 시 조리기구 세트 증정. 지금 사전예약하고 결혼 준비 비용을 절약하세요.",
+    "keywords": [
+      "제주웨딩박람회",
+      "제주결혼준비",
+      "아뜰리에벨라",
+      "제주스드메",
+      "제주웨딩홀",
+      "신혼여행박람회",
+      "제주예식장",
+      "제주허니문",
+      "웨딩박람회혜택",
+      "제주혼수"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 제주 아뜰리에벨라 웨딩박람회에서 특별한 혜택과 함께 설레는 여정을 시작하세요. 예비 신랑·신부님의 소중한 순간을 위해 스드메부터 신혼여행, 혼수가전까지 한자리에서 비교하고 합리적인 비용으로 준비할 수 있는 최적의 기회를 제공합니다.",
+    "benefits_description": "이번 박람회에서는 방문만 하셔도 독일 조리기구 7종 세트를 전원 증정하며, 계약 시 몽크로스 캐리어 또는 포인트 쇼핑몰 적립금 등 풍성한 사은품을 드립니다. 특히 제주 지역 단독 특가로 진행되는 스드메 패키지와 허니문 최대 60만원 할인 혜택은 오직 이번 박람회에서만 만나보실 수 있습니다. 전문 웨딩 플래너의 1:1 맞춤 상담을 통해 복잡한 결혼 준비를 쉽고 즐겁게 완성해보세요.",
+    "summary_for_search": "2026년 10월 3일-4일, 제주 아뜰리에벨라 웨딩박람회 개최! 스드메·허니문 단독 특가와 푸짐한 방문 사은품을 놓치지 마세요. 지금 바로 상담 신청하고 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "제주 아뜰리에벨라 웨딩박람회, 단 2일간의 혜택!",
+    "secondary_headline": "스드메 특가부터 허니문 최대 60만원 지원까지, 제주 예비부부 필수 코스",
+    "urgency_text": "10월 3일 ~ 4일 딱 이틀간! 선착순 특별 혜택을 확인하세요.",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 독일 조리기구 7종 세트 전원 증정(10만원 상당)",
+      "웨딩 체크리스트 무료 증정",
+      "신라아이파크 면세점 온·오프라인 추가 할인"
+    ],
+    "contract_benefits": [
+      "스드메 초특가 패키지 제공",
+      "허니문 계약 시 최대 60만원 할인",
+      "방문 계약 시 몽크로스 PC 화이트 캐리어 또는 포인트 쇼핑몰 20만원 상당 적립금 택 1"
+    ],
+    "special_events": [
+      "청담동 최상급 브랜드 웨딩드레스 무료 피팅",
+      "제주 웨딩홀 투어 및 대관료 무료 지원 이벤트",
+      "삼성스토어 혼수가전 포인트 혜택 및 추가 마일리지"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "original_display_date": "10월 03일(토) ~ 10월 04일(일)"
+    },
+    "location": {
+      "sido": "제주",
+      "sido_en": "jeju",
+      "sigungu": "제주시",
+      "sigungu_en": "jeju",
+      "address": "제주특별자치도 제주시 연삼로 193",
+      "venue": "아뜰리에벨라",
+      "parking_info": "매장 앞 주차 가능",
+      "region_code": "jeju"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "방문 희망일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 고객에 한함",
+    "trust_indicators": [
+      "제주 지역 최대 규모 웨딩 업체 입점",
+      "타 박람회 대비 허니문 비용 10% 저렴 보장",
+      "전문 웨딩 플래너 1:1 맞춤 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제주 아뜰리에벨라 웨딩박람회",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "location": {
+        "@type": "Place",
+        "name": "아뜰리에벨라",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "연삼로 193",
+          "addressLocality": "제주시",
+          "addressRegion": "제주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이씨커뮤니케이션",
+        "url": "https://ad.cpaad.co.kr/atelierbella01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "네, 사전 예약을 하셔야 현장 혼잡을 피하고 1:1 전문 상담 및 무료 사은품 혜택을 빠짐없이 받으실 수 있습니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 무엇을 상담받나요?",
+        "answer": "스드메 패키지, 웨딩홀 비교, 허니문 일정 및 혼수 가전 등 결혼의 전 과정을 단계별로 전문 플래너가 맞춤 설계해 드립니다."
+      },
+      {
+        "question": "드레스 피팅을 하려면 준비물이 있나요?",
+        "answer": "무료 피팅 이벤트는 박람회 현장에서 바로 가능하며, 보다 정확한 피팅을 위해 간단한 속옷을 착용하시고 오시는 것을 추천드립니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "박람회 현장에서 상담을 완료하시면 현장 데스크에서 즉시 독일 조리기구 7종 세트를 수령하실 수 있습니다."
+      },
+      {
+        "question": "주차 공간은 충분한가요?",
+        "answer": "네, 아뜰리에벨라 전용 주차 공간이 마련되어 있어 자차 이용 시에도 편리하게 방문하실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 모든 예비 신랑·신부님을 위한 행사입니다. 특히 결혼 준비를 시작한 지 6개월 미만인 커플, 스드메 견적 비교에 어려움을 겪는 분, 제주 현지에서 합리적으로 예식을 진행하고자 하는 예비부부에게 적합합니다. 결혼 준비의 전체 로드맵이 궁금하거나, 신혼여행부터 혼수까지 한 번에 전문적인 컨설팅을 받고 싶은 분들에게 최고의 경험을 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 샵 10곳 이상",
+      "스드메 토탈 패키지 업체",
+      "허니문 전문 여행사(제주 팜투어)",
+      "삼성스토어 혼수 가전",
+      "제주 지역 웨딩홀 제휴처"
+    ],
+    "comparison_hooks": [
+      "타 박람회 대비 허니문 비용 평균 10% 저렴한 단독 특가 제공",
+      "청담동 최상급 웨딩 드레스 현장 무료 피팅 기회",
+      "박람회 당일 계약 시 즉시 할인 및 고가 사은품 100% 증정"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "제주 결혼 준비 순서",
+      "제주 웨딩 플래너 추천",
+      "스드메 패키지 가격대",
+      "결혼 박람회 방문 후기",
+      "신혼여행지 추천",
+      "웨딩홀 투어 체크리스트",
+      "제주 혼수 가전 혜택",
+      "웨딩박람회 무료 사은품",
+      "결혼 예산 짜는 법",
+      "제주 예식장 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "제주 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "2026년 스드메 최저가 견적",
+        "category": "studiomakeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "웨딩플래너",
+      "웨딩드레스",
+      "메이크업",
+      "가전제품",
+      "결혼 예산",
+      "허니문 여행사"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제주 웨딩박람회 10/3-4 개최!",
+    "og_description": "스드메·허니문 단독 특가와 무료 사은품 혜택, 지금 사전예약하고 혜택 다 챙기세요!",
+    "hashtags": [
+      "#제주웨딩박람회",
+      "#아뜰리에벨라",
+      "#제주결혼준비",
+      "#제주스드메",
+      "#제주웨딩홀",
+      "#제주신혼여행",
+      "#예비부부",
+      "#결혼준비꿀팁",
+      "#제주웨딩플래너",
+      "#웨딩박람회사은품"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/atelierbella01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_iFntXcBiec.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_3hbXvkToutdLNuapGaN7b9I7IuF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_t5hQLMprjWkJWYbOh58ViDpavpzlbef.jpg"
+  },
+  "updated_at": "2026-09-28 13:04:05",
+  "revenue": 30000
+}

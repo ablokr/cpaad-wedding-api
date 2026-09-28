@@ -1,0 +1,206 @@
+{
+  "idx": 1538,
+  "campaign_id": "wncowedding03",
+  "gather_name": "안성웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "안성웨딩박람회 | 스타필드 안성 결혼 준비 특별전 상담 혜택",
+    "meta_description": "2026년 10월 17일~18일, 스타필드 안성에서 열리는 안성웨딩박람회! 스드메 패키지 최대 할인, 선착순 사은품 증정 및 계약 축하금 혜택을 놓치지 마세요. 지금 무료 참가 신청하세요.",
+    "keywords": [
+      "안성웨딩박람회",
+      "스타필드안성웨딩",
+      "결혼준비",
+      "안성스드메",
+      "안성예식장",
+      "평택웨딩박람회",
+      "신혼부부혜택",
+      "웨딩박람회일정",
+      "결혼준비체크리스트",
+      "안성웨딩홀추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 10월 17일부터 18일까지 스타필드 안성에서 개최되는 안성 최대 규모 웨딩박람회에서 그 해답을 찾으실 수 있습니다.",
+    "benefits_description": "이번 박람회는 예비부부를 위해 실질적이고 파격적인 혜택을 준비했습니다. 방문만 해도 100% 증정되는 웨딩 다이어리와 선착순 사은품은 물론, 상담 체결 시 최대 50만 원 상당의 계약 축하금과 특별 경품 혜택을 제공합니다. 스드메 패키지부터 허니문, 혼수 가전까지 결혼 준비의 모든 과정을 한자리에서 비교하고 합리적인 비용으로 완성해보세요.",
+    "summary_for_search": "2026년 10월 17일~18일, 스타필드 안성에서 개최되는 안성 최대 규모 웨딩박람회. 스드메, 혼수, 예식장 등 결혼 준비를 위한 원스톱 서비스와 파격적인 계약 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "2026 안성 최대 규모, 스타필드 안성 웨딩박람회 개최!",
+    "secondary_headline": "결혼 준비, 헤매지 말고 혜택받고 시작하세요! 상담만 해도 쏟아지는 프리미엄 선물",
+    "urgency_text": "10월 17일~18일 단 이틀간, 선착순 입장객 대상 특별 사은품 증정!",
+    "call_to_action_text": "무료 참가 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "실리만 데일리 토스터기 (선착순 20쌍)",
+      "웨딩 다이어리 (방문객 전원 100% 증정)",
+      "청첩장 할인권"
+    ],
+    "contract_benefits": [
+      "계약 축하금 최대 50만원 지원",
+      "스드메 계약 시 웨딩액자 및 무료 피팅권 증정",
+      "한샘 가전 제휴 최대 할인 혜택",
+      "예물/한복/정장 계약 금액대별 백화점 상품권 증정"
+    ],
+    "special_events": [
+      "웨딩홀 무료 섭외 및 대관료 할인",
+      "웨딩드레스 무료 피팅 체험",
+      "허니문 여행지별 특전 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "안성시",
+      "sigungu_en": "anseong",
+      "address": "경기 안성시 공도읍 서동대로 3930-39 2층",
+      "venue": "스타필드 안성 2층 특별행사장",
+      "parking_info": "스타필드 안성 주차장 무료 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 시 지급됩니다.",
+    "trust_indicators": [
+      "안성 최대 규모 입점 업체",
+      "누적 예비부부 만족도 최우수",
+      "1:1 맞춤형 웨딩 플래닝 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "안성웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "스타필드 안성 2층 특별행사장",
+        "address": "경기 안성시 공도읍 서동대로 3930-39"
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding03/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "방문 상담 비용이 드나요?",
+        "answer": "아니요, 웨딩박람회 방문 및 상담은 100% 무료입니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 스타필드 안성 내 대형 주차장이 완비되어 있어 편리하게 이용 가능합니다."
+      },
+      {
+        "question": "예식 날짜가 안 정해졌는데 참여 가능한가요?",
+        "answer": "물론입니다. 전문가와 함께 대략적인 예산과 일정을 상담받으실 수 있습니다."
+      },
+      {
+        "question": "박람회 신청은 어떻게 하나요?",
+        "answer": "상단 신청 폼에 이름, 연락처, 결혼 예정일을 기재하고 제출하시면 완료됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "드레스, 메이크업, 웨딩홀, 예물, 한복, 정장, 허니문, 혼수 가전 등 결혼의 모든 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "2026년 결혼을 앞두고 막막함을 느끼는 예비 신랑 신부님, 결혼 준비를 합리적인 비용으로 효율적으로 끝내고 싶은 커플들을 위해 기획되었습니다. 결혼식 장소 선정부터 스드메 패키지 비교, 혼수 가전 구매까지 한 곳에서 해결하고 싶으신 분들에게 최적화된 정보를 제공합니다. 전문가의 1:1 상담을 통해 나만의 웨딩 콘셉트를 잡고, 다양한 박람회 전용 할인 혜택을 통해 알뜰한 결혼 준비를 도와드립니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 샵",
+      "스드메 토탈 패키지",
+      "프리미엄 예물 및 예복 브랜드",
+      "허니문 전문 여행사",
+      "혼수 가전(한샘 등) 및 가구",
+      "웨딩홀 섭외처"
+    ],
+    "comparison_hooks": [
+      "일반 매장 대비 압도적인 패키지 가격 혜택",
+      "박람회 당일 계약 시 즉시 할인 및 현금 지원",
+      "업계 전문가의 1:1 맞춤형 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "결혼 준비 순서",
+      "스드메 뜻",
+      "웨딩박람회 방문 팁",
+      "안성 웨딩홀 가격",
+      "신혼여행지 추천",
+      "웨딩 드레스 피팅 예약",
+      "결혼 예물 고르는 법",
+      "한복 대여 가격",
+      "신혼 가전 혼수 준비",
+      "박람회 웨딩 패키지 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "안성 웨딩박람회 전체 일정 확인",
+        "category": "wedding_fair_list"
+      },
+      {
+        "anchor": "스드메 패키지 견적 비교",
+        "category": "wedding_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "본식스냅",
+      "신혼여행",
+      "예복",
+      "청첩장",
+      "결혼준비비용",
+      "예물반지"
+    ]
+  },
+  "social_meta": {
+    "og_title": "안성웨딩박람회, 결혼 준비 혜택 받고 시작하세요!",
+    "og_description": "상담만 해도 100% 선물 증정! 2026 안성 최대 웨딩 박람회 사전 등록하고 혜택 챙기세요.",
+    "hashtags": [
+      "#안성웨딩박람회",
+      "#결혼준비",
+      "#웨딩박람회",
+      "#스타필드안성",
+      "#스드메",
+      "#신혼부부",
+      "#예비부부",
+      "#웨딩홀",
+      "#결혼준비시작",
+      "#안성결혼"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding03/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_jZ5Xv3cCeNgFCM2mj5OT5A.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_olYTpJ3fpm57OCb2zuNxDL4.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_RrU6COkmzqRjaxP6FUjV.jpg"
+  },
+  "updated_at": "2026-09-28 13:00:42",
+  "revenue": 30000
+}
