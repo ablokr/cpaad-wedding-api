@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 135,
+    "total_count": 141,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-09-28 13:04:05"
+    "updated_at": "2026-09-28 16:02:12"
   },
   "items": [
     {
@@ -1734,6 +1734,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1717,
       "campaign_id": "banhana13",
       "gather_name": "제주 제이유 웨딩박람회",
       "display_date": "10월 17일(토) ~ 10월 18일(일)",
@@ -1742,7 +1743,8 @@
       "sigungu": "제주시",
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
-      "updated_at": "2026-09-28 13:03:49"
+      "updated_at": "2026-09-28 13:03:49",
+      "revenue": 50000
     },
     {
       "idx": 1865,
@@ -1755,6 +1757,82 @@
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_3hbXvkToutdLNuapGaN7b9I7IuF.jpg",
       "updated_at": "2026-09-28 13:04:05",
+      "revenue": 30000
+    },
+    {
+      "idx": 1212,
+      "campaign_id": "knockWed04",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "display_date": "10월 03일(토) ~ 10월 04일(일)",
+      "venue": "광주 유스퀘어 문화관",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_McvEQrkPvQmBDskQ.jpg",
+      "updated_at": "2026-09-28 16:00:38",
+      "revenue": 50000
+    },
+    {
+      "idx": 1077,
+      "campaign_id": "wedingcrowd07",
+      "gather_name": "원주 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "삼성스토어 원주점 특별행사장",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_tkIQ1cOl4tVe.jpg",
+      "updated_at": "2026-09-28 16:00:58",
+      "revenue": 30000
+    },
+    {
+      "idx": 1684,
+      "campaign_id": "wedingcrowd95",
+      "gather_name": "수원 스타필드 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "삼성스토어 스타필드 수원",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_CfsoJBkByGKga.jpg",
+      "updated_at": "2026-09-28 16:01:17",
+      "revenue": 30000
+    },
+    {
+      "idx": 1330,
+      "campaign_id": "familywedding11",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "청주오스코 특별행사장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_pqQUzBW5XHk1da7ztVDhCx4.jpg",
+      "updated_at": "2026-09-28 16:01:38",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd77",
+      "gather_name": "의정부 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "삼성스토어 신세계 의정부점 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_7iC2PUaIIOKVYJTXfPKalLS7D8GQy8g.jpg",
+      "updated_at": "2026-09-28 16:01:55"
+    },
+    {
+      "idx": 1725,
+      "campaign_id": "laelwedding10",
+      "gather_name": "제주 한라컨벤션 웨딩박람회",
+      "display_date": "10월 31일(토) ~ 11월 01일(일)",
+      "venue": "제주한라대학교 한라컨벤션센터",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_h9K1s9nO8AOqMMjtw4pxZ2mhu.jpg",
+      "updated_at": "2026-09-28 16:02:12",
       "revenue": 30000
     }
   ]
