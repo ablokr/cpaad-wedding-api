@@ -1,0 +1,211 @@
+{
+  "idx": 1684,
+  "campaign_id": "wedingcrowd95",
+  "gather_name": "수원 스타필드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "수원 스타필드 웨딩박람회 | 스드메 혼수 상담 시 혜택 가득",
+    "meta_description": "수원 스타필드 웨딩박람회에서 합리적인 결혼 준비를 시작하세요. 스드메, 혼수, 예물 등 최신 트렌드를 한자리에서 확인하고 방문 및 계약 혜택까지 모두 챙기실 수 있습니다.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "스타필드 수원 박람회",
+      "결혼 준비",
+      "수원 스드메",
+      "수원 웨딩홀",
+      "혼수 준비",
+      "예물 예복",
+      "결혼 박람회 추천",
+      "웨딩 패키지",
+      "신혼여행 상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞두고 막막한 준비 과정에 고민이 많으신 예비부부님들을 위해 수원 스타필드 웨딩박람회가 개최됩니다. 이번 박람회는 최신 웨딩 트렌드와 함께 실속 있는 혜택을 한자리에서 비교해 볼 수 있는 좋은 기회입니다.",
+    "benefits_description": "방문만 하셔도 스타벅스 쿠폰과 청첩장 할인권 등 다양한 사은품을 받아보실 수 있습니다. 또한 스드메 상담 및 혼수 계약 시 현장 축하금 지원과 가전 구매 혜택이 더해져 더욱 경제적인 예식 준비가 가능합니다. 현장 추첨을 통한 대형 경품 이벤트도 준비되어 있으니 놓치지 마세요.",
+    "summary_for_search": "10월 10일~11일, 삼성스토어 스타필드 수원에서 열리는 수원 웨딩박람회입니다. 스드메, 예물, 혼수 가전까지 상담받고 다양한 방문/계약 혜택을 확인해 보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "수원 스타필드 웨딩박람회, 지금 무료 참가 신청하세요!",
+    "secondary_headline": "스드메부터 혼수까지, 결혼 준비의 모든 것을 한자리에서 비교하고 혜택까지 받아보세요.",
+    "urgency_text": "선착순 방문객 사은품 증정 및 현장 특별 할인 혜택 제공",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "스타벅스 기프트카드",
+      "청첩장 15% 할인권",
+      "웨딩다이어리"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 특별 사은품 증정",
+      "혼수 상담 시 가전 구매 혜택",
+      "예물/예복 계약 시 할인 및 증정 혜택",
+      "신혼여행 조기 예약 할인"
+    ],
+    "special_events": [
+      "방문객 대상 캐스퍼 자동차 경품 추첨",
+      "매주 진행되는 다양한 경품 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-10",
+      "end_date": "2026-10-11",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "original_display_date": "10월 10일(토) ~ 10월 11일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 장안구 수성로 175 스타필드 수원 5층",
+      "venue": "삼성스토어 스타필드 수원",
+      "parking_info": "스타필드 수원 주차장 이용 가능 (상세 내용은 공식 안내 참고)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "신혼집 입주 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 계약 체결 시 제공되는 혜택이 상이하므로 안내 데스크에서 확인 바랍니다.",
+    "trust_indicators": [
+      "수원 지역 최신 웨딩 트렌드 공유",
+      "검증된 전문 웨딩업체 대거 참여",
+      "1:1 맞춤형 웨딩 플래닝 서비스 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 스타필드 웨딩박람회",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-11",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 스타필드 수원",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "수원시 장안구 수성로 175 5층",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd95/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 참가 비용은 얼마인가요?",
+        "answer": "해당 웨딩박람회는 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "주차는 어디에 하나요?",
+        "answer": "삼성스토어 스타필드 수원 건물 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "박람회 방문 시 혜택은 무엇인가요?",
+        "answer": "방문객 전원에게 제공되는 사은품과 상담/계약 시 제공되는 추가 할인 및 경품 혜택이 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업(스드메)을 비롯하여 예물, 예복, 혼수 가전, 허니문 업체들이 참여합니다."
+      },
+      {
+        "question": "사전 등록은 꼭 해야 하나요?",
+        "answer": "원활한 상담 예약과 방문 사은품 수령을 위해 사전 등록을 권장해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 막막함을 느끼는 예비부부, 스드메 패키지 비용 비교를 원하는 커플, 합리적인 혼수 가전 구매를 고려하는 신혼부부에게 최적화되어 있습니다. 결혼 준비의 순서와 필수 체크리스트를 확인하고 전문가의 1:1 컨설팅을 통해 시간과 비용을 절약하고자 하는 분들에게 실질적인 도움을 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 및 드레스샵",
+      "메이크업 전문 업체",
+      "혼수 가전 브랜드",
+      "예물 및 예복 브랜드",
+      "허니문 여행사",
+      "웨딩홀 상담 부스"
+    ],
+    "comparison_hooks": [
+      "현장에서 즉시 확인하는 스드메 패키지 최저가 비교",
+      "삼성스토어와 연계된 혼수 가전 파격 혜택",
+      "전문 웨딩 플래너의 1:1 맞춤형 무료 컨설팅 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼식 비용 절약 팁",
+      "수원 웨딩홀 추천",
+      "스드메 업체 비교",
+      "혼수 가전 저렴하게 사는 법",
+      "신혼여행 예약 시기",
+      "웨딩박람회 예약 방법",
+      "결혼 준비 체크리스트",
+      "예물 예복 트렌드",
+      "수원 결혼 박람회 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 정보 확인",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "최신 스드메 패키지 보기",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "신혼여행",
+      "예복",
+      "예물",
+      "웨딩 컨설팅",
+      "결혼 예산",
+      "부케",
+      "신혼가전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 스타필드 웨딩박람회 혜택 안내",
+    "og_description": "10월 10일~11일 수원 스타필드에서 열리는 웨딩박람회! 스드메, 혼수 혜택을 놓치지 마세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#스타필드수원",
+      "#결혼준비",
+      "#예비부부",
+      "#스드메",
+      "#혼수",
+      "#수원웨딩",
+      "#웨딩박람회",
+      "#신혼여행",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd95/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ijlyQvBadH7X4tyW.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_CfsoJBkByGKga.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_qshdtJ7fm.jpg"
+  },
+  "updated_at": "2026-09-28 19:32:20",
+  "revenue": 30000
+}
