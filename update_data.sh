@@ -39,9 +39,9 @@ fi
 # 3. 메인 소스 코드 최신화
 if [ "$SKIP_GIT_PULL" != "true" ]; then
     echo "[*] 소스 코드 최신 버전 가져오는 중 (main)..."
-    # 실행 권한 변경 등으로 인한 미세 충돌 무시를 위해 강제 전환
-    git checkout -f main
-    git pull origin main || echo "[!] git 데이터 수집을 계속 진행합니다."
+    # 로컬 수정 사항을 버리지 않습니다. 업데이트 실패 시 오래된 코드로 배포하지 않습니다.
+    git checkout main
+    git pull --ff-only origin main
 else
     echo "[*] SKIP_GIT_PULL=true 설정으로 git 업데이트를 건너뜁니다."
 fi

@@ -13,4 +13,9 @@ class WeddingApiLoader:
         async with httpx.AsyncClient(timeout=config.get("api", "timeout", 30.0)) as http_client:
             response = await http_client.get(api_url)
             response.raise_for_status()
-            return response.json()
+            payload = response.json()
+            if not isinstance(payload, dict) or not isinstance(payload.get("advertisements"), dict):
+                raise ValueError("API 응답의 advertisements 형식이 올바르지 않습니다")
+            if not payload["advertisements"]:
+                raise ValueError("API 응답에 캠페인이 없습니다. 기존 데이터 삭제를 막기 위해 중단합니다")
+            return payload

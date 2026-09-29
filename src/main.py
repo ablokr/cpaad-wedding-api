@@ -158,7 +158,14 @@ async def main_optimized():
         preprocessed_full = copy.deepcopy(full_response)
         new_ads_dict = preprocessed_full.get("advertisements", {})
         for cid, ad_data in new_ads_dict.items():
-            preprocessed_result = preprocessor.preprocess(ad_data)
+            if not isinstance(ad_data, dict):
+                print(f"[!] [{cid}] 잘못된 API 캠페인 형식. 전처리를 건너뜁니다.")
+                continue
+            try:
+                preprocessed_result = preprocessor.preprocess(ad_data)
+            except Exception as e:
+                print(f"[!] [{cid}] 전처리 실패. 다른 캠페인은 계속 처리합니다: {e}")
+                continue
             
             # 기존 응답과 중복되는 정보 제거 로직
             filtered_preprocessed = {}
@@ -202,6 +209,9 @@ async def main_optimized():
         skip_count = 0
 
         for cid, new_data in new_ads_dict.items():
+            if not isinstance(new_data, dict) or not new_data.get("ad_url"):
+                print(f"[!] [{cid}] 필수 API 정보가 없어 건너뜁니다.")
+                continue
             is_file_exists = storage.is_campaign_exists(cid)
             cached_data = cached_ads_dict.get(cid)
 
@@ -225,6 +235,35 @@ async def main_optimized():
                         ad_copy["campaign_id"] = cid
                         target_ads.append(ad_copy)
                     else:
+                        # 기존 결과의 잘못된 날짜는 AI 재분석 없이 원본 날짜로 복구합니다.
+                        campaign_path = os.path.join(base_data_dir, "campaigns", f"{cid}.json")
+                        existing = storage.read_json(campaign_path)
+                        event = existing.get("event_details", {}).get("event")
+                        if not isinstance(event, dict):
+                            ad_copy = copy.deepcopy(new_data)
+                            ad_copy["campaign_id"] = cid
+                            target_ads.append(ad_copy)
+                            print(f"[!] [{cid}] 저장된 캠페인 구조 오류. 재처리 대상으로 추가합니다.")
+                            continue
+                        try:
+                            dates = preprocessor.parse_dates(new_data.get("ad_date", ""), new_data)
+                            if (dates["start_date"] or dates["end_date"]) and (
+                                event.get("start_date") != dates["start_date"]
+                                or event.get("end_date") != dates["end_date"]
+                            ):
+                                event.update({k: dates[k] for k in ("start_date", "end_date", "display_date")})
+                                event["original_display_date"] = new_data.get("ad_date", "")
+                                schema = existing.get("structured_data", {}).get("event_schema")
+                                if isinstance(schema, dict):
+                                    for key, source in (("startDate", "start_date"), ("endDate", "end_date")):
+                                        if dates[source]:
+                                            schema[key] = dates[source]
+                                        else:
+                                            schema.pop(key, None)
+                                storage.save_final_results(existing)
+                                print(f"[✔] [{cid}] 저장된 날짜 복구: {dates['start_date']}~{dates['end_date']}")
+                        except Exception as e:
+                            print(f"[!] [{cid}] 저장된 날짜 복구 실패: {e}")
                         skip_count += 1
 
         if skip_count > 0:
@@ -253,6 +292,7 @@ async def main_optimized():
     except Exception as e:
         print(f"[✘] 메인 로직 오류: {e}")
         traceback.print_exc()
+        raise
     finally:
         if "collector" in locals():
             await collector.stop()

@@ -458,7 +458,9 @@ class WeddingDataProcessor:
         dates_pre = preprocessed["dates"]
 
         # 구조화 데이터 — Schema.org JSON-LD + FAQ 리치 스니펫 (AI 생성)
-        structured_data = ai_data.get("structured_data", {})
+        structured_data = ai_data.get("structured_data") or {}
+        if not isinstance(structured_data, dict):
+            structured_data = {}
         
         # [추가] event_schema 내부에 organizer 정보 및 날짜(startDate, endDate) 강제 동기화
         if "event_schema" in structured_data and isinstance(structured_data["event_schema"], dict):
@@ -469,10 +471,11 @@ class WeddingDataProcessor:
                     "name": organizer_name,
                     "url": api_basic_data.get("ad_url", "")
                 }
-            if dates_pre.get("start_date"):
-                schema_obj["startDate"] = dates_pre["start_date"]
-            if dates_pre.get("end_date"):
-                schema_obj["endDate"] = dates_pre["end_date"]
+            for field, source in (("startDate", "start_date"), ("endDate", "end_date")):
+                if dates_pre.get(source):
+                    schema_obj[field] = dates_pre[source]
+                else:
+                    schema_obj.pop(field, None)
 
         result = {
             "campaign_id": campaign_id,
@@ -534,7 +537,5 @@ class WeddingDataProcessor:
                 "thumbnail2": api_basic_data.get("ad_thumbnail2"),
             },
         }
-
-        return result
 
         return result

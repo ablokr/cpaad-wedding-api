@@ -10,7 +10,7 @@
 import re
 import json
 import os
-from datetime import datetime
+from datetime import date
 
 
 class DataPreprocessor:
@@ -211,58 +211,61 @@ class DataPreprocessor:
 
     def parse_dates(self, date_str: str, api_data: dict = None) -> dict:
         """
-        API에서 제공하는 start_date, end_date를 우선 사용합니다.
-        제공되지 않을 경우에만 date_str에서 간단히 추출을 시도합니다.
+        유효한 API 날짜를 우선 사용하고, 누락/무효 날짜만 표시 문구에서 복원합니다.
         """
         api_data = api_data or {}
-        api_start = api_data.get("start_date")
-        api_end = api_data.get("end_date")
+        def valid_iso(value):
+            if not isinstance(value, str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", value):
+                return None
+            try:
+                return date.fromisoformat(value).isoformat()
+            except ValueError:
+                return None
 
-        # 1. API에서 제공하는 날짜가 있다면 최우선 적용
-        if api_start and api_end:
-            return {
-                "start_date": api_start,
-                "end_date": api_end,
-                "display_date": date_str or "",
-            }
-
-        # 2. API 누락 시 폴백 (기존의 유연한 파싱 로직 유지)
-        result = {
-            "start_date": api_start,
-            "end_date": api_end,
-            "display_date": date_str or "",
-        }
-        if not date_str or "매주" in date_str:
+        start = valid_iso(api_data.get("start_date"))
+        end = valid_iso(api_data.get("end_date"))
+        result = {"start_date": start, "end_date": end, "display_date": date_str or ""}
+        if start and end:
             return result
 
-        clean_str = re.sub(r"\([월화수목금토일]\)", "", date_str)
-        clean_str = re.sub(r"\d{4}사전예약\w*", "", clean_str)
+        # 연도 없는 표시 날짜에는 광고 이미지의 업로드 월(YYYYMM)을 사용합니다.
+        # 연도 0000과 날짜 0000-00-00은 외부 API의 미설정값입니다.
+        year = None
+        ad_year = str(api_data.get("ad_year") or "")
+        if re.fullmatch(r"[1-9]\d{3}", ad_year):
+            year = int(ad_year)
+        if year is None and (start or end):
+            year = date.fromisoformat(start or end).year
+        if year is None:
+            visual = str(api_data.get("ad_mainvisual") or "")
+            match = re.search(r"/(20\d{2})(0[1-9]|1[0-2])(?:/|\b)", visual)
+            if match:
+                year = int(match.group(1))
+        if year is None:
+            year = (date.fromisoformat(start or end).year if start or end else date.today().year)
 
-        date_patterns = [
-            r"(\d{1,2})월\s*(\d{1,2})일",
-            r"(\d{1,2})[./](\d{1,2})",
-        ]
-
-        found_dates = []
-        ad_year = api_data.get("ad_year", "2026")
-        year = int(ad_year) if ad_year and ad_year.isdigit() else 2026
-
-        for pattern in date_patterns:
-            matches = re.findall(pattern, clean_str)
-            for m in matches:
-                try:
-                    month, day = int(m[0]), int(m[1])
-                    dt = datetime(year, month, day)
-                    found_dates.append(dt.strftime("%Y-%m-%d"))
-                except:
-                    continue
-
-        if found_dates:
-            unique_dates = sorted(list(set(found_dates)))
-            if not result["start_date"]: result["start_date"] = unique_dates[0]
-            if not result["end_date"]:
-                result["end_date"] = unique_dates[-1] if len(unique_dates) >= 2 else unique_dates[0]
-
+        text = date_str if isinstance(date_str, str) else ""
+        matches = list(re.finditer(
+            r"(?:(\d{4})\s*[년./-]\s*)?(\d{1,2})\s*(?:월|[./-])\s*(\d{1,2})\s*일?",
+            text,
+        ))
+        parsed = []
+        for match in matches[:2]:
+            try:
+                parsed.append(date(int(match.group(1) or year), int(match.group(2)), int(match.group(3))))
+            except ValueError:
+                parsed.append(None)
+        if len(parsed) == 2 and parsed[0] and parsed[1] and parsed[1] < parsed[0] and not matches[1].group(1):
+            try:
+                parsed[1] = parsed[1].replace(year=parsed[1].year + 1)
+            except ValueError:
+                parsed[1] = None
+        if not start and parsed and parsed[0]:
+            result["start_date"] = parsed[0].isoformat()
+        if not end:
+            candidate = parsed[1] if len(parsed) > 1 else (parsed[0] if parsed else None)
+            if candidate:
+                result["end_date"] = candidate.isoformat()
         return result
 
     # ==========================================
