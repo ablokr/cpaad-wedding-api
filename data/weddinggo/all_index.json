@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 154,
+    "total_count": 156,
     "region_count": 16,
-    "district_count": 51,
-    "updated_at": "2026-09-29 16:00:23"
+    "district_count": 52,
+    "updated_at": "2026-09-29 19:00:59"
   },
   "items": [
     {
@@ -1981,6 +1981,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1186,
       "campaign_id": "withyouwedding09",
       "gather_name": "춘천 위드유 웨딩박람회",
       "display_date": "10월 24일(토) ~ 10월 25일(일)",
@@ -1989,7 +1990,8 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_mWxmh4gspl1u9fmYh3v31vVBCxawBUf.jpg",
-      "updated_at": "2026-09-29 10:02:08"
+      "updated_at": "2026-09-29 10:02:08",
+      "revenue": 30000
     },
     {
       "idx": 1354,
@@ -2002,6 +2004,32 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_nAmq63xJcH1zp.jpg",
       "updated_at": "2026-09-29 10:02:27",
+      "revenue": 30000
+    },
+    {
+      "idx": 1604,
+      "campaign_id": "weddingplus12",
+      "gather_name": "웨딩더하기 영등포웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "신세계 타임스퀘어점 3층 LG전자베스트샵",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_DTvW7cVsLjWoctiywSfq994BVG.jpg",
+      "updated_at": "2026-09-29 19:00:36",
+      "revenue": 40000
+    },
+    {
+      "idx": 1301,
+      "campaign_id": "wedingcrowd37",
+      "gather_name": "현대백화점 판교점 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "현대백화점 판교점 7층 특별전시장",
+      "sido": "경기",
+      "sigungu": "성남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202310/42635e34d702a842a5408bf099b3a49d_axxPd2uWDCItG9tP5X7KM.jpg",
+      "updated_at": "2026-09-29 19:00:59",
       "revenue": 30000
     }
   ]
