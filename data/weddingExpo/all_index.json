@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 148,
+    "total_count": 150,
     "region_count": 16,
-    "district_count": 50,
-    "updated_at": "2026-09-29 13:33:23"
+    "district_count": 51,
+    "updated_at": "2026-09-29 19:31:15"
   },
   "items": [
     {
@@ -1114,7 +1114,7 @@
       "sigungu": "구리시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
-      "updated_at": "2026-09-29 13:31:11",
+      "updated_at": "2026-09-29 19:31:15",
       "revenue": 30000
     },
     {
@@ -1909,6 +1909,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1186,
       "campaign_id": "withyouwedding09",
       "gather_name": "춘천 위드유 웨딩박람회",
       "display_date": "10월 24일(토) ~ 10월 25일(일)",
@@ -1917,7 +1918,8 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_mWxmh4gspl1u9fmYh3v31vVBCxawBUf.jpg",
-      "updated_at": "2026-09-29 13:32:48"
+      "updated_at": "2026-09-29 13:32:48",
+      "revenue": 30000
     },
     {
       "idx": 1354,
@@ -1930,6 +1932,32 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_nAmq63xJcH1zp.jpg",
       "updated_at": "2026-09-29 13:33:23",
+      "revenue": 30000
+    },
+    {
+      "idx": 1604,
+      "campaign_id": "weddingplus12",
+      "gather_name": "웨딩더하기 영등포웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "신세계 타임스퀘어점 3층 LG전자베스트샵",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_DTvW7cVsLjWoctiywSfq994BVG.jpg",
+      "updated_at": "2026-09-29 19:30:21",
+      "revenue": 40000
+    },
+    {
+      "idx": 1301,
+      "campaign_id": "wedingcrowd37",
+      "gather_name": "현대백화점 판교점 웨딩박람회",
+      "display_date": "10월 10일(토) ~ 10월 11일(일)",
+      "venue": "현대백화점 판교점 7층 특별전시장",
+      "sido": "경기",
+      "sigungu": "성남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202310/42635e34d702a842a5408bf099b3a49d_axxPd2uWDCItG9tP5X7KM.jpg",
+      "updated_at": "2026-09-29 19:30:55",
       "revenue": 30000
     }
   ]
