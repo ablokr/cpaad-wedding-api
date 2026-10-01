@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-10-01T16:00:03Z",
-  "total_ad_count": 163,
+  "last_updated": "2026-10-01T19:00:03Z",
+  "total_ad_count": 164,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_rJHX3L5LK.jpg",
@@ -102,20 +102,6 @@
       "start_date": "2026-10-10",
       "end_date": "2026-10-11"
     },
-    "wedingcrowd32": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_CTZYrxxnazrfvKIvtN.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_wDJZziMFEEOI57vIYVOQgPG.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_wF5v9hgzZR38aJzGuNW47Lg2XG4.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd32/",
-      "region": "capital",
-      "gather_name": "DDP 초대형 웨딩박람회",
-      "ad_info": "현대백화점 신촌점에서 열리는 서울 최대규모 웨딩박람회",
-      "ad_year": "2025",
-      "ad_date": "11월 07일(토) ~ 11월 08일(일)",
-      "ad_location": "서울 중구 을지로 281||(신당동 853)||동대문디자인플라자 이간수문전시장",
-      "start_date": "2023-09-27",
-      "end_date": "2025-02-09"
-    },
     "wedingcrowd90": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_Tzl9aBGtpyXVbEAziRsCcAJRRRw.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_FyPvl8tm63dMX29wL.jpg",
@@ -129,6 +115,20 @@
       "ad_location": "서울 동대문구 왕산로 214||(전농동 588-1)||롯데백화점 청량리점 7층 특별행사장",
       "start_date": "2026-10-17",
       "end_date": "2026-10-18"
+    },
+    "wedingcrowd32": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_CTZYrxxnazrfvKIvtN.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_wDJZziMFEEOI57vIYVOQgPG.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_wF5v9hgzZR38aJzGuNW47Lg2XG4.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd32/",
+      "region": "capital",
+      "gather_name": "DDP 초대형 웨딩박람회",
+      "ad_info": "현대백화점 신촌점에서 열리는 서울 최대규모 웨딩박람회",
+      "ad_year": "2025",
+      "ad_date": "11월 07일(토) ~ 11월 08일(일)",
+      "ad_location": "서울 중구 을지로 281||(신당동 853)||동대문디자인플라자 이간수문전시장",
+      "start_date": "2023-09-27",
+      "end_date": "2025-02-09"
     },
     "wedingcrowd108": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_tkjLyuYzHLaW2GseMFgBOy72b83DhoDE.jpg",
@@ -424,20 +424,6 @@
       "start_date": "2026-10-10",
       "end_date": "2026-10-11"
     },
-    "wedingcrowd33": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_De6lOZLHyqZcdrKdWB63h6HcYXaoLh.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_DAGrlTSL.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202310/42635e34d702a842a5408bf099b3a49d_afzaKdIk.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd33/",
-      "region": "gyeonggi",
-      "gather_name": "수원 컨벤션 초대형 웨딩박람회",
-      "ad_info": " 수원 컨벤션센터에서 열리는 최대규모 웨딩박람회",
-      "ad_year": "2026",
-      "ad_date": "10월 03일(토) ~ 10월 04일(일)",
-      "ad_location": "경기 수원시 영통구 광교중앙로 140||(하동 855-2)||수원컨벤션센터 1층 전시관",
-      "start_date": "2026-10-03",
-      "end_date": "2026-10-04"
-    },
     "wedingcrowd40": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_4OwStfW9raBZWwM.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202405/2337ea9ac0ebeb271ae4fe609b8d7149_OlwDijMUO9ef4Ieo3WWPfry.jpg",
@@ -449,6 +435,20 @@
       "ad_year": "2026",
       "ad_date": "10월 03일(토) ~ 10월 04일(일)",
       "ad_location": "경기 수원시 권선구 세화로134번길 37||(서둔동 296-124)||수원메쎄 특별행사장",
+      "start_date": "2026-10-03",
+      "end_date": "2026-10-04"
+    },
+    "wedingcrowd33": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_De6lOZLHyqZcdrKdWB63h6HcYXaoLh.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_DAGrlTSL.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202310/42635e34d702a842a5408bf099b3a49d_afzaKdIk.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/wedingcrowd33/",
+      "region": "gyeonggi",
+      "gather_name": "수원 컨벤션 초대형 웨딩박람회",
+      "ad_info": " 수원 컨벤션센터에서 열리는 최대규모 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "10월 03일(토) ~ 10월 04일(일)",
+      "ad_location": "경기 수원시 영통구 광교중앙로 140||(하동 855-2)||수원컨벤션센터 1층 전시관",
       "start_date": "2026-10-03",
       "end_date": "2026-10-04"
     },
@@ -619,6 +619,20 @@
       "ad_location": "경기 안양시 동안구 시민대로 180||(호계동 1039)||롯데백화점 평촌점 7층 특별행사장",
       "start_date": "2026-10-03",
       "end_date": "2026-10-04"
+    },
+    "weddingplus14": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_BwZqnsopdyGMd.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_KMpQijPcHv.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_vwqJxiJbvY9sZlGzhf.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/weddingplus14/",
+      "region": "gyeonggi",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "ad_info": "결혼 준비의 첫걸음! 기획구성으로 특별한 가격!",
+      "ad_year": "2026",
+      "ad_date": "10월 17일(토) ~ 10월 18일(일)",
+      "ad_location": "경기 안양시 동안구 시민대로 180 7층||(호계동 1039)||LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18"
     },
     "wedingcrowd95": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_ijlyQvBadH7X4tyW.jpg",
