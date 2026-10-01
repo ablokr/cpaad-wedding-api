@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 157,
+    "total_count": 164,
     "region_count": 16,
     "district_count": 52,
-    "updated_at": "2026-10-01 13:30:18"
+    "updated_at": "2026-10-01 19:33:15"
   },
   "items": [
     {
@@ -1867,7 +1867,7 @@
       "sigungu": "광진구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_En6InxJjfMeRfYnzIuphwImy.jpg",
-      "updated_at": "2026-09-29 23:59:35"
+      "updated_at": "2026-10-01 19:32:41"
     },
     {
       "idx": 1648,
@@ -1970,7 +1970,7 @@
       "sigungu": "부천시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_aFpa5QrxVQh6Q46BcYkBm6xCb1LRCE.jpg",
-      "updated_at": "2026-09-30 13:30:21",
+      "updated_at": "2026-10-01 19:31:53",
       "revenue": 50000
     },
     {
@@ -2049,6 +2049,97 @@
       "region_en": "gwangju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_balwSLwoAVVInICM1YcS7wqP.jpg",
       "updated_at": "2026-10-01 13:30:18",
+      "revenue": 50000
+    },
+    {
+      "idx": 1755,
+      "campaign_id": "wedingcrowd103",
+      "gather_name": "서울 영등포 대형 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "삼성스토어 신세계타임스퀘어",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_FJKUIber.jpg",
+      "updated_at": "2026-10-01 19:30:21",
+      "revenue": 30000
+    },
+    {
+      "idx": 1075,
+      "campaign_id": "wedingcrowd06",
+      "gather_name": "고양 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "스타필드 고양 삼성스토어 특별행사장",
+      "sido": "경기",
+      "sigungu": "고양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_8YXF1RgXoyslpE.jpg",
+      "updated_at": "2026-10-01 19:30:47",
+      "revenue": 30000
+    },
+    {
+      "idx": 1681,
+      "campaign_id": "weddingplus14",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_KMpQijPcHv.jpg",
+      "updated_at": "2026-10-01 19:31:06",
+      "revenue": 40000
+    },
+    {
+      "idx": 1404,
+      "campaign_id": "wedingcrowd51",
+      "gather_name": "성남/분당 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "삼성스토어 AK분당",
+      "sido": "경기",
+      "sigungu": "성남시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_FDnQCqq57AXaTgPLqXznFOxehFi36nj2.jpg",
+      "updated_at": "2026-10-01 19:31:36",
+      "revenue": 30000
+    },
+    {
+      "idx": 1861,
+      "campaign_id": "wedingcrowd117",
+      "gather_name": "부천 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "LG전자베스트샵 중동본점",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_8T6ADg3hrOUFIW41CZR.jpg",
+      "updated_at": "2026-10-01 19:32:11",
+      "revenue": 30000
+    },
+    {
+      "idx": 1697,
+      "campaign_id": "wedingcrowd98",
+      "gather_name": "인천 롯데백화점 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "롯데백화점 인천점 삼성스토어",
+      "sido": "인천",
+      "sigungu": "미추홀구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_3rBNXKkMeDCLnRJ87yyMfIyZvBa.jpg",
+      "updated_at": "2026-10-01 19:32:26",
+      "revenue": 30000
+    },
+    {
+      "idx": 1095,
+      "campaign_id": "wedingcrowd11",
+      "gather_name": "안산 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "롯데백화점 안산점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안산시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_z7FPSIPNDhpjCFoUQRURQKL7K.jpg",
+      "updated_at": "2026-10-01 19:33:15",
       "revenue": 30000
     }
   ]
