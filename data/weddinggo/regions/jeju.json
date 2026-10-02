@@ -1245,5 +1245,217 @@
     },
     "updated_at": "2026-09-28 16:02:12",
     "revenue": 30000
+  },
+  {
+    "idx": 1801,
+    "campaign_id": "bwithk01",
+    "gather_name": "제주 MBC 웨딩페어",
+    "organizer_name": "제주MBC 웨딩페어",
+    "seo_metadata": {
+      "title": "제주 MBC 웨딩페어 | 2026 제주 결혼 준비 혜택 및 무료 입장 신청",
+      "meta_description": "2026년 10월 24~25일, 쉐라톤 제주 호텔에서 열리는 제주 MBC 웨딩페어! 사전 신청 시 올리브영 기프트카드와 계약자 최대 40만원 상품권 증정. 지금 신청하고 제주 최대 규모 웨딩 혜택을 모두 확인하세요.",
+      "keywords": [
+        "제주웨딩박람회",
+        "제주결혼준비",
+        "제주MBC웨딩페어",
+        "쉐라톤제주웨딩",
+        "제주스드메",
+        "제주허니문박람회",
+        "제주웨딩홀",
+        "신혼부부혜택",
+        "제주결혼박람회",
+        "웨딩박람회무료입장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 제주 지역 최대 규모를 자랑하는 '제주 MBC 웨딩페어'가 쉐라톤 제주 호텔에서 10월 24일부터 25일까지 개최됩니다. 검증된 브랜드와 압도적인 혜택으로 예비부부님들의 완벽한 웨딩을 실현해 드립니다.",
+      "benefits_description": "이번 웨딩페어는 방문만 해도 올리브영 기프트카드(선착순 혜택 포함)를 증정하며, 현장 계약 시 최대 40만원 상당의 신세계 상품권을 추가로 제공합니다. 또한 허니문 특전, 맞춤 정장 할인, 한복 대여 프로모션 등 결혼 준비에 꼭 필요한 항목들을 한자리에서 파격적인 가격으로 비교하고 상담받으실 수 있습니다. 복잡한 웨딩 준비, 전문가의 1:1 상담을 통해 비용은 줄이고 만족도는 높이는 특별한 경험을 놓치지 마세요.",
+      "summary_for_search": "2026년 10월 24일~25일, 쉐라톤 제주 호텔에서 개최되는 제주 MBC 웨딩페어. 계약자 대상 최대 40만원 상품권 증정 및 스드메, 혼수, 허니문 특별 프로모션을 경험해보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "2026 제주 MBC 웨딩페어, 사전 신청 시 최대 40만원 혜택!",
+      "secondary_headline": "제주 최대 브랜드 입점, 1:1 전문 상담으로 완성하는 프리미엄 웨딩",
+      "urgency_text": "사전 신청 선착순 마감 예정",
+      "call_to_action_text": "지금 무료 사전 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 완료 시 올리브영 기프트카드 증정",
+        "선착순 방문 고객 대상 특별 선물"
+      ],
+      "contract_benefits": [
+        "현장 계약자 대상 신세계 상품권 최대 40만원 증정",
+        "허니문 프로모션 최대 90만원 할인",
+        "맞춤 정장 혼주 조끼 무료 제공 및 촬영복 무료 대여",
+        "한복 대여 할인 및 프리미엄 서비스"
+      ],
+      "special_events": [
+        "웨딩 드레스 패션쇼",
+        "1:1 맞춤 웨딩 컨설팅",
+        "웨딩 스튜디오 및 웨딩홀 전시"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-25",
+        "display_date": "10월 24일(토) ~ 10월 25일(일)",
+        "original_display_date": "10월 24일(토) ~ 10월 25일(일)"
+      },
+      "location": {
+        "sido": "제주",
+        "sido_en": "jeju",
+        "sigungu": "제주시",
+        "sigungu_en": "jeju",
+        "address": "제주특별자치도 제주시 탑동로 66",
+        "venue": "쉐라톤 제주 호텔  볼룸 2층 특별행사장",
+        "parking_info": "호텔 내 주차 가능",
+        "region_code": "jeju"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "신랑이름",
+        "신부이름",
+        "연락처",
+        "방문 희망일",
+        "관심항목"
+      ],
+      "gift_conditions": "사전 신청 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "제주 MBC 주최 신뢰도 보장",
+        "15년 이상의 검증된 노하우",
+        "제주·부산·울산 등 광역 네트워크 운영",
+        "최대 규모의 브랜드 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "제주 MBC 웨딩페어",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-25",
+        "location": {
+          "@type": "Place",
+          "name": "쉐라톤 제주 호텔",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "볼룸 2층 특별행사장",
+            "addressLocality": "제주 제주시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "제주MBC 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/bwithk01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 입장료는 얼마인가요?",
+          "answer": "제주 MBC 웨딩페어는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "방문 상담 혜택은 무엇인가요?",
+          "answer": "현장 방문 후 상담 완료 시 올리브영 기프트카드를 증정하며, 계약 시 최대 40만원 상품권 혜택이 제공됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "쉐라톤 제주 호텔 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스튜디오, 드레스샵, 허니문 여행사, 한복, 예물, 예복, 가전 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "결혼 준비를 이제 막 시작했는데 가도 되나요?",
+          "answer": "물론입니다. 전문 웨딩 플래너가 1:1로 맞춤형 상담을 도와드려 체계적인 준비를 시작하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 날짜는 정해졌지만 어디서부터 준비해야 할지 막막한 예비부부, 스드메와 혼수 비용을 합리적으로 비교하고 싶은 커플, 제주도 내 신뢰할 수 있는 업체 정보를 한 번에 얻고 싶은 예비 신랑신부님들을 위한 맞춤형 박람회입니다. 결혼 준비 초기 단계의 고민부터 허니문 예약까지, 15년 경력의 노하우를 가진 전문가들이 1:1 상담을 통해 가장 효율적인 웨딩 솔루션을 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 스튜디오",
+        "프리미엄 웨딩 드레스 샵",
+        "허니문 여행 전문 컨설팅",
+        "결혼 예복 및 한복 브랜드",
+        "신혼 가전 및 혼수 가구 업체"
+      ],
+      "comparison_hooks": [
+        "제주 MBC가 보증하는 투명하고 신뢰도 높은 상담",
+        "단순 홍보가 아닌 현장 계약 할인 및 즉시 혜택 제공",
+        "제주, 부산, 울산 등 광역 네트워크를 통한 최신 웨딩 트렌드 공유"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "제주 웨딩박람회 일정",
+        "결혼 준비 체크리스트",
+        "스드메 패키지 가격",
+        "제주 허니문 여행사 추천",
+        "웨딩박람회 방문 혜택",
+        "결혼 비용 절약 팁",
+        "제주 웨딩홀 비교",
+        "신혼부부 가전 할인",
+        "맞춤 정장 예복 추천",
+        "제주도 웨딩 촬영지"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "제주 웨딩홀 전체 비교",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "2026 결혼 준비 가이드",
+          "category": "planning_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "허니문",
+        "부케",
+        "혼수가전",
+        "맞춤예복",
+        "결혼준비",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "제주 MBC 웨딩페어 | 최대 40만원 혜택!",
+      "og_description": "10월 24-25일, 쉐라톤 제주 호텔에서 만나는 프리미엄 웨딩 박람회. 사전 신청하고 특별 혜택 받으세요!",
+      "hashtags": [
+        "#제주웨딩박람회",
+        "#제주MBC웨딩페어",
+        "#제주결혼준비",
+        "#쉐라톤제주",
+        "#제주스드메",
+        "#제주허니문",
+        "#결혼준비꿀팁",
+        "#예비부부",
+        "#제주웨딩홀",
+        "#웨딩박람회혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/bwithk01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_KHEC9ZaKDQAPlHD7kBqsAcFRfMoZj1J.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_7sJFAKMVNXmV49Bo58OuO2yoZzW9ksS.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_RZ6EgQ3npU6tf7YOq6L2DrrJ55vw.jpg"
+    },
+    "updated_at": "2026-10-02 13:03:25",
+    "revenue": 30000
   }
 ]
