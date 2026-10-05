@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 119,
+    "total_count": 129,
     "region_count": 16,
-    "district_count": 46,
-    "updated_at": "2026-10-05 13:30:06"
+    "district_count": 47,
+    "updated_at": "2026-10-05 19:33:11"
   },
   "items": [
     {
@@ -1209,6 +1209,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1887,
       "campaign_id": "weddingan07",
       "gather_name": "건대 웨딩박람회",
       "display_date": "10월 17일(토) ~ 10월 18일(일)",
@@ -1217,7 +1218,8 @@
       "sigungu": "광진구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_En6InxJjfMeRfYnzIuphwImy.jpg",
-      "updated_at": "2026-10-01 19:32:41"
+      "updated_at": "2026-10-01 19:32:41",
+      "revenue": 30000
     },
     {
       "idx": 1648,
@@ -1555,6 +1557,132 @@
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_7sJFAKMVNXmV49Bo58OuO2yoZzW9ksS.jpg",
       "updated_at": "2026-10-02 13:41:04",
+      "revenue": 30000
+    },
+    {
+      "idx": 1549,
+      "campaign_id": "wncowedding05",
+      "gather_name": "수원 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "타임빌라스 수원 B1 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_H35nrpVGxxYIrA.jpg",
+      "updated_at": "2026-10-05 19:30:21",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd119",
+      "gather_name": "수원 스타필드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "한샘 스타필드수원점",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_YMlp3tGTzn8YtDuYc.jpg",
+      "updated_at": "2026-10-05 19:30:39"
+    },
+    {
+      "idx": 1537,
+      "campaign_id": "wncowedding02",
+      "gather_name": "동탄웨딩박람회",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "롯데백화점 동탄점 6층 특별행사장",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Zx6ce3PrGLegmrhF.jpg",
+      "updated_at": "2026-10-05 19:30:58",
+      "revenue": 30000
+    },
+    {
+      "idx": 1765,
+      "campaign_id": "emywedding01",
+      "gather_name": "대전 신세계백화점 웨딩박람회",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "대전신세계 아트앤사이언스 B1 특별전시장",
+      "sido": "대전",
+      "sigungu": "유성구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_jSBwQQDDnmhirI.jpg",
+      "updated_at": "2026-10-05 19:31:18",
+      "revenue": 30000
+    },
+    {
+      "idx": 1068,
+      "campaign_id": "wedingcrowd01",
+      "gather_name": "천안아산 초대형웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "모나밸리 특별행사장",
+      "sido": "충남",
+      "sigungu": "아산시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_51GFRzxUteLtuUTV8JHrqz5NZbWhumtY.jpg",
+      "updated_at": "2026-10-05 19:31:36",
+      "revenue": 30000
+    },
+    {
+      "idx": 1853,
+      "campaign_id": "planittour03",
+      "gather_name": "대전 신세계 허니문박람회",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "대전신세계 아트앤사이언스",
+      "sido": "대전",
+      "sigungu": "유성구",
+      "region_en": "daejeon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_M4pTSkn2wEARUB6ndcYS.jpg",
+      "updated_at": "2026-10-05 19:31:52",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd02",
+      "gather_name": "춘천 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "미래컨벤션센타웨딩홀",
+      "sido": "강원",
+      "sigungu": "춘천시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_kVQldB8OKeqqfE.jpg",
+      "updated_at": "2026-10-05 19:32:08"
+    },
+    {
+      "idx": 1545,
+      "campaign_id": "wncowedding04",
+      "gather_name": "원주 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "AK플라자 원주 6층 특별행사장",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
+      "updated_at": "2026-10-05 19:32:27",
+      "revenue": 30000
+    },
+    {
+      "idx": 1864,
+      "campaign_id": "wedingcrowd118",
+      "gather_name": "강릉 웨딩크라우드 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "삼성스토어 강릉 특별행사장",
+      "sido": "강원",
+      "sigungu": "강릉시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_bIruMg8SxkauiMBlmtzlJvmudn.jpg",
+      "updated_at": "2026-10-05 19:32:54",
+      "revenue": 30000
+    },
+    {
+      "idx": 1745,
+      "campaign_id": "lamour01",
+      "gather_name": "대구 라모르 웨딩박람회",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "venue": "LG전자베스트샵 신세계대구점",
+      "sido": "대구",
+      "sigungu": "동구",
+      "region_en": "daegu",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_MDyeZWMnU7Mde76.jpg",
+      "updated_at": "2026-10-05 19:33:11",
       "revenue": 30000
     }
   ]
