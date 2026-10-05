@@ -1,0 +1,209 @@
+{
+  "idx": 1549,
+  "campaign_id": "wncowedding05",
+  "gather_name": "수원 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "수원 웨딩박람회 | 타임빌라스 수원 특별행사장 상담 혜택 안내",
+    "meta_description": "10월 17일~18일, 타임빌라스 수원에서 열리는 웨딩박람회! 스드메 무료 피팅, 웨딩 액자, 혼수 가전 혜택 등 예비부부를 위한 실속 있는 결혼 준비 정보를 확인하고 사전등록하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "타임빌라스 수원",
+      "결혼 준비",
+      "수원 스드메",
+      "수원 웨딩홀",
+      "웨딩박람회 일정",
+      "웨딩박람회 무료입장",
+      "결혼식 준비",
+      "신혼여행",
+      "웨딩박람회 선물"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 수원 웨딩박람회, 결혼 준비를 앞두고 어디서부터 시작해야 할지 고민 중이시라면 아래 정보를 참고해 보세요. 10월 17일부터 18일까지 타임빌라스 수원 B1 특별행사장에서 개최되는 이번 박람회는 예비부부의 고민을 덜어줄 실속 있는 혜택들로 채워져 있습니다.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 드리는 실속 선물부터 계약 시 제공되는 파격적인 혜택까지 다양하게 준비되어 있습니다. 특히 스드메 패키지 계약 시 무료 피팅은 물론 고급 웨딩 액자 증정, 본식 사진 원본 무료 제공 등 예비부부에게 꼭 필요한 혜택을 놓치지 마세요. 가전부터 예물, 예복, 한복까지 결혼 준비 전 과정을 한자리에서 비교하고 전문가의 상담을 통해 합리적인 결혼 예산을 계획하실 수 있습니다.",
+    "summary_for_search": "10월 17일~18일 타임빌라스 수원에서 개최되는 웨딩박람회 정보입니다. 스드메 무료 피팅, 웨딩 액자 증정, 혼수 상담 등 다양한 혜택을 확인하고 지금 바로 무료 사전등록을 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 모든 것, 타임빌라스 수원 웨딩박람회에서 해결!",
+    "secondary_headline": "스드메 무료 피팅부터 혼수 가전 혜택까지, 2026년 웨딩 트렌드를 한자리에서 확인하세요.",
+    "urgency_text": "선착순 방문객 선물 증정! 지금 바로 사전등록하고 상담 혜택을 챙기세요.",
+    "call_to_action_text": "지금 무료 사전참가신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 실리만 데일리토스터기(선착순 20명)",
+      "방문객 전원 경품 추첨 100% 당첨 혜택"
+    ],
+    "contract_benefits": [
+      "최고급 웨딩액자 증정",
+      "스드메 무료 피팅 및 본식 사진 원본 무료 증정",
+      "삼성 AI 가전 구매 시 혜택",
+      "예물, 한복, 맞춤정장 계약 시 추가 할인 및 증정품"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "스드메 현장 계약 특별 혜택 제공",
+      "스몰/하우스웨딩 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 권선구 세화로 134",
+      "venue": "타임빌라스 수원 B1 특별행사장",
+      "parking_info": "타임빌라스 수원 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "방문 상담 완료 후 제공되며, 선착순 혜택은 조기 소진될 수 있습니다.",
+    "trust_indicators": [
+      "검증된 전문 웨딩업체 대거 참가",
+      "1:1 맞춤형 전문가 상담 제공",
+      "투명한 웨딩 패키지 가격 공개"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": {
+        "@type": "Place",
+        "name": "타임빌라스 수원",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "B1 특별행사장",
+          "addressLocality": "경기 수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전등록을 통해 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "타임빌라스 수원 주차장을 편리하게 이용하실 수 있습니다."
+      },
+      {
+        "question": "방문만 해도 선물을 받을 수 있나요?",
+        "answer": "네, 방문 상담 완료 시 선착순으로 실리만 토스터기를 증정하며, 100% 당첨 경품 이벤트가 진행됩니다."
+      },
+      {
+        "question": "상담 시 소요 시간은 얼마나 걸리나요?",
+        "answer": "상담 내용에 따라 다르지만 보통 1시간에서 2시간 정도 소요됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업뿐만 아니라 예물, 예복, 한복, 가전 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 예비부부, 효율적인 결혼 준비를 위해 여러 업체를 한자리에서 비교하고 싶은 커플, 합리적인 비용으로 스드메 패키지를 구성하고자 하는 신혼부부에게 적합합니다. '결혼 준비는 어디서부터 시작해야 하는지', '합리적인 스드메 가격은 얼마인지'에 대한 명확한 해답을 얻고 싶은 분들이라면 이번 박람회를 통해 전문가의 도움을 받아보시는 것을 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 상담 및 할인 업체",
+      "스드메 패키지 전문 스튜디오/드레스/메이크업샵",
+      "허니문 여행사",
+      "예물 브랜드",
+      "맞춤 정장 및 한복 전문점",
+      "삼성 가전"
+    ],
+    "comparison_hooks": [
+      "타임빌라스 수원에서 열리는 편리한 접근성",
+      "방문객 전원 100% 당첨 경품 이벤트",
+      "스드메 현장 계약 시 무료 피팅 및 최고급 액자 증정 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩홀 추천",
+      "웨딩박람회 준비물",
+      "스드메 비용 비교",
+      "결혼 예산 세우기",
+      "신혼여행 패키지",
+      "웨딩드레스 종류",
+      "수원 예복 맞춤",
+      "결혼식 한복 대여",
+      "웨딩박람회 혜택",
+      "삼성 신혼가전 견적"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 전체 리스트",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "스드메 패키지 정보",
+        "category": "studio_dress_makeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩플래너",
+      "예복",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩박람회 | 방문 시 선물 증정!",
+    "og_description": "10월 17일-18일, 타임빌라스 수원에서 결혼 준비 한 번에 끝내세요! 상담 혜택과 경품이 쏟아집니다.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원웨딩홀",
+      "#스드메",
+      "#예비부부",
+      "#웨딩박람회",
+      "#타임빌라스수원",
+      "#신혼여행",
+      "#결혼식준비",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_peAk7krRTYN9uKO3cYQVdTtQ3Lc3.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_H35nrpVGxxYIrA.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_SKTo9H2QyYirljcc.jpg"
+  },
+  "updated_at": "2026-10-05 19:30:21",
+  "revenue": 30000
+}
