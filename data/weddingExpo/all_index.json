@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 157,
+    "total_count": 158,
     "region_count": 16,
-    "district_count": 51,
-    "updated_at": "2026-10-06 19:32:37"
+    "district_count": 52,
+    "updated_at": "2026-10-07 13:30:54"
   },
   "items": [
     {
@@ -63,12 +63,12 @@
       "campaign_id": "jwc01",
       "gather_name": "청담스토리 더 웨스틴헤라 웨딩페어",
       "display_date": "10월 17일(토) ~ 10월 18일(일)",
-      "venue": "청담스토리 사옥",
+      "venue": "더웨스틴헤라",
       "sido": "전북",
       "sigungu": "전주시",
       "region_en": "jeonbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202602/568762912459e51e2cbac9155f241418_1HJZut74YNkA5YW9lfLKX9s6p7g.jpg",
-      "updated_at": "2026-10-06 19:31:51",
+      "updated_at": "2026-10-07 13:30:25",
       "revenue": 45000
     },
     {
@@ -1534,6 +1534,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1888,
       "campaign_id": "wedingcrowd119",
       "gather_name": "수원 스타필드 웨딩박람회",
       "display_date": "10월 17일(토) ~ 10월 18일(일)",
@@ -1542,7 +1543,8 @@
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_YMlp3tGTzn8YtDuYc.jpg",
-      "updated_at": "2026-10-05 19:30:39"
+      "updated_at": "2026-10-05 19:30:39",
+      "revenue": 30000
     },
     {
       "idx": 1537,
@@ -2050,6 +2052,17 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_zS3mGdnpjSgfCYFaFVO3z8XB.jpg",
       "updated_at": "2026-10-06 19:32:37",
       "revenue": 30000
+    },
+    {
+      "campaign_id": "lamour05",
+      "gather_name": "김해 라모르 웨딩박람회",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "venue": "LG전자베스트샵 신세계백화점김해점",
+      "sido": "경남",
+      "sigungu": "김해시",
+      "region_en": "gyeongnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_Bo7pav9IYProhsQKKFz.jpg",
+      "updated_at": "2026-10-07 13:30:54"
     }
   ]
 }
