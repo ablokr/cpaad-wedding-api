@@ -1,0 +1,207 @@
+{
+  "idx": 1810,
+  "campaign_id": "connectwedding01",
+  "gather_name": "천안 신세계 웨딩박람회",
+  "organizer_name": "커넥팅웨딩",
+  "seo_metadata": {
+    "title": "천안 신세계 웨딩박람회 | 스드메 최대 440만원 혜택 & 혼수 할인",
+    "meta_description": "2026년 10월 17일~18일, 신세계백화점 천안아산점에서 열리는 천안 신세계 웨딩박람회! 최대 440만원 상당의 특별 혜택과 스드메 할인, 혼수가전 초대전까지 한 번에 준비하세요. 선착순 무료 초대권 지금 신청하세요.",
+    "keywords": [
+      "천안웨딩박람회",
+      "천안결혼준비",
+      "신세계백화점웨딩박람회",
+      "천안스드메",
+      "충남웨딩박람회",
+      "천안예식장",
+      "혼수가전할인",
+      "신혼부부혜택",
+      "웨딩패키지비용",
+      "천안웨딩홀추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 한 번에 해결할 기회, '천안 신세계 웨딩박람회'가 찾아옵니다. 10월 17일부터 18일까지 신세계백화점 천안아산점에서 열리는 이번 행사는 예비부부님들의 합리적인 결혼 준비를 위해 기획되었습니다.",
+    "benefits_description": "이번 박람회에서는 최대 440만원 상당의 파격적인 계약 혜택을 제공합니다. 현장 방문 시 드리는 특별 선물부터 스드메(스튜디오, 드레스, 메이크업) 패키지 할인, 그리고 삼성스토어와 연계한 혼수가전 초대전까지 마련되어 있습니다. 웨딩홀 대관료 무료 및 식대 할인 등 실질적인 비용 절감 혜택을 직접 확인하고 전문가의 1:1 맞춤 상담을 받아보세요.",
+    "summary_for_search": "10월 17일~18일, 신세계백화점 천안아산점에서 개최되는 천안 신세계 웨딩박람회. 최대 440만원 상당의 혜택과 혼수가전 할인, 웨딩홀 특전을 지금 무료 사전 신청으로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 끝판왕! 최대 440만원 혜택 받는 천안 신세계 웨딩박람회",
+    "secondary_headline": "스드메부터 혼수까지, 프리미엄 브랜드의 합리적인 가격을 한자리에서 비교하세요.",
+    "urgency_text": "선착순 방문객 대상 특별 선물 증정, 지금 바로 무료 초대권 신청하세요!",
+    "call_to_action_text": "무료 사전 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 대상 특별 증정품 (현장 확인)"
+    ],
+    "contract_benefits": [
+      "최대 440만원 상당의 웨딩 패키지 할인",
+      "웨딩홀 대관료 무료 및 식대 할인",
+      "혼수가전 구매 금액별 최대 4종 사은품",
+      "삼성스토어 구매 고객 추가 사은품 및 상품권 증정"
+    ],
+    "special_events": [
+      "강남 웨딩 혼수 초대전",
+      "명품 웨딩드레스 전시 및 비교",
+      "전문가 1:1 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "충남",
+      "sido_en": "chungnam",
+      "sigungu": "천안시",
+      "sigungu_en": "cheonan",
+      "address": "충남 천안시 동남구 만남로 43",
+      "venue": "신세계백화점 천안아산점",
+      "parking_info": "신세계백화점 천안아산점 주차장 이용 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 신청 후 현장 방문 및 상담 완료 시 혜택 제공",
+    "trust_indicators": [
+      "신세계백화점 공식 제휴",
+      "삼성스토어 연계 혼수 혜택",
+      "다양한 프리미엄 드레스샵 참여",
+      "전문 웨딩 플래너의 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "천안 신세계 웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 천안아산점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "천안시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "커넥팅웨딩",
+        "url": "https://ad.cpaad.co.kr/connectwedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 신청을 하시면 무료로 입장이 가능하며 다양한 상담 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "신세계백화점 천안아산점 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "상담만 받아도 되나요?",
+        "answer": "네, 계약 의무 없이 결혼 준비에 대한 전문가의 상세한 상담과 정보 안내를 받으실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스샵, 메이크업, 혼수가전 등 결혼 준비에 필수적인 전문 브랜드들이 참여합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것들이 있나요?",
+        "answer": "최대 440만원 상당의 할인 패키지, 대관료 무료, 혼수가전 추가 사은품 등 다양한 제휴 혜택이 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용과 웨딩홀 대관료를 합리적으로 비교하고 싶은 커플, 그리고 가전과 가구 등 혼수 준비를 한 번에 끝내고 싶은 신혼부부들을 위한 행사입니다. 전문적인 상담을 통해 복잡한 결혼 준비 과정을 체계적으로 정리하고, 예산 절감을 위한 실질적인 팁을 얻어가고자 하는 분들께 최적화되어 있습니다. 처음 결혼 준비를 시작하여 무엇부터 해야 할지 고민인 분들도 전문가와 함께 효율적인 동선을 설계할 수 있습니다.",
+    "exhibitor_highlights": [
+      "프리미엄 웨딩홀 업체",
+      "스튜디오 촬영 브랜드",
+      "하이엔드 드레스샵",
+      "전문 메이크업 샵",
+      "삼성스토어 혼수가전"
+    ],
+    "comparison_hooks": [
+      "백화점 제휴를 통한 검증된 업체와 서비스 보장",
+      "결혼 준비 비용을 최대 440만원 절감하는 독점 혜택",
+      "가전부터 웨딩까지 한 공간에서 해결하는 원스톱 쇼핑"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "천안 웨딩홀 추천",
+      "스드메 패키지 가격",
+      "신혼가전 할인 혜택",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 방문 팁",
+      "천안아산 웨딩 준비",
+      "결혼 박람회 사기 예방법",
+      "예물 예복 브랜드 추천",
+      "신혼여행 패키지 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "천안 웨딩홀 리스트 바로가기",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 패키지 가격 확인",
+        "category": "package_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예식장",
+      "웨딩플래너",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "웨딩드레스",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "천안 신세계 웨딩박람회 | 예비부부 필수템",
+    "og_description": "최대 440만원 혜택! 천안 신세계 웨딩박람회 사전 신청하고 결혼 준비 알뜰하게 끝내세요.",
+    "hashtags": [
+      "#천안웨딩박람회",
+      "#결혼준비",
+      "#신세계웨딩박람회",
+      "#천안예식장",
+      "#스드메",
+      "#신혼부부",
+      "#천안결혼",
+      "#혼수가전",
+      "#웨딩박람회혜택",
+      "#예비부부"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/connectwedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_pXXFk5XxAwqV5dz7a5Yc6Ar3z.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_6M3jVzfPNsvioPeQQC8oN.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_UnYp9oVAiTqPXKl.jpg"
+  },
+  "updated_at": "2026-10-12 13:00:51",
+  "revenue": 30000
+}
