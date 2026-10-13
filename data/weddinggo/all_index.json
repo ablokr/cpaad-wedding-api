@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 157,
+    "total_count": 159,
     "region_count": 15,
     "district_count": 50,
-    "updated_at": "2026-10-13 13:02:44"
+    "updated_at": "2026-10-13 16:00:54"
   },
   "items": [
     {
@@ -2006,6 +2006,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1839,
       "campaign_id": "reveweddingE29",
       "gather_name": "춘천 혼수가전박람회",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -2014,7 +2015,8 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_Ka2oFhNXQvy6mpDQzImdh.jpg",
-      "updated_at": "2026-10-13 13:02:05"
+      "updated_at": "2026-10-13 13:02:05",
+      "revenue": 50000
     },
     {
       "idx": 1497,
@@ -2041,6 +2043,32 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_Kg5WKWd1C74IejCzfEZboECu4U7.jpg",
       "updated_at": "2026-10-13 13:02:44",
       "revenue": 35000
+    },
+    {
+      "idx": 1883,
+      "campaign_id": "theshirleyweddingH04",
+      "gather_name": "의정부 더셜리 허니문페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_RidYtJfZGj6XknOmWzBoBGogpyB.jpg",
+      "updated_at": "2026-10-13 16:00:38",
+      "revenue": 30000
+    },
+    {
+      "idx": 1316,
+      "campaign_id": "theshirleywedding04",
+      "gather_name": "의정부 더셜리 웨딩페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "LG전자베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_HU2tXRGo2qJXOE6by6IGQcjGlom.jpg",
+      "updated_at": "2026-10-13 16:00:54",
+      "revenue": 30000
     }
   ]
 }
