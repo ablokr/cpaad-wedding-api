@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 153,
+    "total_count": 152,
     "region_count": 15,
-    "district_count": 49,
-    "updated_at": "2026-10-14 13:30:47"
+    "district_count": 48,
+    "updated_at": "2026-10-14 19:30:31"
   },
   "items": [
     {
@@ -373,19 +373,6 @@
       "region_en": "chungnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_MMWmuGkbbZohd7OVHnDOpV.jpg",
       "updated_at": "2026-10-08 13:31:28",
-      "revenue": 30000
-    },
-    {
-      "idx": 1261,
-      "campaign_id": "wedingcrowd30",
-      "gather_name": "아르비아 구리 웨딩박람회",
-      "display_date": "10월 17일(토) ~ 10월 18일(일)",
-      "venue": "아르비아웨딩홀",
-      "sido": "경기",
-      "sigungu": "구리시",
-      "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_QA4LjSes9.jpg",
-      "updated_at": "2026-09-29 19:31:15",
       "revenue": 30000
     },
     {
@@ -844,19 +831,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1861,
-      "campaign_id": "wedingcrowd117",
-      "gather_name": "부천 웨딩크라우드 웨딩박람회",
-      "display_date": "10월 17일(토) ~ 10월 18일(일)",
-      "venue": "삼성스토어 이마트부천 특별행사장",
-      "sido": "경기",
-      "sigungu": "부천시",
-      "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_8T6ADg3hrOUFIW41CZR.jpg",
-      "updated_at": "2026-10-08 19:34:14",
-      "revenue": 30000
-    },
-    {
       "idx": 1697,
       "campaign_id": "wedingcrowd98",
       "gather_name": "인천 롯데백화점 웨딩박람회",
@@ -1036,19 +1010,6 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
       "updated_at": "2026-10-05 19:32:27",
-      "revenue": 30000
-    },
-    {
-      "idx": 1864,
-      "campaign_id": "wedingcrowd118",
-      "gather_name": "강릉 웨딩크라우드 웨딩박람회",
-      "display_date": "10월 17일(토) ~ 10월 18일(일)",
-      "venue": "삼성스토어 강릉 특별행사장",
-      "sido": "강원",
-      "sigungu": "강릉시",
-      "region_en": "gangwon",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_bIruMg8SxkauiMBlmtzlJvmudn.jpg",
-      "updated_at": "2026-10-05 19:32:54",
       "revenue": 30000
     },
     {
@@ -1468,6 +1429,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1891,
       "campaign_id": "wedingcrowd121",
       "gather_name": "서울 잠실 웨딩크라우드 웨딩박람회",
       "display_date": "10월 24일(토) ~ 10월 25일(일)",
@@ -1476,7 +1438,8 @@
       "sigungu": "송파구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_mtqnIcnU27A2vP.jpg",
-      "updated_at": "2026-10-08 19:30:46"
+      "updated_at": "2026-10-08 19:30:46",
+      "revenue": 30000
     },
     {
       "idx": 1360,
@@ -1997,6 +1960,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_RidYtJfZGj6XknOmWzBoBGogpyB.jpg",
       "updated_at": "2026-10-13 19:30:38",
       "revenue": 30000
+    },
+    {
+      "idx": 1893,
+      "campaign_id": "theshirleywedding14",
+      "gather_name": "수원 더셜리 웨딩페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "투어민",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_HhdVWTedaPf5BjLOUYMeoS5I4Cucj.jpg",
+      "updated_at": "2026-10-14 19:30:18",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "theshirleyweddingH14",
+      "gather_name": "수원 더셜리 허니문페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "투어민",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_SxcPExbuf.jpg",
+      "updated_at": "2026-10-14 19:30:31"
     }
   ]
 }
