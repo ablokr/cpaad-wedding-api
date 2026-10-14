@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-10-14T16:00:03Z",
-  "total_ad_count": 150,
+  "last_updated": "2026-10-14T19:00:03Z",
+  "total_ad_count": 152,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_rJHX3L5LK.jpg",
@@ -857,6 +857,34 @@
       "ad_location": "경기 부천시 원미구 길주로 285||(중동 1058-6)||LG전자베스트샵 중동본점",
       "start_date": "2026-10-24",
       "end_date": "2026-10-25"
+    },
+    "theshirleywedding14": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_u5W6XQeYc5ye.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_HhdVWTedaPf5BjLOUYMeoS5I4Cucj.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_THzKYN2tDmsyWNWEiR.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding14/",
+      "region": "gyeonggi",
+      "gather_name": "수원 더셜리 웨딩페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "11월 14일(토) ~ 11월 15일(일)",
+      "ad_location": "경기 수원시 팔달구 인계로94번길 26 영창타워 1층||(인계동 1017-2)||투어민",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15"
+    },
+    "theshirleyweddingH14": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_oG1HGsjJBIjE69fp4T.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_SxcPExbuf.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_qm6Mre6pn.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleyweddingH14/",
+      "region": "gyeonggi",
+      "gather_name": "수원 더셜리 허니문페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "11월 14일(토) ~ 11월 15일(일)",
+      "ad_location": "경기 수원시 팔달구 인계로94번길 26 영창타워 1층||(인계동 1017-2)||투어민",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15"
     },
     "labelleellin04": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_QKL2MOEZnOwvQmjEH.jpg",
