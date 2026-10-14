@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 156,
+    "total_count": 158,
     "region_count": 15,
     "district_count": 49,
-    "updated_at": "2026-10-14 16:00:04"
+    "updated_at": "2026-10-14 19:00:49"
   },
   "items": [
     {
@@ -1358,6 +1358,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1891,
       "campaign_id": "wedingcrowd121",
       "gather_name": "서울 잠실 웨딩크라우드 웨딩박람회",
       "display_date": "10월 24일(토) ~ 10월 25일(일)",
@@ -1366,7 +1367,8 @@
       "sigungu": "송파구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_mtqnIcnU27A2vP.jpg",
-      "updated_at": "2026-10-08 19:01:35"
+      "updated_at": "2026-10-08 19:01:35",
+      "revenue": 30000
     },
     {
       "idx": 1360,
@@ -2029,6 +2031,30 @@
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_HU2tXRGo2qJXOE6by6IGQcjGlom.jpg",
       "updated_at": "2026-10-13 16:00:54",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "theshirleyweddingH14",
+      "gather_name": "수원 더셜리 허니문페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "투어민",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_SxcPExbuf.jpg",
+      "updated_at": "2026-10-14 19:00:31"
+    },
+    {
+      "idx": 1893,
+      "campaign_id": "theshirleywedding14",
+      "gather_name": "수원 더셜리 웨딩페어",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "투어민",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_HhdVWTedaPf5BjLOUYMeoS5I4Cucj.jpg",
+      "updated_at": "2026-10-14 19:00:49",
       "revenue": 30000
     }
   ]
