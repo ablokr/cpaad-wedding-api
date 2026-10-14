@@ -1,7 +1,7 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-10-13T19:30:04Z",
+  "last_updated": "2026-10-14T13:30:03Z",
   "total_ad_count": 153,
   "advertisements": {
     "iniwedding05": {
@@ -914,20 +914,6 @@
       "start_date": "2026-10-17",
       "end_date": "2026-10-18"
     },
-    "reveweddingH05": {
-      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_RDYI4wJTkSn6jujpCDexp.jpg",
-      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_BtynhGdp9D6NYXd.jpg",
-      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ag4CAPKpkLs5KM1DcH9v.jpg",
-      "ad_url": "https://ad.cpaad.co.kr/reveweddingH05/",
-      "region": "gyeonggi",
-      "gather_name": "청주 OSCO 허니문박람회",
-      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 청주 최대규모 허니문박람회",
-      "ad_year": "2026",
-      "ad_date": "10월 24일(토) ~ 10월 25일(일)",
-      "ad_location": "충북 청주시 흥덕구 오송읍 오송생명로 250||(오송읍 만수리 925)||청주오스코 특별전시장",
-      "start_date": "2026-10-24",
-      "end_date": "2026-10-25"
-    },
     "objetWed03": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_ELuEl7K2o3yR7JLT2qBAh79MEzuKhudG.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_SPM7hnkTpXUl86GWCtShWKfKOHB.jpg",
@@ -1501,6 +1487,20 @@
       "ad_location": "충북 청주시 청원구 사천로17번길 37 1~3층||(사천동 9)||LG전자베스트샵 율량점",
       "start_date": "2026-10-17",
       "end_date": "2026-10-18"
+    },
+    "reveweddingH05": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_RDYI4wJTkSn6jujpCDexp.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_BtynhGdp9D6NYXd.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ag4CAPKpkLs5KM1DcH9v.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/reveweddingH05/",
+      "region": "chungcheong",
+      "gather_name": "청주 OSCO 허니문박람회",
+      "ad_info": "레브웨딩, 최고의 혜택과 안심보장제도 청주 최대규모 허니문박람회",
+      "ad_year": "2026",
+      "ad_date": "10월 24일(토) ~ 10월 25일(일)",
+      "ad_location": "충북 청주시 흥덕구 오송읍 오송생명로 250||(오송읍 만수리 925)||청주오스코 특별전시장",
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25"
     },
     "emywedding02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_U5xJJMa9zvJOpspa5WsDt5.jpg",
