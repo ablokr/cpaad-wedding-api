@@ -21,7 +21,7 @@ class WeddingDataStorage:
 
     def _load_revenue_data(self):
         """cpaad_revenue_data.json 파일을 로드합니다."""
-        # base_dir가 weddingExpo인 경우 그 하위의 파일을 우선적으로 확인
+        # 현재 데이터셋(base_dir)의 수익 파일을 우선적으로 확인
         local_revenue_path = os.path.join(self.base_dir, "cpaad_revenue_data.json")
         root_revenue_path = "data/cpaad_revenue_data.json"
         

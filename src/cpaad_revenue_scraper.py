@@ -39,7 +39,7 @@ MB_PASSWORD = config.get('MB_PASSWORD')
 LOGIN_ACTION_URL = 'https://www.cpaad.co.kr/bbs/login_check.php'
 LIST_URL_TEMPLATE = 'https://www.cpaad.co.kr/sub/sub_ad_list.php?subNo=&category=05&page={page}'
 DATA_FILE = os.path.join(PARENT_DIR, 'data', 'cpaad_revenue_data.json')
-DATA_FILE_EXPO = os.path.join(PARENT_DIR, 'data', 'weddingExpo', 'cpaad_revenue_data.json')
+DATA_FILE_GYEOLHON_EXPO = os.path.join(PARENT_DIR, 'data', 'gyeolhonExpo', 'cpaad_revenue_data.json')
 
 def get_total_pages(session, headers):
     """전체 페이지 수를 확인합니다."""
@@ -174,7 +174,7 @@ def main():
     print("------------------------------------------\n")
 
     # 결과 저장
-    for target_path in [DATA_FILE, DATA_FILE_EXPO]:
+    for target_path in [DATA_FILE, DATA_FILE_GYEOLHON_EXPO]:
         os.makedirs(os.path.dirname(target_path), exist_ok=True)
         with open(target_path, 'w', encoding='utf-8') as f:
             json.dump(all_campaigns, f, ensure_ascii=False, indent=4)

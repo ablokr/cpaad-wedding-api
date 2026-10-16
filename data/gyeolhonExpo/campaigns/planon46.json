@@ -1,0 +1,209 @@
+{
+  "idx": 1497,
+  "campaign_id": "planon46",
+  "gather_name": "서울 신혼여행 박람회",
+  "organizer_name": "주식회사 플랜온웨딩",
+  "seo_metadata": {
+    "title": "서울 신혼여행 웨딩박람회 | 강남 섬유센터, 신혼여행 최대 혜택",
+    "meta_description": "10월 24일~25일 서울 강남구 섬유센터에서 열리는 서울 신혼여행 웨딩박람회. 신혼여행지별 특별 할인과 혼수, 예복, 스드메 상담 혜택까지 한자리에서 확인하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "신혼여행 박람회",
+      "결혼 준비",
+      "강남 웨딩박람회",
+      "스드메 패키지",
+      "혼수 상담",
+      "예물 예복 할인",
+      "2026 웨딩박람회",
+      "신혼여행지 추천",
+      "웨딩 드레스 피팅"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 서울 신혼여행 웨딩박람회 참가를 고민 중이시라면 아래 정보를 참고해 보세요. 2026년 10월 24일과 25일, 강남 섬유센터에서 개최되는 이번 박람회는 예비부부를 위한 신혼여행 정보와 혼수, 스드메 패키지를 한곳에서 비교할 수 있는 기회입니다.",
+    "benefits_description": "박람회 현장에서는 인기 신혼여행지인 유럽, 발리, 몰디브, 하와이 등 주요 여행사에 대한 특별 프로모션을 제공합니다. 또한, 예복 및 예물 전문 업체와의 상담을 통해 현장 계약 시 할인 혜택을 받을 수 있으며, 프리미엄 에스테틱 프로그램 체험 등 결혼 준비에 필요한 실질적인 서비스가 다양하게 마련되어 있습니다. 방문만 해도 사은품을 증정하며, 상담 완료 시 추가 경품 추첨 및 포인트 적립 등 예비부부의 예산 절감에 도움이 되는 알찬 구성으로 확인됩니다.",
+    "summary_for_search": "서울 신혼여행 웨딩박람회가 10월 24일부터 25일까지 강남 섬유센터에서 개최됩니다. 신혼여행 특별 할인, 혼수·예물 계약 혜택, 웨딩 드레스 피팅 등 결혼 준비의 모든 것을 한자리에서 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 시작, 서울 신혼여행 웨딩박람회 초대장 신청",
+    "secondary_headline": "신혼여행지 최대 할인과 혼수·예물·스드메 패키지 특별 혜택을 만나보세요.",
+    "urgency_text": "선착순 방문객 대상 경품 증정 및 한정 프로모션 진행 중",
+    "call_to_action_text": "무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 사은품 증정",
+      "상담 완료 후 경품 추첨 기회",
+      "웨딩 드레스 무료 피팅 체험"
+    ],
+    "contract_benefits": [
+      "신혼여행지별 즉시 할인",
+      "혼수/예물 계약 시 최대 80만 포인트 증정",
+      "가전 구매 시 삼성카드 할인 쿠폰",
+      "예복/에스테틱 계약 시 특별 할인"
+    ],
+    "special_events": [
+      "허니문 여행지 1:1 맞춤 상담",
+      "프리미엄 웨딩 케어 프로그램 안내",
+      "예물/예복 전문 브랜드 초대전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "original_display_date": "10월 24일(토) ~ 10월 25일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 테헤란로 518",
+      "venue": "섬유센터 2층",
+      "parking_info": "이미지상 별도 명시 없음",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 및 상담 카드 작성 시 증정",
+    "trust_indicators": [
+      "국내 유명 신혼여행사 공동 참가",
+      "대형 브랜드 혼수·가전 제휴",
+      "전문 웨딩 플래너 1:1 맞춤 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 신혼여행 웨딩박람회",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "location": {
+        "@type": "Place",
+        "name": "섬유센터 2층",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "테헤란로 518",
+          "addressLocality": "서울 강남구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 플랜온웨딩",
+        "url": "https://ad.cpaad.co.kr/planon46/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "입장은 무료인가요?",
+        "answer": "네, 사전 신청을 통해 무료로 초대장을 받아 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문 상담은 예약이 필수인가요?",
+        "answer": "원활한 상담을 위해 사전 등록을 권장하며, 신청 후 안내에 따라 방문하시면 됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "신혼여행 여행사, 예물, 예복, 가전, 에스테틱 등 결혼 준비 전반에 걸친 브랜드가 참가합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "현장 계약 시 포인트 증정, 특별 할인, 가전 카드 할인 등 다양한 혜택이 제공됩니다."
+      },
+      {
+        "question": "위치는 어디인가요?",
+        "answer": "서울 강남구 테헤란로에 위치한 섬유센터 2층에서 진행됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메 패키지를 비교하고 싶은 커플, 신혼여행지 고민이 많은 신혼부부 등을 대상으로 합니다. 특히 혼수 가전부터 허니문까지 한 번에 준비하고자 하는 실속파 예비부부에게 적합합니다. 박람회에서는 전문가의 1:1 상담을 통해 결혼 준비 과정 전반에 대한 정확한 가이드를 제공받을 수 있으며, 업체별 프로모션을 비교하여 예산을 절약할 수 있습니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사(유럽/동남아 등)",
+      "예물 및 명품 예복 브랜드",
+      "스드메 패키지 전문 업체",
+      "프리미엄 에스테틱 브랜드",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "국내 유명 여행사들이 직접 참여하는 허니문 특별 할인 제공",
+      "단순 상담이 아닌 현장 계약 중심의 실질적인 비용 절감 혜택",
+      "혼수 가전부터 웨딩 패키지까지 원스톱 상담 시스템 운영"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 방문 팁",
+      "스드메 패키지 가격대",
+      "허니문 여행지 추천",
+      "웨딩박람회 예약 방법",
+      "혼수 가전 저렴하게 사는 법",
+      "결혼 준비 체크리스트",
+      "박람회 현장 계약 주의사항",
+      "예물 예복 박람회 혜택",
+      "서울 웨딩박람회 일정",
+      "신혼여행 준비물 리스트"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정 확인",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "허니문 준비 팁 더보기",
+        "category": "honeymoon_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "허니문",
+      "예복",
+      "예물",
+      "결혼준비"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 신혼여행 웨딩박람회 무료 입장 신청",
+    "og_description": "강남 섬유센터에서 만나는 특별한 신혼여행 할인과 결혼 준비 혜택! 지금 사전 등록하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#서울웨딩박람회",
+      "#신혼여행",
+      "#강남웨딩박람회",
+      "#스드메",
+      "#허니문",
+      "#예비부부",
+      "#웨딩박람회혜택",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon46/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg"
+  },
+  "updated_at": "2026-10-13 13:30:48",
+  "revenue": 35000
+}

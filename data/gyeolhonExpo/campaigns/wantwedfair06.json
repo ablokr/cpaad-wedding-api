@@ -1,0 +1,200 @@
+{
+  "idx": 1875,
+  "campaign_id": "wantwedfair06",
+  "gather_name": "하남 원트웨딩 웨딩박람회",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "하남 원트웨딩박람회 | LG전자베스트샵 신세계하남점 스드메 혜택",
+    "meta_description": "10월 24일-25일 개최, 하남 원트웨딩박람회! LG전자베스트샵 신세계하남점에서 열리는 이번 박람회는 스드메 할인과 가전 계약 시 최대 675만 혜택을 제공합니다. 사전등록 후 알뜰한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "하남웨딩박람회",
+      "원트웨딩",
+      "결혼준비",
+      "스드메견적",
+      "하남웨딩홀",
+      "신혼가전",
+      "웨딩박람회일정",
+      "스드메패키지",
+      "예비부부혜택",
+      "하남결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫걸음, 하남 원트웨딩박람회 참가를 고민 중이시라면 아래 정보를 참고해보세요. 2026년 10월 24일과 25일 양일간 LG전자베스트샵 신세계하남점에서 개최되는 이번 행사는 예비부부를 위한 실속 있는 혜택이 가득 준비되어 있습니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문객을 위한 스타벅스 쿠폰 증정부터 계약자 대상 로봇청소기 등 가전 선물까지 폭넓은 혜택을 제공합니다. 특히 스드메 패키지 상담 시 드레스 50% 할인과 함께 웨딩홀, 허니문, 예복, 한복 등 각 분야 전문가의 1:1 맞춤 상담이 가능합니다. 가전 계약 시에는 최대 675만 상당의 혜택이 지원되니 평소 눈여겨보던 혼수 품목이 있다면 이번 기회를 활용해 보시기 바랍니다.",
+    "summary_for_search": "하남 원트웨딩박람회가 10월 24일부터 25일까지 LG전자베스트샵 신세계하남점에서 열립니다. 스드메 할인, 혼수가전 최대 675만 혜택, 방문/계약 선물을 제공하니 결혼 준비 중인 예비부부라면 꼭 방문해 보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "하남 최대 규모 원트웨딩박람회, 계약 시 최대 675만 혜택!",
+    "secondary_headline": "스드메부터 가전, 예물까지! 결혼 준비의 모든 것을 한곳에서 전문가와 상담하세요.",
+    "urgency_text": "선착순 방문객 대상 사은품 증정, 이번 주말 단 이틀간 진행!",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 스타벅스 쿠폰 증정",
+      "선착순 방문객 대상 특별 경품 제공"
+    ],
+    "contract_benefits": [
+      "가전 계약 시 최대 675만 혜택",
+      "스드메 패키지 드레스 50% 할인",
+      "계약자 대상 로봇청소기 및 고급 사은품 제공"
+    ],
+    "special_events": [
+      "분야별 전문가 1:1 맞춤 웨딩 컨설팅",
+      "스타일링 웨딩페이 결제 지원"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "original_display_date": "10월 24일(토) ~ 10월 25일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "하남시",
+      "sigungu_en": "hanam",
+      "address": "경기 하남시 미사대로 750 하남스타필드 지하 1층",
+      "venue": "LG전자베스트샵 신세계하남점",
+      "parking_info": "매장 내 주차 가능 (방문 시 안내 확인 요망)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "방문 및 상담 완료 시 현장에서 사은품 수령 가능, 계약 시 상세 혜택 적용",
+    "trust_indicators": [
+      "하남 최대 규모 웨딩 박람회",
+      "분야별 전문 업체 다수 입점",
+      "가전 제휴를 통한 검증된 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "하남 원트웨딩 웨딩박람회",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 신세계하남점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "경기 하남시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/wantwedfair06/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전등록 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "주차 공간은 충분한가요?",
+        "answer": "행사 장소인 LG전자베스트샵 신세계하남점에 주차 가능하며, 방문 시 여유로운 이용을 권장합니다."
+      },
+      {
+        "question": "스드메 패키지는 꼭 해야 하나요?",
+        "answer": "아니요, 상담을 통해 개인별 예산과 취향에 맞춘 합리적인 선택이 가능합니다."
+      },
+      {
+        "question": "가전 할인 혜택은 어떤 조건인가요?",
+        "answer": "박람회 현장에서 상담 후 혼수 가전 계약을 진행하시는 경우 최대 675만 상당의 혜택이 적용됩니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "상단 또는 하단의 무료 참가 신청 폼에 성함과 연락처, 예식 예정일을 입력하면 신청이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용 비교와 합리적인 가전 혼수 구성을 고민 중인 커플을 위한 행사입니다. 결혼 준비의 전체 프로세스를 한눈에 파악하고 싶은 신혼부부, 바쁜 일정 속에서 한자리에서 다양한 업체를 비교하고자 하는 분들에게 최적화된 웨딩 큐레이션 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 제휴 네트워크",
+      "스드메 전문 스튜디오/드레스/메이크업 업체",
+      "허니문 전문 여행사",
+      "예물 및 예복 브랜드",
+      "가전 및 혼수 전문 브랜드"
+    ],
+    "comparison_hooks": [
+      "하남 지역 내 최대 규모의 원스톱 웨딩 상담",
+      "가전 제휴를 통한 업계 최고 수준의 계약 혜택",
+      "웨딩드레스 50% 할인 등 실질적인 가격 경쟁력 확보"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 뜻",
+      "결혼 준비 체크리스트",
+      "신혼가전 할인",
+      "허니문 박람회",
+      "하남 웨딩홀 추천",
+      "웨딩박람회 예약 혜택",
+      "결혼 예산 짜는 법",
+      "웨딩컨설팅 상담",
+      "웨딩드레스 피팅 체험"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "하남 웨딩박람회 전체 일정 보기",
+        "category": "event_calendar"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩패키지",
+      "신혼여행",
+      "예물",
+      "한복",
+      "웨딩촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "하남 원트웨딩박람회 초대 | 최대 675만 혜택",
+    "og_description": "10월 24-25일, LG전자베스트샵 신세계하남점에서 열리는 원트웨딩박람회! 지금 무료 사전등록하고 특별 혜택을 확인하세요.",
+    "hashtags": [
+      "#하남웨딩박람회",
+      "#원트웨딩",
+      "#결혼준비",
+      "#스드메",
+      "#신혼가전",
+      "#웨딩홀",
+      "#예비부부",
+      "#웨딩박람회추천",
+      "#하남결혼",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wantwedfair06/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_INrlX4wFJ6WImX14VkopTw.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_z8K7CLYO6hhtVTPGB8OaRzxTD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_qZfATSKyZ5rq9AB9UqK6HYEOqVkfgu.jpg"
+  },
+  "updated_at": "2026-10-06 13:32:32",
+  "revenue": 30000
+}

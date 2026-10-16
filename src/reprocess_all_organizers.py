@@ -15,7 +15,7 @@ def reprocess_all_organizers():
     """
     # 1. 초기화
     # DATA_DIR 환경변수가 있으면 사용, 없으면 기본값들 순회
-    datasets = ["weddinggo", "weddingExpo"]
+    datasets = ["weddinggo", "gyeolhonExpo"]
     
     for dataset in datasets:
         base_dir = f"data/{dataset}"

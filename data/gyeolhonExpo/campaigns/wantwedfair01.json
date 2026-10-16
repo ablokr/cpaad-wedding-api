@@ -1,0 +1,207 @@
+{
+  "idx": 1868,
+  "campaign_id": "wantwedfair01",
+  "gather_name": "수원 패밀리웨딩 웨딩박람회 ",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "수원 패밀리웨딩 박람회 | 10월 31일~11월 1일 수원컨벤션센터 개최",
+    "meta_description": "2026년 10월 31일부터 11월 1일까지 수원컨벤션센터에서 열리는 수원 패밀리웨딩 박람회! 스드메 최대 50% 할인, 혼수·가전 혜택까지 예비부부를 위한 실속 정보 총정리.",
+    "keywords": [
+      "수원웨딩박람회",
+      "수원컨벤션센터웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "수원결혼박람회",
+      "예비부부",
+      "웨딩홀추천",
+      "신혼여행패키지",
+      "웨딩드레스할인",
+      "수원웨딩홀"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 고민이라면 수원 패밀리웨딩 박람회를 주목해 보세요. 이번 박람회는 2026년 10월 31일부터 11월 1일까지 수원컨벤션센터 특별행사장에서 진행되며, 복잡한 결혼 준비를 한곳에서 효율적으로 해결할 수 있도록 돕습니다.",
+    "benefits_description": "이번 박람회는 예비부부의 경제적 부담을 덜어줄 실질적인 혜택이 가득합니다. 웨딩드레스 최대 50% 할인부터 스드메 패키지 특별 혜택, 가전 및 혼수 상담 시 제공되는 다양한 사은품까지 준비되어 있습니다. 특히 방문객 전원에게는 스타벅스 기프티콘 증정 이벤트가 진행되며, 현장 계약 시 대형 로봇청소기 등 파격적인 경품이 제공되오니 이번 기회를 통해 합리적인 결혼 준비를 시작해 보시길 바랍니다.",
+    "summary_for_search": "10월 31일~11월 1일, 수원컨벤션센터에서 개최되는 수원 패밀리웨딩 박람회! 스드메 최대 50% 할인 및 현장 계약 선물을 제공합니다. 결혼 준비를 앞둔 커플이라면 지금 사전등록하고 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "수원 최대 규모, 수원 패밀리웨딩 박람회!",
+    "secondary_headline": "스드메부터 혼수까지, 결혼 준비의 모든 것을 한자리에 모았습니다.",
+    "urgency_text": "선착순 방문객 혜택 및 현장 계약 특별 경품 조기 소진 주의",
+    "call_to_action_text": "지금 무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담객 대상 스타벅스 기프티콘 증정"
+    ],
+    "contract_benefits": [
+      "계약 시 대형 로봇청소기 증정",
+      "스드메 패키지 최대 50% 할인",
+      "예물 25% 할인 및 예복 25% 할인",
+      "한복 30% 할인"
+    ],
+    "special_events": [
+      "웨딩드레스 특별 피팅 존 운영",
+      "1:1 맞춤형 웨딩 전문가 상담",
+      "허니문 여행지 특별 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "display_date": "10월 31일(토) ~ 11월 01일(일)",
+      "original_display_date": "10월 31일(토) ~ 11월 01일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 특별행사장",
+      "parking_info": "무료 주차 지원 (현장 문의)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 후 증정, 경품은 당일 계약자 기준",
+    "trust_indicators": [
+      "수원 최대 규모 웨딩 박람회",
+      "대한민국 1등 가전제품 경품 제공",
+      "1:1 웨딩 전문가 전문 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 패밀리웨딩 웨딩박람회",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "경기 수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/wantwedfair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "원활한 상담과 방문 혜택 제공을 위해 사전등록 후 방문하시는 것을 권장합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "네, 수원컨벤션센터 내 주차장을 이용하실 수 있으며 박람회 방문 시 주차 지원 혜택이 제공됩니다."
+      },
+      {
+        "question": "스드메 패키지 비용은 얼마인가요?",
+        "answer": "업체 구성과 옵션에 따라 다르며, 박람회 현장에서 전문가와 1:1 상담을 통해 맞춤 견적을 받아보실 수 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "계약 품목에 따라 대형 로봇청소기 등 다양한 경품과 함께 최대 50%까지 할인 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "혼수와 예물 업체도 한곳에서 볼 수 있나요?",
+        "answer": "네, 드레스, 메이크업, 웨딩홀뿐만 아니라 혼수가전, 예물, 예복, 한복 등 결혼 준비에 필요한 전 품목 업체가 참가합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부, 특히 결혼 6개월 이내에 준비를 본격적으로 시작하려는 커플들에게 최적화되어 있습니다. 결혼 준비가 막막하여 어디서부터 알아봐야 할지 고민하는 분들이나, 스드메 비용을 합리적으로 비교하고 싶어 하는 신혼부부에게 실질적인 가이드를 제공합니다. 또한 예물, 예복, 신혼여행지 선택 등 세부 사항을 한 자리에서 해결하고 싶어 하는 바쁜 현대 커플들에게 정보와 혜택을 동시에 전달합니다.",
+    "exhibitor_highlights": [
+      "웨딩드레스 업체 및 스튜디오",
+      "메이크업 전문 브랜드",
+      "웨딩홀 예약 전문 상담부스",
+      "허니문 전문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 전문 업체",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "수원 지역 최대 규모의 입점 업체 구성",
+      "현장 즉시 계약 시 최상위 경품 증정 혜택",
+      "1:1 웨딩 전문가 밀착 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "웨딩박람회 당일 계약 혜택",
+      "수원 웨딩홀 추천",
+      "스드메 견적 비교",
+      "신혼여행 패키지 추천",
+      "결혼 준비 체크리스트",
+      "웨딩박람회 무료입장 방법",
+      "웨딩 드레스 투어 팁",
+      "예복 브랜드 추천",
+      "혼수 가전 저렴하게 사는 법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 지역 웨딩홀 정보",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "스드메 패키지 상세 보기",
+        "category": "sdeume_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩촬영",
+      "혼수가전",
+      "신혼여행",
+      "결혼준비",
+      "드레스투어"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 패밀리웨딩 박람회 | 최대 50% 할인 혜택",
+    "og_description": "10월 31일, 수원컨벤션센터에서 만나는 결혼 준비의 기회! 지금 사전등록하고 상담 혜택과 경품을 챙겨가세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원결혼박람회",
+      "#예비부부",
+      "#스드메",
+      "#웨딩홀추천",
+      "#혼수준비",
+      "#신혼여행",
+      "#수원컨벤션센터",
+      "#예신예랑"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wantwedfair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_6fdZlWeIJBa5vPN793ZSREwdHv.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_99gKQMrg5lgoec4btREzmRF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_ZKI7Vyp7bVMOcGum4lVop7hxmzU.jpg"
+  },
+  "updated_at": "2026-10-13 13:31:03",
+  "revenue": 30000
+}

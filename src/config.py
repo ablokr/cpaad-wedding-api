@@ -61,10 +61,10 @@ class AppConfig:
     @property
     def google_api_key(self) -> str:
         # DATA_DIR 기반 데이터셋별 전용 키 우선 조회
-        # 예: DATA_DIR=data/weddingExpo → GEMINI_API_KEY_WEDDINGEXPO
+        # 예: DATA_DIR=data/gyeolhonExpo → GEMINI_API_KEY_GYEOLHONEXPO
         data_dir = os.getenv("DATA_DIR", "")
         if data_dir:
-            # data/weddingExpo → WEDDINGEXPO
+            # data/gyeolhonExpo → GYEOLHONEXPO
             dataset_name = os.path.basename(data_dir).upper()
             dataset_key = os.getenv(f"GEMINI_API_KEY_{dataset_name}")
             if dataset_key:
@@ -75,7 +75,7 @@ class AppConfig:
     @property
     def dataset_name(self) -> str:
         """현재 활성 데이터셋 이름 반환. DATA_DIR 환경변수 기준.
-        예: data/weddingExpo → 'weddingExpo' / data/weddinggo → 'weddinggo'
+        예: data/gyeolhonExpo → 'gyeolhonExpo' / data/weddinggo → 'weddinggo'
         """
         data_dir = os.getenv("DATA_DIR", "data/weddinggo")
         return os.path.basename(data_dir)
