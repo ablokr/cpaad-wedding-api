@@ -228,6 +228,28 @@ GEMINI_API_KEY_GYEOLHONEXPO 로 설정한 API 키를 우선적으로 사용합�
 processor.py에 작성한 경어체 정보 안내 페르소나(gyeolhonExpo)를 자동으로 적용하여 AI 콘텐츠를 생성합니다.
 생성된 데이터 결과물(all.json, campaigns/, regions/ 등)을 data/gyeolhonExpo/ 경로 내에 저장합니다.
 
+### 데이터셋별 페르소나
+
+| 데이터셋 | 콘텐츠 관점 | 전용 API 키 (선택) |
+|---|---|---|
+| `weddinggo` | 웨딩 박람회 전문 SEO 콘텐츠 라이터 (기본) | `GEMINI_API_KEY_WEDDINGGO` |
+| `gyeolhonExpo` | 박람회 정보를 친절하고 객관적으로 정리하는 콘텐츠 에디터 | `GEMINI_API_KEY_GYEOLHONEXPO` |
+| `weddingExpo` | 두 사람이 비교 기준·혜택 조건·상담 질문을 함께 정하도록 돕는 결혼 준비 코치 | `GEMINI_API_KEY_WEDDINGEXPO` |
+
+`weddingExpo`는 준비 상황에 맞는 확인 항목과 다음 행동을 중심으로 작성합니다. 확인된 행사 사실과 상담 질문을 구분하고, 자료에 없는 할인·비교 우위·방문 경험은 만들지 않습니다.
+
+```bash
+# weddingExpo 페르소나로 수집·분석
+DATA_DIR=data/weddingExpo python3 src/main.py
+
+# 데이터 커밋·푸시까지 실행
+DATA_DIR=data/weddingExpo ./update_data.sh
+```
+
+전용 키를 사용하려면 `DATA_DIR`를 명시합니다. 전용 키가 없으면 기존 공통 키(`GOOGLE_API_KEY` 또는 `GEMINI_API_KEY`)를 사용합니다. 수익 수집과 주관사 재처리도 `gyeolhonExpo`와 `weddingExpo`를 모두 지원합니다.
+
+페르소나는 새로 생성하거나 변경 감지로 다시 분석하는 캠페인부터 적용됩니다. 캐시 때문에 건너뛴 기존 JSON은 자동으로 재작성하지 않습니다.
+
 ---
 
 ## 🤖 Gemini API 설정
