@@ -1,0 +1,212 @@
+{
+  "idx": 1335,
+  "campaign_id": "wedingcrowd40",
+  "gather_name": "수원 메쎄 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "수원 메쎄 웨딩박람회 | 스드메 89만원 패키지 및 현장 혜택 정리",
+    "meta_description": "10월 17일~18일 수원 메쎄에서 열리는 대형 웨딩박람회! 스드메 89만원 최저가 보장부터 100만원 상당 드레스 업그레이드, 100% 증정 방문 사은품까지. 지금 사전등록하고 결혼 준비 비용을 절약하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "결혼준비",
+      "수원메쎄",
+      "스드메패키지",
+      "수원결혼준비",
+      "웨딩박람회일정",
+      "경기웨딩박람회",
+      "웨딩드레스",
+      "혼수박람회",
+      "수원웨딩홀"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞둔 예비부부라면 이번 수원 메쎄 대형 웨딩박람회에 주목해 보세요. 10월 17일부터 18일까지 양일간 개최되는 이번 박람회는 스드메 최저가 보장은 물론, 혼수와 예물 등 결혼 전반에 필요한 모든 정보를 한곳에서 확인할 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회는 방문객을 위한 100% 증정 사은품부터 계약 시 제공되는 파격적인 혜택까지 다양하게 준비되어 있습니다. 특히 스드메 패키지는 89만 원이라는 합리적인 가격으로 구성되어 있으며, 블랙라벨 드레스 100만 원 상당 무료 업그레이드 등 실질적인 비용 절감 혜택을 제공합니다. 또한 예물, 한복, 피부관리 등 각 분야별 전문가가 직접 1:1 상담을 진행하므로 평소 궁금했던 점을 해소하고 나에게 꼭 맞는 맞춤형 견적을 받아보실 수 있습니다.",
+    "summary_for_search": "10월 17일-18일 수원 메쎄에서 열리는 웨딩박람회! 스드메 89만원 최저가 보장, 방문 100% 증정 사은품, 100만원 상당 드레스 업그레이드 혜택을 지금 사전등록으로 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 패키지 89만원! 수원 메쎄 대형 웨딩박람회",
+    "secondary_headline": "100만원 상당 드레스 무료 업그레이드부터 방문 100% 증정 사은품까지",
+    "urgency_text": "선착순 한정 혜택 포함, 사전등록 필수!",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "스타벅스 텀블러(온라인 사전신청 상담 고객 대상)",
+      "퍼스널컬러 진단 및 웨딩 메이크업 체험(선착순)"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 89만원 최저가 보장",
+      "블랙라벨 드레스 100만원 상당 무료 업그레이드",
+      "예물 계약 시 14K 귀걸이 증정 및 25% 할인",
+      "전통 한복 계약 시 30% 할인",
+      "허니문 최대 150만원 상당 혜택"
+    ],
+    "special_events": [
+      "웨딩 스타일링 체험",
+      "건강검진 프로그램 제공",
+      "견적 예상 예시표 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 권선구 세화로134번길 37",
+      "venue": "수원메쎄 특별행사장",
+      "parking_info": "수원메쎄 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "온라인 사전신청 후 현장 상담 완료 시 100% 증정",
+    "trust_indicators": [
+      "국내 유일 안심 보상제 도입",
+      "수원 최대 규모 대형 박람회",
+      "업계 최고 전문가 1:1 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 메쎄 대형 웨딩박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "수원메쎄",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서둔동 296-124",
+          "addressLocality": "수원시",
+          "addressRegion": "경기",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd40/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 이번 수원 메쎄 웨딩박람회는 사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "온라인으로 사전 등록 후 박람회 현장에서 상담을 완료하시면 100% 증정 사은품을 받으실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 가격대는 어떻게 되나요?",
+        "answer": "이번 박람회에서는 스드메 패키지를 89만 원부터 구성하여 최저가 보장을 진행하고 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "수원메쎄 전용 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "사전 등록은 꼭 해야 하나요?",
+        "answer": "네, 선착순 혜택 및 무료입장을 위해 사전등록을 권장하며, 다양한 추가 할인 혜택도 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장부터 스드메, 혼수까지 한 번에 합리적으로 해결하고자 하는 예비부부를 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 신혼부부, 바쁜 일정 속에서 시간을 절약하며 고품질의 웨딩 서비스를 비교하고 싶은 커플에게 최적의 정보를 제공합니다. 결혼 예산 계획에 고민이 많은 분들을 위해 실질적인 견적 비교와 할인 혜택을 체계적으로 안내합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 제휴 업체",
+      "스드메 토탈 패키지 브랜드",
+      "허니문 여행사",
+      "예물 및 예복 전문점",
+      "한복 및 신혼 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "국내 유일 안심 보상제로 신뢰할 수 있는 박람회",
+      "현장 즉시 계약 시 드레스 업그레이드 및 축하금 혜택",
+      "전문가 1:1 맞춤 상담을 통한 웨딩홀 및 스드메 비교 견적 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 추천",
+      "결혼 준비 체크리스트",
+      "스드메 비용 절약법",
+      "수원 예식장 견적",
+      "웨딩박람회 방문 꿀팁",
+      "혼수 준비 순서",
+      "신혼여행 패키지 추천",
+      "웨딩드레스 대여 비용",
+      "예물 예복 박람회",
+      "수원 스드메 업체 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩박람회 일정 전체보기",
+        "category": "event_schedule"
+      },
+      {
+        "anchor": "스드메 견적 산출하기",
+        "category": "calculator"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예식장",
+      "신혼여행",
+      "예복",
+      "한복",
+      "웨딩플래너",
+      "결혼준비",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 메쎄 웨딩박람회, 스드메 89만원!",
+    "og_description": "10월 17일-18일 수원 메쎄! 지금 사전등록하고 100만원 상당 드레스 혜택과 100% 방문 선물 받으세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원결혼준비",
+      "#스드메패키지",
+      "#수원웨딩홀",
+      "#웨딩박람회사은품",
+      "#예비부부",
+      "#결혼식준비",
+      "#수원메쎄",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd40/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_7PxyaxLS3L3jt8ZUaViueZw.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202405/2337ea9ac0ebeb271ae4fe609b8d7149_OlwDijMUO9ef4Ieo3WWPfry.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202312/2337ea9ac0ebeb271ae4fe609b8d7149_8ay871tFALaOAfSBiuMi9i1.jpg"
+  },
+  "updated_at": "2026-10-06 13:31:23",
+  "revenue": 30000
+}

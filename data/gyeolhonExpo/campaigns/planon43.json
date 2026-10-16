@@ -1,0 +1,206 @@
+{
+  "idx": 1392,
+  "campaign_id": "planon43",
+  "gather_name": "서울 웨딩드레스 페어",
+  "organizer_name": "주식회사 플랜온웨딩",
+  "seo_metadata": {
+    "title": "서울 웨딩드레스 페어 | 강남 섬유센터 10월 박람회 혜택 안내",
+    "meta_description": "10월 24일~25일 서울 강남 섬유센터에서 열리는 서울 웨딩드레스 페어! 스드메 무료 피팅, 퍼스널 컬러 진단, 혼수 정계약 혜택까지 예비부부를 위한 실속 있는 결혼 준비 정보를 확인하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "강남 웨딩박람회",
+      "스드메 패키지",
+      "웨딩드레스 무료피팅",
+      "결혼 준비 체크리스트",
+      "혼수 가전 할인",
+      "서울 결혼 준비",
+      "웨딩 박람회 사은품",
+      "예신 예랑 결혼 준비",
+      "2026 웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작을 앞둔 예비부부라면, 이번 '서울 웨딩드레스 페어' 참가를 고려해보시는 건 어떨까요. 강남 섬유센터에서 진행되는 이번 박람회는 다양한 드레스 브랜드와 실속 있는 혼수 혜택을 한자리에서 만나볼 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회는 예비부부의 설레는 마음을 담아 다채로운 체험과 혜택을 준비했습니다. 현장에서는 최신 트렌드 웨딩드레스와 신랑 예복을 직접 입어볼 수 있는 무료 피팅 체험이 진행되며, 전문가와 함께하는 퍼스널 컬러 진단 서비스도 제공됩니다. 또한, 가전제품 특별 프로모션과 혼수 계약 시 제공되는 다양한 사은품 구성은 알뜰한 결혼 준비를 돕는 강력한 메리트입니다. 박람회 사전 등록을 통해 입장료 혜택과 상담 예약을 먼저 챙겨보시길 권장합니다.",
+    "summary_for_search": "10월 24일부터 25일까지 강남 섬유센터에서 서울 웨딩드레스 페어가 개최됩니다. 무료 드레스 피팅 체험부터 혼수 가전 혜택까지, 결혼 준비의 모든 것을 한곳에서 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "10월, 서울 최대 웨딩드레스 특별전 개최",
+    "secondary_headline": "스드메 무료 피팅부터 가전 프로모션까지, 예비부부를 위한 단 하나의 페어",
+    "urgency_text": "사전 등록자 한정 혜택 제공, 조기 마감 주의",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 등록 후 현장 방문 시 무료 초대권 증정",
+      "인생네컷 포토부스 무료 체험"
+    ],
+    "contract_benefits": [
+      "삼성스토어 혼수 가전 특별 사은품 및 최대 80만 포인트 혜택",
+      "가전 제품 9개 기간 무상 AS 3년 연장",
+      "혼수 계약 시 추가 할인 및 사은품 패키지 증정"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "신랑 예복 무료 피팅 체험",
+      "퍼스널 컬러 컨설턴트 무료 진단",
+      "럭키드로우 뽑기 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-24",
+      "end_date": "2026-10-25",
+      "display_date": "10월 24일(토) ~ 10월 25일(일)",
+      "original_display_date": "10월 24일(토) ~ 10월 25일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 테헤란로 518",
+      "venue": "섬유센터 2층",
+      "parking_info": "현장 주차장 이용 가능 (박람회 안내 페이지 참고)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 방문 상담 완료 시 증정",
+    "trust_indicators": [
+      "서울 지역 다수 스드메 브랜드 참여",
+      "전문 웨딩 플래너 1:1 맞춤 컨설팅",
+      "가전 제휴를 통한 검증된 혼수 혜택"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 웨딩드레스 페어",
+      "startDate": "2026-10-24",
+      "endDate": "2026-10-25",
+      "location": {
+        "@type": "Place",
+        "name": "섬유센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강남구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 플랜온웨딩",
+        "url": "https://ad.cpaad.co.kr/planon43/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 얼마인가요?",
+        "answer": "본 행사는 사전 등록 시 무료로 입장 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 섬유센터 내 주차 시설을 이용하실 수 있습니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 가능한가요?",
+        "answer": "현장 상황에 따라 선착순으로 진행되므로 사전 예약 시 문의하시는 것이 좋습니다."
+      },
+      {
+        "question": "스드메 상담은 어떻게 진행되나요?",
+        "answer": "현장에 배치된 전문 플래너를 통해 1:1 맞춤 상담 및 비교가 가능합니다."
+      },
+      {
+        "question": "혼수 가전 계약 혜택이 무엇인가요?",
+        "answer": "가전 제품 구매 시 사은품 증정 및 무상 AS 기간 연장, 추가 포인트 적립 등의 혜택이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 스드메(스튜디오·드레스·메이크업) 비용과 업체를 비교 중인 예비부부, 효율적으로 혼수를 준비하고 싶은 커플을 대상으로 합니다. 어디서부터 결혼 준비를 시작해야 할지 막막한 초보 예비부부에게 전문가의 1:1 상담을 통해 명확한 기준을 제시하며, 현장에서 직접 체험할 수 있는 무료 피팅과 같은 이벤트를 통해 취향을 파악할 수 있도록 돕는 실질적인 정보 중심의 콘텐츠를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩드레스샵",
+      "스튜디오",
+      "메이크업샵",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "삼성스토어 가전"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 추가 할인 및 프로모션 보장",
+      "서울 강남권 대규모 브랜드 업체 최다 참여",
+      "체험형 박람회로 취향 확인 및 상담 동시 진행 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 비용 견적 비교",
+      "강남 웨딩박람회 일정",
+      "혼수 가전 구매 팁",
+      "웨딩드레스 무료 피팅 후기",
+      "결혼 준비 체크리스트 공유",
+      "웨딩 플래너 상담 내용",
+      "박람회 계약 시 주의사항",
+      "퍼스널 컬러 진단 서비스",
+      "웨딩 박람회 사은품 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 일정 모음",
+        "category": "seoul_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "예복",
+      "결혼식 준비",
+      "웨딩 트렌드",
+      "상담 예약",
+      "무료 초대권"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 웨딩드레스 페어! 강남 섬유센터 특별전",
+    "og_description": "무료 드레스 피팅부터 혼수 혜택까지, 2026 결혼 준비의 모든 것! 지금 사전 등록하고 특별 혜택을 챙기세요.",
+    "hashtags": [
+      "#서울웨딩박람회",
+      "#강남웨딩박람회",
+      "#결혼준비",
+      "#예신예랑",
+      "#웨딩드레스",
+      "#스드메",
+      "#혼수가전",
+      "#결혼준비체크리스트",
+      "#웨딩박람회사은품",
+      "#섬유센터웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon43/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_FXaQY9XIsiuG7.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_Kg5WKWd1C74IejCzfEZboECu4U7.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_DsWJo2Oyh5a6wDt.jpg"
+  },
+  "updated_at": "2026-10-13 13:30:18",
+  "revenue": 35000
+}

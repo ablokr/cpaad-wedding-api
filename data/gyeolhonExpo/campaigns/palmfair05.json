@@ -1,0 +1,205 @@
+{
+  "idx": 1726,
+  "campaign_id": "palmfair05",
+  "gather_name": "제주 팜투어 허니문박람회",
+  "organizer_name": "제이씨커뮤니케이션",
+  "seo_metadata": {
+    "title": "제주 팜투어 허니문박람회 | 신혼여행 단독 특가 및 상담 혜택",
+    "meta_description": "2026년 10월 17일~18일 제주 연빌딩에서 개최되는 제주 팜투어 허니문박람회. 사전등록 시 조리기구 세트 증정 및 허니문 단독 특가, 방문/계약 시 다양한 사은품 혜택을 놓치지 마세요.",
+    "keywords": [
+      "제주웨딩박람회",
+      "제주허니문박람회",
+      "팜투어신혼여행",
+      "제주결혼준비",
+      "제주신혼여행지추천",
+      "허니문특가",
+      "제주웨딩홀",
+      "신혼여행패키지",
+      "팜투어박람회혜택",
+      "2026결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 제주 팜투어 허니문박람회, 참가를 고민 중이시라면 아래 정보를 참고해보세요. 2026년 결혼을 앞둔 예비부부를 위해 팜투어에서 엄선한 허니문 정보와 다양한 상담 혜택을 한자리에서 확인하실 수 있습니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문만으로도 조리기구 7종 세트와 웨딩 잡지 등 실속 있는 선물을 제공하며, 신혼여행 계약 시에는 최고급 PC 캐리어와 쇼핑몰 상품권 등 풍성한 사은품을 추가로 증정하는 것으로 확인됩니다. 특히 평균 10% 이상 저렴한 박람회 전용 단독 특가와 함께 유럽, 몰디브, 하와이 등 인기 신혼여행지의 프로모션이 준비되어 있어 알뜰한 결혼 준비가 가능합니다.",
+    "summary_for_search": "10월 17일~18일 제주 연빌딩에서 열리는 제주 팜투어 허니문박람회 정보입니다. 방문객 전원 조리기구 세트 증정 및 계약 시 캐리어 등 특별 사은품을 제공하며, 허니문 단독 특가 상담을 받을 수 있습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "제주 팜투어 허니문박람회, 최대 10% 이상 알뜰하게 준비하세요",
+    "secondary_headline": "10년 연속 1위 허니문 전문 여행사가 제안하는 단독 프로모션과 파격적인 방문 혜택을 놓치지 마세요.",
+    "urgency_text": "10월 17일~18일, 단 2일간 진행되는 특별 프로모션",
+    "call_to_action_text": "무료 참가 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 조리기구 7종 세트 증정",
+      "웨딩 매거진 무료 증정",
+      "신라면세점 선불카드 쿠폰"
+    ],
+    "contract_benefits": [
+      "계약 시 최고급 PC 캐리어 증정",
+      "포인트 쇼핑몰 20만원 상당 사은품 제공",
+      "허니문 전용 단독 특가 적용"
+    ],
+    "special_events": [
+      "유럽/하와이/몰디브 등 지역별 단독 프로모션",
+      "1:1 맞춤형 허니문 전문 상담",
+      "신혼여행 안심보험 21억 5천만원 보상 가입"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-17",
+      "end_date": "2026-10-18",
+      "display_date": "10월 17일(토) ~ 10월 18일(일)",
+      "original_display_date": "10월 17일(토) ~ 10월 18일(일)"
+    },
+    "location": {
+      "sido": "제주",
+      "sido_en": "jeju",
+      "sigungu": "제주시",
+      "sigungu_en": "jeju",
+      "address": "제주특별자치도 제주시 연삼로 38",
+      "venue": "제주연빌딩",
+      "parking_info": "현장 주차 가능 여부 확인 필요",
+      "region_code": "jeju"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "10년 연속 허니문 여행사 부문 1위",
+      "한국 소비자 평가 최고 브랜드 대상 수상",
+      "8회 브랜드 대상 수상",
+      "허니문 안심보험 가입"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제주 팜투어 허니문박람회",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-18",
+      "location": {
+        "@type": "Place",
+        "name": "제주연빌딩",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "제주 제주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이씨커뮤니케이션",
+        "url": "https://ad.cpaad.co.kr/palmfair05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 필수인가요?",
+        "answer": "원활한 1:1 상담을 위해 사전등록을 권장하며, 신청 시 다양한 방문 혜택을 놓치지 않으실 수 있습니다."
+      },
+      {
+        "question": "방문하면 선물을 바로 받을 수 있나요?",
+        "answer": "방문 후 1:1 상담을 완료하신 분들을 대상으로 조리기구 세트 및 매거진 등 사은품을 제공하고 있습니다."
+      },
+      {
+        "question": "제주 외 지역 신혼여행 상담도 가능한가요?",
+        "answer": "네, 유럽, 하와이, 몰디브 등 전 세계 허니문 지역에 대한 전문 상담이 가능합니다."
+      },
+      {
+        "question": "박람회 장소에 주차는 가능한가요?",
+        "answer": "행사장인 제주연빌딩 내 주차를 이용하실 수 있으나, 당일 혼잡할 수 있으니 대중교통 이용을 추천합니다."
+      },
+      {
+        "question": "박람회에서 계약하면 어떤 혜택이 있나요?",
+        "answer": "현장 계약 시 최고급 캐리어 증정 및 포인트 쇼핑몰 사은품 등 박람회 전용 계약 특전이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "2026년 웨딩을 앞두고 가장 설레지만, 정보의 홍수 속에서 혼란을 겪고 있는 예비부부를 위한 박람회입니다. 특히 합리적인 예산으로 퀄리티 높은 신혼여행지를 고민 중인 커플이나, 스드메와 혼수를 한 번에 효율적으로 비교하고 싶은 분들에게 권장합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비부부라면, 전문가의 1:1 맞춤 상담을 통해 시행착오를 줄이고 실질적인 비용 절감 팁을 얻어 가실 수 있습니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사 팜투어",
+      "신혼여행지별 현지 직거래 업체",
+      "허니문 안심보험 협력사"
+    ],
+    "comparison_hooks": [
+      "10년 연속 1위 기업이 직접 운영하는 신뢰도 높은 박람회",
+      "일반 여행사 대비 평균 10% 이상 합리적인 박람회 전용가",
+      "상담만 받아도 증정되는 실속형 방문 사은품 세트"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "제주 신혼여행 박람회",
+      "팜투어 박람회 혜택",
+      "결혼 준비 비용 절약 팁",
+      "2026 웨딩박람회 일정",
+      "신혼여행지 추천",
+      "허니문 여행사 순위",
+      "제주 연빌딩 위치",
+      "박람회 상담 후기",
+      "스드메 패키지 비교",
+      "제주 웨딩박람회 참가업체"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "결혼 준비 체크리스트",
+        "category": "planning"
+      },
+      {
+        "anchor": "제주 웨딩박람회 일정",
+        "category": "schedule"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "웨딩홀",
+      "허니문",
+      "결혼준비",
+      "웨딩박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제주 팜투어 허니문박람회: 신혼여행 10% 더 알뜰하게",
+    "og_description": "10월 17~18일 제주 연빌딩! 방문 시 조리기구 세트 증정, 지금 바로 참가 신청하세요.",
+    "hashtags": [
+      "#제주웨딩박람회",
+      "#제주허니문박람회",
+      "#팜투어",
+      "#신혼여행준비",
+      "#결혼준비",
+      "#제주결혼",
+      "#허니문특가",
+      "#예비부부",
+      "#제주데이트",
+      "#결혼준비박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/palmfair05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_k8wEnTf5lipBcKmSmauaBY6XjMMqtD.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_xawaGpCkayO4K.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_BUTXtyQ9Yy2XZ.jpg"
+  },
+  "updated_at": "2026-10-12 13:37:21",
+  "revenue": 35000
+}
