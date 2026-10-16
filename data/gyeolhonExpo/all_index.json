@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 154,
+    "total_count": 155,
     "region_count": 15,
     "district_count": 48,
-    "updated_at": "2026-10-16 13:32:45"
+    "updated_at": "2026-10-16 19:31:26"
   },
   "items": [
     {
@@ -2003,12 +2003,25 @@
       "campaign_id": "paranfair01",
       "gather_name": "창원 웨딩박람회",
       "display_date": "11월 14일(토) ~ 11월 15일(일)",
-      "venue": "LG전자베스트샵 상남본점",
+      "venue": "창원컨벤션센터 제3전시장",
       "sido": "경남",
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_N7ZNii6veUW3Bf.jpg",
-      "updated_at": "2026-10-16 13:32:30",
+      "updated_at": "2026-10-16 19:31:26",
+      "revenue": 30000
+    },
+    {
+      "idx": 1097,
+      "campaign_id": "labelleellin01",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "display_date": "10월 31일(토) ~ 11월 01일(일)",
+      "venue": "LG베스트샵 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_anNXQPusDB5kzNMX4K4a3tA9dw.jpg",
+      "updated_at": "2026-10-16 19:30:30",
       "revenue": 30000
     }
   ]
