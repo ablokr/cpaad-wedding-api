@@ -1,0 +1,211 @@
+{
+  "idx": 128,
+  "campaign_id": "iniwedding05",
+  "gather_name": "서울웨딩쇼 in 워커힐",
+  "organizer_name": "아이니웨딩",
+  "seo_metadata": {
+    "title": "서울웨딩쇼 in 워커힐 | 11월 15일 단 하루, 예비부부 맞춤 초특가 혜택",
+    "meta_description": "2026년 11월 15일, 워커힐에서 열리는 서울웨딩쇼! 스드메 패키지 최대 할인, 드레스 무료 피팅, 혼수 브랜드 최대 60만원 지원 등 예비부부를 위한 단 하루 특별 이벤트에 지금 무료 신청하세요.",
+    "keywords": [
+      "서울웨딩박람회",
+      "워커힐웨딩페어",
+      "결혼준비",
+      "스드메패키지",
+      "신혼부부혜택",
+      "예식장추천",
+      "웨딩박람회일정",
+      "혼수가전할인",
+      "웨딩드레스무료피팅",
+      "결혼박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해소할 '서울웨딩쇼 in 워커힐'이 11월 15일, 단 하루 동안 개최됩니다. 검증된 업체들과 함께하는 이번 박람회는 예비부부에게 꼭 필요한 1:1 맞춤 컨설팅과 오직 박람회 현장에서만 만날 수 있는 독점 혜택을 제공합니다.",
+    "benefits_description": "이번 서울웨딩쇼 방문객에게는 드레스 무료 피팅, 스드메 패키지 특가 할인, 혼수 브랜드 최대 60만원 지원 등 압도적인 혜택이 기다리고 있습니다. 현장 계약 시 제공되는 특별 포인트와 축하금은 예산 절감을 원하는 신혼부부에게 완벽한 해답이 될 것입니다. 복잡한 결혼 준비, 수많은 후기와 광고 속에서 고민하지 마시고 신뢰할 수 있는 박람회에서 전문가와 함께 스마트하게 시작해 보세요.",
+    "summary_for_search": "11월 15일 워커힐에서 열리는 서울웨딩쇼! 스드메 패키지 특가부터 혼수 할인, 드레스 피팅까지 예비부부를 위한 필수 혜택을 한자리에서 확인하고 무료 사전 신청하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "11월 15일 단 하루! 워커힐에서 만나는 서울 최대 웨딩쇼",
+    "secondary_headline": "스드메 패키지 초특가부터 혼수 60만원 지원까지, 예비부부 필수 코스!",
+    "urgency_text": "단 하루 진행! 사전 신청 시 입장료 무료",
+    "call_to_action_text": "지금 무료 입장권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 신청 시 입장료 무료",
+      "방문 상담 완료 시 포인트 증정",
+      "드레스 무료 피팅 체험"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 할인",
+      "혼수 브랜드 최대 60만원 지원",
+      "현장 계약 특별 포인트/축하금"
+    ],
+    "special_events": [
+      "드레스 피팅 체험",
+      "한복 피팅 체험",
+      "퍼스널 컬러 진단",
+      "아이니 웨딩 테마파크 투어"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 15일(일) 단, 하루!",
+      "original_display_date": "11월 15일(일) 단, 하루!"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 영동대로 513",
+      "venue": "코엑스 2층 더플라츠",
+      "parking_info": "워커힐 주차장 이용 가능 (주차권 지원 내용 확인 필수)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 및 QR코드 스캔 시 증정",
+    "trust_indicators": [
+      "서울 최대 규모 박람회",
+      "검증된 입점 업체",
+      "1:1 전문 웨딩 컨설팅",
+      "누적 상담 건수 확인 가능"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울웨딩쇼 in 워커힐",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "코엑스 2층 더플라츠",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강남구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "아이니웨딩",
+        "url": "https://ad.cpaad.co.kr/iniwedding05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 사전 신청은 어떻게 하나요?",
+        "answer": "공식 랜딩 페이지의 사전 신청 폼에 이름, 연락처, 결혼 예정일을 입력하시면 무료 입장권이 발송됩니다."
+      },
+      {
+        "question": "박람회 현장에서 스드메 상담이 바로 가능한가요?",
+        "answer": "네, 현장에서 1:1 웨딩 플래너를 통해 맞춤형 스드메 상담과 예산 비교를 바로 진행하실 수 있습니다."
+      },
+      {
+        "question": "드레스 피팅은 누구나 할 수 있나요?",
+        "answer": "사전 신청자 중 현장 상담을 완료하신 분들에 한해 드레스 무료 피팅 기회가 제공됩니다."
+      },
+      {
+        "question": "주차 이용은 어떻게 되나요?",
+        "answer": "행사 장소인 코엑스 또는 워커힐 주차장을 이용하실 수 있으며, 박람회 상담 시 주차 지원 혜택을 확인받으실 수 있습니다."
+      },
+      {
+        "question": "박람회에 가면 계약을 꼭 해야 하나요?",
+        "answer": "아니요, 정보 수집과 가격 비교를 위해 자유롭게 상담받으실 수 있습니다. 다만 현장 계약 시에만 적용되는 특별 할인 혜택이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 막 시작해 무엇부터 해야 할지 모르는 예비부부, 복잡한 스드메(스튜디오, 드레스, 메이크업) 업체를 합리적으로 비교하고 싶은 커플, 그리고 웨딩 예산을 효율적으로 절감하고자 하는 실속파 신혼부부를 대상으로 합니다. 막막한 결혼 준비의 A to Z를 전문가와 함께 1:1로 해결하고, 워커힐 박람회만의 특별한 혜택을 통해 경제적이고 즐거운 결혼 준비를 원하는 분들을 위한 맞춤형 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 업체",
+      "웨딩 드레스 샵",
+      "메이크업 전문 업체",
+      "허니문 여행사",
+      "예물·예복 브랜드",
+      "가전·가구 혼수 업체"
+    ],
+    "comparison_hooks": [
+      "광고성 박람회와 비교 불가, 실제 검증된 업체 다수 입점",
+      "1:1 밀착 상담으로 예산에 맞는 맞춤형 웨딩 견적 산출",
+      "단 하루, 현장 계약 시에만 제공되는 폭발적인 할인 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 견적 비교",
+      "서울 웨딩박람회 추천",
+      "결혼 준비 순서",
+      "신혼여행 패키지 가격",
+      "예물 브랜드 추천",
+      "박람회 계약 혜택 확인",
+      "웨딩 드레스 피팅 팁",
+      "혼수 준비 리스트",
+      "결혼식 예산 짜기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "웨딩박람회 전체 일정 보기",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "스드메 패키지 정보 더보기",
+        "category": "wed_service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "웨딩컨설팅",
+      "결혼준비비용"
+    ]
+  },
+  "social_meta": {
+    "og_title": "11/15 단 하루, 서울웨딩쇼 in 워커힐!",
+    "og_description": "예비부부 필독! 스드메 특가, 드레스 무료 피팅, 혼수 할인까지 혜택 쏟아지는 웨딩쇼 사전신청하세요.",
+    "hashtags": [
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#워커힐웨딩쇼",
+      "#스드메특가",
+      "#예비부부",
+      "#신혼부부혜택",
+      "#결혼준비시작",
+      "#웨딩드레스",
+      "#혼수준비",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/iniwedding05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_uI48paH7MggR.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_3wkePZPDJhD.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_LwZMmPNxWAAjBCCTUV8qZNoFo74YH7F.jpg"
+  },
+  "updated_at": "2026-10-19 19:00:56",
+  "revenue": 30000
+}
