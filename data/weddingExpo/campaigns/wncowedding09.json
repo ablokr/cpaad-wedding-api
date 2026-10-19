@@ -1,0 +1,205 @@
+{
+  "idx": 1578,
+  "campaign_id": "wncowedding09",
+  "gather_name": "천안/아산 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "천안/아산 웨딩박람회 | 갤러리아 센터시티 특별행사",
+    "meta_description": "천안/아산 예비부부를 위한 대규모 웨딩박람회. 스드메 패키지, 예물, 한복, 허니문 등 결혼 준비 전 항목 혜택과 상담 기회를 만나보세요. 사전등록 시 다양한 방문 선물까지 제공됩니다.",
+    "keywords": [
+      "천안웨딩박람회",
+      "아산웨딩박람회",
+      "천안결혼준비",
+      "충남웨딩박람회",
+      "스드메견적",
+      "웨딩홀추천",
+      "천안허니문",
+      "천안예물",
+      "천안맞춤정장",
+      "갤러리아웨딩박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞두고 어디서부터 어떻게 시작해야 할지 고민인 예비부부님을 위해 천안/아산 갤러리아백화점에서 특별한 웨딩박람회를 개최합니다. 복잡한 웨딩 준비 과정을 한곳에서 비교하고 전문가의 도움을 받아 알뜰하게 구성할 수 있는 최적의 기회입니다.",
+    "benefits_description": "이번 박람회에서는 현장 방문만 해도 준비된 사은품을 증정하며, 스드메 패키지 계약 시 등급 업그레이드, 웨딩드레스 무료 피팅, 본식 사진 원본 무료 등 파격적인 혜택을 제공합니다. 또한 예물, 한복, 맞춤정장, 허니문 등 각 분야별 특별 계약 혜택이 마련되어 있어 예산 절감에 실질적인 도움을 드릴 것입니다. 상담받으시는 모든 분께는 품목별로 최적화된 맞춤 견적과 다양한 추가 증정품을 확인하실 수 있으니 이번 주말을 활용해 보세요.",
+    "summary_for_search": "11월 7일~8일, 천안 갤러리아백화점 센터시티점에서 열리는 천안/아산 웨딩박람회! 스드메 패키지부터 예물, 허니문까지 전문가 1:1 상담과 계약 혜택을 한자리에서 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "천안/아산 예비부부를 위한 특별한 웨딩 페어",
+    "secondary_headline": "결혼 준비의 모든 것, 갤러리아 센터시티에서 합리적인 혜택과 함께 완성하세요.",
+    "urgency_text": "이번 주말, 11월 7일~8일 이틀간만 진행되는 특별 프로모션입니다.",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 데일리 토스터 증정",
+      "상담객 전원 100% 증정 사은품"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 최고급 패키지 업그레이드 및 무료 피팅",
+      "본식 사진 원본 무료",
+      "품목별 계약 축하금 및 할인 혜택",
+      "예물, 한복, 맞춤정장 분야별 특별 사은품 제공"
+    ],
+    "special_events": [
+      "웨딩홀 1:1 맞춤 추천 및 상담",
+      "허니문 여행지별 특전 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "original_display_date": "11월 07일(토) ~ 11월 08일(일)"
+    },
+    "location": {
+      "sido": "충남",
+      "sido_en": "chungnam",
+      "sigungu": "천안시",
+      "sigungu_en": "cheonan",
+      "address": "충남 천안시 서북구 공원로 227",
+      "venue": "갤러리아백화점 센터시티점 7층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 상담 완료 후 상담카드 작성 시 증정됩니다.",
+    "trust_indicators": [
+      "백화점 내부 특별 행사 운영",
+      "다양한 웨딩 전문 업체 제휴",
+      "전문가 1:1 맞춤 웨딩 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "천안/아산 웨딩박람회",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "location": {
+        "@type": "Place",
+        "name": "갤러리아백화점 센터시티점 7층 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충남 천안시",
+          "addressLocality": "천안시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding09/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 신청은 어떻게 하나요?",
+        "answer": "페이지 내 상담 신청 폼에 성함, 연락처, 예식 예정일을 입력하시면 무료로 참가 신청이 완료됩니다."
+      },
+      {
+        "question": "방문하면 선물을 받을 수 있나요?",
+        "answer": "네, 현장에서 상담을 완료하시면 데일리 토스터 및 전원 100% 증정 사은품을 받아보실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "입점된 업체별로 상이하며, 상담 시 포함 항목과 추가 비용 여부를 직접 확인하시는 것을 추천드립니다."
+      },
+      {
+        "question": "웨딩홀 상담도 가능한가요?",
+        "answer": "네, 박람회 현장에서 웨딩홀 전문가와 함께 맞춤 추천 및 상담을 진행하실 수 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것들이 있나요?",
+        "answer": "품목별 계약 시 할인 혜택, 등급 업그레이드, 사은품 증정 등 다양한 현장 계약 혜택이 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 장소 섭외, 스드메 패키지 구성, 예물 및 혼수 마련 등 준비할 것이 많아 고민인 예비부부를 대상으로 합니다. 막연한 정보보다는 실제 전문가의 상담을 통해 합리적인 견적을 비교하고 싶거나, 천안·아산 지역 내에서 검증된 업체를 한곳에서 둘러보길 원하는 커플에게 최적화된 행사입니다. 웨딩 준비의 첫걸음인 예산 책정부터 상세한 항목 비교까지 1:1 상담을 통해 체계적으로 준비하고 싶은 신혼부부라면 누구든 방문하여 혜택을 챙기실 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 전문 업체",
+      "웨딩홀 제휴 상담 창구",
+      "허니문 여행사",
+      "예물 및 주얼리 브랜드",
+      "혼수 한복 브랜드",
+      "맞춤정장 및 예복샵"
+    ],
+    "comparison_hooks": [
+      "갤러리아백화점 내 개최로 접근성 및 신뢰도 확보",
+      "상담만 받아도 제공되는 100% 증정 사은품",
+      "현장 전문가와 함께하는 1:1 맞춤형 웨딩 플랜 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "스드메 비용 비교",
+      "천안 결혼 준비",
+      "웨딩박람회 상담 내용",
+      "결혼식 예산 세우기",
+      "예물 예복 계약 팁",
+      "스드메 패키지 구성",
+      "웨딩홀 투어 체크리스트",
+      "허니문 여행지 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "천안/아산 웨딩 정보 더 보기",
+        "category": "local_wedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "혼수가전",
+      "신혼여행",
+      "드레스피팅",
+      "본식스냅",
+      "맞춤한복",
+      "예물세트"
+    ]
+  },
+  "social_meta": {
+    "og_title": "천안/아산 웨딩박람회 상담 혜택 안내",
+    "og_description": "지금 사전등록하고 방문 상담만 해도 사은품 100% 증정! 스드메부터 허니문까지 한자리에서 준비하세요.",
+    "hashtags": [
+      "#천안웨딩박람회",
+      "#아산웨딩박람회",
+      "#천안결혼준비",
+      "#천안스드메",
+      "#결혼준비",
+      "#예비부부",
+      "#웨딩박람회",
+      "#갤러리아웨딩",
+      "#충남웨딩",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding09/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_B2XJFeTdv7wO5evuBitN.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_TnTqoZW5noIrp9Y5.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_jZ1OO7pRqSTsiNWmyCxD417Hd.jpg"
+  },
+  "updated_at": "2026-10-19 20:04:17",
+  "revenue": 30000
+}
