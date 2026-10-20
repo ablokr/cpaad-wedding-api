@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 150,
+    "total_count": 154,
     "region_count": 15,
     "district_count": 47,
-    "updated_at": "2026-10-20 13:42:28"
+    "updated_at": "2026-10-20 19:31:33"
   },
   "items": [
     {
@@ -1364,6 +1364,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1894,
       "campaign_id": "theshirleyweddingH14",
       "gather_name": "수원 더셜리 허니문페어",
       "display_date": "11월 14일(토) ~ 11월 15일(일)",
@@ -1372,7 +1373,8 @@
       "sigungu": "수원시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_SxcPExbuf.jpg",
-      "updated_at": "2026-10-14 19:30:31"
+      "updated_at": "2026-10-14 19:30:31",
+      "revenue": 30000
     },
     {
       "idx": 1814,
@@ -1882,6 +1884,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1319,
       "campaign_id": "wwedding07",
       "gather_name": "창원 프리마베라 웨딩박람회",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -1890,7 +1893,8 @@
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
-      "updated_at": "2026-10-20 13:40:36"
+      "updated_at": "2026-10-20 13:40:36",
+      "revenue": 30000
     },
     {
       "idx": 1384,
@@ -1956,6 +1960,56 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_z28CaopA.jpg",
       "updated_at": "2026-10-20 13:42:28",
       "revenue": 50000
+    },
+    {
+      "idx": 1873,
+      "campaign_id": "wantwedfair04",
+      "gather_name": "동탄 원트웨딩 웨딩박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "LG전자베스트샵 롯데동탄점",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
+      "updated_at": "2026-10-20 19:30:21",
+      "revenue": 30000
+    },
+    {
+      "idx": 1730,
+      "campaign_id": "revewedding16",
+      "gather_name": "평촌 웨딩박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "롯데백화점 평촌점 7층 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_b1StnGpYyWGlKA.jpg",
+      "updated_at": "2026-10-20 19:30:40",
+      "revenue": 50000
+    },
+    {
+      "campaign_id": "reveweddingH16",
+      "gather_name": "평촌 신혼여행 박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "롯데백화점 평촌점 7층 LG전자",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_IMznv7yXWcyvPov8vR6VWKpwUHl3Cu.jpg",
+      "updated_at": "2026-10-20 19:30:55"
+    },
+    {
+      "idx": 1895,
+      "campaign_id": "wantwedfair08",
+      "gather_name": "천안 패밀리웨딩 웨딩박람회 ",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "신불당아트센터 특별행사장",
+      "sido": "충남",
+      "sigungu": "천안시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_URIWqFEcXxXWCg.jpg",
+      "updated_at": "2026-10-20 19:31:33",
+      "revenue": 30000
     }
   ]
 }
