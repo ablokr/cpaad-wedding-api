@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 156,
+    "total_count": 157,
     "region_count": 15,
     "district_count": 48,
-    "updated_at": "2026-10-20 13:01:10"
+    "updated_at": "2026-10-20 16:00:43"
   },
   "items": [
     {
@@ -1915,6 +1915,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1319,
       "campaign_id": "wwedding07",
       "gather_name": "창원 프리마베라 웨딩박람회",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -1923,7 +1924,8 @@
       "sigungu": "창원시",
       "region_en": "gyeongnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_zwb1ESd5Z2H2IRGFeoxlPQJU9qRBSe1.jpg",
-      "updated_at": "2026-10-20 10:06:12"
+      "updated_at": "2026-10-20 10:06:12",
+      "revenue": 30000
     },
     {
       "idx": 1074,
@@ -2027,6 +2029,19 @@
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_AQDTuhriHsS5TQ3PnH4tP.jpg",
       "updated_at": "2026-10-20 13:01:10",
+      "revenue": 30000
+    },
+    {
+      "idx": 1873,
+      "campaign_id": "wantwedfair04",
+      "gather_name": "동탄 원트웨딩 웨딩박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "LG전자베스트샵 롯데동탄점",
+      "sido": "경기",
+      "sigungu": "화성시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_iwVgKGElq6L2n.jpg",
+      "updated_at": "2026-10-20 16:00:43",
       "revenue": 30000
     }
   ]
