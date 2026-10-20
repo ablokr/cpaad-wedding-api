@@ -415,5 +415,202 @@
     },
     "updated_at": "2026-10-05 19:33:11",
     "revenue": 30000
+  },
+  {
+    "idx": 1145,
+    "campaign_id": "banhanaH03",
+    "gather_name": "대구 반하나 허니문 박람회",
+    "organizer_name": "반하나웨딩 컨설팅",
+    "seo_metadata": {
+      "title": "대구 반하나 허니문 박람회 | 신혼여행 맞춤 상담 및 특전 혜택",
+      "meta_description": "대구에서 열리는 반하나 허니문 박람회에서 평생 기억될 신혼여행을 준비하세요. 1:1 맞춤 상담, 허니문 특전 프로모션 및 여행사 배상 책임 보험 등 안전하고 실속 있는 허니문 정보를 확인하실 수 있습니다.",
+      "keywords": [
+        "대구 허니문 박람회",
+        "대구 신혼여행 상담",
+        "대구 웨딩박람회",
+        "반하나 허니문",
+        "대구 여행사 박람회",
+        "신혼여행 패키지 비교",
+        "허니문 자유여행 견적",
+        "대구 신세계백화점 웨딩",
+        "안전한 신혼여행",
+        "신혼여행지 추천"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설렘만큼 중요한 신혼여행, 어디서부터 고민해야 할지 막막하신가요? 대구 반하나 허니문 박람회는 복잡한 허니문 계획을 전문가와 함께 쉽고 안전하게 준비할 수 있도록 돕는 전문 박람회입니다.",
+      "benefits_description": "이번 박람회에서는 여행사 평균 견적보다 10% 할인된 혜택을 비교해 보실 수 있습니다. 발리, 몰디브, 하와이 등 인기 신혼여행지별 맞춤 프로모션이 준비되어 있으며, 상담 시 현지 최신 정보와 상세 일정에 따른 예산을 직접 확인하실 수 있습니다. 신뢰할 수 있는 여행사 전문가가 두 분의 취향에 맞는 최적의 코스를 제안해 드립니다. 사전 등록 시 무료로 입장하실 수 있으니, 꼭 미리 신청하여 상담 우선권을 확보하세요.",
+      "summary_for_search": "대구에서 열리는 반하나 허니문 박람회(10월 24일~25일). 허니문 전문가의 1:1 맞춤 상담과 여행사 특전 프로모션, 평균 10% 할인 혜택을 확인하세요. 사전 등록 시 무료입장이 가능합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "평생 한 번뿐인 신혼여행, 안전하고 실속 있게 떠나세요",
+      "secondary_headline": "대구 반하나 허니문 박람회에서 만나는 10% 할인 혜택과 여행사 단독 프로모션",
+      "urgency_text": "사전 등록 시 무료 입장 가능",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "사전 등록 시 박람회 무료 입장"
+      ],
+      "contract_benefits": [
+        "여행사 평균 대비 견적 10% 할인",
+        "허니문 단독 특전 프로모션",
+        "여행업자 배상 책임 보험 가입"
+      ],
+      "special_events": [
+        "1:1 허니문 전문 컨설팅",
+        "다녀온 고객 인정 실제 후기 공유"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-25",
+        "display_date": "10월 24일(토) ~ 10월 25일(일)",
+        "original_display_date": "10월 24일(토) ~ 10월 25일(일)"
+      },
+      "location": {
+        "sido": "대구",
+        "sido_en": "daegu",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "대구 동구 동부로 149 신세계백화점 대구점 7층",
+        "venue": "LG전자베스트샵 신세계대구점",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "방문 희망 일자"
+      ],
+      "gift_conditions": "사전 신청 시 무료 입장",
+      "trust_indicators": [
+        "10년 경력의 여행사",
+        "여행업자 배상 책임 보험 가입",
+        "고객 만족도 1등 서비스",
+        "10년 무사고"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대구 반하나 허니문 박람회",
+        "startDate": "2026-10-24",
+        "endDate": "2026-10-25",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 신세계대구점",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "대구광역시 동구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "반하나웨딩 컨설팅",
+          "url": "https://ad.cpaad.co.kr/banhanaH03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전 등록은 필수인가요?",
+          "answer": "사전 등록 시 무료입장 혜택이 주어지므로 방문 전 미리 신청하시는 것을 권장합니다."
+        },
+        {
+          "question": "허니문 상담은 어떻게 진행되나요?",
+          "answer": "경험 풍부한 전문가가 두 분의 예산과 취향에 맞춰 1:1 맞춤 상담을 진행합니다."
+        },
+        {
+          "question": "여행사 배상 책임 보험은 무엇인가요?",
+          "answer": "안전한 여행을 위해 여행업자가 가입한 보험으로, 예기치 못한 상황에 대비할 수 있는 신뢰 지표입니다."
+        },
+        {
+          "question": "할인 혜택은 어떤 기준으로 제공되나요?",
+          "answer": "박람회 현장 상담을 통해 평균 견적 대비 10% 내외의 할인과 허니문 단독 특전 혜택을 확인하실 수 있습니다."
+        },
+        {
+          "question": "참가 업체나 상세 비용은 안내된 내용 외에 어디서 확인하나요?",
+          "answer": "상세한 프로모션과 업체별 구성은 박람회 현장 상담을 통해 안내받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 완벽한 신혼여행을 계획 중인 예비부부를 대상으로 합니다. 특히 발리, 몰디브, 하와이 등 인기 신혼여행지 선정을 고민 중이거나, 여행사 패키지와 자유여행 사이에서 비용 대비 만족도를 비교하고 싶은 커플에게 최적화되어 있습니다. 결혼 준비 과정에서 발생하는 비용 부담을 덜고, 신뢰할 수 있는 여행사와 함께 안전하게 여행을 준비하고자 하는 모든 예비부부의 고민을 해결합니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행사",
+        "신혼여행 맞춤 컨설팅 업체"
+      ],
+      "comparison_hooks": [
+        "여행사 평균 견적 대비 10% 할인 비교 가능",
+        "10년 무사고 경력의 검증된 허니문 전문 상담",
+        "여행업자 배상 책임 보험 가입을 통한 안전성 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "대구 허니문 박람회 일정",
+        "신혼여행 준비물 체크리스트",
+        "허니문 패키지 vs 자유여행",
+        "대구 신혼여행 여행사 추천",
+        "신혼여행 할인 혜택",
+        "몰디브 신혼여행 비용",
+        "발리 신혼여행 추천 코스",
+        "하와이 신혼여행 준비",
+        "웨딩박람회 방문 혜택",
+        "안전한 신혼여행사 고르는 법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대구 웨딩박람회 일정 확인",
+          "category": "events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "허니문",
+        "신혼여행",
+        "여행사",
+        "박람회",
+        "견적 비교",
+        "웨딩 패키지"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대구 반하나 허니문 박람회 | 신혼여행 10% 할인",
+      "og_description": "평생 기억될 신혼여행, 대구에서 전문가와 함께 10% 할인 혜택으로 스마트하게 준비하세요!",
+      "hashtags": [
+        "#대구허니문박람회",
+        "#대구웨딩박람회",
+        "#신혼여행준비",
+        "#허니문추천",
+        "#결혼준비",
+        "#대구신혼여행",
+        "#신혼여행지",
+        "#반하나허니문",
+        "#예비부부",
+        "#허니문박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/banhanaH03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_AQjjVUL964GcBUzjPjYc8fDmtH7.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_SpBwSvL6WMHI.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_4LRdaWY137McbbhQl8rPn.jpg"
+    },
+    "updated_at": "2026-10-20 14:03:36",
+    "revenue": 30000
   }
 ]
