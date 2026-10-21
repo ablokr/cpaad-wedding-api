@@ -1,0 +1,200 @@
+{
+  "campaign_id": "wedingcrowd103",
+  "gather_name": "서울 영등포 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "서울 영등포 웨딩박람회 | 삼성스토어 타임스퀘어 상담 혜택 안내",
+    "meta_description": "10월 31일부터 11월 1일까지 삼성스토어 신세계타임스퀘어에서 개최되는 대형 웨딩박람회. 스드메 패키지 특가부터 캐스퍼 경품 이벤트까지, 결혼 준비의 모든 것을 한자리에서 확인하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "영등포 웨딩박람회",
+      "삼성스토어 타임스퀘어",
+      "결혼 준비",
+      "스드메 패키지",
+      "웨딩홀 추천",
+      "신혼여행",
+      "혼수 가전 할인",
+      "2026 결혼 준비",
+      "웨딩 박람회 일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 어디서부터 손을 대야 할지 고민 중이신가요? 이번 영등포 대형 웨딩박람회는 삼성스토어 신세계타임스퀘어에서 개최되어 실속 있는 정보와 다양한 혜택을 한눈에 살펴보실 수 있는 자리입니다. 예비부부를 위한 합리적인 웨딩 로드맵을 확인하고 싶다면 이번 기회를 놓치지 마세요.",
+    "benefits_description": "이번 박람회는 방문만 하셔도 스타벅스 기프트카드 등 소정의 사은품을 제공하며, 현장 계약 시 캐스퍼 자동차 경품 추첨 기회까지 주어집니다. 스드메 패키지는 물론 허니문, 예물, 예복 등 결혼 준비 전반에 필요한 카테고리를 한자리에서 상담받을 수 있습니다. 특히 가전 페스티벌을 통한 혼수 마련 혜택과 상담 시 제공되는 다양한 사은품 구성은 예산 절감을 고민하는 신혼부부에게 실질적인 도움이 될 것으로 기대됩니다.",
+    "summary_for_search": "10월 31일~11월 1일, 삼성스토어 신세계타임스퀘어에서 개최되는 서울 영등포 웨딩박람회. 스드메 패키지부터 허니문, 가전 할인 혜택까지 한자리에서 비교하고 상담받을 수 있는 기회입니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "이번 주말, 서울 영등포에서 만나는 대형 웨딩박람회",
+    "secondary_headline": "스드메 패키지 특가부터 혼수 가전 혜택까지, 결혼 준비의 모든 정답을 확인하세요.",
+    "urgency_text": "사전 등록 시 현장 대기 없이 입장 가능, 선착순 혜택 소진 주의",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 스타벅스 기프트카드 제공",
+      "참가자 전원 사은품 증정"
+    ],
+    "contract_benefits": [
+      "계약자 대상 캐스퍼 경품 추첨 이벤트",
+      "웨딩(스드메) + 혼수 계약 시 사은품 증정",
+      "웨딩 패키지 특가 적용"
+    ],
+    "special_events": [
+      "삼성 AI 구독 페스티벌 연계 혜택",
+      "신혼부부 재무 설계 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "display_date": "10월 31일(토) ~ 11월 01일(일)",
+      "original_display_date": "10월 31일(토) ~ 11월 01일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "영등포구",
+      "sigungu_en": "yeongdeungpo",
+      "address": "서울 영등포구 영중로 9 리빙관 3층",
+      "venue": "삼성스토어 신세계타임스퀘어",
+      "parking_info": "타임스퀘어 내 주차 가능 (행사처 확인 필요)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "결혼 준비 항목"
+    ],
+    "gift_conditions": "상담 완료 후 QR코드 스캔 및 현장 안내에 따라 수령",
+    "trust_indicators": [
+      "삼성스토어 주관 신뢰도 보장",
+      "대형 규모의 통합 웨딩 컨설팅",
+      "입점 브랜드별 1:1 맞춤 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 영등포 대형 웨딩박람회",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 신세계타임스퀘어",
+        "address": "서울 영등포구 영등포동"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd103/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "해당 웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "사전 등록은 어떻게 하나요?",
+        "answer": "상단에 안내된 신청 양식에 이름, 연락처, 예식 예정일 등을 입력하신 후 제출하시면 완료됩니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "삼성스토어 신세계타임스퀘어 내 주차 시설을 이용하실 수 있으며, 박람회 방문 시 주차 지원 여부는 안내 데스크에 문의 바랍니다."
+      },
+      {
+        "question": "혼수 가전 상담도 가능한가요?",
+        "answer": "네, 삼성스토어에서 진행되는 만큼 최신 AI 가전 상담 및 신혼부부를 위한 특별 혜택을 함께 확인하실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 상담을 완료하신 후 안내에 따라 QR코드 스캔 등 증정 조건을 만족하시면 지급됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부를 위한 맞춤형 박람회입니다. 특히 서울 영등포 인근에서 식을 올릴 예정이거나, 스드메 패키지부터 혼수 가전까지 한 번에 해결하고자 하는 6개월 이내의 예비부부에게 최적입니다. 단순히 정보를 찾는 단계를 넘어 실질적인 할인 혜택과 업체별 비교 상담이 필요한 커플들에게 전문적인 가이드를 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오/드레스/메이크업 업체",
+      "웨딩홀 전문 상담",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전"
+    ],
+    "comparison_hooks": [
+      "삼성스토어 단독 혜택으로 가전과 웨딩을 동시에 해결",
+      "현장 계약 시 캐스퍼 자동차 경품 추첨 기회 제공",
+      "웨딩 전문가와의 1:1 맞춤형 무료 상담 지원"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "서울 웨딩박람회 추천",
+      "결혼 준비 순서",
+      "스드메 패키지 가격",
+      "웨딩박람회 사은품",
+      "혼수 가전 할인 행사",
+      "영등포 웨딩홀 비교",
+      "웨딩 박람회 방문 후기",
+      "신혼여행 패키지 추천",
+      "결혼 예산 세우기",
+      "웨딩 촬영 스튜디오 예약"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 웨딩박람회 일정",
+        "category": "seoul_wedding_list"
+      },
+      {
+        "anchor": "결혼 준비 체크리스트 가이드",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 영등포 웨딩박람회 초대",
+    "og_description": "상담 시 사은품 증정! 이번 주말 삼성스토어 타임스퀘어에서 만나는 결혼 준비 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#영등포웨딩박람회",
+      "#결혼준비",
+      "#예비부부",
+      "#스드메",
+      "#혼수",
+      "#웨딩홀",
+      "#삼성스토어",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd103/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_DE4uxvUgwNp.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_gBynC1oUmEbV3QieexPkCVpZguf.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_TAxK2OrTj3M6wzoQ8apgvnar.jpg"
+  },
+  "updated_at": "2026-10-21 19:33:42"
+}
