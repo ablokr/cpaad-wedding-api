@@ -2474,5 +2474,206 @@
     },
     "updated_at": "2026-10-20 13:38:51",
     "revenue": 30000
+  },
+  {
+    "idx": 1228,
+    "campaign_id": "wwedding05",
+    "gather_name": "부산 프라이빗 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "부산 프라이빗 웨딩박람회 | W웨딩시티 스드메 패키지 상담 혜택",
+      "meta_description": "2026년 11월 5일, 부산 W웨딩시티에서 열리는 프라이빗 웨딩박람회. 스드메 패키지 최대 할인과 혼수 40만원 선불카드 증정 혜택을 지금 확인하세요.",
+      "keywords": [
+        "부산웨딩박람회",
+        "W웨딩시티",
+        "부산결혼준비",
+        "부산스드메",
+        "부산웨딩홀",
+        "프라이빗웨딩박람회",
+        "부산웨딩플래너",
+        "부산혼수박람회",
+        "부산예물예복",
+        "결혼박람회혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 어디서부터 어떻게 준비해야 할지 고민인 예비부부님들을 위해 부산 W웨딩시티에서 프라이빗 웨딩박람회를 개최합니다. 이번 박람회는 복잡한 절차 없이 전문가와의 1:1 맞춤 상담을 통해 효율적인 결혼 준비를 도와드리는 데 중점을 두었습니다.",
+      "benefits_description": "이번 부산 프라이빗 웨딩박람회에서는 웨딩홀부터 스드메 패키지까지 한자리에서 비교하고 합리적으로 계약할 수 있는 기회를 제공합니다. 특히 웨딩 계약 시 현금처럼 사용할 수 있는 40만원 상당의 선불카드 혜택이 준비되어 있으며, 방문 고객을 위한 다양한 사은품과 각 부스별 프로모션이 마련되어 있습니다. 웨딩드레스 피팅 체험과 전문 플래너의 맞춤 컨설팅을 통해 나만의 특별한 결혼식을 구상해 보시기 바랍니다.",
+      "summary_for_search": "2026년 11월 5일 부산 W웨딩시티에서 열리는 프라이빗 웨딩박람회입니다. 스드메 패키지 계약 시 선불카드 40만원 증정 등 다양한 상담 혜택을 지금 사전등록으로 만나보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "부산 프라이빗 웨딩박람회, 계약 시 선불카드 최대 40만원 증정!",
+      "secondary_headline": "부산 지역 대표 웨딩 브랜드 총집합, 스드메부터 혼수까지 1:1 맞춤 상담",
+      "urgency_text": "이번 11월 5일 단 하루, 사전등록 후 방문하시는 분들에게만 드리는 특별 혜택입니다.",
+      "call_to_action_text": "지금 무료 사전등록하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 대상 상담 및 혜택 제공"
+      ],
+      "contract_benefits": [
+        "웨딩 계약 시 선불카드 최대 40만원 증정",
+        "혼수 및 가전 구매 시 제휴 할인",
+        "예물·예복 및 한복 계약 시 특별 추가 혜택"
+      ],
+      "special_events": [
+        "1:1 프라이빗 웨딩 플래너 상담",
+        "웨딩드레스 피팅 체험"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-05",
+        "end_date": "2026-11-05",
+        "display_date": "11월 05일(목)",
+        "original_display_date": "11월 05일(목)"
+      },
+      "location": {
+        "sido": "부산",
+        "sido_en": "busan",
+        "sigungu": "부산진구",
+        "sigungu_en": "busanjin",
+        "address": "부산광역시 부산진구 자유평화로 11",
+        "venue": "W웨딩시티",
+        "parking_info": "자세한 주차 정보는 방문 시 안내 데스크에 문의 바랍니다.",
+        "region_code": "busan"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "웨딩 계약 체결 후 상담 완료 시 선불카드 및 사은품이 증정됩니다.",
+      "trust_indicators": [
+        "부산 지역 전문 웨딩 브랜드 대거 입점",
+        "2026 서비스 지수 1위 수상",
+        "1:1 전담 웨딩 플래너 배치"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부산 프라이빗 웨딩박람회",
+        "startDate": "2026-11-05",
+        "endDate": "2026-11-05",
+        "location": {
+          "@type": "Place",
+          "name": "W웨딩시티",
+          "address": "부산광역시 부산진구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding05/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 사전등록을 하시면 무료로 입장하여 상담받으실 수 있습니다."
+        },
+        {
+          "question": "사전등록은 어떻게 하나요?",
+          "answer": "홈페이지 내 성함과 연락처, 예식 예정일을 입력하시면 간편하게 완료됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참가하나요?",
+          "answer": "부산 지역 대표 웨딩홀, 스드메 패키지, 예물, 예복, 한복, 혼수 가전 브랜드가 참가합니다."
+        },
+        {
+          "question": "1:1 상담은 어떻게 진행되나요?",
+          "answer": "현장에서 전문 웨딩 플래너가 배정되어 예비부부의 취향과 예산에 맞춘 최적의 상담을 진행합니다."
+        },
+        {
+          "question": "혼수 40만원 혜택은 누구나 받나요?",
+          "answer": "박람회 현장에서 웨딩 계약을 체결하신 고객님을 대상으로 제공되는 혜택입니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞둔 예비부부 중 실질적인 비용 절감과 효율적인 웨딩 준비를 원하는 분들을 대상으로 합니다. 특히 부산 지역에서 웨딩홀 위치, 스드메 비용 비교, 혼수 가전 등 복잡한 결혼 준비 항목을 한 번에 해결하고 싶은 신혼부부에게 적합합니다. 결혼 준비를 어떻게 시작해야 할지 막막한 예비부부라면, 전문 플래너의 상담을 통해 시행착오를 줄이고 합리적인 선택을 내릴 수 있습니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 추천 부스",
+        "스드메 패키지 스튜디오/드레스샵",
+        "혼수 가전 브랜드",
+        "예물 및 예복 전문점",
+        "한복 대여/맞춤 업체"
+      ],
+      "comparison_hooks": [
+        "부산 지역 최대 규모의 프라이빗 맞춤 상담 제공",
+        "현장 계약 시 즉시 혜택 및 선불카드 증정",
+        "데이터 기반 1:1 전담 플래너 시스템"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "부산 웨딩박람회 일정",
+        "W웨딩시티 박람회 혜택",
+        "결혼 준비 비용 절약 방법",
+        "부산 스드메 패키지 가격",
+        "부산 웨딩홀 투어 팁",
+        "웨딩박람회 계약 전 체크리스트",
+        "신혼부부 가전 할인",
+        "부산 예물 예복 추천",
+        "웨딩 플래너 상담 비용",
+        "박람회 무료 입장권"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부산 웨딩홀 추천 리스트",
+          "category": "wedding_halls"
+        },
+        {
+          "anchor": "스드메 비용 비교하기",
+          "category": "wedding_packages"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예물",
+        "예복",
+        "웨딩플래너",
+        "부산웨딩",
+        "결혼준비",
+        "신혼여행",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부산 프라이빗 웨딩박람회 | 계약 혜택 총정리",
+      "og_description": "부산 예비부부 필수 코스! W웨딩시티 박람회에서 스드메 계약하고 선불카드 40만원 받으세요.",
+      "hashtags": [
+        "#부산웨딩박람회",
+        "#부산결혼준비",
+        "#W웨딩시티",
+        "#부산스드메",
+        "#부산웨딩홀",
+        "#결혼준비",
+        "#예신예랑",
+        "#부산혼수",
+        "#웨딩박람회혜택",
+        "#부산웨딩플래너"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding05/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_3I8IHYsGmC4rHCN.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_5S4eEh6EMVpsWZ9UiX2AkkIneGQ1.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202401/2337ea9ac0ebeb271ae4fe609b8d7149_kGekdZ3e3O528ArOvV7R.jpg"
+    },
+    "updated_at": "2026-10-22 19:30:55",
+    "revenue": 30000
   }
 ]
