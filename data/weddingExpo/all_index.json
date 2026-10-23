@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 165,
+    "total_count": 166,
     "region_count": 15,
     "district_count": 48,
-    "updated_at": "2026-10-23 14:02:01"
+    "updated_at": "2026-10-23 20:01:37"
   },
   "items": [
     {
@@ -20,6 +20,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1143,
       "campaign_id": "charlesWedBusan01",
       "gather_name": "부산 찰스 웨딩박람회",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -28,7 +29,8 @@
       "sigungu": "부산진구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_gCVigwOBo1erfu54IqKL6dPDf.jpg",
-      "updated_at": "2026-10-23 14:00:57"
+      "updated_at": "2026-10-23 14:00:57",
+      "revenue": 30000
     },
     {
       "idx": 1221,
@@ -84,6 +86,7 @@
       "organizer_name": "파리스 라벨르엘린"
     },
     {
+      "idx": 1266,
       "campaign_id": "objetWed01",
       "gather_name": "천안아산 웨딩드레스 페어",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -92,7 +95,8 @@
       "sigungu": "천안시",
       "region_en": "chungnam",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202407/2337ea9ac0ebeb271ae4fe609b8d7149_cvv9hCPAbfX5nbgKxrRbUXCvTd.jpg",
-      "updated_at": "2026-10-23 14:01:21"
+      "updated_at": "2026-10-23 14:01:21",
+      "revenue": 30000
     },
     {
       "idx": 1719,
@@ -320,17 +324,15 @@
       "revenue": 40000
     },
     {
-      "idx": 1283,
       "campaign_id": "hannawedding01",
       "gather_name": "한나 웨딩박람회",
-      "display_date": "10월 24일(토) 단 하루!",
-      "venue": "삼성스토어 서초점 2층 혼수관",
+      "display_date": "11월 21일(토) 단 하루!",
+      "venue": "한나웨딩",
       "sido": "서울",
-      "sigungu": "서초구",
+      "sigungu": "강남구",
       "region_en": "seoul",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_dZfsRuzKEIsd9H9TJ7x2HGI.jpg",
-      "updated_at": "2026-09-22 13:30:54",
-      "revenue": 30000
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ulUWmUP4aYEPLovjD.jpg",
+      "updated_at": "2026-10-23 20:01:37"
     },
     {
       "idx": 1885,
@@ -2145,6 +2147,19 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_dxeQHQmqqO5b3kBoi5x2TT.jpg",
       "updated_at": "2026-10-23 14:02:01",
       "revenue": 50000
+    },
+    {
+      "idx": 1295,
+      "campaign_id": "labelleellin08",
+      "gather_name": "수원 메쎄 웨딩박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "수원메쎄 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_aSmBK75ZIjitMQAz.jpg",
+      "updated_at": "2026-10-23 20:00:43",
+      "revenue": 30000
     }
   ]
 }
