@@ -822,5 +822,216 @@
     },
     "updated_at": "2026-10-19 19:04:13",
     "revenue": 30000
+  },
+  {
+    "idx": 1212,
+    "campaign_id": "knockWed04",
+    "gather_name": "광주 유스퀘어 웨딩박람회",
+    "organizer_name": "광주웨딩연합회",
+    "seo_metadata": {
+      "title": "광주 유스퀘어 웨딩박람회 | 최대 50만원 혜택 & 선착순 이벤트",
+      "meta_description": "광주 유스퀘어 웨딩박람회에서 준비하는 생애 최고의 순간! 2026 결혼 준비를 위한 스드메, 허니문, 예물 파격 혜택과 계약 축하금 최대 50만원 지원 기회를 지금 바로 확인하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주유스퀘어웨딩박람회",
+        "광주스드메",
+        "신혼부부혜택",
+        "광주웨딩홀",
+        "광주결혼박람회",
+        "결혼준비체크리스트",
+        "광주예물",
+        "광주허니문"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부의 설레는 시작, 광주 유스퀘어 웨딩박람회와 함께라면 더 이상 막막하지 않습니다. 10월 31일부터 11월 1일까지 단 2일간 열리는 이번 박람회는 광주 최대 규모의 웨딩 업체들이 참여하여 신뢰할 수 있는 정보를 제공합니다.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 드리는 100% 당첨 선물부터 계약 시 최대 50만원 상당의 서비스와 축하 혜택을 준비했습니다. 복잡한 결혼 준비를 한곳에서 끝낼 수 있도록 드레스 피팅부터 웨딩홀 투어, 혼수 상담까지 1:1 맞춤형 서비스를 제공하며, 거품 없는 투명한 가격 정책으로 예비부부의 경제적 부담을 덜어드립니다.",
+      "summary_for_search": "광주 유스퀘어 웨딩박람회(10/31~11/01) 개최! 상담만 받아도 100% 당첨 경품 및 최대 50만원 계약 혜택 제공. 신뢰할 수 있는 업체와 함께하는 완벽한 결혼 준비의 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "2026 광주 유스퀘어 웨딩박람회, 지금 예약하면 20만원 즉시 혜택",
+      "secondary_headline": "호객행위 없는 프리미엄 박람회, 드레스 피팅부터 허니문까지 한 번에 끝내기",
+      "urgency_text": "단 2일간 진행, 선착순 마감 임박!",
+      "call_to_action_text": "무료 사전 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담객 100% 당첨 경품",
+        "상생&온누리&동구페이 사용 가능"
+      ],
+      "contract_benefits": [
+        "계약 축하금 최대 50만원 혜택",
+        "웨딩홀 지원금",
+        "드레스 추가금 할인",
+        "스튜디오 촬영 영상 제공",
+        "신랑 예복 할인"
+      ],
+      "special_events": [
+        "프리미엄 웨딩드레스 피팅 체험",
+        "1:1 맞춤형 웨딩 플래너 상담",
+        "메이크업 시연"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-31",
+        "end_date": "2026-11-01",
+        "display_date": "10월 31일(토) ~ 11월 01일(일)",
+        "original_display_date": "10월 31일(토) ~ 11월 01일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "광주 서구 무진대로 904",
+        "venue": "광주 유스퀘어 2층 팝업스토어",
+        "parking_info": "유스퀘어 주차장 이용 가능",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "신랑/신부 성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 제공",
+      "trust_indicators": [
+        "광주 최대 규모 업체 참여",
+        "타사 대비 거품 없는 투명한 가격 공개",
+        "참가자 만족도 96% 달성",
+        "호객행위 없는 클린 박람회"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 유스퀘어 웨딩박람회",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "location": {
+          "@type": "Place",
+          "name": "광주 유스퀘어",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "2층 팝업스토어",
+            "addressLocality": "광주광역시 서구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "category": "Primary"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "광주웨딩연합회",
+          "url": "https://ad.cpaad.co.kr/knockWed04/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 사전 신청 시 무료로 입장 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스튜디오, 드레스, 메이크업, 허니문, 예물, 혼수 가전 등 결혼 준비의 모든 항목을 아우르는 업체들이 참여합니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 방문하여 상담을 완료하신 분들에게는 100% 당첨되는 특별 사은품을 드립니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 광주 유스퀘어 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "결혼 준비 초보인데 상담이 도움이 될까요?",
+          "answer": "전문 웨딩 플래너가 1:1로 배정되어 예산 설정부터 업체 선정까지 상세하게 가이드해 드립니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 광주 지역 예비부부, 특히 복잡한 결혼 준비 과정에서 시간과 비용을 절약하고 싶은 커플을 대상으로 합니다. 어디서부터 준비해야 할지 막막한 초보 예비부부, 고품질의 스드메를 합리적인 가격에 비교하고 싶은 신혼부부, 신뢰할 수 있는 업체를 찾는 분들에게 맞춤형 솔루션을 제공합니다. 1:1 상담을 통해 나만의 웨딩 스타일을 찾아가는 과정을 경험할 수 있습니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "프리미엄 웨딩드레스샵",
+        "혼수 가전 및 예물 브랜드",
+        "허니문 여행사",
+        "한복 및 예복 전문점"
+      ],
+      "comparison_hooks": [
+        "호객행위 없는 쾌적하고 조용한 상담 환경 보장",
+        "100% 정찰제 시스템으로 투명한 가격 경쟁력",
+        "단순 박람회를 넘어 실제 계약자 만족도 96% 달성"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 혜택",
+        "결혼 준비 체크리스트",
+        "광주 웨딩홀 추천",
+        "스드메 비용 절약법",
+        "신혼여행 패키지 추천",
+        "예물 예복 브랜드 순위",
+        "광주 웨딩 플래너 추천",
+        "박람회 계약 전 주의사항",
+        "웨딩 드레스 투어 팁",
+        "결혼 준비 비용 계산기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩박람회 일정 전체보기",
+          "category": "gwangju_wedding_event"
+        },
+        {
+          "anchor": "스드메 패키지 가격 알아보기",
+          "category": "wedding_services"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "웨딩플래너",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 예비부부 필수템! 유스퀘어 웨딩박람회",
+      "og_description": "계약 시 최대 50만원 지원! 2026 결혼 준비, 이제 광주 유스퀘어 웨딩박람회에서 합리적으로 해결하세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주유스퀘어",
+        "#신혼부부혜택",
+        "#광주스드메",
+        "#결혼준비",
+        "#예비부부",
+        "#광주웨딩홀",
+        "#스드메준비",
+        "#웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/knockWed04/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_w6vVKMjefkJjzhxUhm5crs.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_dxeQHQmqqO5b3kBoi5x2TT.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wdduYIMS9Eoawf6OA2Iuf8sIkCRf.jpg"
+    },
+    "updated_at": "2026-10-23 13:01:07",
+    "revenue": 50000
   }
 ]
