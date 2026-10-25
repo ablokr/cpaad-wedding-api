@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 172,
+    "total_count": 171,
     "region_count": 15,
     "district_count": 49,
-    "updated_at": "2026-10-23 19:00:51"
+    "updated_at": "2026-10-25 10:00:04"
   },
   "items": [
     {
@@ -327,7 +327,8 @@
       "sigungu": "강남구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ulUWmUP4aYEPLovjD.jpg",
-      "updated_at": "2026-10-23 19:00:21"
+      "updated_at": "2026-10-23 19:00:21",
+      "revenue": 30000
     },
     {
       "idx": 1886,
@@ -1526,19 +1527,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1818,
-      "campaign_id": "masiltour01",
-      "gather_name": "마실투어 허니문페어",
-      "display_date": "10월 24일(토) 단 하루!",
-      "venue": "송도컨벤시아 108-109 특별행사장",
-      "sido": "인천",
-      "sigungu": "연수구",
-      "region_en": "incheon",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_A373v4gvtr38dqyf9g6ynRn.jpg",
-      "updated_at": "2026-10-19 16:00:32",
-      "revenue": 40000
-    },
-    {
       "idx": 1611,
       "campaign_id": "wedingcrowd80",
       "gather_name": "잠실 롯데백화점 웨딩박람회",
@@ -2098,6 +2086,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1755,
       "campaign_id": "wedingcrowd103",
       "gather_name": "서울 영등포 대형 웨딩박람회",
       "display_date": "10월 31일(토) ~ 11월 01일(일)",
@@ -2106,7 +2095,8 @@
       "sigungu": "영등포구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_gBynC1oUmEbV3QieexPkCVpZguf.jpg",
-      "updated_at": "2026-10-21 19:00:47"
+      "updated_at": "2026-10-21 19:00:47",
+      "revenue": 30000
     },
     {
       "idx": 1404,
