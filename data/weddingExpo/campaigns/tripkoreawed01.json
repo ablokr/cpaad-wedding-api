@@ -1,0 +1,203 @@
+{
+  "idx": 1892,
+  "campaign_id": "tripkoreawed01",
+  "gather_name": "다이렉트 효성웨딩페어 서울",
+  "organizer_name": "아트리움",
+  "seo_metadata": {
+    "title": "다이렉트 효성웨딩페어 서울 | 스드메 견적 비교 및 특별 혜택",
+    "meta_description": "2026년 10월 31일~11월 1일, 종로 효성주얼리시티에서 열리는 다이렉트 효성웨딩페어. 스드메 패키지 특가 및 계약 혜택을 확인하고 알뜰한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "서울웨딩박람회",
+      "다이렉트웨딩페어",
+      "효성주얼리시티박람회",
+      "스드메견적",
+      "결혼준비비용",
+      "웨딩홀투어",
+      "혼수준비",
+      "신혼여행패키지",
+      "결혼박람회혜택",
+      "스드메패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫 단추인 스드메부터 혼수, 허니문까지 한자리에서 비교하고 싶으신가요? 다이렉트 효성웨딩페어는 예비부부의 합리적인 결혼 준비를 돕기 위해 서울 종로 효성주얼리시티 특별행사장에서 개최됩니다.",
+    "benefits_description": "이번 박람회에서는 스튜디오, 드레스, 메이크업의 '스드메' 구성부터 허니문까지 다양한 계약 혜택이 준비되어 있습니다. 특히 드레스 무료 피팅 및 메이크업 무료 업그레이드 등 현장에서 직접 체감할 수 있는 혜택이 가득합니다. 또한, 합리적인 예산 설계를 위해 전국 최저가 보상제와 상세한 견적 비교 서비스를 제공하고 있습니다. 상담 시 포함 항목과 추가 비용에 대해 명확히 확인하신다면, 예산 계획을 세우는 데 훨씬 큰 도움이 될 것입니다.",
+    "summary_for_search": "10월 31일부터 11월 1일까지 서울 효성주얼리시티에서 열리는 다이렉트 효성웨딩페어. 스드메 패키지, 혼수, 허니문 등 합리적인 결혼 준비를 위한 상담과 다양한 계약 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "다이렉트 효성웨딩페어, 결혼 준비 비용 절감의 기회",
+    "secondary_headline": "스드메 최대 혜택 보장, 거품 없는 합리적인 견적을 지금 확인하세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 행사입니다.",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 웨딩 트렌드 및 견적 상담 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 혜택 보장",
+      "드레스 무료 피팅",
+      "메이크업 무료 업그레이드",
+      "전국 최저가 보상제 적용"
+    ],
+    "special_events": [
+      "스드메 구성 상세 비교 컨설팅",
+      "TOP 10 업체 패키지 제안"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "display_date": "10월 31일(토) ~ 11월 01일(일)",
+      "original_display_date": "10월 31일(토) ~ 11월 01일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "종로구",
+      "sigungu_en": "jongno",
+      "address": "서울 종로구 종로 183",
+      "venue": "효성주얼리시티 2층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 및 계약 진행 시 혜택이 적용되며, 상세 조건은 현장에서 확인 바랍니다.",
+    "trust_indicators": [
+      "전국 최저가 보상제 시행",
+      "다양한 스드메 업체 비교",
+      "전문 컨설턴트 1:1 맞춤 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "다이렉트 효성웨딩페어 서울",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-01",
+      "location": {
+        "@type": "Place",
+        "name": "효성주얼리시티 2층 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "종로구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "아트리움",
+        "url": "https://ad.cpaad.co.kr/tripkoreawed01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 어떻게 되나요?",
+        "answer": "해당 박람회는 사전등록을 통해 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "상담을 받으려면 무엇을 준비해야 하나요?",
+        "answer": "예식 예정일과 대략적인 예산 범위를 생각해 오시면 더욱 체계적인 상담이 가능합니다."
+      },
+      {
+        "question": "스드메 구성에 추가 비용이 발생하나요?",
+        "answer": "상담 시 포함 항목과 추가 비용 여부를 명확히 확인하는 것이 중요하며, 안내 자료 외의 상세 내역은 상담 시 문의해 주세요."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스튜디오, 드레스, 메이크업 등 다양한 웨딩 관련 업체들이 참여하며 상담을 통해 구체적인 브랜드 확인이 가능합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "현장 계약 시 패키지 할인, 무료 피팅, 서비스 업그레이드 등 다양한 혜택이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 해야 할지 막막한 예비부부, 스드메 비용과 구성이 복잡해 합리적인 선택을 고민 중인 커플에게 추천합니다. 결혼 예정일이 6개월 이내로 다가와 빠르게 정보를 비교해야 하거나, 실속 있는 혼수와 예물을 한자리에서 알아보고 싶은 분들에게 적합합니다. 웨딩 박람회를 통해 전문가의 조언을 듣고 시간과 비용을 동시에 효율적으로 관리하고 싶은 분들을 기다립니다.",
+    "exhibitor_highlights": [
+      "스튜디오 촬영 업체",
+      "웨딩 드레스샵",
+      "웨딩 메이크업",
+      "허니문 여행사",
+      "예물 브랜드"
+    ],
+    "comparison_hooks": [
+      "전국 최저가 보상제로 가격에 대한 신뢰 제공",
+      "드레스 무료 피팅 및 메이크업 업그레이드 혜택",
+      "전문 컨설턴트와의 1:1 맞춤형 스드메 견적 비교"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "서울 웨딩박람회 일정",
+      "스드메 패키지 구성",
+      "결혼식 예산 세우기",
+      "박람회 계약 혜택 확인법",
+      "결혼 준비 순서 체크리스트",
+      "웨딩홀 투어 팁",
+      "혼수 가전 저렴하게 사는 법",
+      "허니문 패키지 비교",
+      "박람회 상담 시 주의사항"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "seoul_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "결혼준비",
+      "웨딩드레스",
+      "스튜디오촬영",
+      "메이크업",
+      "신혼여행",
+      "예물",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "다이렉트 효성웨딩페어 서울 | 스드메 혜택 가득",
+    "og_description": "10월 31일~11월 1일, 서울 효성주얼리시티에서 열리는 웨딩 박람회! 무료 상담받고 스드메부터 허니문까지 알뜰하게 준비하세요.",
+    "hashtags": [
+      "#다이렉트웨딩페어",
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#효성주얼리시티",
+      "#웨딩박람회",
+      "#신혼부부",
+      "#예비부부",
+      "#결혼식",
+      "#스드메패키지"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/tripkoreawed01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_2ZNPBxvDGb258iQXHn.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_wp4df1bm2ybtC43fw3KDl.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_6mUtSlNy4zBCu1r1Pxv.jpg"
+  },
+  "updated_at": "2026-10-26 14:02:09",
+  "revenue": 40000
+}
