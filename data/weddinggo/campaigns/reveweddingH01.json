@@ -1,0 +1,210 @@
+{
+  "idx": 1543,
+  "campaign_id": "reveweddingH01",
+  "gather_name": "강릉 신혼여행 박람회",
+  "organizer_name": "주식회사 레브웨딩",
+  "seo_metadata": {
+    "title": "강릉 신혼여행 박람회 | 세인트존스호텔 무료 초대권 및 계약 혜택",
+    "meta_description": "2026년 11월 7일~8일, 강릉 세인트존스호텔 신혼여행 박람회 개최! 다이슨, 마샬 스피커 등 계약 사은품과 전문가의 1:1 맞춤 허니문 설계까지. 지금 무료 초대권 신청하고 예비부부 특별 혜택을 모두 챙겨가세요.",
+    "keywords": [
+      "강릉웨딩박람회",
+      "신혼여행박람회",
+      "강원도결혼준비",
+      "세인트존스호텔웨딩",
+      "허니문여행사",
+      "스드메상담",
+      "강릉신혼여행",
+      "신혼부부혜택",
+      "예비부부박람회",
+      "결혼준비박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 강릉 신혼여행 박람회에서 완벽한 설계를 제안합니다. 강릉 세인트존스호텔 특별행사장에서 개최되는 이번 박람회는 복잡한 결혼 준비를 전문가와 함께 효율적으로 해결할 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회는 단순 관람을 넘어 실질적인 혜택을 드립니다. 방문하시는 모든 분께 1:1 맞춤 상담을 제공하며, 현장 계약 시 다이슨 슈퍼소닉, 마샬 블루투스 스피커 등 고가의 사은품을 증정합니다. 또한 혼수 상담 시 선물 증정과 후기 작성 시 최대 5만원 상품권 혜택까지 더해져 예비부부의 경제적 부담을 덜어드립니다.",
+    "summary_for_search": "2026년 11월 7일-8일, 강릉 세인트존스호텔에서 열리는 신혼여행 박람회! 전문가의 1:1 허니문 설계와 계약 고객 대상 다이슨/마샬 경품 증정 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "단 한 번의 신혼여행, 혜택은 최대한 고민은 최소한!",
+    "secondary_headline": "강릉 세인트존스호텔 특별행사장, 스드메부터 혼수까지 한자리에서!",
+    "urgency_text": "선착순 무료 초대권 신청 마감 임박",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 커피 쿠폰 1매 증정",
+      "혼수 3개 품목 상담 시 미니 캐리어 증정",
+      "1:1 전문 웨딩 플래너 상담"
+    ],
+    "contract_benefits": [
+      "계약 시 다이슨 슈퍼소닉 뉴딜 증정",
+      "계약 시 마샬 블루투스 스피커 증정",
+      "후기 작성 시 모바일 상품권 최대 5만원 증정",
+      "혼수/예식 상담 시 현장 할인 혜택"
+    ],
+    "special_events": [
+      "신혼여행지별 맞춤 특전 제공",
+      "1:1 전문가 맞춤 허니문 설계",
+      "업체별 현장 할인 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "original_display_date": "11월 07일(토) ~ 11월 08일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "강릉시",
+      "sigungu_en": "gangneung",
+      "address": "강원특별자치도 강릉시 창해로 307",
+      "venue": "세인트존스호텔 특별행사장",
+      "parking_info": "현장 방문 시 무료 주차 지원",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "결혼예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "상담 완료 및 현장 계약 기준(상담 시 QR 스캔 등)",
+    "trust_indicators": [
+      "누적 상담 건수 1,900건 이상",
+      "전문가 1:1 맞춤 설계 보장",
+      "실제 고객 후기 기반 높은 신뢰도"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "강릉 신혼여행 박람회",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "location": {
+        "@type": "Place",
+        "name": "세인트존스호텔",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강원도 강릉시 창해로 307",
+          "addressLocality": "강릉시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 레브웨딩",
+        "url": "https://ad.cpaad.co.kr/reveweddingH01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 온라인 신청을 통해 무료 초대권을 받으시면 박람회에 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 세인트존스호텔 내에 주차가 가능하며 방문 고객께는 무료 주차 혜택을 제공합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "허니문 여행사, 스드메 패키지 전문점, 혼수 브랜드 등 결혼 준비에 필수적인 전문 업체들이 대거 참여합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "상담 항목에 따라 다르지만 보통 1시간 내외가 소요됩니다. 1:1 맞춤 상담으로 진행되어 꼼꼼한 확인이 가능합니다."
+      },
+      {
+        "question": "현장 계약 혜택은 무엇인가요?",
+        "answer": "다이슨 드라이기, 마샬 스피커 등 고가 가전 선물과 상담 후기 작성 시 상품권 추가 증정 등 다양한 혜택이 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비부부, 스드메부터 신혼여행까지 효율적인 준비를 원하는 커플들을 위한 박람회입니다. 무엇부터 시작해야 할지 막막한 예비부부에게 1:1 맞춤형 컨설팅을 제공하며, 특히 강릉 및 강원도 인근에서 실속 있는 결혼 준비와 허니문을 계획 중인 분들에게 최적화된 정보를 전달합니다. 업체 간 비용 비교가 번거로운 분들이라면 박람회에 입점한 다양한 브랜드를 한자리에서 비교하고 합리적인 패키지 견적을 받을 수 있습니다.",
+    "exhibitor_highlights": [
+      "프리미엄 허니문 여행사",
+      "스드메 토탈 웨딩샵",
+      "신혼 혼수 가전 및 가구 업체",
+      "웨딩 예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "1:1 전문가 밀착 컨설팅으로 시간과 비용 동시 절약",
+      "투명한 패키지 구성 및 현장 즉시 할인 혜택",
+      "검증된 브랜드 업체 50여 곳 비교 견적 가능"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 방문 혜택",
+      "강원도 웨딩 준비",
+      "허니문 박람회 추천",
+      "결혼 준비 체크리스트",
+      "신혼여행지 추천",
+      "스드메 패키지 가격",
+      "박람회 계약 사은품",
+      "세인트존스호텔 웨딩 박람회",
+      "웨딩홀 투어 팁",
+      "예비부부 상담 후기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강원도 전체 웨딩 일정",
+        "category": "gangwon_events"
+      },
+      {
+        "anchor": "허니문 여행 꿀팁",
+        "category": "honeymoon_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "가전",
+      "예복",
+      "결혼준비",
+      "신혼여행",
+      "박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "강릉 신혼여행 박람회 - 혜택받고 준비하자!",
+    "og_description": "세인트존스호텔에서 열리는 최대 웨딩 박람회! 지금 무료 초대권 신청하고 상담 사은품과 계약 경품을 확인해보세요.",
+    "hashtags": [
+      "#강릉웨딩박람회",
+      "#결혼준비",
+      "#신혼여행박람회",
+      "#강릉신혼여행",
+      "#예비부부",
+      "#웨딩박람회혜택",
+      "#스드메",
+      "#허니문설계",
+      "#강원도웨딩",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/reveweddingH01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_u8yrOeOIj4FSgIDKiYNSUCG.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_MR1AQUIxy8dClb.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_oeaRXJNjnYUzEU8ENS6G95G.jpg"
+  },
+  "updated_at": "2026-10-26 16:00:47",
+  "revenue": 50000
+}
