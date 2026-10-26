@@ -1432,5 +1432,213 @@
     },
     "updated_at": "2026-10-20 19:07:35",
     "revenue": 30000
+  },
+  {
+    "campaign_id": "connectwedding01",
+    "gather_name": "천안 신세계 웨딩박람회",
+    "organizer_name": "커넥팅웨딩",
+    "seo_metadata": {
+      "title": "천안 신세계 웨딩박람회 | 스드메 최대 440만원 혜택 & 삼성 혼수 특전",
+      "meta_description": "11월 7일~8일, 신세계백화점 천안아산점에서 열리는 천안 신세계 웨딩박람회! 스드메 최대 440만원 할인과 삼성 가전 혼수 사은품, 방문객 전원 선물 증정 등 놓칠 수 없는 혜택을 지금 확인하세요.",
+      "keywords": [
+        "천안웨딩박람회",
+        "천안결혼준비",
+        "신세계백화점웨딩박람회",
+        "천안스드메",
+        "천안웨딩홀",
+        "천안혼수",
+        "삼성스토어천안아산",
+        "결혼준비체크리스트",
+        "예비부부혜택",
+        "천안예식장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 천안 신세계 웨딩박람회는 신세계백화점과 삼성스토어가 함께하는 천안 최대 규모의 웨딩 축제입니다. 품격 있는 스드메부터 실속 있는 혼수 가전까지, 한곳에서 비교하고 최대 440만 원의 파격적인 혜택을 경험해 보세요.",
+      "benefits_description": "이번 박람회에서는 예비부부님을 위한 역대급 혜택을 준비했습니다. 방문만 해도 드리는 특별 선물은 물론, 웨딩홀 대관료 할인 및 식대 할인 혜택까지 제공합니다. 특히 혼수 가전 구매 시 최대 4종 사은품 증정 및 삼성스토어 특별 할인 등 예산 절감의 기회를 놓치지 마세요. 1:1 맞춤 상담을 통해 가장 합리적인 결혼 준비를 도와드립니다.",
+      "summary_for_search": "11월 7일~8일, 천안 신세계 웨딩박람회 개최! 스드메 최대 440만원 할인, 혼수 가전 사은품 증정 및 웨딩홀 특전 제공. 지금 사전 신청하고 특별 혜택을 모두 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "지금 신청하면 최대 440만원 혜택! 천안 신세계 웨딩박람회",
+      "secondary_headline": "스드메부터 혼수가전까지, 신세계백화점에서 완성하는 프리미엄 웨딩 준비",
+      "urgency_text": "선착순 방문객 혜택 조기 마감 주의",
+      "call_to_action_text": "무료 사전 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 특별 선물 증정",
+        "고급 와인 증정(선착순)"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최대 440만원 혜택",
+        "웨딩홀 대관료 및 식대 할인",
+        "혼수 가전 구매 시 최대 4종 사은품 증정",
+        "삼성스토어 추가 혜택 및 상품권 증정"
+      ],
+      "special_events": [
+        "프리미엄 웨딩드레스 전시 및 피팅",
+        "웨딩홀 1:1 무료 상담",
+        "혼수가전 특별전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-08",
+        "display_date": "11월 07일(토) ~ 11월 08일(일)",
+        "original_display_date": "11월 07일(토) ~ 11월 08일(일)"
+      },
+      "location": {
+        "sido": "충남",
+        "sido_en": "chungnam",
+        "sigungu": "천안시",
+        "sigungu_en": "cheonan",
+        "address": "충남 천안시 동남구 만남로 43",
+        "venue": "신세계백화점 천안아산점",
+        "parking_info": "신세계백화점 천안아산점 주차장 이용 가능",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "신랑님 성함",
+        "신부님 성함",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "삼성스토어 협력 공식 박람회",
+        "전문 웨딩 플래너 1:1 상담",
+        "프리미엄 브랜드 스드메 총집합"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "천안 신세계 웨딩박람회",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "location": {
+          "@type": "Place",
+          "name": "신세계백화점 천안아산점",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "천안시",
+            "addressRegion": "충남",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "커넥팅웨딩",
+          "url": "https://ad.cpaad.co.kr/connectwedding01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "네, 혼잡 방지 및 1:1 맞춤 상담을 위해 사전 예약을 권장하며, 예약 시 방문 혜택도 제공됩니다."
+        },
+        {
+          "question": "박람회 참가비가 있나요?",
+          "answer": "아니요, 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "혼수 가전 혜택은 어떤 것이 있나요?",
+          "answer": "삼성스토어와 협업하여 가전 구매 시 최대 4종 사은품 증정 및 추가 상품권 혜택을 제공합니다."
+        },
+        {
+          "question": "스드메 패키지 상담도 가능한가요?",
+          "answer": "네, 프리미엄 드레스와 스튜디오, 메이크업을 한곳에서 비교하고 실속 있는 패키지 상담이 가능합니다."
+        },
+        {
+          "question": "주차는 편리한가요?",
+          "answer": "신세계백화점 천안아산점 주차장을 이용하실 수 있어 편리하게 방문 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 모든 예비부부를 대상으로 합니다. 특히 결혼 준비를 6개월 이내에 집중적으로 시작해야 하는 커플이나, 스드메 비용을 합리적으로 비교하고 싶어 하는 신혼부부에게 최적화되어 있습니다. 직장 생활로 바쁜 예비부부를 위해 복잡한 웨딩 준비 과정을 체계적으로 설계해주며, 가전 혼수까지 원스톱으로 해결하고 싶은 분들에게 최고의 기회를 제공합니다.",
+      "exhibitor_highlights": [
+        "프리미엄 웨딩드레스 샵",
+        "스튜디오 촬영 업체",
+        "웨딩홀 및 식장 상담",
+        "혼수 가전(삼성스토어)",
+        "웨딩 메이크업 브랜드"
+      ],
+      "comparison_hooks": [
+        "삼성스토어 단독 제휴로 가전 혼수 혜택 극대화",
+        "신세계백화점의 신뢰도 높은 검증된 업체 참여",
+        "지역 내 최대 규모의 스드메 비교 및 1:1 컨설팅"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "결혼 준비 순서",
+        "스드메 평균 비용",
+        "웨딩홀 투어 팁",
+        "신혼가전 필수 목록",
+        "웨딩박람회 선물",
+        "천안 예식장 추천",
+        "결혼 예산 짜기",
+        "예복 예물 준비",
+        "웨딩플래너 역할",
+        "천안 신혼여행 상담"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "천안 웨딩홀 전체 정보 보기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 등급별 가격 정보",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "예식장",
+        "웨딩플래너",
+        "부케",
+        "가전",
+        "허니문",
+        "결혼비용",
+        "웨딩밴드"
+      ]
+    },
+    "social_meta": {
+      "og_title": "천안 신세계 웨딩박람회, 혜택 총정리",
+      "og_description": "예비부부 필수 코스! 스드메 440만원 혜택과 혼수 사은품까지 지금 바로 신청하고 챙겨가세요.",
+      "hashtags": [
+        "#천안웨딩박람회",
+        "#천안결혼준비",
+        "#신세계웨딩박람회",
+        "#천안스드메",
+        "#결혼준비시작",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#혼수준비",
+        "#삼성스토어",
+        "#천안웨딩홀"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/connectwedding01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_pXXFk5XxAwqV5dz7a5Yc6Ar3z.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_6M3jVzfPNsvioPeQQC8oN.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_UnYp9oVAiTqPXKl.jpg"
+    },
+    "updated_at": "2026-10-26 13:10:36"
   }
 ]

@@ -1,0 +1,210 @@
+{
+  "idx": 722,
+  "campaign_id": "howto02",
+  "gather_name": "수원컨벤션 허니문 박람회",
+  "organizer_name": "하우투웨딩",
+  "seo_metadata": {
+    "title": "수원컨벤션 허니문 웨딩박람회 | 최대 100만원 할인 & 스드메 혜택",
+    "meta_description": "11월 7일~8일 수원컨벤션센터 개최! 신혼여행 특가부터 스드메 업그레이드, 방문객 대상 신세계 상품권 및 스타벅스 에코백 증정까지. 지금 바로 무료 참가 신청하세요.",
+    "keywords": [
+      "수원웨딩박람회",
+      "수원컨벤션웨딩박람회",
+      "결혼준비",
+      "신혼여행박람회",
+      "스드메패키지",
+      "예비부부혜택",
+      "수원결혼준비",
+      "허니문특가",
+      "웨딩홀비교",
+      "결혼준비박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 수원컨벤션센터에서 열리는 허니문 웨딩박람회는 복잡한 결혼 준비를 한자리에서 끝낼 수 있는 최적의 기회입니다. 실력 있는 전문가들의 1:1 맞춤 상담을 통해 합리적인 결혼 계획을 세워보세요.",
+    "benefits_description": "이번 박람회는 단순한 정보 제공을 넘어 실질적인 혜택을 가득 담았습니다. 현장 계약 고객에게는 최대 100만원 상당의 허니문 지원금과 함께 스드메 업그레이드, 무료 드레스 피팅 및 가봉스냅 촬영권 등 파격적인 선물을 제공합니다. 방문만 해도 신세계 상품권과 스타벅스 에코백을 증정하는 등 예비 부부들의 부담을 덜어드리기 위한 특별한 구성이 준비되어 있으니 꼭 방문하여 혜택을 챙겨가세요.",
+    "summary_for_search": "11월 7일~8일 수원컨벤션센터에서 열리는 수원 허니문 웨딩박람회에서 스드메, 허니문, 웨딩홀을 한 번에 해결하세요. 최대 100만원 지원 및 풍성한 방문 경품까지 준비되어 있습니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 지금이 기회! 계약 시 최대 100만원 현금 지원",
+    "secondary_headline": "수원컨벤션센터에서 만나는 특별한 허니문 특가와 스드메 패키지 프로모션",
+    "urgency_text": "선착순 방문객 대상 경품 증정! 이번 주말 단 2일간 진행",
+    "call_to_action_text": "박람회 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 스타벅스 에코백 증정",
+      "신세계 상품권 10만원권 증정 (추첨/조건부)"
+    ],
+    "contract_benefits": [
+      "허니문 계약 시 최대 100만원 상당 할인",
+      "스드메 300만원 상당 업그레이드 서비스",
+      "무료 드레스 피팅권 (30커플 추첨)",
+      "무료 가봉스냅 촬영권 (20커플 추첨)",
+      "무료 스튜디오 촬영권 (10커플 추첨)"
+    ],
+    "special_events": [
+      "유럽 및 몰디브 허니문 특가 프로모션",
+      "웨딩홀 실시간 비교 및 할인 프로모션",
+      "1:1 전문가 맞춤 웨딩 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-07",
+      "end_date": "2026-11-08",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "original_display_date": "11월 07일(토) ~ 11월 08일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 특별행사장",
+      "parking_info": "수원컨벤션센터 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 확인 시 증정",
+    "trust_indicators": [
+      "수원 최대 규모 웨딩박람회",
+      "현장 전문가 1:1 맞춤 상담 보장",
+      "검증된 프리미엄 웨딩 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원컨벤션 허니문 웨딩박람회",
+      "startDate": "2026-11-07",
+      "endDate": "2026-11-08",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 수원시",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하우투웨딩",
+        "url": "https://ad.cpaad.co.kr/howto02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 참가비가 있나요?",
+        "answer": "아니요, 사전 신청 시 무료로 참가하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "수원컨벤션센터 내 주차장을 이용하실 수 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "최대 100만원 허니문 지원금과 스드메 업그레이드 등 다양한 현장 계약 혜택이 제공됩니다."
+      },
+      {
+        "question": "스드메 패키지 상담도 가능한가요?",
+        "answer": "네, 전문 웨딩 컨설턴트가 고객님 예산과 취향에 맞는 스드메 패키지를 1:1로 설계해 드립니다."
+      },
+      {
+        "question": "방문만 해도 선물을 받을 수 있나요?",
+        "answer": "네, 현장 상담을 완료하시는 분들께 선착순으로 스타벅스 에코백 등 다양한 경품을 증정합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장 선택부터 신혼여행지 결정까지 복잡한 과정에 고민이 많은 예비부부를 대상으로 합니다. 특히 결혼 준비 기간을 효율적으로 줄이고 싶거나, 고가의 결혼 비용을 합리적인 예산 내에서 해결하고자 하는 실속파 신혼부부에게 필수적입니다. 스드메 패키지, 혼수, 허니문까지 전문적인 정보를 한자리에서 비교하고 싶어 하는 모든 커플들에게 유용한 맞춤형 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 및 드레스샵",
+      "메이크업 전문 브랜드",
+      "허니문 전문 여행사",
+      "웨딩홀 및 베뉴 업체",
+      "예물 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 할인 및 캐시백 혜택 제공",
+      "검증된 프리미엄 업체들과의 1:1 밀착 컨설팅",
+      "타 박람회 대비 업그레이드된 풍성한 계약 사은품"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 일정",
+      "2026 결혼 준비 순서",
+      "신혼여행지 추천",
+      "스드메 비용 절약법",
+      "결혼 박람회 방문 후기",
+      "웨딩홀 투어 팁",
+      "혼수 리스트 확인",
+      "예물 예복 브랜드 추천",
+      "허니문 특가 프로모션",
+      "웨딩플래너 상담 예약"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 정보 더보기",
+        "category": "wedding_venues"
+      },
+      {
+        "anchor": "허니문 패키지 리스트",
+        "category": "honeymoon_deals"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "신혼여행",
+      "결혼준비",
+      "드레스",
+      "턱시도",
+      "웨딩촬영"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원컨벤션 웨딩박람회 | 최대 100만원 지원",
+    "og_description": "예비부부라면 꼭 가야 할 수원 허니문 웨딩박람회! 스드메, 허니문, 예물까지 한 번에 상담받고 특별한 혜택을 확인하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#수원결혼",
+      "#예비부부",
+      "#스드메",
+      "#신혼여행",
+      "#웨딩박람회혜택",
+      "#수원컨벤션센터",
+      "#허니문",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/howto02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_wF2xmee6b99slJogTVoNZ3FYdQ9KQ.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_XN6QSFrmFSaiaKiJhRc.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_sZMloEo7kjRymXeUlPRu6V8rkHFCS5uE.jpg"
+  },
+  "updated_at": "2026-10-26 13:07:33",
+  "revenue": 35000
+}
