@@ -411,5 +411,213 @@
     },
     "updated_at": "2026-10-23 13:31:32",
     "revenue": 50000
+  },
+  {
+    "idx": 1643,
+    "campaign_id": "theBW07",
+    "gather_name": "광주 컨벤션 웨딩박람회",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 컨벤션 웨딩박람회 | 스드메 견적 상담 및 계약 혜택 정보",
+      "meta_description": "광주 웨딩박람회 정보, 10월 31일~11월 1일 개최! 스드메 패키지 상담부터 가전, 예물, 예복까지 한자리에서 비교하고 특별한 계약 혜택을 확인하세요. 사전등록 시 경품 증정.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주스드메",
+        "광주웨딩홀",
+        "컨벤션웨딩박람회",
+        "광주예식장",
+        "결혼준비꿀팁",
+        "웨딩박람회사전등록",
+        "광주혼수",
+        "광주웨딩패키지"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞두고 어디서부터 준비해야 할지 막막한 광주 예비부부님들을 위해 '광주 컨벤션 웨딩박람회'가 개최됩니다. 10월 31일부터 11월 1일까지 컨벤션 타워에서 열리는 이번 박람회에서는 광주 지역의 인기 웨딩홀부터 스드메 패키지, 혼수, 가전까지 실속 있는 정보를 한자리에서 모두 확인하실 수 있습니다.",
+      "benefits_description": "이번 박람회는 현장 방문객을 위한 다양한 선물을 준비했습니다. 사전등록 후 방문 시 스타벅스 쿠폰과 특별 사은품을 증정하며, 현장 계약 시에는 최대 50만원 상당의 계약 축하금 및 가전 혜택이 제공되는 것으로 확인됩니다. 또한 웨딩홀 대관료 할인부터 예물, 예복, 허니문까지 각 부스별로 박람회 전용 프로모션이 진행되니 평소 눈여겨보던 업체가 있다면 상담을 통해 상세 견적을 비교해보시기 바랍니다.",
+      "summary_for_search": "광주 컨벤션 웨딩박람회(10/31~11/1) 개최! 광주 지역 예비부부를 위한 스드메, 웨딩홀, 혼수 특별 프로모션과 상담 혜택을 한자리에서 확인하고 무료 사전등록으로 사은품까지 챙기세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "광주 컨벤션 웨딩박람회, 지금 사전등록하고 최대 혜택 받으세요",
+      "secondary_headline": "7년 연속 광주 웨딩박람회 1위 브랜드, 스드메부터 가전까지 한 번에 끝내는 결혼 준비의 정석",
+      "urgency_text": "사전등록 후 방문 시 선착순 사은품 증정, 이번 주말 단 2일간 진행",
+      "call_to_action_text": "무료 사전등록하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 스타벅스 쿠폰 증정",
+        "사전신청 방문 사은품 증정"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 최대 50만원 축하금",
+        "웨딩홀 대관료 최대 할인 및 골든타임 확보",
+        "혼수/가전/예물/예복 현장 전용 프로모션가 적용"
+      ],
+      "special_events": [
+        "1:1 맞춤형 웨딩 상담 컨설팅",
+        "2026년 웨딩홀 골든타임 확보 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-10-31",
+        "end_date": "2026-11-01",
+        "display_date": "10월 31일(토) ~ 11월 01일(일)",
+        "original_display_date": "10월 31일(토) ~ 11월 01일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "광주 서구 상무누리로 30",
+        "venue": "컨벤션 타워 2층",
+        "parking_info": "현장 방문 시 문의 가능 (주차장 완비)",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전등록 후 행사 기간 내 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "광주 웨딩박람회 부문 7년 연속 1위",
+        "전문 웨딩 플래너 1:1 밀착 상담",
+        "검증된 지역 유명 제휴 업체 참여"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 컨벤션 웨딩박람회",
+        "startDate": "2026-10-31",
+        "endDate": "2026-11-01",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "컨벤션 타워",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "서구",
+            "addressLocality": "광주",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBW07/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 사전등록은 꼭 해야 하나요?",
+          "answer": "사전등록 시 대기 시간 없이 원활한 상담이 가능하며, 방문 사은품 및 박람회 전용 계약 혜택을 우선적으로 받으실 수 있어 적극 권장합니다."
+        },
+        {
+          "question": "박람회 현장 상담 시간은 얼마나 걸리나요?",
+          "answer": "개인별 준비 상황에 따라 다르지만, 보통 스드메 및 웨딩홀 상담을 종합적으로 진행할 경우 1시간 30분에서 2시간 정도 소요됩니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "네, 행사 장소인 컨벤션 타워에 주차가 가능하며 방문객을 위한 편의 시설이 마련되어 있습니다."
+        },
+        {
+          "question": "상담 시 계약을 필수로 해야 하나요?",
+          "answer": "아닙니다. 박람회는 다양한 업체의 정보를 비교하고 전문가의 조언을 듣는 자리입니다. 상담 후 충분히 고민하고 결정하셔도 좋습니다."
+        },
+        {
+          "question": "웨딩홀 투어 예약을 박람회에서 할 수 있나요?",
+          "answer": "네, 광주 지역 주요 웨딩홀의 2026년 골든타임 잔여석 확인 및 박람회 전용 특전이 적용된 투어 예약이 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 업체 선정에 어려움을 겪는 6개월 내 예비 신랑신부, 광주 지역 웨딩홀 견적 비교를 원하는 분들을 대상으로 합니다. 단순히 결혼 정보만 나열하는 것이 아니라, 현직 플래너의 전문적인 시각으로 결혼 준비의 우선순위를 제안합니다. 특히 바쁜 일상 속에서 여러 업체 발품을 파는 대신, 신뢰도 높은 제휴 업체를 한자리에서 비교하고 예산 절감 혜택까지 챙기고자 하는 스마트한 예비부부에게 최적화된 정보를 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 베뉴",
+        "스드메 패키지",
+        "허니문 여행사",
+        "예물 및 명품 주얼리",
+        "맞춤 예복 및 한복",
+        "신혼 가전"
+      ],
+      "comparison_hooks": [
+        "광주 지역 7년 연속 웨딩박람회 1위 선정의 전문성",
+        "박람회 당일 계약 시 최대 50만원 즉시 할인 혜택",
+        "2026년 웨딩홀 골든타임 및 잔여석 우선 배정 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 결혼준비 순서",
+        "광주 스드메 가격",
+        "광주 웨딩홀 추천",
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "웨딩컨설팅 상담 비용",
+        "광주 예물 추천",
+        "허니문 박람회 혜택",
+        "광주 맞춤정장",
+        "2026년 웨딩 트렌드"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 투어 팁",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 비교하기",
+          "category": "wedding_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "가전",
+        "신혼여행",
+        "예복",
+        "예물",
+        "웨딩컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 컨벤션 웨딩박람회 10/31 개최!",
+      "og_description": "광주 웨딩 준비의 시작, 컨벤션 웨딩박람회에서 최대 할인 혜택과 상담 경품을 놓치지 마세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주웨딩홀",
+        "#광주스드메",
+        "#결혼준비",
+        "#웨딩박람회",
+        "#컨벤션웨딩박람회",
+        "#광주예식장",
+        "#예비부부",
+        "#웨딩상담"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBW07/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_MP5g89Vo6i4AxNVwmAzoMSiYD.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ylL1dTwvIG8v32Hs8.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_lMVmmqKFqQvIvNA7EN7RvLbviScbYGj.jpg"
+    },
+    "updated_at": "2026-10-26 19:34:39",
+    "revenue": 30000
   }
 ]
