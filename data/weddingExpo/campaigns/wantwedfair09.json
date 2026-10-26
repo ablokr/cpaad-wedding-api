@@ -1,0 +1,202 @@
+{
+  "campaign_id": "wantwedfair09",
+  "gather_name": "강릉 컨벤션센터 대형 웨딩박람회",
+  "organizer_name": "패밀리투어",
+  "seo_metadata": {
+    "title": "강릉 웨딩박람회 | 강릉컨벤션센터 스드메·혼수 최신 혜택 확인",
+    "meta_description": "11월 14일~15일 강릉컨벤션센터에서 열리는 대형 웨딩박람회. 스드메 패키지, 혼수, 허니문까지 한자리에서 비교하고 상담 시 증정되는 선물과 계약 혜택을 확인하세요.",
+    "keywords": [
+      "강릉웨딩박람회",
+      "강릉결혼준비",
+      "강릉컨벤션센터웨딩",
+      "강릉스드메",
+      "강릉혼수",
+      "강릉웨딩홀",
+      "강릉허니문",
+      "2026결혼준비",
+      "강릉예물",
+      "강릉예복"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하셨나요? 강릉컨벤션센터에서 열리는 이번 대형 웨딩박람회는 복잡한 결혼 준비 과정을 한눈에 정리하고 최신 트렌드를 확인하실 수 있는 최적의 장소입니다. 스드메부터 혼수, 신혼여행까지 전문가의 1:1 상담을 통해 두 분만의 합리적인 예식 계획을 세워보세요.",
+    "benefits_description": "이번 박람회에서는 방문만 하셔도 정성껏 준비한 참가 선물을 증정하며, 상담 및 계약 시에는 로봇청소기, 스타벅스 쿠폰, 여행용 캐리어 등 실속 있는 경품 혜택이 기다리고 있습니다. 각 분야 전문가들이 예비부부님들의 예산에 맞춘 1:1 맞춤 상담을 진행하며, 드레스 피팅 체험과 같은 특별한 경험도 준비되어 있습니다. 더 자세한 혜택 수령 조건은 현장 상담을 통해 안내받으실 수 있으니, 꼭 사전 등록 후 방문하시어 꼼꼼히 혜택을 챙겨가시길 바랍니다.",
+    "summary_for_search": "11월 14일~15일 강릉컨벤션센터 웨딩박람회 개최. 스드메, 혼수, 허니문 상담부터 계약 혜택까지 한자리에서 확인하세요. 지금 사전 신청하고 방문 선물과 상담 혜택을 받아보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "강릉컨벤션센터 대형 웨딩박람회! 지금 신청 시 특별 선물 증정",
+    "secondary_headline": "스드메부터 허니문까지, 예비부부를 위한 결혼 준비 원스톱 솔루션",
+    "urgency_text": "이번 주말 딱 이틀간만 진행되는 특별한 혜택을 놓치지 마세요.",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 완료 시 스타벅스 쿠폰 등 참가 선물 증정",
+      "방문 상담자 대상 혼수 상담 사은품 증정"
+    ],
+    "contract_benefits": [
+      "계약 시 로봇청소기 등 대형 가전 경품 추첨 기회",
+      "박람회 특별 계약 할인 및 추가 혜택 제공",
+      "계약자 대상 추가 사은품 증정"
+    ],
+    "special_events": [
+      "스드메 1:1 전문 상담",
+      "웨딩 드레스 피팅 체험",
+      "혼수 및 허니문 특별 프로모션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "강릉시",
+      "sigungu_en": "gangneung",
+      "address": "강원특별자치도 강릉시 난설헌로 36",
+      "venue": "강릉컨벤션센터 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 등록 후 현장 방문 및 상담 완료 시 증정 (자세한 조건은 현장 확인)",
+    "trust_indicators": [
+      "강릉 지역 대형 웨딩박람회",
+      "1:1 맞춤형 전문가 상담",
+      "다양한 웨딩 브랜드 및 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "강릉 컨벤션센터 대형 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "강릉컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "강릉컨벤션센터",
+          "addressLocality": "강릉시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "패밀리투어",
+        "url": "https://ad.cpaad.co.kr/wantwedfair09/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 사전 등록을 완료하시면 무료로 입장이 가능합니다."
+      },
+      {
+        "question": "사전 등록은 어떻게 하나요?",
+        "answer": "안내된 페이지의 무료 참가 신청 양식을 작성하여 제출하시면 됩니다."
+      },
+      {
+        "question": "방문하면 무엇을 받을 수 있나요?",
+        "answer": "현장 방문 및 상담을 진행하시면 참가 선물과 혼수 상담 사은품 등을 증정합니다."
+      },
+      {
+        "question": "계약 시 어떤 혜택이 있나요?",
+        "answer": "계약하신 분들께는 가전 경품 추첨 기회 및 박람회 특별 할인 혜택이 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메, 웨딩홀, 허니문, 예물, 예복, 혼수 가전 등 결혼 준비에 필요한 다수의 업체가 참여합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장, 스튜디오, 드레스, 메이크업(스드메) 업체 선정에 고민이 많은 강릉 지역 예비부부님들을 대상으로 합니다. 막막한 결혼 준비의 첫 단계부터 허니문 예약, 혼수 가전까지 한자리에서 효율적으로 비교하고자 하는 커플에게 적합합니다. 전문가와 1:1 상담을 통해 두 분만의 예산에 맞는 실속 있는 결혼식을 준비하고 싶으신 분들께 최고의 정보 제공 창구가 될 것입니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 업체",
+      "웨딩홀 제휴처",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전 업체"
+    ],
+    "comparison_hooks": [
+      "강릉 지역 최대 규모로 다양한 업체 비교 가능",
+      "현장 전문가와 1:1 맞춤형 상담 제공",
+      "박람회 전용 단독 할인 및 계약 사은품 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "강릉 웨딩박람회 일정",
+      "웨딩박람회 준비물",
+      "강릉 스드메 비용",
+      "결혼 준비 순서",
+      "웨딩박람회 방문 혜택",
+      "강릉 예식장 추천",
+      "신혼여행 패키지 비교",
+      "결혼 박람회 계약 시 주의사항",
+      "강릉 예물 예복 추천",
+      "2026년 결혼 준비"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강릉 웨딩박람회 최신 일정",
+        "category": "gangneung_wedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "예물",
+      "예복",
+      "결혼준비",
+      "박람회",
+      "강릉웨딩"
+    ]
+  },
+  "social_meta": {
+    "og_title": "강릉컨벤션센터 웨딩박람회 | 결혼 준비 필수 혜택",
+    "og_description": "11월 14~15일, 강릉 예비부부를 위한 대형 웨딩박람회! 방문만 해도 선물 증정, 지금 사전 신청하세요.",
+    "hashtags": [
+      "#강릉웨딩박람회",
+      "#강릉결혼준비",
+      "#강릉컨벤션센터",
+      "#강릉스드메",
+      "#강릉웨딩홀",
+      "#결혼준비시작",
+      "#예비부부",
+      "#웨딩박람회혜택",
+      "#강릉예물",
+      "#강릉예복"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wantwedfair09/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_KkOdCU4PHi9Dc1N2sDI1S9F.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_xpambMMLjomEyXZE.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_1sEojGKnvMSun9lXP2P52Ty6fOcB2.jpg"
+  },
+  "updated_at": "2026-10-26 20:06:14"
+}

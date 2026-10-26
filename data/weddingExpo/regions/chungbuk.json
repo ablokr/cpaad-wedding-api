@@ -1032,5 +1032,417 @@
     },
     "updated_at": "2026-10-22 20:01:52",
     "revenue": 35000
+  },
+  {
+    "idx": 1259,
+    "campaign_id": "wedingcrowd28",
+    "gather_name": "청주 지웰시티몰 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "청주 지웰시티몰 웨딩박람회 | 스드메 혜택 및 혼수 상담 신청",
+      "meta_description": "11월 21일~22일 청주 지웰시티몰 웨딩박람회 개최. 스드메 패키지 특가 및 혼수, 예물, 한복 상담 혜택을 지금 확인하고 무료 참가 신청하세요.",
+      "keywords": [
+        "청주웨딩박람회",
+        "청주결혼준비",
+        "지웰시티몰웨딩박람회",
+        "청주스드메",
+        "청주웨딩홀",
+        "충북웨딩박람회",
+        "결혼준비체크리스트",
+        "청주혼수",
+        "청주예물",
+        "청주한복"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 막막함을 해소하고 싶다면 청주 지웰시티몰 웨딩박람회에 주목해 보세요. 예식장부터 스드메, 혼수, 가전까지 한자리에서 비교하고 합리적인 조건으로 결혼 준비를 시작할 수 있도록 돕는 실속 있는 기회입니다.",
+      "benefits_description": "이번 박람회에서는 스드메 패키지 최저가 보장 혜택과 더불어, 계약 시 웨딩드레스 업그레이드 등 다양한 현장 혜택이 준비되어 있습니다. 방문만 해도 스타벅스 상품권 등 실속 있는 선물을 증정하며, 전문 웨딩 플래너의 1:1 맞춤 상담을 통해 두 분의 예산에 딱 맞는 계획을 세울 수 있습니다. 구체적인 혜택 적용 대상과 추가 비용 항목은 현장 상담을 통해 꼭 확인하시어 알뜰한 준비 하시길 바랍니다.",
+      "summary_for_search": "11월 21일부터 22일까지 청주 지웰시티몰2 특별전시장에서 웨딩박람회가 열립니다. 스드메 최저가 보장 및 혼수, 예물, 가전 상담 혜택을 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "청주 지웰시티몰 웨딩박람회, 결혼 준비의 모든 것 한자리에서!",
+      "secondary_headline": "스드메 최저가 보장 및 예물, 가전, 혼수까지 특별 할인 혜택을 놓치지 마세요.",
+      "urgency_text": "이번 주말, 11월 21일 ~ 11월 22일 단 이틀간 진행!",
+      "call_to_action_text": "지금 무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 상품권 증정",
+        "웨딩홀 상담 시 15% 할인권 제공"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최저가 보장",
+        "웨딩드레스 100만원 상당 무료 업그레이드 혜택",
+        "계약 시 웨딩 축하금 지원(상담 시 확인 필요)"
+      ],
+      "special_events": [
+        "혼수이사 특별기획전",
+        "가구/가전 튼튼 프로모션",
+        "웨딩검진 혜택 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "충북",
+        "sido_en": "chungbuk",
+        "sigungu": "청주시",
+        "sigungu_en": "cheongju",
+        "address": "충북 청주시 흥덕구 대농로 47-1 B1층 B13호 (복대동 3381)",
+        "venue": "청주 지웰시티몰2 특별전시장",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일",
+        "상담 희망 품목"
+      ],
+      "gift_conditions": "상담 완료 후 현장 운영본부에서 수령 가능하며, 자세한 조건은 신청 후 개별 안내를 확인하세요.",
+      "trust_indicators": [
+        "1:1 맞춤 웨딩 전문 플래너 상담",
+        "스드메 패키지 최저가 보장제",
+        "검증된 혼수 및 예물 업체 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "청주 지웰시티몰 웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "location": {
+          "@type": "Place",
+          "name": "청주 지웰시티몰2 특별전시장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "청주시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd28/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "해당 박람회는 사전 신청 시 무료로 참가할 수 있습니다."
+        },
+        {
+          "question": "사전 등록은 어떻게 하나요?",
+          "answer": "공식 페이지의 참가 신청 폼에 이름, 연락처, 결혼 예정일을 입력하여 신청할 수 있습니다."
+        },
+        {
+          "question": "스드메 패키지 외에 혼수 상담도 가능한가요?",
+          "answer": "네, 예물, 한복, 가구, 가전 등 결혼 준비에 필요한 다양한 혼수 업체가 입점하여 상담이 가능합니다."
+        },
+        {
+          "question": "방문 사은품은 어떻게 받을 수 있나요?",
+          "answer": "현장 방문 및 상담 완료 후 제공되며, 자세한 조건은 안내 자료를 참고하거나 상담 시 문의해 주세요."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "장소 특성상 지웰시티몰 주차장을 이용할 수 있으나, 자세한 주차 지원 여부는 안내 자료에 명시되어 있지 않으므로 방문 전 주최 측에 확인하시기 바랍니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 날짜는 정했지만 어디서부터 시작해야 할지 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 커플, 그리고 혼수와 가전 등 결혼 준비의 모든 과정을 한자리에서 효율적으로 끝내고 싶은 분들을 위한 행사입니다. 웨딩홀 섭외부터 신혼여행, 예물 상담까지 결혼 준비의 각 단계를 전문가의 도움을 받아 체계적으로 준비하고 싶다면 이번 박람회가 유용한 가이드가 될 것입니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 패키지 업체",
+        "웨딩홀 추천 및 상담 데스크",
+        "예물/주얼리 브랜드",
+        "한복 대여 및 맞춤 전문점",
+        "신혼가구 및 혼수가전 브랜드"
+      ],
+      "comparison_hooks": [
+        "스드메 최저가 보장제 운영으로 거품 없는 비용 견적",
+        "1:1 맞춤 웨딩 플래너 상담으로 불필요한 준비 과정 생략",
+        "혼수·예물·가전 등 결혼 관련 전 카테고리 입점으로 원스톱 준비 가능"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "청주 웨딩박람회 일정",
+        "결혼 준비 순서",
+        "스드메 견적 비교",
+        "웨딩박람회 방문 팁",
+        "청주 웨딩홀 추천",
+        "결혼 예산 세우기",
+        "혼수 가전 준비",
+        "예물 커플링 브랜드",
+        "한복 맞춤 가격",
+        "웨딩 플래너 상담 내용"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "청주 웨딩홀 정보 더 보기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 상담 예약",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "혼수",
+        "예물",
+        "한복",
+        "웨딩촬영",
+        "신혼여행",
+        "결혼예산",
+        "예복",
+        "가전제품"
+      ]
+    },
+    "social_meta": {
+      "og_title": "청주 지웰시티몰 웨딩박람회! 혜택 확인",
+      "og_description": "스드메 최저가 보장부터 혼수 혜택까지! 청주 예비부부를 위한 웨딩박람회에 지금 바로 무료로 신청하세요.",
+      "hashtags": [
+        "#청주웨딩박람회",
+        "#청주결혼준비",
+        "#청주스드메",
+        "#예비부부",
+        "#결혼준비",
+        "#청주웨딩홀",
+        "#지웰시티몰웨딩박람회",
+        "#웨딩박람회혜택",
+        "#혼수준비",
+        "#청주예물"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd28/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_FUfJ57kQHqiVHEvK2Oc.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_3KxsilP1NX.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202608/568762912459e51e2cbac9155f241418_yij3Hfqh.jpg"
+    },
+    "updated_at": "2026-10-26 20:04:13",
+    "revenue": 30000
+  },
+  {
+    "idx": 1236,
+    "campaign_id": "withyouwedding19",
+    "gather_name": "충주 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "충주 위드유 웨딩박람회 | LG전자 베스트샵 상담 혜택 및 무료 초대장",
+      "meta_description": "충주 위드유 웨딩박람회 개최! LG전자 베스트샵 충주본점에서 열리는 이번 박람회에서 스드메 패키지, 예물, 허니문까지 합리적인 가격에 비교하세요. 지금 무료 초대장을 신청하고 다양한 방문 및 계약 혜택을 확인해보세요.",
+      "keywords": [
+        "충주웨딩박람회",
+        "충주결혼준비",
+        "충주스드메",
+        "LG전자베스트샵충주본점",
+        "충주웨딩홀",
+        "충주예물",
+        "충주허니문",
+        "위드유웨딩",
+        "결혼준비박람회",
+        "예비부부혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 두 분을 위해 충주 위드유 웨딩박람회가 특별한 자리를 마련했습니다. 11월 7일부터 8일까지 LG전자 베스트샵 충주본점에서 열리는 이번 행사는 예식장부터 스드메, 허니문까지 결혼의 모든 과정을 한자리에서 효율적으로 준비할 수 있는 기회입니다.",
+      "benefits_description": "방문만 하셔도 식전영상 제작권, 모바일 청첩장 쿠폰, 웨딩 다이어리 등 필수 준비 아이템을 모두 드립니다. 현장 상담 시에는 스튜디오, 드레스, 메이크업 패키지부터 예복, 예물, 가전까지 각 분야 전문가의 1:1 맞춤 상담을 받으실 수 있습니다. 특히 계약 혜택으로 제공되는 최대 50만 원 상당의 상품권과 허니문 지원 혜택은 실질적인 예산 절감에 큰 도움이 될 것입니다. 혜택의 구체적인 적용 범위와 상세 조건은 현장 상담을 통해 안내받으실 수 있으니, 궁금한 점은 상담 시 전문가에게 직접 확인해 보세요.",
+      "summary_for_search": "11월 7일~8일, LG전자 베스트샵 충주본점에서 열리는 충주 위드유 웨딩박람회! 스드메 패키지, 예물, 허니문 상담을 한 번에 받고 다양한 방문 및 계약 사은품 혜택을 챙겨보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "충주 위드유 웨딩박람회, 지금 무료 초대장 신청하고 최대 혜택 받으세요",
+      "secondary_headline": "스드메부터 혼수, 허니문까지 실속 있는 결혼 준비를 위한 1:1 맞춤형 컨설팅",
+      "urgency_text": "이번 주말 이틀간만 진행되는 특별 프로모션",
+      "call_to_action_text": "무료 초대장 신청하고 혜택 확인하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전영상 제작권",
+        "모바일 청첩장 무료 쿠폰",
+        "종이청첩장 할인 쿠폰",
+        "웨딩 다이어리",
+        "웨딩 건강검진권"
+      ],
+      "contract_benefits": [
+        "최대 50만 원 상당의 상품권 증정",
+        "허니문 박람회 특별 혜택",
+        "스드메 패키지 특가(59만 원/99만 원)",
+        "예물 브랜드 할인(25%+10%)",
+        "예복샵 제휴 할인"
+      ],
+      "special_events": [
+        "박람회 전후기 이벤트(100% 당첨)",
+        "가전 구매 상담 혜택"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-08",
+        "display_date": "11월 07일(토) ~ 11월 08일(일)",
+        "original_display_date": "11월 07일(토) ~ 11월 08일(일)"
+      },
+      "location": {
+        "sido": "충북",
+        "sido_en": "chungbuk",
+        "sigungu": "충주시",
+        "sigungu_en": "chungju",
+        "address": "충북 충주시 탄금대로 139",
+        "venue": "LG전자베스트샵 충주본점",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "방문 및 상담 완료 시 제공되며, 정확한 수량과 조건은 현장 안내를 따라주세요.",
+      "trust_indicators": [
+        "수많은 예비부부의 생생한 후기",
+        "분야별 전문 업체 1:1 상담",
+        "투명한 추가 비용 안내"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "충주 위드유 웨딩박람회",
+        "startDate": "2026-11-07",
+        "endDate": "2026-11-08",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 충주본점",
+          "address": "충북 충주시"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding19/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 신청을 통해 무료로 초대장을 받아 입장하실 수 있습니다."
+        },
+        {
+          "question": "상담을 받으려면 무엇을 준비해야 하나요?",
+          "answer": "특별한 준비물은 없으나, 예식 예정일과 대략적인 예산을 미리 논의하고 오시면 더욱 효율적인 상담이 가능합니다."
+        },
+        {
+          "question": "현장에서 즉시 계약해야 하나요?",
+          "answer": "아니오, 충분한 상담을 통해 정보를 비교하시고 두 분의 상황에 맞는 합리적인 결정을 내리시는 것을 권장합니다."
+        },
+        {
+          "question": "가전 상담도 함께 가능한가요?",
+          "answer": "LG전자 베스트샵에서 진행되므로 혼수 가전에 대한 전문적인 상담과 박람회 전용 혜택을 함께 확인하실 수 있습니다."
+        },
+        {
+          "question": "혜택은 어떻게 수령하나요?",
+          "answer": "방문 상담 및 계약 조건에 따른 혜택은 현장 안내 데스크를 통해 상세히 안내받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부나, 효율적으로 스드메 패키지 가격을 비교하고 싶은 분들에게 추천합니다. 특히 충주 지역에서 실속 있게 웨딩홀, 예복, 예물, 혼수 가전을 한 번에 해결하고자 하는 커플에게 적합합니다. 결혼 준비의 첫 단계부터 마무리까지 전문가의 조언이 필요하거나, 다양한 방문 혜택과 계약 사은품을 챙기며 합리적인 웨딩을 설계하고 싶은 모든 예비부부가 대상입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지",
+        "웨딩홀 상담",
+        "혼수 가전",
+        "예물 브랜드",
+        "맞춤 예복",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "현장에서 바로 확인하는 스드메 패키지 특가 및 실속 혜택",
+        "가전부터 웨딩까지 전문가의 1:1 맞춤 컨설팅 보장",
+        "방문만 해도 제공되는 필수 웨딩 준비 5종 선물"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "충주 웨딩홀 추천",
+        "결혼 준비 체크리스트",
+        "스드메 평균 비용",
+        "혼수 가전 준비 시기",
+        "웨딩박람회 방문 팁",
+        "충주 예물샵 추천",
+        "신혼여행지 추천",
+        "결혼 예산 짜는 법",
+        "웨딩드레스 종류",
+        "청첩장 준비하기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "충주 웨딩 준비 일정",
+          "category": "wedding_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "결혼박람회",
+        "예복",
+        "예물",
+        "청첩장",
+        "웨딩다이어리"
+      ]
+    },
+    "social_meta": {
+      "og_title": "충주 위드유 웨딩박람회 - 결혼 준비의 모든 것!",
+      "og_description": "충주 웨딩박람회 혜택 총정리! 지금 무료 초대장 신청하고 스드메 특가와 방문 선물을 확인해보세요.",
+      "hashtags": [
+        "#충주웨딩박람회",
+        "#충주결혼준비",
+        "#충주스드메",
+        "#결혼준비",
+        "#위드유웨딩",
+        "#예비부부",
+        "#충주웨딩홀",
+        "#혼수준비",
+        "#웨딩박람회",
+        "#결혼선물"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding19/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_M9DS3FSXhpsdKhbl45.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_WQyzdeUbqBRuCkNy1.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_JUlT8RtG57ncFf.jpg"
+    },
+    "updated_at": "2026-10-26 20:04:43",
+    "revenue": 30000
   }
 ]
