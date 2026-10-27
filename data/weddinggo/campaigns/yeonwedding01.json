@@ -1,0 +1,207 @@
+{
+  "idx": 1450,
+  "campaign_id": "yeonwedding01",
+  "gather_name": "대구연웨딩 웨딩박람회",
+  "organizer_name": "연웨딩갤러리",
+  "seo_metadata": {
+    "title": "대구연웨딩 웨딩박람회 | 상담만 받아도 100% 선물 증정 & 스드메 특가",
+    "meta_description": "11월 14일-15일, 대구 인터불고엑스코에서 열리는 대구연웨딩 웨딩박람회! 스드메 정찰제부터 신세계백화점 상품권, 허니문 특전까지 결혼 준비의 모든 혜택을 한자리에서 확인하세요. 선착순 조기 마감 주의!",
+    "keywords": [
+      "대구웨딩박람회",
+      "대구결혼준비",
+      "대구연웨딩",
+      "대구스드메",
+      "대구웨딩홀",
+      "대구혼수박람회",
+      "대구예식장",
+      "대구웨딩패키지",
+      "대구예물예복",
+      "신혼여행박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비, 어디서부터 시작해야 할지 막막하신가요? 대구 최고의 웨딩 전문가들이 모인 '대구연웨딩 웨딩박람회'가 예비부부님들의 성공적인 결혼 준비를 위해 찾아옵니다. 트렌디한 웨딩 정보부터 파격적인 계약 혜택까지, 11월 14일~15일 양일간 열리는 이번 박람회에서 확인해보세요.",
+    "benefits_description": "방문만 해도 제공되는 다양한 선물부터, 박람회 한정 스드메 정찰제 혜택까지 준비되어 있습니다. 160만 원 드레스 정찰제와 스튜디오 66만 원 정찰제는 물론, 계약 고객 전원에게 드리는 백화점 상품권과 웨딩홀 대관료 할인 혜택을 놓치지 마세요. 단순한 상담을 넘어 실제 예산 절감에 도움이 되는 1:1 맞춤형 컨설팅을 제공합니다.",
+    "summary_for_search": "대구연웨딩 웨딩박람회(11/14~11/15)가 인터불고엑스코에서 개최됩니다. 스드메 정찰제, 신세계 상품권 증정, 웨딩홀 할인 등 예비부부를 위한 최대 규모의 혜택을 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "대구연웨딩 웨딩박람회, 방문만 해도 100% 선물 증정!",
+    "secondary_headline": "스드메 160만 원 정찰제부터 허니문 특전까지, 2026 결혼 준비를 완벽하게 끝내는 단 한 번의 기회.",
+    "urgency_text": "선착순 방문객 한정 사은품 증정 및 상담 마감 임박",
+    "call_to_action_text": "지금 무료 상담 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "연웨딩 시그니처 생화 부케 증정",
+      "방문 상담 시 100% 사은품 증정"
+    ],
+    "contract_benefits": [
+      "스드메 160만 원 / 66만 원 정찰제",
+      "신세계백화점 상품권 10만 원 증정",
+      "허니문 특전 및 혼수 특별 할인",
+      "웨딩홀 대관료 파격 할인"
+    ],
+    "special_events": [
+      "퍼스널컬러 무료 진단",
+      "2027 신상 드레스 전시",
+      "1:1 웨딩 전문가 맞춤 컨설팅"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "대구",
+      "sido_en": "daegu",
+      "sigungu": "북구",
+      "sigungu_en": "buk",
+      "address": "대구 북구 유통단지로 80 (산격동 1674)",
+      "venue": "인터불고엑스코",
+      "parking_info": "현장 주차 가능",
+      "region_code": "gyeongsang"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 전문가 상담 완료 고객 대상 (선착순 조기 소진 가능)",
+    "trust_indicators": [
+      "대구 최다 입점 업체 보유",
+      "검증된 전문가 1:1 맞춤 상담",
+      "오랜 경력의 대구 대표 웨딩 브랜드"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대구연웨딩 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "인터불고엑스코",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "대구 북구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "연웨딩갤러리",
+        "url": "https://ad.cpaad.co.kr/yeonwedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 상담은 무료인가요?",
+        "answer": "네, 사전 신청을 통해 방문하시면 모든 상담과 박람회 입장은 무료입니다."
+      },
+      {
+        "question": "주차 공간은 충분한가요?",
+        "answer": "행사장인 인터불고엑스코 내 넓은 주차 공간을 이용하실 수 있습니다."
+      },
+      {
+        "question": "스드메 정찰제란 무엇인가요?",
+        "answer": "추가금 없이 투명한 가격으로 제공되는 연웨딩만의 스드메 패키지 구성입니다."
+      },
+      {
+        "question": "계약 혜택을 받으려면 어떻게 해야 하나요?",
+        "answer": "박람회 현장에서 상담 후 계약 시 해당되는 백화점 상품권 및 패키지 할인을 즉시 받으실 수 있습니다."
+      },
+      {
+        "question": "혼수 업체 상담도 가능한가요?",
+        "answer": "네, 예물, 예복, 허니문, 가전 등 결혼 준비에 필요한 모든 혼수 브랜드가 입점하여 상담 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞둔 예비 신랑 신부님, 특히 대구 지역에서 합리적이고 가성비 높은 결혼 준비를 희망하는 분들에게 최적화되어 있습니다. 스드메 비용 비교로 고민 중인 커플이나 결혼 준비의 첫걸음을 어떻게 시작할지 막막한 분들께 1:1 전문가 상담을 통해 개인 맞춤형 예산 플랜을 제시합니다. 결혼 준비 기간을 단축하고 효율적인 동선을 원하는 예비 부부라면 반드시 방문해야 할 필수 코스입니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "프리미엄 웨딩홀 브랜드",
+      "예물 및 예복 전문 브랜드",
+      "허니문 여행사",
+      "신혼 가전 및 혼수 브랜드"
+    ],
+    "comparison_hooks": [
+      "최저가 보장 스드메 정찰제 제공",
+      "현장에서 즉시 혜택이 적용되는 투명한 가격 정책",
+      "대구 최다 웨딩홀 입점으로 비교 상담의 편리성 극대화"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대구 웨딩박람회 일정",
+      "대구 스드메 가격",
+      "결혼 준비 체크리스트",
+      "대구 웨딩홀 추천",
+      "박람회 방문 혜택",
+      "대구 혼수 박람회",
+      "웨딩박람회 예약하기",
+      "스드메 패키지 구성",
+      "대구 결혼 준비 비용",
+      "웨딩 박람회 사기 주의사항"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대구 웨딩홀 실시간 견적 확인",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "최신 스드메 트렌드 보기",
+        "category": "sdm_trend"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "신혼여행",
+      "본식스냅",
+      "웨딩촬영",
+      "신랑신부",
+      "결혼예산"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대구연웨딩 박람회! 100% 선물 증정",
+    "og_description": "대구 웨딩박람회 스드메 정찰제 오픈! 11월 14-15일 인터불고엑스코에서 만나요.",
+    "hashtags": [
+      "#대구웨딩박람회",
+      "#대구결혼준비",
+      "#대구연웨딩",
+      "#대구스드메",
+      "#대구웨딩홀",
+      "#예비부부",
+      "#결혼준비시작",
+      "#대구예식장",
+      "#신혼부부혜택",
+      "#대구웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/yeonwedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_mCbFVeNJpPtHPF8bt3.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_sGTeloybf4cfyYdLEE1GcaaUGWPQR.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_kFVkhzWDmrd2VBWNaRyWcEKxt2UHn.jpg"
+  },
+  "updated_at": "2026-10-27 10:03:26",
+  "revenue": 30000
+}
