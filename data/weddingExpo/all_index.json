@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 148,
+    "total_count": 152,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-10-27 14:02:45"
+    "updated_at": "2026-10-27 20:02:08"
   },
   "items": [
     {
@@ -1767,6 +1767,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1898,
       "campaign_id": "wantwedfair09",
       "gather_name": "강릉 컨벤션센터 대형 웨딩박람회",
       "display_date": "11월 14일(토) ~ 11월 15일(일)",
@@ -1775,7 +1776,8 @@
       "sigungu": "강릉시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_xpambMMLjomEyXZE.jpg",
-      "updated_at": "2026-10-26 20:06:14"
+      "updated_at": "2026-10-26 20:06:14",
+      "revenue": 30000
     },
     {
       "idx": 1440,
@@ -1932,6 +1934,56 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_5m3KgYINtwZ.jpg",
       "updated_at": "2026-10-27 14:02:45",
       "revenue": 30000
+    },
+    {
+      "idx": 1793,
+      "campaign_id": "revewedding24",
+      "gather_name": "부천 웨딩 박람회",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "롯데백화점 중동점 9층",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_5P3RFyNq6hIxTKGSe.jpg",
+      "updated_at": "2026-10-27 20:00:20",
+      "revenue": 50000
+    },
+    {
+      "campaign_id": "reveweddingH24",
+      "gather_name": "부천 신혼여행 박람회",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "롯데백화점 중동점 9층",
+      "sido": "경기",
+      "sigungu": "부천시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_wRRJvx3NfzVHGbc7nJ64W6JTRlVZpSy.jpg",
+      "updated_at": "2026-10-27 20:00:40"
+    },
+    {
+      "idx": 1086,
+      "campaign_id": "theBWSF01",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "sido": "광주",
+      "sigungu": "동구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_CmWr3q6jC9lAu1V5o86VE5OgcE.jpg",
+      "updated_at": "2026-10-27 20:01:33",
+      "revenue": 30000
+    },
+    {
+      "idx": 1366,
+      "campaign_id": "weddingplus03",
+      "gather_name": "원주 AKPLAZA 웨딩박람회",
+      "display_date": "11월 07일(토) ~ 11월 08일(일)",
+      "venue": "LG전자베스트샵 AKPLAZA원주점",
+      "sido": "강원",
+      "sigungu": "원주시",
+      "region_en": "gangwon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_YS2ns468QIjjWRoT6pvRzLw58.jpg",
+      "updated_at": "2026-10-27 20:02:08",
+      "revenue": 40000
     }
   ]
 }
