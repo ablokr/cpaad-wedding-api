@@ -1,0 +1,203 @@
+{
+  "idx": 1566,
+  "campaign_id": "wedingcrowd70",
+  "gather_name": "이천 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "이천 웨딩박람회 | LG전자 베스트샵 이천본점 스드메 혼수 특가",
+    "meta_description": "11월 14일~15일 열리는 이천 웨딩박람회! 스드메 패키지, 허니문, 혼수가전까지 한자리에서 비교하고 최대 할인 혜택을 확인하세요. 사전등록 시 다양한 방문/계약 사은품이 준비되어 있습니다.",
+    "keywords": [
+      "이천웨딩박람회",
+      "이천결혼준비",
+      "경기웨딩박람회",
+      "이천스드메",
+      "이천웨딩홀",
+      "LG전자베스트샵이천본점",
+      "이천혼수",
+      "신혼여행박람회",
+      "웨딩박람회혜택",
+      "결혼준비체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부들을 위해 이천 대형 웨딩박람회가 개최됩니다. 이번 행사는 11월 14일(토)부터 15일(일)까지 LG전자 베스트샵 이천본점에서 진행되며, 스드메부터 혼수, 허니문까지 결혼의 모든 과정을 원스톱으로 해결할 수 있는 좋은 기회입니다.",
+    "benefits_description": "현장 방문 시 스타벅스 기프티콘과 웨딩 다이어리를 제공하며, 상담 및 계약 시 더욱 풍성한 혜택이 마련되어 있습니다. 특히 스드메와 혼수를 동시에 진행할 경우 에어프라이어 등의 가전 사은품을 증정하며, 허니문 최대 150만원 할인, 예복 및 예물 할인 등 실질적인 비용 절감 혜택을 확인하실 수 있습니다. 또한, 전문 컨설턴트와의 1:1 상담을 통해 나만의 맞춤 웨딩 스타일을 제안받을 수 있습니다.",
+    "summary_for_search": "11월 14일~15일 LG전자 베스트샵 이천본점에서 진행되는 이천 웨딩박람회! 상담 방문만 해도 사은품을 증정하며, 스드메 패키지, 혼수, 신혼여행까지 다양한 특별 할인 혜택을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "이천 대형 웨딩박람회, 지금 신청하면 최대 혜택!",
+    "secondary_headline": "스드메부터 가전 혼수까지, 예비부부를 위한 합리적인 웨딩 솔루션",
+    "urgency_text": "이번 주말, 2일간 한정 오픈!",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 스타벅스 기프티콘 증정",
+      "방문 상담 시 웨딩 다이어리 증정"
+    ],
+    "contract_benefits": [
+      "스드메+혼수 계약 시 사은품 증정",
+      "허니문 최대 150만원 할인",
+      "웨딩 패키지 69만원 구성",
+      "예물 및 예복 계약 시 특별 할인"
+    ],
+    "special_events": [
+      "LG전자 혼수 가전 동시 구매 혜택",
+      "신혼부부 재무 설계 컨설팅",
+      "웨딩홀 비교 견적 서비스"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "이천시",
+      "sigungu_en": "icheon",
+      "address": "경기 이천시 이섭대천로 1430",
+      "venue": "LG전자베스트샵 이천본점",
+      "parking_info": "매장 전용 주차장 이용 가능 (상세 정보는 홈페이지 사전등록 확인)",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "신청 경로"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 전문 상담 완료 시 제공되며, 사은품은 선착순으로 지급될 수 있습니다.",
+    "trust_indicators": [
+      "LG전자베스트샵 협력 행사",
+      "1:1 전문 웨딩 컨설팅 보장",
+      "검증된 업체 네트워크 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "이천 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 이천본점",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "이천시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd70/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메) 업체와 예물, 예복, 허니문, 혼수 가전 등 결혼 준비에 필요한 전 분야 업체가 참여합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 방문 후 상담을 완료하시면 스타벅스 쿠폰과 웨딩 다이어리 등 다양한 방문 사은품을 받으실 수 있습니다."
+      },
+      {
+        "question": "예식장 예약도 가능한가요?",
+        "answer": "박람회 현장에서 웨딩홀 비교 견적 서비스를 통해 예식장 정보를 확인하고 상담받으실 수 있습니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "본 페이지의 신청 폼에 이름과 연락처 등을 입력하여 접수하시면 전문 상담원이 확인 후 연락드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메 패키지 비용 비교가 필요한 신혼부부, 혹은 효율적인 동선으로 혼수까지 한 번에 준비하고 싶은 커플을 대상으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 고민인 분들에게 1:1 맞춤형 컨설팅을 제공하여 예산에 맞는 최적의 플랜을 구성할 수 있도록 돕습니다. 지역 내 평판이 좋은 업체들을 엄선하여 신뢰도를 높였으며, 바쁜 일상 속에서 주말을 활용해 알뜰하게 결혼 준비를 마칠 수 있는 최적의 기회를 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오/드레스/메이크업 업체",
+      "웨딩홀 비교 서비스",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "LG전자 혼수 가전"
+    ],
+    "comparison_hooks": [
+      "이천 지역 내 최대 규모 웨딩 브랜드 네트워크 확보",
+      "현장 상담 완료 시 즉시 제공되는 100% 증정 사은품",
+      "가전부터 웨딩까지 아우르는 압도적인 결합 할인 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 비용",
+      "이천 예식장 추천",
+      "웨딩박람회 계약 꿀팁",
+      "혼수가전 할인",
+      "신혼여행지 추천",
+      "웨딩플래너 상담 후기",
+      "결혼준비 체크리스트",
+      "예복 맞춤 가격",
+      "LG전자 웨딩 프로모션"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 지역 웨딩박람회 일정",
+        "category": "korea_wedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "맞춤정장",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "이천 웨딩박람회 | 상담만 해도 사은품 100% 증정!",
+    "og_description": "11월 14일~15일 LG전자 이천본점! 예비부부라면 필수 코스, 최대 할인 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#이천웨딩박람회",
+      "#결혼준비",
+      "#이천결혼",
+      "#스드메",
+      "#웨딩박람회",
+      "#신혼부부",
+      "#이천웨딩홀",
+      "#혼수준비",
+      "#예비부부",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd70/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_sq63glPGkZ9dyfT6D.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_fKVLNnCh4ngPYQ.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_LIkrHnF64gO9FXeRVDF6SCdwmbCm.jpg"
+  },
+  "updated_at": "2026-10-29 19:30:54",
+  "revenue": 30000
+}
