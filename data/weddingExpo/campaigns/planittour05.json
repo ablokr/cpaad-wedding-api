@@ -1,0 +1,208 @@
+{
+  "idx": 1900,
+  "campaign_id": "planittour05",
+  "gather_name": "대전 플래닛투어 갤러리아 허니문박람회",
+  "organizer_name": "플래닛투어",
+  "seo_metadata": {
+    "title": "대전 플래닛투어 허니문박람회 | 갤러리아타임월드 11월 상담 혜택",
+    "meta_description": "11월 14일~15일 대전 갤러리아타임월드에서 열리는 플래닛투어 허니문박람회. 신혼여행 계약 시 인천 5성급 호텔 숙박권 증정 등 다양한 혜택을 확인하세요.",
+    "keywords": [
+      "대전웨딩박람회",
+      "대전허니문박람회",
+      "플래닛투어",
+      "갤러리아타임월드웨딩",
+      "대전신혼여행상담",
+      "신혼여행준비",
+      "결혼준비박람회",
+      "대전가전박람회",
+      "LG전자베스트샵대전",
+      "허니문특가"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘과 신혼여행의 낭만을 동시에 고민하고 계신 예비부부라면 주목해주세요. 대전 플래닛투어 갤러리아 허니문박람회는 복잡한 허니문 설계부터 혼수 가전 혜택까지 한자리에서 비교할 수 있는 기회입니다.",
+    "benefits_description": "박람회 현장에서는 계약 고객을 위한 풍성한 선물이 준비되어 있습니다. 특히 허니문 계약 시 인천 5성급 호텔 숙박권이 100% 증정되며, 여행지 할인과 추가 경품까지 꼼꼼히 챙기실 수 있습니다. 상담만 받아도 제공되는 혜택과 리뷰 이벤트 등을 활용해 더욱 실속 있게 준비해 보세요. 각 혜택의 구체적인 적용 범위와 증정 조건은 상담 과정에서 전문가와 다시 한번 확인하시길 권장합니다.",
+    "summary_for_search": "11월 14일~15일 대전 갤러리아타임월드에서 열리는 플래닛투어 허니문박람회. 신혼여행 계약 시 5성급 호텔 숙박권 증정 등 풍성한 상담 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "대전 최대 규모, 신혼여행 특별 박람회 개최",
+    "secondary_headline": "계약 시 인천 5성급 호텔 숙박권 100% 증정",
+    "urgency_text": "11월 14일~15일 단 이틀간 진행",
+    "call_to_action_text": "무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 및 리뷰 작성 시 기프티콘 증정 (스타벅스 또는 신세계상품권)"
+    ],
+    "contract_benefits": [
+      "현장 계약 시 인천 5성급 호텔 1박 숙박권 100% 증정",
+      "허니문 현금 추가 할인 (최대 50만원)",
+      "캐리어 26인치 세트 증정",
+      "허니문 여행용 고급 사은품 세트 증정"
+    ],
+    "special_events": [
+      "LG전자베스트샵 혼수 가전 특가 및 추가 혜택 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "대전 서구 대덕대로 211 갤러리아백화점 타임월드점 10층",
+      "venue": "LG전자베스트샵 갤러리아타임월드점",
+      "parking_info": "무료 주차 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "신랑/신부 구분",
+      "예식 예정일",
+      "연락처",
+      "상담 희망 시간",
+      "관심 여행지"
+    ],
+    "gift_conditions": "상담 완료 및 현장 계약 조건, 리뷰 작성 등 각 항목별 상세 조건은 상담 시 안내",
+    "trust_indicators": [
+      "대전 지역 최대 허니문 전문 플래닛투어 주관",
+      "LG전자 공식 인증점 상담",
+      "1:1 맞춤형 신혼여행 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 플래닛투어 갤러리아 허니문박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 갤러리아타임월드점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "대전 서구 대덕대로 211",
+          "addressLocality": "대전",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "organizer": {
+        "@type": "Organization",
+        "name": "플래닛투어",
+        "url": "https://ad.cpaad.co.kr/planittour05/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 상담은 비용이 드나요?",
+        "answer": "아니요, 박람회 상담은 무료로 진행됩니다. 사전 신청을 통해 편안하게 상담받으실 수 있습니다."
+      },
+      {
+        "question": "어떤 혜택을 받을 수 있나요?",
+        "answer": "계약 시 5성급 호텔 숙박권, 허니문 현금 할인, 여행용 캐리어 등을 제공합니다. 상세 조건은 상담 시 확인 가능합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사장인 LG전자베스트샵 갤러리아타임월드점에서 무료 주차가 가능합니다."
+      },
+      {
+        "question": "가전 제품 상담도 가능한가요?",
+        "answer": "네, 행사장에서 LG전자 혼수 가전 특가 및 입주 가전 혜택도 함께 상담받으실 수 있습니다."
+      },
+      {
+        "question": "사전 예약이 필요한가요?",
+        "answer": "원활한 상담을 위해 사전 신청을 권장합니다. 신청 후 상담을 진행하시면 현장 대기 시간을 줄일 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적인 동선으로 신혼여행과 혼수 가전을 한꺼번에 해결하고 싶은 분들을 위한 행사입니다. 특히 허니문 여행지 선정에 고민이 많거나, 합리적인 예산으로 신뢰할 수 있는 여행사의 케어를 받고 싶은 신혼부부에게 적합합니다. 박람회 상담을 통해 최신 여행 트렌드를 파악하고 비교 분석하는 경험은 성공적인 결혼 준비의 시작점이 될 것입니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사(플래닛투어)",
+      "LG전자 혼수 가전 브랜드",
+      "신혼여행지 맞춤 컨설팅 상담",
+      "입주·혼수 가구 제휴업체"
+    ],
+    "comparison_hooks": [
+      "계약 즉시 인천 5성급 호텔 1박 숙박권 100% 증정",
+      "허니문 전문가의 1:1 심층 맞춤 상담 진행",
+      "혼수 가전과 허니문을 한 장소에서 해결하는 원스톱 솔루션"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 허니문 박람회",
+      "신혼여행 준비물 체크리스트",
+      "허니문 패키지 계약 주의사항",
+      "대전 혼수 가전 혜택",
+      "결혼 준비 비용 절약 방법",
+      "플래닛투어 후기",
+      "갤러리아타임월드 웨딩박람회",
+      "허니문 여행사 고르는 법",
+      "가전 박람회 혜택",
+      "신혼부부 가전 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 웨딩박람회 전체 일정",
+        "category": "daejeon_wedding"
+      },
+      {
+        "anchor": "신혼여행 준비 가이드",
+        "category": "honeymoon_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "허니문",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "웨딩패키지",
+      "가전제품",
+      "입주가전",
+      "여행사",
+      "결혼준비"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 허니문박람회: 5성급 호텔 혜택 받기",
+    "og_description": "계약 시 5성급 호텔 숙박권 증정! 대전 갤러리아에서 만나는 플래닛투어 허니문박람회 사전 신청하세요.",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#대전허니문박람회",
+      "#플래닛투어",
+      "#대전결혼준비",
+      "#신혼여행지추천",
+      "#대전가전",
+      "#LG전자베스트샵",
+      "#허니문혜택",
+      "#예비부부",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planittour05/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_GFTp9fYwiQze.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_AtqpcfZDMZhEz6gl.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_fsZkwKlgkT1Su.jpg"
+  },
+  "updated_at": "2026-10-30 20:02:37",
+  "revenue": 30000
+}
