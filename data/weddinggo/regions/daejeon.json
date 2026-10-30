@@ -2283,5 +2283,211 @@
     },
     "updated_at": "2026-10-27 10:02:26",
     "revenue": 30000
+  },
+  {
+    "idx": 1900,
+    "campaign_id": "planittour05",
+    "gather_name": "대전 플래닛투어 갤러리아 허니문박람회",
+    "organizer_name": "플래닛투어",
+    "seo_metadata": {
+      "title": "대전 플래닛투어 허니문박람회 | 갤러리아타임월드 11월 혜택",
+      "meta_description": "11월 14일~15일 대전 갤러리아타임월드에서 열리는 플래닛투어 허니문박람회! 계약 시 인천 5성급 호텔 숙박권 증정 등 역대급 신혼부부 혜택을 확인하고 지금 바로 무료 상담을 신청하세요.",
+      "keywords": [
+        "대전웨딩박람회",
+        "플래닛투어",
+        "허니문박람회",
+        "대전결혼준비",
+        "신혼여행박람회",
+        "대전웨딩홀",
+        "갤러리아타임월드박람회",
+        "스드메대전",
+        "대전혼수",
+        "대전신혼부부혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 설레는 예비부부님들을 위해 대전 최대 규모의 '플래닛투어 허니문 박람회'가 개최됩니다. 이번 행사는 11월 14일부터 15일까지 대전 LG전자 베스트샵 갤러리아타임월드점에서 진행되며, 결혼 준비의 시작부터 신혼여행까지 원스톱으로 해결할 수 있는 특별한 기회를 제공합니다.",
+      "benefits_description": "이번 박람회는 방문만 해도 100% 증정되는 스타벅스 쿠폰 등 풍성한 방문 혜택이 준비되어 있습니다. 특히 허니문 계약 시 최대 50만 원의 추가 할인과 함께 인천 5성급 호텔 숙박권까지 100% 증정하는 파격적인 혜택을 놓치지 마세요. 단순한 상담을 넘어 결혼 비용 부담을 줄일 수 있는 실질적인 프로모션과 신혼여행 전문 플래너의 1:1 맞춤 컨설팅을 통해 완벽한 허니문을 설계해 드립니다.",
+      "summary_for_search": "11월 14일~15일 대전 갤러리아타임월드에서 진행되는 플래닛투어 허니문박람회. 신혼여행 특별 할인, 현장 계약 시 5성급 호텔 숙박권 증정 등 대전 신혼부부를 위한 최대 혜택을 만나보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비의 완성, 대전 플래닛투어 허니문 박람회 최대 혜택!",
+      "secondary_headline": "11월 14일-15일, 갤러리아타임월드에서 만나는 신혼부부를 위한 단 하나의 허니문 솔루션",
+      "urgency_text": "선착순 방문객 한정, 지금 예약 시 5성급 호텔 숙박권 증정",
+      "call_to_action_text": "무료 상담 및 혜택 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 완료 시 스타벅스 쿠폰 증정",
+        "현장 상담 시 리뷰 작성 이벤트 참여 기회"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 인천 5성급 호텔 1박 숙박권 100% 증정",
+        "허니문 계약 시 최대 50만원 추가 할인",
+        "여행용 캐리어 세트 증정"
+      ],
+      "special_events": [
+        "신혼여행 전문 플래너 1:1 맞춤 컨설팅",
+        "LG전자 베스트샵 혼수 가전 특별 할인"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "display_date": "11월 14일(토) ~ 11월 15일(일)",
+        "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "대전 서구 대덕대로 211 갤러리아백화점 타임월드점 10층",
+        "venue": "LG전자베스트샵 갤러리아타임월드점",
+        "parking_info": "매장 내 무료 주차 가능",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "신부 이름",
+        "예식 예정일",
+        "연락처"
+      ],
+      "gift_conditions": "현장 상담 완료 후 이벤트 조건 충족 시 증정",
+      "trust_indicators": [
+        "대전·충청 지역 최대 규모 허니문 박람회",
+        "여행 전문 브랜드 플래닛투어 주관",
+        "1:1 전문 맞춤 상담 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 플래닛투어 갤러리아 허니문박람회",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 갤러리아타임월드점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "대전광역시 서구 대덕대로 211",
+            "addressLocality": "대전",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "플래닛투어",
+          "url": "https://ad.cpaad.co.kr/planittour05/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 예약 시 무료로 입장이 가능하며 전문 플래너의 상담을 받으실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사가 진행되는 LG전자 베스트샵 갤러리아타임월드점 내에 무료 주차가 가능합니다."
+        },
+        {
+          "question": "신혼여행 계약 혜택은 무엇인가요?",
+          "answer": "현장 계약 시 최대 50만 원 할인과 인천 5성급 호텔 숙박권을 100% 증정합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "상담 내용에 따라 다르지만 보통 1시간에서 1시간 30분 정도 소요됩니다."
+        },
+        {
+          "question": "예비부부만 방문할 수 있나요?",
+          "answer": "결혼을 준비 중인 예비 신혼부부라면 누구나 환영합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "대전 및 충청 지역에서 결혼을 준비 중인 예비 신혼부부를 위한 맞춤형 박람회입니다. 특히 결혼식 날짜를 확정하고 신혼여행지와 스드메, 혼수 가전을 고민 중인 커플에게 최적화되어 있습니다. 결혼 준비가 막연한 분들부터 비용 절감을 위해 똑똑한 소비를 계획하는 스마트한 예비부부까지, 전문적인 1:1 컨설팅을 통해 시간과 비용을 동시에 절약하고 싶어 하는 모든 예비부부에게 추천합니다.",
+      "exhibitor_highlights": [
+        "허니문 여행 전문사",
+        "혼수 가전(LG전자)",
+        "웨딩 컨설팅 업체",
+        "예물 및 예복 브랜드"
+      ],
+      "comparison_hooks": [
+        "지역 최대 규모 허니문 특화 박람회",
+        "현장 계약 시 인천 5성급 호텔 숙박권 100% 증정",
+        "LG전자 베스트샵과 연계된 혼수 가전 추가 할인 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "대전웨딩박람회 일정",
+        "허니문 여행사 추천",
+        "대전 가전 혼수 준비",
+        "결혼 준비 체크리스트",
+        "플래닛투어 후기",
+        "신혼여행지 추천",
+        "대전 웨딩홀 비용",
+        "스드메 패키지 가격",
+        "웨딩박람회 방문 혜택",
+        "대전 결혼박람회 예약"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩홀 투어 바로가기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "신혼여행지 인기 순위",
+          "category": "honeymoon"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "신혼여행",
+        "허니문",
+        "결혼준비",
+        "웨딩컨설팅",
+        "대전가전",
+        "박람회사은품"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 플래닛투어 허니문박람회, 11월 대전 신혼부부 필수 방문!",
+      "og_description": "계약 시 5성급 호텔 숙박권 100% 증정! 대전 최대 허니문 혜택을 갤러리아타임월드에서 확인하세요.",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전결혼준비",
+        "#플래닛투어",
+        "#대전허니문",
+        "#대전신혼여행",
+        "#결혼준비",
+        "#예비부부",
+        "#갤러리아타임월드",
+        "#대전웨딩",
+        "#신혼부부혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/planittour05/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_GFTp9fYwiQze.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_AtqpcfZDMZhEz6gl.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_fsZkwKlgkT1Su.jpg"
+    },
+    "updated_at": "2026-10-30 16:01:14",
+    "revenue": 30000
   }
 ]
