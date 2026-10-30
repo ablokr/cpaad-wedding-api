@@ -1,0 +1,204 @@
+{
+  "idx": 1281,
+  "campaign_id": "theshirleywedding01",
+  "gather_name": "광교 갤러리아 웨딩페스타",
+  "organizer_name": "더셜리",
+  "seo_metadata": {
+    "title": "광교 갤러리아 웨딩페스타 | 수원 결혼 준비 웨딩박람회 혜택 안내",
+    "meta_description": "11월 28일~29일 광교에서 열리는 웨딩페스타! 스드메 최대 30% 할인부터 혼수·예물 40% 특가까지. 사전등록하고 방문 선물과 계약 혜택을 모두 챙겨가세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "광교 웨딩페스타",
+      "결혼 준비",
+      "스드메 패키지",
+      "수원 결혼식장",
+      "웨딩박람회 일정",
+      "혼수 가전 할인",
+      "웨딩 컨설팅",
+      "예물 예복 할인",
+      "신혼여행 패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞두고 계신 예비부부님들, 복잡한 결혼 준비를 한 번에 해결할 수 있는 '광교 갤러리아 웨딩페스타'가 오는 11월 28일(토)부터 29일(일)까지 개최됩니다. 이번 박람회는 스드메부터 혼수, 예물, 신혼여행까지 예비부부에게 꼭 필요한 정보를 알차게 담았습니다.",
+    "benefits_description": "이번 행사에서는 스드메 패키지 최대 30% 할인과 혼수·예물 최대 40% 할인 혜택이 준비되어 있어 합리적인 결혼 준비가 가능합니다. 또한 방문 고객에게는 프리미엄 건강검진 혜택과 웨딩 기프트 박스 등 실속 있는 선물을 증정하며, 현장 계약 시 추가적인 축하 혜택까지 더해집니다. 효율적인 준비를 원하시는 분들이라면 사전등록을 통해 1:1 전문 상담과 박람회 전용 특가 혜택을 놓치지 말고 챙기시길 바랍니다.",
+    "summary_for_search": "11월 28일~29일 수원 광교에서 열리는 웨딩페스타! 스드메, 혼수, 예물 최대 40% 할인 혜택과 방문 사은품을 확인하고 지금 사전등록하여 알뜰한 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "스드메 최대 30% 할인, 지금 사전등록하고 추가 혜택 받으세요",
+    "secondary_headline": "수원 광교 갤러리아 웨딩페스타, 예비부부를 위한 단 하나의 웨딩 솔루션",
+    "urgency_text": "이번 주말, 단 2일간 진행되는 특별전시회입니다.",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "웨딩 기프트 박스 증정",
+      "전국 14곳 건강검진권 제공",
+      "고급 웨딩 파우치 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 30% 할인",
+      "혼수·예물 최대 40% 할인",
+      "허니문 제휴 혜택 및 할인",
+      "드레스 업그레이드 혜택"
+    ],
+    "special_events": [
+      "1:1 전문 웨딩 상담",
+      "VIP 메이크업 업그레이드 이벤트",
+      "유명 브랜드 신혼여행 특가 제안"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 124",
+      "venue": "LG전자베스트샵 특별전시장",
+      "parking_info": "별도 안내 미기재, 인근 주차장 이용 권장",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전등록 후 현장 방문 상담 시 제공",
+    "trust_indicators": [
+      "다양한 브랜드 스드메 패키지 입점",
+      "전문 웨딩 플래너 1:1 상담",
+      "검증된 혼수 및 허니문 업체 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광교 갤러리아 웨딩페스타",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 특별전시장",
+        "address": "경기 수원시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더셜리",
+        "url": "https://ad.cpaad.co.kr/theshirleywedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비가 있나요?",
+        "answer": "아니요, 사전등록 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "페이지 내 신청 폼에 이름, 연락처, 예식 예정일을 입력 후 신청하시면 됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참가하나요?",
+        "answer": "스튜디오, 드레스, 메이크업(스드메) 업체와 혼수, 예물, 허니문 여행사 등 결혼 준비 필수 업체가 참여합니다."
+      },
+      {
+        "question": "상담만 받아도 선물을 주나요?",
+        "answer": "네, 사전등록 후 현장에서 상담을 진행하시면 웨딩 기프트 박스 등 다양한 방문 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "박람회 운영 시간은 언제인가요?",
+        "answer": "오전 11시부터 오후 7시까지 운영됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용 비교와 혼수 가전 준비에 고민이 많은 커플을 대상으로 합니다. 특히 결혼 준비를 6개월 이내로 앞두고 체계적인 스케줄링이 필요한 분들에게 적합하며, 전문 플래너와의 1:1 상담을 통해 예산에 맞는 합리적인 웨딩 구성을 찾고자 하는 분들에게 최적화된 행사입니다. 웨딩 준비의 기초부터 세부적인 혜택까지 한자리에서 확인하고 싶은 분들에게 유용한 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "스드메 웨딩 패키지 업체",
+      "프리미엄 드레스 샵",
+      "예물·예복 브랜드",
+      "신혼여행 전문 여행사",
+      "혼수가전 전문 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 추가 할인 혜택 제공",
+      "대형 가전 브랜드와의 제휴로 혼수 패키지 최저가 보장",
+      "검증된 전문 플래너의 1:1 맞춤형 웨딩 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 비용",
+      "웨딩박람회 방문 꿀팁",
+      "광교 근처 웨딩홀 추천",
+      "혼수가전 할인 혜택",
+      "결혼 예물 고르는 법",
+      "신혼여행 패키지 비교",
+      "웨딩플래너 상담 후기",
+      "웨딩드레스 종류 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩박람회 전체 일정",
+        "category": "event_schedule"
+      },
+      {
+        "anchor": "결혼 준비 가이드",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩촬영",
+      "예복",
+      "혼수가전",
+      "신혼여행",
+      "허니문"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광교 갤러리아 웨딩페스타 혜택 안내",
+    "og_description": "스드메 최대 30% 할인! 11월 수원 웨딩박람회 사전등록하고 무료 선물 받아가세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#수원웨딩박람회",
+      "#광교웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#혼수준비",
+      "#신혼여행",
+      "#웨딩페스타",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleywedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_9B8HUugNwhP3NJKr6dmOtbN9iupqkNT.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_rH3JCdEkHG1.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_PRoTonSVh7mWpv34dgt7FeG29b.jpg"
+  },
+  "updated_at": "2026-10-30 13:30:33",
+  "revenue": 30000
+}
