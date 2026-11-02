@@ -1,0 +1,201 @@
+{
+  "campaign_id": "wedingcrowd51",
+  "gather_name": "성남/분당 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "성남/분당 웨딩박람회 | 스드메 혼수 상담 혜택 총정리",
+    "meta_description": "성남 삼성스토어 AK분당에서 열리는 웨딩크라우드 박람회! 방문객 경품 이벤트와 계약자 100% 증정 혜택을 확인하고 지금 무료 사전등록하세요.",
+    "keywords": [
+      "성남웨딩박람회",
+      "분당웨딩박람회",
+      "스드메견적",
+      "웨딩크라우드",
+      "결혼준비",
+      "혼수박람회",
+      "웨딩홀추천",
+      "삼성스토어AK분당",
+      "예비부부혜택",
+      "결혼준비체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해소하고 싶으신 예비부부라면 성남 분당 웨딩크라우드 박람회를 주목해 보세요. 삼성스토어 AK분당에서 열리는 이번 행사는 스드메부터 혼수, 신혼여행까지 예식의 전 과정을 한자리에서 비교하고 합리적으로 준비할 수 있도록 돕습니다.",
+    "benefits_description": "방문만 하셔도 100% 증정되는 스타벅스 기프트카드와 청첩장 할인권 등 풍성한 방문 혜택이 준비되어 있습니다. 또한 현장 상담 및 계약 시에는 캐스퍼 자동차 경품 추첨 기회는 물론, 신혼부부 맞춤형 가전 및 다양한 필수 사은품을 100% 증정합니다. 상세한 수령 조건과 추가 혜택은 상담을 통해 확인하실 수 있으니, 예비부부 두 분이 함께 방문하여 실질적인 도움을 받아보시길 바랍니다.",
+    "summary_for_search": "성남 분당 삼성스토어 AK분당에서 진행되는 웨딩크라우드 박람회! 방문 및 계약 시 제공되는 다양한 혜택과 스드메/혼수 전문가 1:1 상담 기회를 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 시작, 성남 분당 웨딩크라우드 박람회",
+    "secondary_headline": "스드메부터 혼수, 신혼여행까지 전문가의 1:1 상담과 파격적인 계약 혜택을 한자리에서 만나보세요.",
+    "urgency_text": "이번 주말 11월 14일 - 11월 15일, 양일간 진행",
+    "call_to_action_text": "지금 무료 사전등록하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "참가자 전원 100% 스타벅스 기프트카드 증정",
+      "청첩장 15% 할인권 증정"
+    ],
+    "contract_benefits": [
+      "캐스퍼 자동차 경품 추첨 기회",
+      "계약자 100% 증정 웨딩 사은품 패키지",
+      "웨딩 다이어리 증정"
+    ],
+    "special_events": [
+      "스드메 패키지 특가 프로모션",
+      "허니문 최저가 직행 페어"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "성남시",
+      "sigungu_en": "seongnam",
+      "address": "경기 성남시 분당구 황새울로360번길 42 AK플라자 5층",
+      "venue": "삼성스토어 AK분당",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "관심 지역 및 희망 웨딩홀"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 후 안내에 따라 증정됩니다.",
+    "trust_indicators": [
+      "웨딩 전문 컨설턴트 1:1 맞춤 상담",
+      "삼성스토어 입점 혼수 가전 혜택",
+      "검증된 업체 위주 선별 참가"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "성남/분당 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 AK분당",
+        "address": "경기 성남시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd51/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "무료 참가 신청은 어떻게 하나요?",
+        "answer": "페이지 내 참가 신청 폼에 이름과 연락처, 결혼 예정일을 입력하여 제출하시면 신청이 완료됩니다."
+      },
+      {
+        "question": "방문 시 혜택은 누구나 받을 수 있나요?",
+        "answer": "사전 등록 후 현장을 방문하여 상담을 완료하신 예비부부님들께 100% 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메(스튜디오, 드레스, 메이크업) 패키지 업체, 혼수 가전, 예물, 예복, 허니문 여행사 등이 참여합니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "특별한 준비물은 없으나, 평소 두 분이 생각하시던 예산 범위나 선호하는 웨딩 스타일을 정리해 오시면 더욱 구체적인 상담이 가능합니다."
+      },
+      {
+        "question": "박람회 현장 계약 시 추가 혜택이 있나요?",
+        "answer": "네, 계약 시 캐스퍼 경품 응모권 및 웨딩 사은품 패키지가 100% 증정됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식 준비를 어디서부터 시작해야 할지 고민인 예비부부, 스드메 비용과 구성의 차이를 비교하고 싶은 신혼부부, 믿을 수 있는 업체를 한곳에서 직접 만나 상담받길 원하는 분들께 최적화된 행사입니다. 막연한 정보 검색에 지친 커플들에게 전문가의 가이드를 제공하며, 혼수 가전부터 신혼여행, 웨딩홀까지 효율적인 준비를 돕습니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 전문 업체",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 업체",
+      "혼수 가전(삼성스토어)"
+    ],
+    "comparison_hooks": [
+      "복잡한 결혼 준비를 전문가 1:1 상담으로 한 번에 해결",
+      "방문객 전원 100% 증정하는 실속 있는 사은품 구성",
+      "박람회 특별가로 제공되는 합리적인 스드메 패키지"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "웨딩박람회 혜택",
+      "결혼 준비 체크리스트",
+      "스드메 비용 비교",
+      "성남 웨딩홀 추천",
+      "혼수 가전 준비",
+      "신혼여행 패키지 추천",
+      "박람회 계약 후기",
+      "웨딩박람회 무료 신청",
+      "웨딩크라우드 박람회"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "결혼 준비 가이드 바로가기",
+        "category": "wedding_guide"
+      },
+      {
+        "anchor": "스드메 패키지 가격 비교",
+        "category": "wedding_service"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩드레스",
+      "신혼여행",
+      "혼수가전",
+      "결혼준비",
+      "예물",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "성남 분당 웨딩박람회 방문/계약 혜택 안내",
+    "og_description": "예비부부를 위한 특별한 혜택! 방문만 해도 증정품 100%, 지금 무료 신청하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#성남웨딩박람회",
+      "#분당웨딩박람회",
+      "#결혼준비",
+      "#예비부부",
+      "#스드메",
+      "#혼수",
+      "#신혼여행",
+      "#삼성스토어",
+      "#웨딩준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd51/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_UyWPYioktJw8bJJGiR4R5BBL6.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_Di1BW4xbzk.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ARAl8xWTjjZXMPQXHJM4HZj2.jpg"
+  },
+  "updated_at": "2026-11-02 20:01:28"
+}

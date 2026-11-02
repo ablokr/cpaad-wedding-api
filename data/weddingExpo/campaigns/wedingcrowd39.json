@@ -1,0 +1,207 @@
+{
+  "idx": 1318,
+  "campaign_id": "wedingcrowd39",
+  "gather_name": "인천 송도컨벤시아 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "인천 송도컨벤시아 웨딩박람회 | 스드메 특가 및 계약 혜택 정보",
+    "meta_description": "11월 21일~22일 인천 송도컨벤시아 웨딩박람회 개최! 스드메 패키지 특가부터 다이슨, 계약 축하금까지. 예비부부를 위한 실속 있는 결혼 준비 상담을 지금 사전등록으로 시작하세요.",
+    "keywords": [
+      "인천웨딩박람회",
+      "송도컨벤시아웨딩박람회",
+      "인천결혼준비",
+      "인천스드메",
+      "인천웨딩홀",
+      "결혼박람회혜택",
+      "송도웨딩박람회",
+      "스드메패키지",
+      "웨딩상담",
+      "예비부부결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해소하고 싶으신 예비부부님이라면 송도컨벤시아에서 열리는 이번 웨딩박람회를 주목해 보세요. 스드메부터 예물, 혼수까지 결혼 준비의 전 과정을 한자리에서 비교하고 실속 있는 혜택까지 챙길 수 있는 소중한 기회입니다.",
+    "benefits_description": "이번 박람회는 현장을 방문하시는 분들을 위해 스타벅스 쿠폰 증정 등 풍성한 방문 혜택을 준비했습니다. 상담 후 계약 시에는 다이슨 경품 추첨 기회와 함께 최대 150만 원 상당의 계약 축하금 및 허니문 지원 혜택이 제공됩니다. 상세한 경품 적용 조건과 중복 혜택 여부는 현장 상담 시 안내받으실 수 있으니, 궁금하신 점을 미리 리스트업 해오시면 더욱 효율적인 상담이 가능합니다.",
+    "summary_for_search": "11월 21일~22일 송도컨벤시아에서 열리는 인천 웨딩박람회! 스드메 특가, 계약 축하금, 다이슨 경품 등 예비부부를 위한 다양한 혜택을 한자리에서 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "인천 예비부부를 위한 단 하나의 기회, 송도컨벤시아 웨딩박람회",
+    "secondary_headline": "스드메 최저가 보장부터 계약 축하금까지, 결혼 준비의 모든 것을 비교하세요.",
+    "urgency_text": "이번 주말 딱 이틀간 진행되는 특별 전시회",
+    "call_to_action_text": "무료 사전등록하고 혜택 챙기기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 상담 완료 시 스타벅스 쿠폰 증정"
+    ],
+    "contract_benefits": [
+      "계약 축하금 최대 150만 원 상당",
+      "다이슨 경품 추첨 이벤트",
+      "스드메 패키지 특가 110만원 구성",
+      "예물, 예복, 한복 등 혼수 업체별 추가 할인 및 혜택"
+    ],
+    "special_events": [
+      "웨딩 스타일링 체험",
+      "드레스 무료 업그레이드 지원",
+      "1:1 맞춤형 웨딩 플래닝 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "display_date": "11월 21일(토) ~ 11월 22일(일)",
+      "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+    },
+    "location": {
+      "sido": "인천",
+      "sido_en": "incheon",
+      "sigungu": "연수구",
+      "sigungu_en": "yeonsu",
+      "address": "인천 연수구 센트럴로 123",
+      "venue": "송도컨벤시아 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "incheon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정 또는 계약 시 이벤트 참여 자격 부여. 상세 조건은 현장 주최 측 안내 확인.",
+    "trust_indicators": [
+      "스드메 최저가 보장제 운영",
+      "1:1 전문 웨딩 플래너 상담",
+      "분야별 검증된 웨딩 업체 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "인천 송도컨벤시아 웨딩박람회",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "location": {
+        "@type": "Place",
+        "name": "송도컨벤시아",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "인천 연수구",
+          "addressLocality": "인천",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd39/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 필수인가요?",
+        "answer": "원활한 상담과 현장 혜택 적용을 위해 사전등록 후 방문을 권장드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메, 웨딩홀, 예물, 예복, 한복, 혼수 가전 등 결혼 준비에 필요한 전 카테고리의 전문 업체가 입점해 있습니다."
+      },
+      {
+        "question": "현장에서 바로 계약해야 하나요?",
+        "answer": "현장에서 충분한 상담 후 신중하게 결정하시길 권장합니다. 현장 계약 시 제공되는 혜택은 상담 시 상세히 안내받으실 수 있습니다."
+      },
+      {
+        "question": "박람회 상담 시간은 얼마나 걸리나요?",
+        "answer": "상담하시는 항목 수에 따라 다르나, 평균적으로 1시간에서 2시간 정도 소요되므로 여유 있게 방문하시는 것이 좋습니다."
+      },
+      {
+        "question": "박람회 관련 혜택은 누구나 다 받을 수 있나요?",
+        "answer": "방문 선물 및 계약 혜택은 현장 상담 완료 및 계약 체결 등 주최 측에서 정한 특정 조건을 충족해야 하며, 상세 규정은 현장에서 확인 바랍니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜는 잡았지만 구체적인 준비 순서가 막막한 예비부부, 스드메 비용을 합리적으로 비교하고 싶은 실속파 커플, 그리고 전문가의 1:1 컨설팅을 통해 시행착오를 줄이고 싶은 신혼부부를 위한 행사입니다. 웨딩홀 섭외부터 허니문, 예물 준비까지 결혼의 전 과정을 효율적으로 설계하고 싶은 모든 분께 적합합니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 샵",
+      "웨딩 스튜디오",
+      "메이크업 아티스트",
+      "웨딩홀 컨설팅",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전 및 한복 업체"
+    ],
+    "comparison_hooks": [
+      "스드메 최저가 보장제를 통한 가격 투명성 확보",
+      "방문만 해도 제공되는 실속 있는 상담 선물",
+      "분야별 전문가의 1:1 맞춤형 웨딩 스타일링 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "인천 웨딩박람회 일정",
+      "스드메 패키지 가격",
+      "결혼 준비 체크리스트",
+      "웨딩홀 투어 팁",
+      "예물 고르는 법",
+      "인천 웨딩컨설팅 추천",
+      "결혼 비용 예산 세우기",
+      "웨딩박람회 계약 주의사항",
+      "허니문 박람회 혜택",
+      "송도 웨딩홀 비용"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "인천 웨딩홀 리스트 바로가기",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "스드메 패키지 비교하기",
+        "category": "studiomakeup"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "웨딩드레스",
+      "결혼준비",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "송도컨벤시아 웨딩박람회 | 결혼 준비의 모든 것!",
+    "og_description": "11월 21일-22일, 예비부부를 위한 인천 최대 웨딩박람회. 스드메 특가와 계약 혜택을 놓치지 마세요!",
+    "hashtags": [
+      "#인천웨딩박람회",
+      "#송도웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#인천결혼준비",
+      "#예비부부",
+      "#웨딩박람회추천",
+      "#인천웨딩홀",
+      "#결혼준비시작",
+      "#다이슨경품"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd39/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_xmBEfkWDmJIc9e2k.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_bqjEXPkc.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202311/42635e34d702a842a5408bf099b3a49d_MBWgq6x6Lax7.jpg"
+  },
+  "updated_at": "2026-11-02 20:04:28",
+  "revenue": 30000
+}

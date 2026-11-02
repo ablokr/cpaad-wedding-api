@@ -1,0 +1,208 @@
+{
+  "idx": 1249,
+  "campaign_id": "wedingcrowd22",
+  "gather_name": "용산 아이파크몰 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "용산 아이파크몰 웨딩박람회 | 서울 스드메 최저가 보장 상담",
+    "meta_description": "11월 14일~15일 용산 아이파크몰 대형 웨딩박람회 개최. 스드메 최저가 보장, 허니문 최대 150만원 할인 혜택을 놓치지 마세요. 지금 사전등록하고 다양한 방문 선물도 받아가세요.",
+    "keywords": [
+      "용산 웨딩박람회",
+      "서울 웨딩박람회",
+      "결혼준비 체크리스트",
+      "스드메 패키지",
+      "아이파크몰 웨딩",
+      "웨딩홀 추천",
+      "신혼여행 할인",
+      "예물 예복 박람회",
+      "한복 대여",
+      "혼수 가전"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작을 앞둔 예비부부라면, 서울 용산 아이파크몰에서 열리는 이번 대형 웨딩박람회를 주목해 보세요. 복잡한 결혼 준비 과정을 한자리에서 효율적으로 비교하고, 실질적인 혜택까지 챙길 수 있는 최적의 기회입니다.",
+    "benefits_description": "이번 박람회에서는 스드메 최저가 보장제와 함께 웨딩드레스 100만원 상당 블랙라벨 무료 업그레이드 등 파격적인 혜택을 제공합니다. 상담만 받아도 스타벅스 상품권을 증정하며, 허니문 계약 시 최대 150만원 할인, 한복 및 예물 할인 등 풍성한 계약 혜택이 준비되어 있습니다. 합리적인 결혼 준비를 원하신다면 현장에서 전문가와 직접 상담하며 나에게 맞는 맞춤형 구성과 추가 비용 없는 투명한 견적을 확인해 보세요.",
+    "summary_for_search": "11월 14일~15일 용산 아이파크몰 웨딩박람회 개최. 스드메 패키지 최저가 보장, 허니문 최대 150만원 할인, 드레스 무료 업그레이드 등 알뜰한 결혼 준비를 위한 혜택을 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "용산 아이파크몰 대형 웨딩박람회, 스드메 최저가 보장!",
+    "secondary_headline": "결혼 준비의 정석, 1:1 맞춤 상담부터 최대 150만원 상당의 허니문 혜택까지 모두 만나보세요.",
+    "urgency_text": "11월 14일 ~ 15일, 주말 한정 개최",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 방문 시 스타벅스 상품권 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최저가 보장",
+      "웨딩드레스 100만원 상당 블랙라벨 무료 업그레이드",
+      "허니문 최대 150만원 할인",
+      "예물/예복/한복 최대 30~50% 할인 혜택",
+      "혼수/가전 가전패키지 혜택"
+    ],
+    "special_events": [
+      "웨딩홀 실시간 비교 상담",
+      "전문가 1:1 동행 서비스 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "용산구",
+      "sigungu_en": "yongsan",
+      "address": "서울 용산구 한강대로23길 55",
+      "venue": "용산 아이파크몰 리빙파크 5층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 증정",
+    "trust_indicators": [
+      "대형 규모 웨딩박람회",
+      "투명한 견적 및 스드메 최저가 보장제 운영",
+      "전문 웨딩 컨설턴트 1:1 맞춤 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "용산 아이파크몰 대형 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "용산 아이파크몰 리빙파크 5층 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "용산구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd22/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 필수인가요?",
+        "answer": "무료 참가 신청을 통해 사전등록을 하시면 현장에서 더욱 원활한 상담과 혜택 적용이 가능합니다."
+      },
+      {
+        "question": "스드메 패키지 가격대는 어느 정도인가요?",
+        "answer": "업체와 상담을 통해 맞춤형으로 구성되며, 최저가 보장제를 실시하고 있습니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "특별한 준비물은 없으나, 예식 예정일과 대략적인 예산 범위를 생각해 오시면 보다 구체적인 상담이 가능합니다."
+      },
+      {
+        "question": "방문 선물은 어떻게 받나요?",
+        "answer": "현장에 방문하여 상담을 완료하시면 스타벅스 상품권을 수령하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "행사가 열리는 용산 아이파크몰 주차장을 이용하실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 예식장, 스튜디오, 드레스, 메이크업(스드메) 업체 선택을 고민 중인 예비부부들을 위한 행사입니다. 결혼 준비의 전체적인 비용을 비교하고 싶은 분, 혼수 가전부터 허니문까지 한자리에서 효율적으로 상담받고 싶은 신혼부부에게 권장합니다. 특히 막연한 결혼 준비 과정에서 전문가의 조언이 필요하거나, 합리적인 할인 혜택을 통해 예산을 절약하고자 하는 분들께 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "웨딩 드레스샵",
+      "메이크업 전문 업체",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "한복 대여 및 맞춤",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "스드메 최저가 보장제 실시",
+      "블랙라벨 드레스 무료 업그레이드 제공",
+      "허니문 최대 150만원 할인 등 확실한 계약 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 박람회 후기",
+      "결혼식 비용 절약 팁",
+      "웨딩플래너 상담 예약",
+      "박람회 계약 혜택 확인",
+      "허니문 박람회 할인",
+      "혼수가전 준비 체크리스트",
+      "서울 웨딩홀 투어 비교",
+      "드레스 피팅 시 주의사항",
+      "결혼식 예산 짜는 법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 일정 모음",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "결혼 준비 체크리스트 바로가기",
+        "category": "wedding_guides"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "예물",
+      "예복",
+      "신혼여행",
+      "부케",
+      "웨딩컨설팅",
+      "결혼박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "용산 아이파크몰 웨딩박람회 개최!",
+    "og_description": "스드메 최저가 보장! 지금 사전등록하고 상담받으면 스타벅스 상품권과 다양한 혼수 혜택까지 놓치지 마세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#용산웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#결혼식",
+      "#웨딩드레스",
+      "#허니문",
+      "#혼수",
+      "#서울웨딩"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd22/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_VxKcj6GKOw.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_J2KexeCeMaIMeG83ccuhxE8.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_mgeRynbRkLZH4yMyj9lWNV1zZ.jpg"
+  },
+  "updated_at": "2026-11-02 20:00:18",
+  "revenue": 30000
+}
