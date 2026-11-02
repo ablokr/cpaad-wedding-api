@@ -9117,5 +9117,623 @@
     },
     "updated_at": "2026-11-02 13:01:35",
     "revenue": 35000
+  },
+  {
+    "idx": 1538,
+    "campaign_id": "wncowedding03",
+    "gather_name": "안성웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "안성웨딩박람회 | 스타필드 안성 대규모 개최, 스드메 혜택 총정리",
+      "meta_description": "2026년 11월 21일~22일, 스타필드 안성에서 개최되는 안성웨딩박람회! 방문 시 데일리 토스터기 증정, 계약 시 최대 혜택 제공. 예비부부를 위한 결혼 준비의 모든 것, 지금 사전등록하고 특별한 경품 혜택을 모두 받아가세요.",
+      "keywords": [
+        "안성웨딩박람회",
+        "스타필드안성웨딩박람회",
+        "경기결혼준비",
+        "안성웨딩홀",
+        "스드메견적",
+        "신혼부부혜택",
+        "안성결혼박람회",
+        "웨딩박람회일정",
+        "결혼준비꿀팁",
+        "스드메패키지"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 해야 할지 막막하신가요? 11월 21일부터 이틀간 스타필드 안성에서 열리는 대규모 안성웨딩박람회에서 그 해답을 찾으세요. 최신 웨딩 트렌드부터 스드메 패키지, 신혼여행까지 전문가의 1:1 맞춤 상담을 통해 합리적인 결혼 준비를 도와드립니다.",
+      "benefits_description": "이번 안성웨딩박람회는 오직 방문객만을 위한 역대급 혜택을 준비했습니다. 현장 방문 상담 시 선착순으로 실속 있는 데일리 토스터기를 증정하며, 계약 시에는 웨딩홀 대관료 할인, 식대 할인, 스드메 패키지 특별가 등 비용 부담을 덜어드리는 풍성한 혜택이 기다리고 있습니다. 또한, 허니문 여행권 지원부터 예물, 예복, 한복까지 품목별 특별 할인으로 예비부부의 예산에 맞춘 최적의 선택을 제안합니다.",
+      "summary_for_search": "2026년 11월 21일-22일 스타필드 안성에서 개최되는 안성웨딩박람회! 방문 상담만 해도 데일리 토스터기 증정. 웨딩홀, 스드메, 허니문 등 결혼 준비의 모든 정보를 한자리에서 만나보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스타필드 안성 웨딩박람회, 지금 사전등록 시 현장 혜택 최대 지원!",
+      "secondary_headline": "결혼 준비의 기준이 되다. 스드메부터 혼수까지 전문가와 함께하는 합리적인 웨딩 플랜",
+      "urgency_text": "선착순 방문객 사은품 소진 시 조기 마감될 수 있습니다.",
+      "call_to_action_text": "무료 사전상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 완료 시 실속형 데일리 토스터기 증정",
+        "방문객 전원 웨딩 패키지 할인 혜택 제공"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩액자 증정",
+        "웨딩드레스 무료 피팅권 및 웨딩홀 대관료/식대 최대 할인",
+        "혼수/예물/예복 계약 시 현금 할인 및 전용 선물 증정"
+      ],
+      "special_events": [
+        "스몰/하우스 웨딩 특별 기획전",
+        "1:1 맞춤형 웨딩 스타일링 컨설팅",
+        "허니문 여행지별 특별 프로모션"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "안성시",
+        "sigungu_en": "anseong",
+        "address": "경기 안성시 공도읍 서동대로 3930-39 2층",
+        "venue": "스타필드 안성 2층 특별행사장",
+        "parking_info": "스타필드 안성 대형 주차장 이용 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "상담 완료 후 QR코드 스캔 또는 안내 데스크 수령",
+      "trust_indicators": [
+        "검증된 우수 웨딩 업체 대거 참여",
+        "1:1 맞춤형 전문 웨딩 컨설턴트 배치",
+        "결혼 준비 전 과정 투명한 견적 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "안성웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "location": {
+          "@type": "Place",
+          "name": "스타필드 안성 2층 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "안성시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 온라인 신청을 하시면 무료로 입장이 가능하며 다양한 방문 사은품을 수령하실 수 있습니다."
+        },
+        {
+          "question": "주차는 편리한가요?",
+          "answer": "스타필드 안성 내 대형 주차장을 이용하실 수 있어 편리하게 방문 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스드메, 허니문, 예물, 예복, 한복 등 결혼 준비에 필요한 모든 카테고리의 우수 업체가 참여합니다."
+        },
+        {
+          "question": "계약 혜택은 무엇인가요?",
+          "answer": "현장 계약 시 할인 혜택은 물론 웨딩액자 증정, 식대 할인 등 박람회 전용 혜택을 제공해 드립니다."
+        },
+        {
+          "question": "1:1 상담은 어떻게 진행되나요?",
+          "answer": "현장 방문 시 전문 플래너가 배치되어 커플의 예산과 취향에 맞는 맞춤형 컨설팅을 1:1로 진행합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞둔 경기 지역 예비부부를 타겟으로 합니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비부부, 스드메 패키지 비용 비교에 어려움을 겪는 커플, 합리적인 예산으로 고퀄리티 결혼식을 꿈꾸는 신혼부부에게 최적입니다. 또한, 바쁜 직장 생활로 시간을 내기 어려운 분들을 위해 한 자리에서 웨딩홀, 혼수, 허니문 정보를 한 번에 비교할 수 있는 효율적인 솔루션을 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 전문 상담 및 대관 안내",
+        "스드메(스튜디오, 드레스, 메이크업) 패키지 업체",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "맞춤 한복 및 신혼가전"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 할인 및 추가 경품 혜택 제공",
+        "지역 최대 규모의 전문 웨딩 업체 상담 보장",
+        "투명하고 합리적인 1:1 맞춤형 웨딩 컨설팅 진행"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "스드메 비용 절약법",
+        "결혼식 예산 짜기",
+        "신혼여행지 추천",
+        "웨딩홀 예약 팁",
+        "스튜디오 촬영 컨셉",
+        "웨딩드레스 스타일",
+        "예물 예복 브랜드 순위",
+        "결혼 준비 체크리스트",
+        "혼수 가전 구매 시기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 웨딩홀 추천 정보",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 가격 비교",
+          "category": "sdm_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "결혼준비",
+        "예식장",
+        "웨딩홀",
+        "혼수",
+        "허니문",
+        "예복",
+        "예물",
+        "신혼가전",
+        "부케"
+      ]
+    },
+    "social_meta": {
+      "og_title": "안성웨딩박람회, 결혼 준비 혜택 한눈에!",
+      "og_description": "스타필드 안성에서 열리는 웨딩박람회! 지금 사전등록하면 상담만 해도 선물 증정. 놓치지 마세요!",
+      "hashtags": [
+        "#안성웨딩박람회",
+        "#스타필드안성",
+        "#결혼준비",
+        "#예비부부",
+        "#스드메",
+        "#웨딩박람회혜택",
+        "#웨딩홀추천",
+        "#신혼여행",
+        "#결혼식준비",
+        "#예비신부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_jZ5Xv3cCeNgFCM2mj5OT5A.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_olYTpJ3fpm57OCb2zuNxDL4.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_RrU6COkmzqRjaxP6FUjV.jpg"
+    },
+    "updated_at": "2026-11-02 16:01:50",
+    "revenue": 30000
+  },
+  {
+    "idx": 1832,
+    "campaign_id": "wncowedding21",
+    "gather_name": "안산 웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "안산 웨딩박람회 | 롯데하이마트 특별행사장 방문 혜택 및 할인 정보",
+      "meta_description": "2026년 11월 21일-22일 안산 롯데하이마트 특별행사장 개최! 스드메 패키지 할인, 방문만 해도 100% 증정하는 선물 등 결혼 준비 필수 혜택을 한자리에서 만나보세요. 선착순 사전등록 시 추가 혜택을 드립니다.",
+      "keywords": [
+        "안산 웨딩박람회",
+        "안산 결혼준비",
+        "안산 웨딩홀",
+        "안산 스드메",
+        "결혼박람회 일정",
+        "신혼부부 혜택",
+        "안산 예물",
+        "안산 한복",
+        "안산 맞춤정장",
+        "롯데하이마트 웨딩박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 안산 웨딩박람회에서 합리적인 웨딩 플랜을 완성해보세요. 11월 21일부터 양일간 롯데하이마트 특별행사장에서 열리는 이번 박람회는 스드메부터 혼수까지 예비부부를 위한 모든 솔루션을 한자리에 모았습니다.",
+      "benefits_description": "이번 안산 웨딩박람회는 단순히 구경하는 곳이 아닙니다. 방문만 하셔도 100% 증정되는 선물과 함께, 현장 계약 시 대형 가전부터 계약 축하금까지 풍성한 혜택을 제공합니다. 스드메 패키지 현장 특가와 더불어 전문 플래너와의 1:1 상담을 통해 나만의 맞춤 웨딩을 설계해보세요. 특히 선착순 입장객을 위한 한정 경품과 상담 완료 고객 대상 추가 할인 혜택이 준비되어 있으니 놓치지 마세요.",
+      "summary_for_search": "2026년 11월 21~22일 안산 롯데하이마트 특별행사장에서 열리는 안산 웨딩박람회. 스드메 패키지 할인, 방문 선물 100% 증정, 가전 계약 혜택까지! 지금 사전등록하고 결혼 준비 비용을 절약하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "안산 웨딩박람회, 지금 사전등록하고 최대 혜택 받으세요",
+      "secondary_headline": "스드메부터 혼수, 허니문까지 안산 지역 최대 규모 웨딩 페어",
+      "urgency_text": "선착순 방문객 한정 경품 증정! 11월 21-22일 단 이틀간",
+      "call_to_action_text": "무료 사전 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 사은품 100% 증정",
+        "선착순 방문객 대상 경품 추첨"
+      ],
+      "contract_benefits": [
+        "웨딩패키지 계약 시 계약 축하금 및 할인",
+        "허니문 여행권 증정 및 특별 혜택",
+        "가전 구매 시 추가 할인 및 포인트 혜택"
+      ],
+      "special_events": [
+        "웨딩 드레스 피팅 체험",
+        "최고급 웨딩액자 증정",
+        "본식 사진 원본 무료 업그레이드"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "안산시",
+        "sigungu_en": "ansan",
+        "address": "경기 안산시 단원구 중앙대로 873 >안산롯데백화점 신관 4층",
+        "venue": "롯데하이마트 특별행사장",
+        "parking_info": "행사장 내 주차 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 100% 증정",
+      "trust_indicators": [
+        "지역 최대 규모 개최",
+        "검증된 우수 웨딩 업체 참여",
+        "1:1 맞춤형 웨딩 플래닝 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "안산 웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "롯데하이마트 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "안산시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding21/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "안산 웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "원활한 상담과 입장 선물을 제공하기 위해 사전 예약 후 방문하시는 것을 권장합니다."
+        },
+        {
+          "question": "주차 시설은 마련되어 있나요?",
+          "answer": "네, 롯데하이마트 특별행사장 내 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "방문하면 선물을 다 받을 수 있나요?",
+          "answer": "네, 상담 완료 고객님들께는 100% 증정되는 사은품이 준비되어 있습니다."
+        },
+        {
+          "question": "스드메 패키지 가격대는 어떤가요?",
+          "answer": "박람회 현장 특가와 이벤트 혜택을 적용하여 합리적인 가격으로 구성되어 있습니다."
+        },
+        {
+          "question": "참여 업체 정보는 어떻게 알 수 있나요?",
+          "answer": "박람회 현장에 안산 지역 내 엄선된 웨딩홀, 스튜디오, 드레스 등 다양한 업체가 참여합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 막 시작한 예비부부, 스드메 비용과 구성 때문에 고민 중인 커플, 그리고 안산 지역 내에서 예식장부터 혼수가전까지 한 번에 해결하고 싶은 신혼부부들을 위한 행사입니다. 막막한 웨딩 플래닝 과정을 전문가의 1:1 상담을 통해 예산에 맞게 체계적으로 준비하고 싶은 분들에게 최적화되어 있습니다.",
+      "exhibitor_highlights": [
+        "스드메 전문 패키지 업체",
+        "안산 인기 웨딩홀",
+        "허니문 전문 여행사",
+        "예물 및 예복 맞춤 브랜드",
+        "혼수가전 전문 업체"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 시 최대 추가 할인 제공",
+        "국내 최신 트렌드 웨딩 스튜디오 대거 참여",
+        "복잡한 결혼 준비를 단 한 곳에서 끝내는 올인원 상담"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "안산 웨딩홀 추천",
+        "스드메 가격 비교",
+        "웨딩박람회 방문 팁",
+        "결혼 준비 순서 체크리스트",
+        "안산 예물샵 추천",
+        "웨딩 박람회 사은품",
+        "신혼여행 패키지 추천",
+        "혼수가전 할인 혜택",
+        "안산 한복 대여",
+        "웨딩 플래너 상담 비용"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "안산 웨딩홀 리스트 바로가기",
+          "category": "wedding_hall"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "웨딩 플래너",
+        "혼수가전",
+        "신혼여행",
+        "결혼식 준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "안산 웨딩박람회 | 결혼 준비 혜택 가득",
+      "og_description": "11월 21일 안산 롯데하이마트에서 열리는 웨딩박람회! 지금 신청하고 방문 선물과 계약 혜택을 모두 받아가세요.",
+      "hashtags": [
+        "#안산웨딩박람회",
+        "#안산결혼준비",
+        "#안산웨딩홀",
+        "#스드메",
+        "#신혼부부혜택",
+        "#결혼준비",
+        "#예비부부",
+        "#웨딩박람회일정",
+        "#안산예물",
+        "#안산혼수"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding21/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_wGQRqL74X.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_Kvd13w1pD7A3vKjuCLPFGLf1VKDokF.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_eFxPM8TvYhZVG8bcUs1lz.jpg"
+    },
+    "updated_at": "2026-11-02 16:02:05",
+    "revenue": 30000
+  },
+  {
+    "idx": 1385,
+    "campaign_id": "wedingcrowd48",
+    "gather_name": "수원 갤러리아 광교 대형 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "수원 갤러리아 광교 웨딩박람회 | 스드메 최대 110만원 할인 혜택",
+      "meta_description": "2026년 11월 14일-15일, 수원 갤러리아 광교점 개최! 스드메 패키지 최대 110만원 할인, 허니문 최대 150만원 혜택 등 수원 최대 규모 웨딩박람회에서 합리적인 결혼 준비를 시작하세요.",
+      "keywords": [
+        "수원웨딩박람회",
+        "갤러리아광교웨딩박람회",
+        "수원결혼준비",
+        "스드메패키지",
+        "수원웨딩홀",
+        "신혼부부혜택",
+        "웨딩박람회일정",
+        "수원결혼박람회",
+        "웨딩컨설팅",
+        "결혼준비꿀팁"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민이신가요? 수원 갤러리아 광교점에서 열리는 이번 대형 웨딩박람회는 예비부부님들의 고민을 한 번에 해결해 드립니다. 전문가와의 1:1 맞춤 상담을 통해 복잡한 결혼 준비 과정을 투명하고 합리적인 비용으로 완성해보세요.",
+      "benefits_description": "이번 박람회에서는 스드메 패키지 계약 시 최대 110만 원의 파격적인 할인 혜택을 제공하며, 웨딩드레스 무료 업그레이드 등 풍성한 지원을 약속드립니다. 또한, 허니문 최대 150만 원 할인, 가전 및 가구 특별 프로모션, 한복과 예물 등 결혼 준비의 모든 항목을 한자리에서 비교하고 실속 있게 챙기실 수 있습니다. 현장 방문객을 위한 다양한 경품 추첨과 맞춤형 상담을 통해 오직 이번 박람회에서만 누릴 수 있는 특별한 가치를 경험하세요.",
+      "summary_for_search": "2026년 11월 14일~15일, 수원 갤러리아 광교점 8층에서 개최! 스드메 패키지 최대 110만원 할인, 허니문 150만원 혜택 등 수원 최대 웨딩박람회에서 합리적인 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "스드메 패키지 최대 110만원 할인 혜택!",
+      "secondary_headline": "수원 갤러리아 광교 대형 웨딩박람회, 결혼 준비의 모든 것을 한자리에",
+      "urgency_text": "단 2일간 진행되는 특별 프로모션, 선착순 상담 예약 마감 임박!",
+      "call_to_action_text": "지금 무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담 완료 시 사은품 증정",
+        "웨딩검진 및 맞춤형 컨설팅 제공"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최대 110만원 할인",
+        "웨딩드레스 100만원 상당 무료 업그레이드",
+        "허니문 최대 150만원 할인 혜택",
+        "한복 및 가전/가구 제휴 할인 혜택"
+      ],
+      "special_events": [
+        "스드메 최저가 보장제",
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "웨딩홀 섭외 및 무료 비교 서비스"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "display_date": "11월 14일(토) ~ 11월 15일(일)",
+        "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "수원시",
+        "sigungu_en": "suwon",
+        "address": "경기 수원시 영통구 광교중앙로 124",
+        "venue": "갤러리아백화점 광교점 8층 특별전시장",
+        "parking_info": "백화점 내 주차 가능 (행사 상담 시 주차 지원 상세 확인)",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "현장 방문 및 상담 완료 시 혜택 증정",
+      "trust_indicators": [
+        "스드메 최저가 보장",
+        "1:1 전문 플래너 상담 시스템",
+        "대형 백화점 입점 프리미엄 박람회"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "수원 갤러리아 광교 대형 웨딩박람회",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "갤러리아백화점 광교점 8층 특별전시장",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "광교중앙역 인근",
+            "addressLocality": "수원시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd48/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 방문 예약은 필수인가요?",
+          "answer": "네, 원활한 상담과 현장 혼잡 방지를 위해 사전 예약 후 방문하시는 것을 권장합니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 현장에서 전문가 상담을 완료하시는 분들께 소정의 사은품을 제공하고 있습니다."
+        },
+        {
+          "question": "스드메 패키지 가격대는 어느 정도인가요?",
+          "answer": "패키지 구성에 따라 다르지만, 이번 박람회에서는 최대 110만원 할인을 통해 합리적인 가격으로 구성되어 있습니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "갤러리아백화점 광교점 주차장을 이용하실 수 있습니다."
+        },
+        {
+          "question": "결혼 준비가 처음인데 무엇을 챙겨야 하나요?",
+          "answer": "박람회 현장에서 예식홀 섭외부터 스드메, 혼수까지 전 과정을 전문가가 1:1로 가이드 해드립니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 이제 막 시작한 예비 신랑신부님, 예식장 예약부터 스튜디오 촬영, 드레스, 메이크업(스드메)까지 무엇을 어디서 준비해야 할지 막막한 커플들을 위한 필수 행사입니다. 특히 합리적인 예산으로 고퀄리티의 웨딩을 완성하고 싶은 6개월 이내 예비 부부에게 최적의 정보를 제공합니다. 전문 플래너의 맞춤 가이드를 통해 시행착오 없는 결혼 준비를 계획하시는 모든 분들을 환영합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 상담 및 섭외",
+        "스튜디오 스냅 촬영",
+        "웨딩 드레스 샵",
+        "헤어 및 메이크업",
+        "허니문 여행사",
+        "혼수 가전 및 가구",
+        "예물 및 예복",
+        "한복 전문점"
+      ],
+      "comparison_hooks": [
+        "타 박람회와 비교 불가한 스드메 최저가 보장제 운영",
+        "백화점 내부 개최로 신뢰도 높은 프리미엄 상담 서비스",
+        "현장 즉시 계약 시 드레스 무료 업그레이드 등 강력한 추가 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "수원 결혼식장 추천",
+        "스드메 평균 비용",
+        "웨딩박람회 호갱 예방",
+        "신혼여행 패키지 추천",
+        "결혼준비 체크리스트",
+        "수원 웨딩스튜디오 리스트",
+        "웨딩플래너 상담 비용",
+        "혼수가전 할인 팁",
+        "예물 예복 브랜드 순위"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "수원 웨딩홀 정보 확인",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "결혼 준비 체크리스트 전체 보기",
+          "category": "wedding_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "본식스냅",
+        "신혼여행",
+        "웨딩드레스",
+        "결혼예물",
+        "신혼가구"
+      ]
+    },
+    "social_meta": {
+      "og_title": "수원 갤러리아 웨딩박람회 최대 110만원 할인!",
+      "og_description": "2026 수원 대형 웨딩박람회! 갤러리아 광교에서 만나는 스드메 최저가 패키지와 허니문 150만원 혜택을 지금 확인하세요.",
+      "hashtags": [
+        "#수원웨딩박람회",
+        "#갤러리아광교웨딩박람회",
+        "#수원결혼준비",
+        "#스드메",
+        "#결혼식",
+        "#신혼부부",
+        "#수원웨딩홀",
+        "#웨딩박람회일정",
+        "#예비부부",
+        "#웨딩드레스"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd48/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202406/2337ea9ac0ebeb271ae4fe609b8d7149_rBGj7Ihk.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_44fp626yrnowiadMEPAUjFKPQxXxX3M.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_DfsQKhdMTyVZl5nZ2k5WFDtMREr4G.jpg"
+    },
+    "updated_at": "2026-11-02 16:02:34",
+    "revenue": 30000
   }
 ]
