@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 159,
+    "total_count": 160,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-11-02 19:37:23"
+    "updated_at": "2026-11-03 13:33:31"
   },
   "items": [
     {
@@ -1765,6 +1765,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1404,
       "campaign_id": "wedingcrowd51",
       "gather_name": "성남/분당 웨딩크라우드 웨딩박람회",
       "display_date": "11월 14일(토) ~ 11월 15일(일)",
@@ -1773,7 +1774,8 @@
       "sigungu": "성남시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_Di1BW4xbzk.jpg",
-      "updated_at": "2026-11-02 19:31:26"
+      "updated_at": "2026-11-02 19:31:26",
+      "revenue": 30000
     },
     {
       "idx": 1684,
@@ -2073,6 +2075,19 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202308/42635e34d702a842a5408bf099b3a49d_WRA7WmVYjb8V7.jpg",
       "updated_at": "2026-11-02 19:37:23",
       "revenue": 30000
+    },
+    {
+      "idx": 1414,
+      "campaign_id": "revewedding05",
+      "gather_name": "청주 OSCO 웨딩박람회",
+      "display_date": "11월 21일(토) ~ 11월 22일(일)",
+      "venue": "청주오스코 특별전시장",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_OQIU4VqcQovung6j7bQ3.jpg",
+      "updated_at": "2026-11-03 13:33:31",
+      "revenue": 50000
     }
   ]
 }
