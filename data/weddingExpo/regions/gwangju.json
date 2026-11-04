@@ -621,5 +621,204 @@
     },
     "updated_at": "2026-11-02 20:06:37",
     "revenue": 50000
+  },
+  {
+    "idx": 946,
+    "campaign_id": "theBW01",
+    "gather_name": "광주 웨딩 페스타",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 웨딩 페스타 | 신세계백화점 광주점 결혼 준비 상담 혜택",
+      "meta_description": "광주 웨딩 페스타에서 결혼 준비의 모든 것을 확인하세요. 11월 14일~15일 신세계백화점 광주점에서 진행되는 웨딩 박람회 방문 상담 혜택과 스드메 패키지 정보를 제공합니다.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주스드메",
+        "광주웨딩홀추천",
+        "광주신세계백화점웨딩",
+        "광주웨딩페스타",
+        "광주예물",
+        "광주웨딩드레스",
+        "결혼준비박람회",
+        "광주혼수"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부를 위해 광주 웨딩 페스타가 열립니다. 이번 행사는 신세계백화점 광주점에서 진행되며, 예식장부터 스드메 패키지, 혼수까지 한자리에서 비교하고 상담받을 수 있는 기회입니다.",
+      "benefits_description": "방문만 해도 제공되는 스타벅스 쿠폰부터 계약 시 증정되는 다양한 웨딩 특전이 준비되어 있습니다. 스드메 패키지 상담 시 제공되는 할인 쿠폰과 현장 계약자를 위한 특별 사은품은 두 분의 알뜰한 결혼 준비를 돕습니다. 구체적인 할인 적용 범위와 추가 비용 여부는 상담 시 담당 플래너에게 직접 확인하여 투명한 견적을 받아보시길 권장합니다.",
+      "summary_for_search": "11월 14일~15일 신세계백화점 광주점에서 개최되는 광주 웨딩 페스타. 결혼 준비 필수 코스인 스드메 패키지, 웨딩홀 상담 및 방문·계약 혜택을 확인하고 무료 초대장을 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "광주 웨딩 페스타, 11월 14일-15일 신세계백화점에서 만나는 결혼 준비 기회",
+      "secondary_headline": "결혼 준비의 모든 것, 신뢰받는 전문 플래너와 함께 알뜰하게 시작하세요.",
+      "urgency_text": "사전 등록 시 무료 초대장 제공 및 현장 방문 선물 증정",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 기프티콘 증정 (선착순)"
+      ],
+      "contract_benefits": [
+        "스드메 상담 시 할인 특전 쿠폰 제공",
+        "계약자 대상 가전 증정 이벤트",
+        "예물 및 주얼리 특별 혜택",
+        "허니문 여행권 상담 및 예약 혜택"
+      ],
+      "special_events": [
+        "2026 신상 웨딩드레스 전시",
+        "전문가 1:1 웨딩 스타일링 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "display_date": "11월 14일(토) ~ 11월 15일(일)",
+        "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "광주 서구 무진대로 932",
+        "venue": "신세계백화점 광주신세계점 8층",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 등록 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "1년 무려 1,300쌍이 선택한 박람회",
+        "검증된 전문 웨딩 플래너 상담",
+        "다수의 검증된 웨딩홀 및 업체 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 웨딩 페스타",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-15",
+        "location": {
+          "@type": "Place",
+          "name": "신세계백화점 광주신세계점 8층",
+          "address": "광주광역시 서구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBW01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "본 박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 사전 신청 후 현장을 방문하여 상담을 진행하시면 소정의 방문 선물을 증정하고 있습니다."
+        },
+        {
+          "question": "웨딩홀 상담도 가능한가요?",
+          "answer": "네, 다양한 광주 지역 인기 웨딩홀 정보와 상담이 가능합니다."
+        },
+        {
+          "question": "계약 시 혜택은 무엇인가요?",
+          "answer": "스드메 할인 쿠폰 및 사은품, 예물/혼수 특별 혜택 등이 준비되어 있습니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "해당 정보는 안내 자료에서 확인되지 않으므로 주최 측에 문의해 주세요."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼식을 앞두고 장소 선정부터 스드메 패키지, 혼수 준비까지 한 번에 해결하고자 하는 광주 지역 예비부부를 위한 행사입니다. 결혼 준비를 이제 막 시작해 무엇을 먼저 해야 할지 고민인 커플, 합리적인 비용으로 퀄리티 높은 서비스를 찾고 싶은 신혼부부에게 적합합니다. 전문가와의 1:1 상담을 통해 막연한 계획을 구체화하고, 현장 혜택을 통해 예산을 효율적으로 관리하고 싶은 분들께 권장합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀",
+        "스드메 패키지",
+        "예물 및 주얼리",
+        "예복 및 테일러샵",
+        "한복",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "광주 지역 내 다양한 업체 비교 상담 가능",
+        "전문 웨딩 플래너의 맞춤형 1:1 동행 서비스",
+        "현장 계약자를 위한 실질적인 할인 및 사은품 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩박람회 방문 후기",
+        "스드메 비용 절약 팁",
+        "결혼 준비 체크리스트",
+        "광주 웨딩홀 투어 순서",
+        "예물 예복 계약 시 주의사항",
+        "허니문 여행지 추천",
+        "신혼 가전 혼수 목록",
+        "광주 신세계백화점 웨딩 이벤트",
+        "웨딩 플래너 선택 기준",
+        "2026 결혼 준비 박람회 일정"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩홀 추천 리스트",
+          "category": "venue_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "결혼준비",
+        "웨딩패키지",
+        "본식스냅",
+        "웨딩촬영",
+        "허니문",
+        "웨딩드레스",
+        "예물"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 웨딩 페스타 | 광주 예비부부를 위한 결혼 준비 박람회",
+      "og_description": "신세계백화점 광주점에서 만나는 특별한 혜택! 지금 사전 등록하고 무료로 상담받으세요.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주스드메",
+        "#광주웨딩홀",
+        "#광주예비부부",
+        "#광주예물",
+        "#결혼준비",
+        "#신세계백화점광주점",
+        "#광주웨딩페스타",
+        "#웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBW01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4t7OzzYuJ7wgFy4aD.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_juukkC3k.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_PZkGBEd3b5rGPNJHQYTuuZ7jyoHZ1O.jpg"
+    },
+    "updated_at": "2026-11-04 20:00:49",
+    "revenue": 30000
   }
 ]
