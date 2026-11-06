@@ -1,0 +1,196 @@
+{
+  "idx": 1100,
+  "campaign_id": "labelleellin02",
+  "gather_name": "수원 웨딩박람회",
+  "organizer_name": "파리스 라벨르엘린",
+  "seo_metadata": {
+    "title": "수원 웨딩박람회 | 수원 결혼만들기 웨딩타운 스드메 혼수 혜택",
+    "meta_description": "11월 14일-15일 개최되는 수원 웨딩박람회! 라벨르엘린 신상 드레스 및 스드메 패키지 할인, 혼수 이벤트 등 예비부부를 위한 다채로운 혜택을 확인하고 상담을 예약하세요.",
+    "keywords": [
+      "수원 웨딩박람회",
+      "수원 결혼 준비",
+      "결혼만들기 웨딩타운",
+      "수원 스드메",
+      "수원 웨딩홀",
+      "수원 혼수 박람회",
+      "결혼 준비 체크리스트",
+      "웨딩 드레스 투어",
+      "수원 예물",
+      "수원 신혼여행"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫 단추를 어떻게 끼워야 할지 고민하고 계신가요? 11월 14일부터 15일까지 수원 결혼만들기 웨딩타운에서 열리는 이번 박람회는 스드메부터 혼수까지 한자리에서 비교하고 합리적으로 결정할 수 있도록 돕는 실속 있는 상담의 장입니다.",
+    "benefits_description": "이번 박람회에서는 라벨르엘린 리뉴얼 오픈을 기념하여 혼주 한복 대여 할인 및 메이크업 할인, 패키지 추가 혜택 등 풍성한 구성이 준비되어 있습니다. 또한 예물, 여행사 등 다양한 혼수 업체와의 제휴를 통해 현장 계약 시 받을 수 있는 혜택의 폭을 넓혔습니다. 서울보증보험 가입 여행사를 통한 안전한 허니문 설계까지 가능하니, 두 분의 예산과 취향에 맞춘 맞춤형 상담을 통해 꼼꼼하게 따져보고 실속을 챙겨보세요.",
+    "summary_for_search": "11월 14일-15일 수원 결혼만들기 웨딩타운에서 개최되는 수원 웨딩박람회. 스드메 패키지, 혼수 할인, 허니문 안전 보장 등 결혼 준비의 모든 것을 한곳에서 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "수원 결혼만들기 웨딩타운 대규모 웨딩페어 초대",
+    "secondary_headline": "스드메 패키지부터 혼수까지, 예비부부를 위한 맞춤형 혜택과 2026 신상 드레스 공개",
+    "urgency_text": "사전 등록 시 무료 입장 가능",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [],
+    "contract_benefits": [
+      "혼주 한복 대여 할인",
+      "혼주 메이크업 할인",
+      "패키지 추가 혜택 및 업그레이드 지원",
+      "예물 및 혼수 업체 계약 혜택"
+    ],
+    "special_events": [
+      "라벨르엘린 2026 신상 드레스 전시",
+      "라벨르엘린 리뉴얼 오픈 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 팔달구 효원로 62",
+      "venue": "수원 결혼만들기 웨딩타운 전층",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "방문 예정일자"
+    ],
+    "gift_conditions": "상담 및 계약 시 상세 조건은 현장에서 확인 가능",
+    "trust_indicators": [
+      "서울보증보험 가입 여행사 제휴",
+      "인기 웨딩 스튜디오 30개 업체 제휴",
+      "라벨르엘린 등 전문 브랜드 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 웨딩박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "수원 결혼만들기 웨딩타운"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "파리스 라벨르엘린",
+        "url": "https://ad.cpaad.co.kr/labelleellin02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 신청은 어떻게 하나요?",
+        "answer": "페이지 내 이름, 연락처, 결혼 예정일 등 필수 정보를 입력하고 무료 참가 신청 버튼을 누르면 접수됩니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "해당 정보는 안내 자료에서 상세히 확인되지 않으므로, 방문 전 주최 측에 문의하여 주차 시설 이용 여부를 확인하시기 바랍니다."
+      },
+      {
+        "question": "입장료가 있나요?",
+        "answer": "사전 신청을 하시면 무료로 박람회에 입장하실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "라벨르엘린, 다양한 인기 웨딩 스튜디오 30개 업체, 혼수 및 예물 업체가 참여합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "혼주 한복 및 메이크업 할인, 패키지 추가 혜택 등 계약 조건에 따라 다양한 지원이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 스드메 업체 선정부터 혼수 가전, 허니문까지 한 번에 준비하고 싶은 수원 및 경기 지역 예비부부를 대상으로 합니다. 결혼 준비를 이제 막 시작하여 어디서부터 알아봐야 할지 막막한 커플, 혹은 합리적인 패키지 구성을 찾아 비교 중인 분들에게 최적화된 정보를 제공합니다. 전문 플래너와 1:1 상담을 통해 나만의 웨딩 콘셉트를 구체화하고 싶은 예비 신랑, 신부님이라면 꼭 방문해보세요.",
+    "exhibitor_highlights": [
+      "라벨르엘린(드레스)",
+      "웨딩 스튜디오 30개사",
+      "혼주 한복 업체",
+      "예물 브랜드",
+      "허니문 여행사"
+    ],
+    "comparison_hooks": [
+      "지역 내 최대 규모 웨딩 스튜디오 30개사 직제휴",
+      "허니문 피해 방지 서울보증보험 가입 업체 운영",
+      "2026 신상 드레스 라인업 선공개"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 스드메 추천",
+      "수원 웨딩박람회 일정",
+      "결혼 준비 순서",
+      "웨딩박람회 방문 팁",
+      "스드메 패키지 구성",
+      "웨딩 드레스 투어 비용",
+      "수원 예물 예복 정보",
+      "허니문 패키지 계약 주의사항",
+      "결혼 준비 비용 절약법",
+      "웨딩 박람회 필수 질문 리스트"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 웨딩박람회 전체 일정",
+        "category": "gyeonggi_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩드레스",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "메이크업",
+      "한복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 웨딩박람회 | 11월 혜택 모음",
+    "og_description": "수원 결혼만들기 웨딩타운에서 열리는 웨딩박람회! 신상 드레스와 스드메 혜택 지금 바로 확인하세요.",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#수원결혼준비",
+      "#수원스드메",
+      "#결혼만들기",
+      "#예비부부",
+      "#웨딩박람회",
+      "#2026결혼",
+      "#수원웨딩홀",
+      "#스드메패키지",
+      "#결혼준비시작"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/labelleellin02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_zzQCZmc16TFFs8P.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_udAEzDEckDAEDmLkjMc72o6TWvv.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_HVWC5ORE4VrvTMF1PZEl.jpg"
+  },
+  "updated_at": "2026-11-06 20:00:40",
+  "revenue": 30000
+}
