@@ -1,0 +1,206 @@
+{
+  "idx": 1545,
+  "campaign_id": "wncowedding04",
+  "gather_name": "원주 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "원주 웨딩박람회 | AK플라자 특별행사장 사전등록 혜택 안내",
+    "meta_description": "11월 21일~22일 원주 웨딩박람회 개최! 스드메 패키지, 예물, 한복, 허니문 등 결혼 준비 전 품목 할인과 방문 사은품을 지금 사전등록으로 만나보세요.",
+    "keywords": [
+      "원주웨딩박람회",
+      "강원도결혼준비",
+      "원주스드메",
+      "원주웨딩홀",
+      "AK플라자원주웨딩",
+      "결혼준비체크리스트",
+      "원주예물",
+      "원주한복",
+      "원주허니문",
+      "웨딩박람회혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함을 느끼고 계신 예비부부라면 이번 원주 웨딩박람회를 주목해 주세요. AK플라자 원주 6층 특별행사장에서 열리는 이번 행사는 예식장부터 스드메, 혼수까지 결혼 준비의 모든 과정을 한자리에서 비교하고 합리적으로 결정할 수 있도록 돕습니다.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 실속 있는 데일리 토스터기 등 다양한 선물을 증정하며, 상담 및 계약 시 예산 부담을 줄여주는 특별 혜택이 준비되어 있습니다. 스드메 패키지 특전은 물론, 허니문, 예물, 한복, 맞춤정장 등 각 분야 전문가와 1:1 상담을 통해 나만의 웨딩 스타일을 완성할 수 있습니다. 상담 중 궁금한 점은 현장에서 바로 확인하여 추가 비용 없는 투명한 견적을 설계해 보세요.",
+    "summary_for_search": "11월 21일~22일 AK플라자 원주에서 열리는 원주 웨딩박람회. 스드메 할인, 방문 사은품, 혼수 혜택까지 예비부부를 위한 실속 있는 결혼 준비 기회를 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 시작, 원주 웨딩박람회 페스티벌",
+    "secondary_headline": "상담만 받아도 선물 증정! 2026년 웨딩 시즌을 위한 합리적인 웨딩 패키지를 지금 만나보세요.",
+    "urgency_text": "11월 21일~22일 단 이틀간 진행되는 특별 혜택",
+    "call_to_action_text": "무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "실속형 데일리 토스터기",
+      "상담 고객 대상 100% 증정 사은품"
+    ],
+    "contract_benefits": [
+      "스드메 현장 계약 혜택",
+      "웨딩홀 무상 섭외 및 대관료 할인",
+      "본식 사진 원본 무료",
+      "허니문 특전",
+      "예물, 한복, 맞춤정장 계약 시 할인 및 증정품"
+    ],
+    "special_events": [
+      "스몰/하우스 웨딩 상담",
+      "1:1 맞춤형 웨딩 플래닝 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "display_date": "11월 21일(토) ~ 11월 22일(일)",
+      "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 봉화로 1",
+      "venue": "AK플라자 원주 6층 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 완료 시 증정(선착순 및 현장 조건에 따라 상이할 수 있으니 주최 측에 확인 바랍니다.)",
+    "trust_indicators": [
+      "다양한 웨딩 카테고리 입점",
+      "전문가 1:1 상담 서비스",
+      "합리적인 웨딩 패키지 구성"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 웨딩박람회",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "location": {
+        "@type": "Place",
+        "name": "AK플라자 원주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6층 특별행사장",
+          "addressLocality": "강원 원주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 어떻게 하나요?",
+        "answer": "공식 홈페이지 또는 안내된 랜딩페이지를 통해 성함, 연락처, 예식 예정일을 입력하여 신청할 수 있습니다."
+      },
+      {
+        "question": "방문하면 선물을 바로 받을 수 있나요?",
+        "answer": "방문 상담 완료 후 증정됩니다. 자세한 수령 조건은 행사 당일 현장 안내 데스크에서 확인해 주세요."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "스튜디오, 드레스, 메이크업 구성이 포함된 패키지를 행사장에서 확인하실 수 있으며 추가 비용 여부는 상담 시 문의 가능합니다."
+      },
+      {
+        "question": "결혼 준비가 처음인데 무엇을 상담받나요?",
+        "answer": "웨딩홀 섭외부터 스드메, 혼수, 허니문까지 전반적인 프로세스를 전문가와 1:1로 상담받으실 수 있습니다."
+      },
+      {
+        "question": "주차 및 편의 시설은 어떤가요?",
+        "answer": "해당 장소는 AK플라자 원주로, 주차 시설 및 이용 방법은 시설 운영 방침에 따릅니다. 방문 전 주최 측에 문의하시는 것을 추천합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 결혼 준비를 시작하고 싶은 커플, 스드메 및 혼수 견적을 한곳에서 비교하고 싶은 신혼부부를 대상으로 합니다. 결혼 준비의 전체적인 과정을 파악하고 전문가의 조언을 통해 합리적인 예산을 설계하고자 하는 분들에게 최적화된 행사입니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지",
+      "웨딩홀 섭외 업체",
+      "허니문 여행사",
+      "예물 및 주얼리",
+      "결혼 한복",
+      "맞춤정장"
+    ],
+    "comparison_hooks": [
+      "전문가와 함께하는 1:1 맞춤형 웨딩 상담 제공",
+      "스드메 및 혼수 전 품목 현장 계약 특전 적용",
+      "번거로움 없이 한자리에서 결혼 준비 모든 과정 해결"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 웨딩박람회 사은품",
+      "결혼 준비 비용 절약 방법",
+      "스드메 박람회 상담 팁",
+      "웨딩홀 섭외 업체 리스트",
+      "신혼여행 준비 체크리스트",
+      "웨딩박람회 계약 시 주의사항",
+      "원주 결혼 준비 업체",
+      "박람회 무료 상담 신청",
+      "스몰 웨딩 준비 방법",
+      "맞춤정장 혼수 준비"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "강원 지역 웨딩 행사 일정",
+        "category": "local_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "결혼준비",
+      "웨딩촬영",
+      "본식메이크업",
+      "예물세트",
+      "한복대여",
+      "신혼여행",
+      "플래너상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 웨딩박람회 | 11월 21~22일 AK플라자",
+    "og_description": "예비부부 필수 코스! 원주 웨딩박람회에서 상담받고 다양한 혜택과 선물까지 챙겨가세요.",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#결혼준비",
+      "#예비부부",
+      "#원주웨딩",
+      "#스드메",
+      "#결혼준비체크리스트",
+      "#원주결혼식",
+      "#웨딩박람회혜택",
+      "#예신",
+      "#신혼여행준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_BgAXbRSKqqYGsC.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_t6z57iBAfF8uY6nazzXdEPupIWSQoO.jpg"
+  },
+  "updated_at": "2026-11-09 20:06:51",
+  "revenue": 30000
+}

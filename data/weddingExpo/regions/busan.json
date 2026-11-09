@@ -1236,5 +1236,211 @@
     },
     "updated_at": "2026-11-02 20:05:13",
     "revenue": 30000
+  },
+  {
+    "idx": 1176,
+    "campaign_id": "wwedding02",
+    "gather_name": "부산 KNN 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "부산 KNN 웨딩박람회 | 해운대 개최 상담 혜택 안내",
+      "meta_description": "2026년 11월 21일~22일 KNN센텀신사옥에서 열리는 부산 KNN 웨딩박람회. 스드메 패키지, 혼수, 가전 등 예비부부를 위한 상담 혜택과 정보를 확인하고 사전 예약하세요.",
+      "keywords": [
+        "부산웨딩박람회",
+        "KNN웨딩박람회",
+        "부산결혼준비",
+        "부산스드메",
+        "해운대웨딩박람회",
+        "KNN센텀웨딩박람회",
+        "부산웨딩홀",
+        "부산혼수",
+        "부산예물",
+        "부산예복"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작을 앞두고 계신 예비부부님들을 위해 부산 KNN 웨딩박람회가 해운대에서 개최됩니다. 복잡한 웨딩 정보와 선택의 고민을 한 번에 해결할 수 있는 기회로, 스드메부터 혼수까지 다양한 브랜드의 혜택을 한자리에서 확인해보세요.",
+      "benefits_description": "이번 박람회는 현장 상담을 통해 예비부부에게 실질적인 도움을 드리고자 구성되었습니다. 스드메 패키지 비교는 물론, 방문만 해도 제공되는 혜택과 상담 시 드리는 특별 선물을 꼼꼼히 챙겨보시길 바랍니다. 구체적인 할인율이나 증정품의 조건은 상담 시 상세히 안내받으실 수 있으며, 예산에 맞춘 합리적인 구성이 가능합니다. 현장에서는 각 브랜드별로 준비한 계약 혜택이 상이하므로, 미리 우선순위를 정하고 상담에 임하시면 더욱 효율적인 준비가 가능할 것입니다.",
+      "summary_for_search": "11월 21일~22일, KNN센텀신사옥에서 부산 KNN 웨딩박람회가 열립니다. 스드메, 혼수, 예물 등 결혼 준비의 모든 것을 비교하고 상담 혜택을 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "부산 KNN 웨딩박람회, 예비부부를 위한 맞춤 상담 혜택",
+      "secondary_headline": "스드메부터 혼수까지, KNN센텀신사옥에서 준비하는 완벽한 결혼",
+      "urgency_text": "11월 21일(토) ~ 11월 22일(일), 주말 2일간 개최",
+      "call_to_action_text": "무료 사전 참가신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 완료 시 경품 추첨 기회 제공(안내 자료 기반)"
+      ],
+      "contract_benefits": [
+        "가전/가구 브랜드별 특별 할인 및 상품권 증정",
+        "예물 브랜드 할인 및 추가 혜택",
+        "예복 브랜드 패키지 할인",
+        "한복 브랜드 할인",
+        "허니문 여행사 계약 혜택 제공"
+      ],
+      "special_events": []
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "부산",
+        "sido_en": "busan",
+        "sigungu": "해운대구",
+        "sigungu_en": "haeundae",
+        "address": "부산 해운대구 센텀서로 30",
+        "venue": "KNN센텀신사옥 1층 로비",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "busan"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "상세 수령 조건은 행사 당일 현장 상담 완료 후 안내받으실 수 있습니다.",
+      "trust_indicators": [
+        "KNN 주관 웨딩박람회",
+        "부산 지역 주요 웨딩홀 제휴",
+        "다양한 카테고리별 브랜드 참여"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부산 KNN 웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "location": {
+          "@type": "Place",
+          "name": "KNN센텀신사옥 1층 로비",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "부산 해운대구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전 등록은 필수인가요?",
+          "answer": "무료 입장을 위해 사전 등록을 권장하며, 신청을 통해 상담 혜택과 행사 정보를 확인하실 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "부산 지역의 웨딩홀, 스튜디오, 드레스샵, 예물, 예복, 가전, 여행사 등 결혼 준비와 관련된 다양한 브랜드가 참여합니다."
+        },
+        {
+          "question": "현장 상담 시 어떤 내용을 확인할 수 있나요?",
+          "answer": "각 업체의 상품 구성, 포함 항목, 추가 비용 여부 등을 1:1로 확인하실 수 있습니다."
+        },
+        {
+          "question": "계약 혜택은 어떻게 받을 수 있나요?",
+          "answer": "상담 후 계약 체결 시 브랜드별로 제공되는 특별 할인이나 사은품 등의 혜택이 적용됩니다."
+        },
+        {
+          "question": "행사 당일 주차는 가능한가요?",
+          "answer": "주차 정보는 별도 안내 자료에서 확인되지 않으므로, 주최 측에 사전에 문의하시거나 현장 안내를 따라주시기 바랍니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 부산 지역 예비부부를 대상으로 합니다. 결혼 준비를 이제 막 시작해 웨딩홀 섭외부터 스드메 패키지 구성, 가전·혼수 준비를 어떻게 해야 할지 고민인 커플, 그리고 다양한 브랜드를 한자리에서 비교하고 실속 있는 상담 혜택을 원하는 커플에게 최적화된 박람회입니다.",
+      "exhibitor_highlights": [
+        "웨딩홀",
+        "스튜디오",
+        "드레스샵",
+        "예물",
+        "예복",
+        "한복",
+        "가전/가구",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "다양한 부산 인기 웨딩홀을 한자리에서 비교",
+        "브랜드별 즉시 계약 혜택 및 추가 할인 제공",
+        "스드메 구성을 맞춤형으로 전문 상담 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "부산 웨딩박람회 일정",
+        "KNN 웨딩박람회 후기",
+        "부산 결혼 준비 체크리스트",
+        "웨딩박람회 스드메 가격",
+        "부산 웨딩홀 추천",
+        "결혼 박람회 상담 준비물",
+        "웨딩박람회 계약 주의사항",
+        "혼수 가전 박람회 혜택",
+        "부산 예물 예복 비교",
+        "신혼여행 패키지 상담"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부산 웨딩홀 정보 더보기",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 구성 가이드",
+          "category": "studiomakeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "결혼준비",
+        "웨딩촬영",
+        "부산웨딩"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부산 KNN 웨딩박람회 | 결혼 준비 시작하기",
+      "og_description": "11월 KNN센텀신사옥 개최! 부산 예비부부를 위한 맞춤형 웨딩 상담과 다양한 혜택을 지금 확인하세요.",
+      "hashtags": [
+        "#부산웨딩박람회",
+        "#KNN웨딩박람회",
+        "#부산결혼준비",
+        "#부산스드메",
+        "#해운대웨딩",
+        "#부산예비부부",
+        "#부산웨딩홀",
+        "#부산혼수",
+        "#웨딩박람회혜택",
+        "#결혼준비시작"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wjXNla7g7wC.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_KcGnSRzLYAfTGat6mnZ9ag7.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lbdkW6fo7Hn3Hdnz.jpg"
+    },
+    "updated_at": "2026-11-09 20:04:27",
+    "revenue": 30000
   }
 ]
