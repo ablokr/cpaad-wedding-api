@@ -1,0 +1,210 @@
+{
+  "campaign_id": "arvewedding01",
+  "gather_name": "아베르웨딩 인천 웨딩박람회",
+  "organizer_name": "아베르웨딩",
+  "seo_metadata": {
+    "title": "아베르웨딩 인천 웨딩박람회 | 방문 시 100% 선물 증정 및 스드메 99만원 특가",
+    "meta_description": "2026년 11월 28일~29일 송도컨벤시아 개최! 아베르웨딩 인천 웨딩박람회에서 스드메 99만원 패키지 혜택과 상담 시 스타벅스 쿠폰, 다이슨 청소기 등 풍성한 경품을 지금 바로 확인하세요.",
+    "keywords": [
+      "인천웨딩박람회",
+      "인천결혼준비",
+      "송도웨딩박람회",
+      "아베르웨딩",
+      "인천스드메",
+      "인천웨딩홀추천",
+      "결혼준비체크리스트",
+      "신혼부부혜택",
+      "웨딩박람회일정",
+      "스드메99만원"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 아베르웨딩 인천 웨딩박람회는 예비부부님들의 고민을 한 번에 해결해 드릴 최고의 선택지입니다. 검증된 업체들과의 1:1 맞춤 상담을 통해 합리적인 예식 준비를 도와드립니다.",
+    "benefits_description": "이번 박람회에서는 방문만 하셔도 100% 증정되는 스타벅스 커피 쿠폰과 핸드크림을 드립니다. 상담 완료 시에는 실용적인 주방 용품과 고급 양말, 웨딩 다이어리까지 풍성한 선물을 준비했습니다. 특히 계약 고객님들께는 다이슨 청소기 등 고가의 경품과 함께 스드메 패키지를 99만 원에 이용할 수 있는 파격적인 혜택을 제공합니다. 놓치기 아까운 2026년 웨딩 트렌드를 직접 경험하고 실속 있는 혜택까지 모두 챙겨가세요.",
+    "summary_for_search": "11월 28일~29일, 송도컨벤시아에서 열리는 아베르웨딩 인천 웨딩박람회! 스드메 99만원 특가와 방문 상담 시 100% 경품 증정 혜택을 놓치지 마세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 스드메 패키지가 99만원!",
+    "secondary_headline": "인천 예비부부를 위한 가장 완벽한 결혼 준비 솔루션, 아베르웨딩 특별 박람회",
+    "urgency_text": "선착순 방문 예약 조기 마감 예정",
+    "call_to_action_text": "무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 완료 시 스타벅스 커피 쿠폰(100% 증정)",
+      "핸드크림 세트 증정",
+      "고급 주방 조리도구 7종 세트",
+      "웨딩 다이어리 및 고급 양말 증정"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 99만원 특가",
+      "계약 시 다이슨 청소기 증정",
+      "웨딩 촬영 드레스 및 턱시도 할인",
+      "고급 액자 및 웨딩 부케 무료 제작 지원"
+    ],
+    "special_events": [
+      "웨딩 드레스 피팅 및 스타일링 체험",
+      "전문가 1:1 맞춤형 웨딩 상담",
+      "웨딩홀 실시간 견적 비교 및 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "인천",
+      "sido_en": "incheon",
+      "sigungu": "연수구",
+      "sigungu_en": "yeonsu",
+      "address": "인천 연수구 센트럴로 123",
+      "venue": "송도컨벤시아 특별행사장",
+      "parking_info": "송도컨벤시아 주차장 이용 가능",
+      "region_code": "incheon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "신랑 이름",
+      "신부 이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 지정 업체 상담 완료 시 증정",
+    "trust_indicators": [
+      "누적 상담 커플 수 확인 가능",
+      "다양한 웨딩홀 및 스드메 업체 비교",
+      "전문 웨딩 플래너 1:1 매칭"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "아베르웨딩 인천 웨딩박람회",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "송도컨벤시아",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "인천광역시 연수구",
+          "addressLocality": "인천",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "아베르웨딩",
+        "url": "https://ad.cpaad.co.kr/arvewedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문 예약은 필수인가요?",
+        "answer": "원활한 상담과 방문 혜택 증정을 위해 사전 예약 후 방문하시는 것을 권장합니다."
+      },
+      {
+        "question": "무료입장이 가능한가요?",
+        "answer": "네, 사전 온라인 신청을 통해 무료로 입장 및 상담받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "송도컨벤시아 주차장을 이용하실 수 있으며, 박람회 방문객을 위한 안내가 제공됩니다."
+      },
+      {
+        "question": "스드메 패키지 가격대는 어떤가요?",
+        "answer": "박람회 현장에서는 99만원부터 시작하는 합리적인 가격의 스드메 패키지를 만나보실 수 있습니다."
+      },
+      {
+        "question": "상담 시 혜택은 무엇인가요?",
+        "answer": "스타벅스 쿠폰, 주방용품, 웨딩 다이어리 등 방문만 해도 100% 증정되는 선물이 준비되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "인천 및 인근 지역에서 결혼을 앞둔 예비부부, 스드메 준비로 고민하는 커플, 효율적인 예산으로 고퀄리티 웨딩을 준비하고자 하는 신혼부부들을 위한 맞춤형 박람회입니다. 결혼 준비의 전체 프로세스를 한자리에서 해결하고 싶은 분들, 검증된 업체와의 1:1 상담을 원하는 예비 신랑신부님들께 최적화된 정보를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 드레스 샵",
+      "웨딩 스튜디오 및 스냅 업체",
+      "인천 인기 웨딩홀",
+      "혼수 가전 및 예물",
+      "허니문 여행사",
+      "한복 및 예복 전문점"
+    ],
+    "comparison_hooks": [
+      "인천 지역 최대 규모 입점 업체 및 브랜드 보유",
+      "박람회 당일 계약 시 다이슨 청소기 등 파격 경품",
+      "중간 유통 마진을 뺀 99만원 실속형 스드메 패키지 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "인천 웨딩홀 투어 팁",
+      "결혼 준비 체크리스트 엑셀",
+      "인천 스드메 비용 비교",
+      "웨딩 박람회 필수 준비물",
+      "신혼여행지 추천",
+      "예물 예복 브랜드 순위",
+      "결혼 예산 짜는 법",
+      "송도컨벤시아 결혼식",
+      "웨딩 컨설팅 박람회 후기",
+      "인천 웨딩드레스 예쁜 곳"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "인천 웨딩홀 추천 리스트",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "합리적인 스드메 패키지 보기",
+        "category": "studiomakeupdress"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "신혼여행",
+      "부케",
+      "예물",
+      "예복",
+      "본식스냅",
+      "결혼비용",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "아베르웨딩 인천 웨딩박람회 | 스드메 99만원 특가",
+    "og_description": "송도컨벤시아에서 만나는 특별한 혜택! 상담만 받아도 경품 증정, 지금 바로 무료 예약하세요.",
+    "hashtags": [
+      "#인천웨딩박람회",
+      "#아베르웨딩",
+      "#인천결혼준비",
+      "#송도웨딩박람회",
+      "#인천스드메",
+      "#결혼준비",
+      "#예비부부",
+      "#웨딩박람회혜택",
+      "#스드메특가",
+      "#인천웨딩홀"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/arvewedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_xKGSolybbBIA7ZvQfbDlwYZiuo.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_iMEFtmbgnTJPLz2Yoa4us8.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_s1z3Bi1yofYJAyRa4f.jpg"
+  },
+  "updated_at": "2026-11-09 16:06:22"
+}
