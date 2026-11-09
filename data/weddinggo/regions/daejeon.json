@@ -1862,5 +1862,208 @@
     },
     "updated_at": "2026-11-09 13:02:38",
     "revenue": 30000
+  },
+  {
+    "campaign_id": "withyouwedding06",
+    "gather_name": "대전 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "대전 위드유 웨딩박람회 | 스드메 특가 및 계약 축하금 혜택",
+      "meta_description": "11월 21일~22일 대전 위드유 웨딩박람회 개최! 스드메 패키지 최대 할인, 계약 축하금, 선착순 경품 등 대전 예비부부를 위한 파격적인 결혼 준비 혜택을 지금 확인하고 무료 초대장을 신청하세요.",
+      "keywords": [
+        "대전웨딩박람회",
+        "대전결혼준비",
+        "대전스드메",
+        "위드유웨딩박람회",
+        "대전예식장",
+        "대전웨딩홀",
+        "대전혼수",
+        "대전웨딩드레스",
+        "결혼박람회혜택",
+        "신혼부부박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 막막하셨나요? 대전 위드유 웨딩박람회에서 합리적이고 품격 있는 결혼 준비를 완성하세요. 2026년 예비부부를 위해 준비된 최대 규모의 혜택과 1:1 맞춤 컨설팅으로 복잡한 결혼 준비를 쉽고 명쾌하게 해결해 드립니다.",
+      "benefits_description": "이번 대전 위드유 웨딩박람회는 방문만 해도 쏟아지는 풍성한 선물을 준비했습니다. 현장 방문 시 식전 영상, 청첩장 할인권, 웨딩 다이어리 등 필수 아이템을 100% 증정하며, 계약 커플에게는 최대 50만 원의 축하금과 허니문 여행권 할인 등 실질적인 비용 절감 혜택을 제공합니다. 스드메 패키지는 최저 59만 원부터 구성되어 있어 예산 고민을 덜어드리며, 전문 플래너의 맞춤 상담을 통해 세상에 단 하나뿐인 완벽한 예식을 설계할 수 있습니다.",
+      "summary_for_search": "11월 21일부터 22일까지 대전 LG전자베스트샵 특별행사장에서 대전 위드유 웨딩박람회가 열립니다. 스드메 특가, 계약 축하금, 무료 초대장 신청 등 결혼 준비 비용을 줄이는 최고의 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "대전 위드유 웨딩박람회, 스드메 패키지 최저 59만 원부터!",
+      "secondary_headline": "상담만 받아도 100% 증정하는 결혼 준비 필수 패키지 혜택을 지금 바로 확인하세요.",
+      "urgency_text": "선착순 초대권 마감 임박, 이번 주말 단 2일간!",
+      "call_to_action_text": "지금 무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전 영상 무료 제작 쿠폰",
+        "무료 청첩장 할인 쿠폰",
+        "웨딩 다이어리 100% 증정",
+        "웨딩 건강검진권 무료 증정"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최저 59만 원",
+        "계약 축하금 최대 50만 원",
+        "허니문 여행권 할인 및 혜택",
+        "네이버 페이 3만 원 쿠폰 증정"
+      ],
+      "special_events": [
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "입점 업체별 즉시 할인 프로모션",
+        "100% 당첨 후기 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "대전",
+        "sido_en": "daejeon",
+        "sigungu": "서구",
+        "sigungu_en": "seo",
+        "address": "대전 서구 계룡로 598",
+        "venue": "LG전자베스트샵 특별행사장",
+        "parking_info": "행사장 내 주차 가능 (무료)",
+        "region_code": "chungcheong"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 시 혜택 제공",
+      "trust_indicators": [
+        "검증된 우수 입점 업체 참여",
+        "대전 최대 규모 웨딩 행사",
+        "1:1 투명 상담 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "대전 위드유 웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 특별행사장",
+          "address": "대전 서구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 참가 비용은 얼마인가요?",
+          "answer": "대전 위드유 웨딩박람회는 온라인 사전 신청 시 무료로 입장 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 입점해 있나요?",
+          "answer": "웨딩홀, 스드메 패키지, 예물, 예복, 허니문, 혼수가전 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+        },
+        {
+          "question": "상담만 받아도 혜택을 주나요?",
+          "answer": "네, 현장 방문 및 상담 고객님들께는 식전 영상 무료 제작권 등 다양한 방문 사은품을 100% 제공해 드립니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "네, 행사 장소인 LG전자베스트샵 특별행사장에 편리하게 주차하실 수 있습니다."
+        },
+        {
+          "question": "예식 날짜가 확정되지 않았어도 방문해도 되나요?",
+          "answer": "물론입니다. 전문가와 함께 예산과 취향에 맞는 예식 일정을 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "2026년 예식을 앞둔 대전 및 인근 지역 거주 예비부부들을 대상으로 합니다. 결혼 준비를 처음 시작하여 어디서부터 알아봐야 할지 막막한 커플, 합리적인 비용으로 프리미엄 스드메 패키지를 구성하고 싶은 신혼부부, 바쁜 일정으로 인해 한곳에서 효율적으로 상담과 계약을 진행하고 싶은 분들에게 최적의 솔루션을 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 베뉴 투어 추천",
+        "프리미엄 스드메 패키지 업체",
+        "명품 예물 및 맞춤 정장 브랜드",
+        "신혼여행 전문 허니문 여행사",
+        "혼수 가전 LG전자베스트샵"
+      ],
+      "comparison_hooks": [
+        "거품 없는 가격, 스드메 패키지 최저 59만 원부터!",
+        "대전 유일 계약 축하금 최대 50만 원 지원",
+        "방문객 전원 100% 사은품 증정 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "대전웨딩박람회 일정",
+        "대전 스드메 비용",
+        "결혼 준비 체크리스트",
+        "대전 웨딩홀 추천",
+        "웨딩박람회 상담 팁",
+        "신혼여행 박람회 혜택",
+        "대전 예물 예복 할인",
+        "박람회 방문 예약 방법",
+        "혼수 가전 견적 비교",
+        "대전 결혼식 비용 절약"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "대전 웨딩홀 전체 정보",
+          "category": "wedding_hall"
+        },
+        {
+          "anchor": "스드메 패키지 알아보기",
+          "category": "st_dr_makeup"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "허니문",
+        "혼수가전",
+        "청첩장",
+        "웨딩드레스",
+        "웨딩컨설팅",
+        "결혼예산"
+      ]
+    },
+    "social_meta": {
+      "og_title": "대전 위드유 웨딩박람회 | 무료 초대권 신청",
+      "og_description": "결혼 준비의 시작! 11월 21일 대전 위드유 웨딩박람회에서 스드메 특가와 현금 축하금 혜택을 모두 챙겨가세요.",
+      "hashtags": [
+        "#대전웨딩박람회",
+        "#대전결혼준비",
+        "#대전스드메",
+        "#대전웨딩홀",
+        "#위드유웨딩",
+        "#결혼준비시작",
+        "#예비부부",
+        "#대전예신",
+        "#스드메할인",
+        "#웨딩박람회후기"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ayCfKNezZ2URdXYENT6PB8gf3.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_18G6oQZwvm9yYtqwCHgHCFZpW199yJ9Q.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_xqLyYcsWAwdZc4PHdwCuS.jpg"
+    },
+    "updated_at": "2026-11-09 16:04:42"
   }
 ]
