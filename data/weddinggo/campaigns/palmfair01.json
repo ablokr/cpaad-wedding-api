@@ -1,0 +1,205 @@
+{
+  "idx": 580,
+  "campaign_id": "palmfair01",
+  "gather_name": "팜투어 직거래 허니문 박람회",
+  "organizer_name": "제이씨커뮤니케이션",
+  "seo_metadata": {
+    "title": "팜투어 허니문 박람회 | 서울 강남 특별 혜택 및 계약 축하금 증정",
+    "meta_description": "11월 14일-15일, 서울 강남 건설회관에서 열리는 팜투어 허니문 박람회! 방문만 해도 사은품 증정, 계약 시 최대 100만원 환급 혜택을 놓치지 마세요. 2026 예비부부를 위한 직거래 허니문 노하우를 공개합니다.",
+    "keywords": [
+      "허니문 박람회",
+      "팜투어",
+      "결혼준비",
+      "신혼여행 비용",
+      "허니문 직거래",
+      "웨딩 박람회",
+      "강남 웨딩 박람회",
+      "스드메 패키지",
+      "신혼여행 추천",
+      "결혼준비 혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼을 앞둔 예비부부의 가장 설레는 고민, 바로 완벽한 신혼여행 준비입니다. 팜투어 직거래 허니문 박람회는 복잡한 중간 유통 과정 없이 합리적인 가격으로 최고의 허니문을 계획할 수 있도록 돕는 서울 강남의 대표적인 신혼여행 전문 박람회입니다.",
+    "benefits_description": "이번 박람회는 방문만 하셔도 쏟아지는 선물을 준비했습니다. 오전 방문 시 텀블러, 오후 방문 시 여행용 파우치 등 시간대별 특별 증정품은 물론, 상담만 받아도 웨딩홀부터 혼수 가전까지 폭넓은 할인 혜택을 누리실 수 있습니다. 특히 현장 계약 시 최대 100만 원의 축하금과 삼성 비스포크 냉장고 등 프리미엄 사은품을 추첨을 통해 제공하며, 직거래 특성상 타사 대비 평균 10% 이상 저렴한 가격으로 품격 있는 신혼여행을 준비할 수 있습니다.",
+    "summary_for_search": "11월 14일~15일 서울 강남 건설회관에서 개최되는 팜투어 허니문 박람회! 상담만 해도 100% 증정되는 사은품과 최대 100만원 현금 환급 혜택으로 합리적인 결혼준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "팜투어 직거래 허니문 박람회, 상담만 해도 100만원 환급 기회!",
+    "secondary_headline": "평균 10% 이상 저렴한 허니문! 2026 예비부부라면 꼭 방문해야 할 서울 강남 웨딩 필수 코스",
+    "urgency_text": "선착순 예약 한정, 11월 14일-15일 단 이틀간 진행!",
+    "call_to_action_text": "지금 무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "오전 방문 시 텀블러 증정",
+      "오후 방문 시 여행용 파우치 증정",
+      "신세계 면세점 할인 혜택"
+    ],
+    "contract_benefits": [
+      "최대 100만원 현금 환급",
+      "삼성 비스포크 냉장고 사은품",
+      "여행 필수품 세트"
+    ],
+    "special_events": [
+      "허니문 직거래 컨설팅",
+      "지역별 단독 프로모션",
+      "21억 5천만원 배상 보증 보험 가입"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-15",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "original_display_date": "11월 14일(토) ~ 11월 15일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울시 강남구 언주로 711",
+      "venue": "건설회관빌딩 1층",
+      "parking_info": "무료 주차 지원",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "관심 지역"
+    ],
+    "gift_conditions": "현장 상담 완료 후 증정",
+    "trust_indicators": [
+      "2026년 브랜드 대상 수상",
+      "209개 이상 현지 직거래 파트너",
+      "21억 5천만원 보증 보험 가입"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "팜투어 직거래 허니문 박람회",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "location": {
+        "@type": "Place",
+        "name": "건설회관빌딩 1층",
+        "address": "서울 강남구"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이씨커뮤니케이션",
+        "url": "https://ad.cpaad.co.kr/palmfair01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 상담 시 비용이 발생하나요?",
+        "answer": "아니요, 박람회 입장과 상담은 모두 무료로 진행됩니다."
+      },
+      {
+        "question": "주차 가능한가요?",
+        "answer": "네, 행사 장소인 건설회관빌딩 내 무료 주차가 가능합니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것들이 있나요?",
+        "answer": "계약 시 최대 100만원 현금 환급과 삼성 비스포크 냉장고 등 다양한 가전/생활 사은품이 준비되어 있습니다."
+      },
+      {
+        "question": "직거래 박람회란 무엇인가요?",
+        "answer": "여행사와 예비부부 사이의 중간 유통 마진을 제거하여 더 저렴하고 투명한 가격으로 허니문을 준비하는 방식을 의미합니다."
+      },
+      {
+        "question": "방문 신청은 어떻게 하나요?",
+        "answer": "페이지 내 무료 초대권 신청 폼에 이름과 연락처 등을 입력하시면 간편하게 예약이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 시작한 2026년 예비부부를 대상으로 합니다. 특히 여행사 수수료를 줄여 실속 있는 신혼여행을 계획하고 싶은 커플, 스드메 패키지와 허니문을 한곳에서 비교하고 싶은 신혼부부에게 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비부부들에게 전문가의 1:1 맞춤형 컨설팅을 제공하여 효율적인 예산 계획을 세우도록 돕습니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사",
+      "웨딩홀 제휴처",
+      "스드메 토탈 패키지",
+      "혼수 가전",
+      "예물 및 예복 업체"
+    ],
+    "comparison_hooks": [
+      "중간 유통 마진을 뺀 합리적인 직거래 가격",
+      "21억 5천만원 배상 보증 보험 가입으로 안심 보장",
+      "현장 즉시 계약 시 제공되는 파격적인 현금 환급 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행지 추천",
+      "결혼 준비 체크리스트",
+      "허니문 박람회 방문 후기",
+      "직거래 허니문 장단점",
+      "결혼식 비용 아끼는 법",
+      "스드메 업체 비교",
+      "2026 웨딩 박람회 일정",
+      "신혼여행 보증 보험",
+      "서울 웨딩홀 상담",
+      "혼수 준비 필수 목록"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 지역 웨딩 박람회 일정 더보기",
+        "category": "seoul_wedding_events"
+      },
+      {
+        "anchor": "신혼여행 준비 가이드",
+        "category": "honeymoon_tips"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "허니문",
+      "웨딩컨설팅",
+      "결혼비용",
+      "웨딩박람회",
+      "예약",
+      "견적"
+    ]
+  },
+  "social_meta": {
+    "og_title": "팜투어 허니문 박람회: 최대 100만원 혜택",
+    "og_description": "지금 신청하면 허니문 직거래 특가! 서울 강남에서 만나는 2026 결혼 준비 특별전.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#신혼부부혜택",
+      "#허니문박람회",
+      "#팜투어",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#신혼여행",
+      "#예비부부",
+      "#웨딩박람회일정"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/palmfair01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_kOzQ7ljjiXGVdLwZyYzi6ZQ4WckeN5.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_lOGVcpYCCIt.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202512/568762912459e51e2cbac9155f241418_CrgDTpKXBmQSLuqJ.jpg"
+  },
+  "updated_at": "2026-11-09 13:02:18",
+  "revenue": 40000
+}
