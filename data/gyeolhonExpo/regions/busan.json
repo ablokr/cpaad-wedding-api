@@ -1234,5 +1234,213 @@
     },
     "updated_at": "2026-11-02 19:37:23",
     "revenue": 30000
+  },
+  {
+    "idx": 1176,
+    "campaign_id": "wwedding02",
+    "gather_name": "부산 KNN 웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "부산 KNN 웨딩박람회 | 11월 일정 및 스드메 계약 혜택 안내",
+      "meta_description": "2026년 11월 21일~22일 부산 KNN 웨딩박람회 개최! KNN센텀신사옥에서 진행되는 이번 박람회는 스드메 패키지, 혼수, 허니문까지 한 번에 준비할 수 있습니다. 지금 사전등록하고 풍성한 방문 선물과 계약 혜택을 확인하세요.",
+      "keywords": [
+        "부산웨딩박람회",
+        "KNN웨딩박람회",
+        "부산결혼준비",
+        "부산스드메",
+        "부산웨딩홀",
+        "부산혼수",
+        "부산허니문",
+        "부산예물",
+        "부산예복",
+        "2026웨딩박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼셨나요? 이번 부산 KNN 웨딩박람회는 부산 지역 예비부부들을 위해 스드메부터 혼수, 허니문까지 웨딩의 모든 것을 한자리에 모았습니다. 11월 21일부터 양일간 진행되는 이번 행사를 통해 실속 있고 체계적인 결혼 준비를 경험해 보세요.",
+      "benefits_description": "이번 박람회는 방문만 해도 드리는 알찬 사은품과 계약 시 제공되는 파격적인 할인 혜택이 준비되어 있습니다. 전문 웨딩 플래너와의 1:1 맞춤 상담을 통해 예산에 맞는 최적의 플랜을 제안받을 수 있으며, 현장 계약 시 추가 할인 및 축하금 등 다양한 지원이 제공됩니다. 복잡한 웨딩 준비 과정을 명쾌하게 정리하고, 예비부부를 위한 실질적인 비용 절감 혜택까지 놓치지 마세요.",
+      "summary_for_search": "11월 21일~22일 KNN센텀신사옥에서 열리는 부산 KNN 웨딩박람회! 부산 지역 인기 웨딩홀, 스튜디오, 드레스 업체가 대거 참여합니다. 사전등록 시 상담 혜택과 푸짐한 사은품을 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "2026년 하반기, 부산 KNN 웨딩박람회에서 준비하는 완벽한 결혼",
+      "secondary_headline": "방문만 해도 쏟아지는 선물과 브랜드별 단독 할인 혜택을 지금 바로 확인하세요.",
+      "urgency_text": "사전등록 후 선착순 방문객 대상 특별 선물 증정",
+      "call_to_action_text": "지금 무료 사전등록하고 상담 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 선착순 증정 선물",
+        "상담 완료 시 경품 추첨 기회"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 계약 시 특별 추가 할인",
+        "혼수/예물/예복 브랜드 단독 할인 및 상품권 증정",
+        "허니문 계약 시 추가 할인 및 사은품 제공"
+      ],
+      "special_events": [
+        "인기 웨딩홀 및 스튜디오 1:1 맞춤 상담",
+        "프리미엄 웨딩 드레스 전시 및 비교 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "부산",
+        "sido_en": "busan",
+        "sigungu": "해운대구",
+        "sigungu_en": "haeundae",
+        "address": "부산 해운대구 센텀서로 30",
+        "venue": "KNN센텀신사옥 1층 로비",
+        "parking_info": "상세 내용은 사전등록 후 안내되는 안내 문자를 참고하시기 바랍니다.",
+        "region_code": "busan"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "결혼 예정일",
+        "관심 분야"
+      ],
+      "gift_conditions": "사전등록 후 현장 방문 및 상담 완료 시 제공됩니다.",
+      "trust_indicators": [
+        "KNN 주최 신뢰도 높은 웨딩박람회",
+        "부산 인기 업체 대거 참가",
+        "1:1 맞춤형 전문 플래닝"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "부산 KNN 웨딩박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "KNN센텀신사옥 1층 로비",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "부산 해운대구",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "부산 KNN 웨딩박람회는 언제 열리나요?",
+          "answer": "2026년 11월 21일(토)부터 11월 22일(일)까지 양일간 진행됩니다."
+        },
+        {
+          "question": "사전등록은 어떻게 하나요?",
+          "answer": "공식 홈페이지의 사전등록 폼에 성함, 연락처, 결혼 예정일 등 필수 정보를 입력하여 신청하실 수 있습니다."
+        },
+        {
+          "question": "참가 업체는 어떤 곳들이 있나요?",
+          "answer": "부산 지역의 웨딩홀, 스튜디오, 드레스샵, 메이크업샵, 예물, 예복, 혼수 가전, 허니문 여행사 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+        },
+        {
+          "question": "상담만 받아도 선물을 주나요?",
+          "answer": "박람회 현장 방문 및 상담 완료 시 다양한 방문 선물을 제공하고 있습니다. 상세 조건은 사전등록 후 안내를 확인해주세요."
+        },
+        {
+          "question": "박람회 입장료는 있나요?",
+          "answer": "사전등록 시 무료로 입장 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메 비용과 구성이 고민인 신혼부부, 부산 지역에서 예식장을 찾고 계신 분들을 위한 행사입니다. 웨딩 준비를 어떻게 시작해야 할지 모르는 커플들에게는 전문 플래너의 가이드를, 이미 준비를 시작했으나 비교가 필요한 분들에게는 다양한 업체를 한자리에서 확인할 수 있는 기회를 제공합니다. 효율적인 시간 관리와 실속 있는 가격 혜택을 동시에 원하는 합리적인 커플들에게 최적화된 박람회입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "부산 인기 웨딩홀",
+        "프리미엄 웨딩 스튜디오",
+        "예물 및 예복 브랜드",
+        "혼수 가전 및 가구",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "부산 지역 웨딩홀부터 스튜디오까지 한 번에 비교 가능한 최다 라인업",
+        "전문 플래너와 함께하는 예산 맞춤형 1:1 상담 시스템",
+        "현장 계약 시에만 제공되는 박람회 단독 할인 및 추가 혜택 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "부산 웨딩박람회 후기",
+        "스드메 견적 비교",
+        "결혼식 준비 순서",
+        "웨딩홀 투어 팁",
+        "박람회 상담 사기 예방",
+        "부산 스드메 패키지 가격",
+        "신혼여행 예약 시기",
+        "예물 예복 브랜드 추천",
+        "웨딩박람회 필수 체크리스트"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "부산 웨딩홀 인기 순위",
+          "category": "busan_wedding"
+        },
+        {
+          "anchor": "2026 스드메 패키지 구성 확인",
+          "category": "sdm_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "예물",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "부산 KNN 웨딩박람회 | 사전등록 혜택",
+      "og_description": "결혼 준비 끝판왕! KNN 웨딩박람회에서 스드메, 웨딩홀, 혼수까지 한 번에 해결하고 푸짐한 혜택을 받아가세요.",
+      "hashtags": [
+        "#부산웨딩박람회",
+        "#KNN웨딩박람회",
+        "#부산결혼준비",
+        "#부산스드메",
+        "#부산웨딩홀",
+        "#부산혼수",
+        "#부산허니문",
+        "#부산예물",
+        "#예비부부",
+        "#결혼준비"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_wjXNla7g7wC.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_KcGnSRzLYAfTGat6mnZ9ag7.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202607/568762912459e51e2cbac9155f241418_lbdkW6fo7Hn3Hdnz.jpg"
+    },
+    "updated_at": "2026-11-09 19:39:15",
+    "revenue": 30000
   }
 ]
