@@ -1,0 +1,211 @@
+{
+  "idx": 1537,
+  "campaign_id": "wncowedding02",
+  "gather_name": "동탄웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "동탄웨딩박람회 | 롯데백화점 11월 특별 초대전 스드메 혜택",
+    "meta_description": "11월 28일~29일 동탄 롯데백화점에서 열리는 동탄웨딩박람회! 방문객 전원 선물 증정부터 스드메 최대 할인, 혼수·예물 계약 혜택까지. 지금 무료 참가 신청하고 알뜰한 결혼 준비를 시작하세요.",
+    "keywords": [
+      "동탄웨딩박람회",
+      "경기웨딩박람회",
+      "롯데백화점동탄웨딩박람회",
+      "화성결혼준비",
+      "스드메패키지",
+      "동탄웨딩홀",
+      "신혼부부혜택",
+      "결혼박람회일정",
+      "혼수가전할인",
+      "예물예복상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해결할 완벽한 솔루션, 동탄웨딩박람회가 롯데백화점 동탄점에서 개최됩니다. 예비부부의 소중한 시작을 위해 스드메부터 혼수, 예물까지 모든 정보를 한자리에서 비교하고 실속 있는 혜택을 챙겨가세요.",
+    "benefits_description": "이번 동탄웨딩박람회는 단순히 상담만 받아도 실용적인 리빙 가전과 웨딩 다이어리 등 100% 증정 선물을 제공합니다. 특히 당일 계약 시 파격적인 축하금과 함께 스드메 패키지 비용을 대폭 낮출 수 있는 현장 특별 할인이 준비되어 있습니다. 합리적인 가격에 고퀄리티 서비스를 경험할 수 있는 최고의 기회를 놓치지 마세요.",
+    "summary_for_search": "11월 28일~29일 롯데백화점 동탄점에서 열리는 동탄웨딩박람회! 방문만 해도 100% 증정되는 선물과 스드메 패키지 파격 할인, 웨딩홀 및 허니문 특별 혜택까지 예비부부를 위한 실속 정보가 가득합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 동탄웨딩박람회에서 끝내세요! (방문만 해도 100% 선물 증정)",
+    "secondary_headline": "스드메·혼수·웨딩홀까지 1:1 맞춤 상담으로 예산은 줄이고 만족은 높이세요.",
+    "urgency_text": "선착순 방문객 한정 특별 혜택 제공 중",
+    "call_to_action_text": "지금 무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담객 전원 실시간 데일리 토스터기 증정",
+      "웨딩 다이어리 100% 증정"
+    ],
+    "contract_benefits": [
+      "계약 축하금 최대 지원",
+      "스드메 패키지 특별 할인",
+      "본식 사진 원본 무료",
+      "웨딩홀 대관료 할인 및 식대 혜택"
+    ],
+    "special_events": [
+      "스몰/하우스 웨딩 맞춤 상담",
+      "허니문 특별 여행 패키지 프로모션",
+      "예물·예복·한복 계약 특별 할인"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "화성시",
+      "sigungu_en": "hwaseong",
+      "address": "경기 화성시 동탄역로 160",
+      "venue": "롯데백화점 동탄점 6층 특별행사장",
+      "parking_info": "롯데백화점 동탄점 주차장 이용 가능",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 고객 대상 제공",
+    "trust_indicators": [
+      "전문 웨딩 플래너 1:1 맞춤 컨설팅",
+      "업계 최다 제휴 업체 참여",
+      "투명한 웨딩 패키지 비용 공개"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "동탄웨딩박람회",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 동탄점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "6층 특별행사장",
+          "addressLocality": "화성시",
+          "addressRegion": "경기",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장료는 얼마인가요?",
+        "answer": "동탄웨딩박람회는 사전 신청 시 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "방문하면 선물을 받을 수 있나요?",
+        "answer": "네, 현장 상담에 참여하시는 모든 고객님께 실시간 데일리 토스터기와 웨딩 다이어리를 100% 증정합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메(스튜디오, 드레스, 메이크업) 전문 업체부터 웨딩홀, 혼수 가전, 예물, 예복, 허니문까지 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "롯데백화점 동탄점 내 주차장을 이용하실 수 있으며 편리한 접근성을 제공합니다."
+      },
+      {
+        "question": "당일 계약 시 추가 혜택이 있나요?",
+        "answer": "네, 현장 계약 고객님께는 추가 축하금 지원 및 본식 스냅 원본 무료 등 박람회 전용 단독 할인 혜택을 제공합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적이고 합리적인 결혼 준비를 원하는 신혼부부, 스드메 비용 비교와 예식장 예약에 어려움을 겪는 커플들을 위한 맞춤형 박람회입니다. 결혼 준비의 전체 흐름을 한눈에 파악하고 싶은 분들, 전문가의 1:1 상담을 통해 나만의 스타일을 찾고 싶은 분들에게 최적의 기회를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 전문 상담 업체",
+      "유명 스튜디오 및 드레스샵",
+      "웨딩 메이크업 전문 브랜드",
+      "신혼여행 허니문 여행사",
+      "예물 및 예복 맞춤 브랜드",
+      "한복 대여 및 맞춤 전문점"
+    ],
+    "comparison_hooks": [
+      "현장 즉시 계약 시 최저가 보장 혜택 제공",
+      "타 박람회와 차별화된 1:1 전문 웨딩 플래닝 서비스",
+      "백화점 내부 개최로 검증된 업체와 안전한 상담 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 비용",
+      "웨딩홀 투어 팁",
+      "신혼여행지 추천",
+      "웨딩박람회 사기 방지",
+      "혼수가전 리스트",
+      "예물 예복 트렌드",
+      "결혼식 예산 세우기",
+      "웨딩박람회 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "경기 웨딩박람회 일정 전체보기",
+        "category": "gyeonggi_wedding_events"
+      },
+      {
+        "anchor": "웨딩홀 추천 리스트",
+        "category": "wedding_hall_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "웨딩플래너",
+      "본식스냅",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "동탄웨딩박람회 11월 특별전, 방문 선물 증정!",
+    "og_description": "결혼 준비 고민 해결! 동탄 롯데백화점 웨딩박람회에서 스드메, 웨딩홀 파격 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#동탄웨딩박람회",
+      "#결혼준비",
+      "#롯데백화점동탄",
+      "#웨딩박람회",
+      "#스드메",
+      "#신혼부부",
+      "#웨딩홀투어",
+      "#화성웨딩",
+      "#결혼식준비",
+      "#예신예랑"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_wkoIHrzPGHkncQZyx9ju3hjN9URA4.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Zx6ce3PrGLegmrhF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_Bq2KGeWx.jpg"
+  },
+  "updated_at": "2026-11-09 19:02:48",
+  "revenue": 30000
+}
