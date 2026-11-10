@@ -1,0 +1,204 @@
+{
+  "idx": 1086,
+  "campaign_id": "theBWSF01",
+  "gather_name": "광주 스타일링 웨딩페어",
+  "organizer_name": "더베스트 웨딩페어",
+  "seo_metadata": {
+    "title": "광주 스타일링 웨딩페어 | 더베스트웨딩컴퍼니 광주 결혼박람회 일정",
+    "meta_description": "광주 동구 더베스트웨딩컴퍼니에서 열리는 광주 스타일링 웨딩페어! 스드메, 혼수, 예식장 단독 혜택과 사전 예약 방문 선물까지 확인하고 알뜰하게 결혼 준비하세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "광주스드메",
+      "더베스트웨딩컴퍼니",
+      "광주웨딩홀",
+      "광주결혼박람회일정",
+      "광주예물",
+      "광주한복",
+      "광주허니문",
+      "결혼준비체크리스트"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 고민하고 계신가요? 광주 동구 더베스트웨딩컴퍼니에서 개최되는 '광주 스타일링 웨딩페어'는 예비부부의 소중한 시간을 절약하고 실속 있는 혜택을 제공하는 맞춤형 웨딩 박람회입니다.",
+    "benefits_description": "이번 박람회에서는 스드메, 웨딩홀, 예물, 한복, 가전 등 결혼 준비에 필요한 전 품목을 한자리에서 비교하고 특별 할인 혜택을 받을 수 있습니다. 사전 예약 후 방문하시는 분들께는 전용 선물과 함께 품목별 특전 쿠폰이 제공됩니다. 상세한 할인 적용 조건과 추가 증정 혜택은 현장 상담을 통해 안내받으실 수 있으니, 두 분의 예식 컨셉에 맞는 최적의 견적을 확인해 보세요.",
+    "summary_for_search": "광주 스타일링 웨딩페어가 11월 21일부터 22일까지 더베스트웨딩컴퍼니 사옥에서 개최됩니다. 스드메 패키지, 웨딩홀 단독 특전 및 사전 방문 예약 혜택을 지금 확인하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비, 광주 스타일링 웨딩페어에서 한 번에 끝내기",
+    "secondary_headline": "11월 21일~22일, 더베스트웨딩컴퍼니에서 만나는 광주 최대 규모 웨딩 혜택",
+    "urgency_text": "사전 예약 시 특별 선물 증정, 조기 마감 주의",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "사전 예약 방문 시 웨딩 관련 선물 증정",
+      "현장 방문 시 스타벅스 쿠폰(선착순 조건부)"
+    ],
+    "contract_benefits": [
+      "품목별 결혼준비 특전 쿠폰 제공",
+      "웨딩홀 단독 특전 및 할인",
+      "혼수/가전 구매 혜택",
+      "허니문 예약 시 특별 특전"
+    ],
+    "special_events": [
+      "2026 신상 통합 웨딩드레스 전시",
+      "예물/한복 브랜드 특별전"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22",
+      "display_date": "11월 21일(토) ~ 11월 22일(일)",
+      "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "동구",
+      "sigungu_en": "dong",
+      "address": "광주 동구 서석로 13-1 3층",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "사전 예약 후 방문한 예비부부 대상이며, 현장 상담 및 계약 체결 여부에 따라 제공 항목이 달라질 수 있습니다.",
+    "trust_indicators": [
+      "광주 웨딩 1,300쌍 선택",
+      "1:1 맞춤형 웨딩 스타일링 제공",
+      "검증된 광주 지역 주요 웨딩 업체 참여"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 스타일링 웨딩페어",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "location": {
+        "@type": "Place",
+        "name": "더베스트웨딩컴퍼니 사옥",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "광주 동구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더베스트 웨딩페어",
+        "url": "https://ad.cpaad.co.kr/theBWSF01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "광주 스타일링 웨딩페어는 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "방문 예약은 어떻게 하나요?",
+        "answer": "상단 또는 하단의 신청 폼에 이름, 연락처, 예식 예정일을 입력하시면 예약이 완료됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업), 예물, 한복, 혼수가전 등 결혼 준비의 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "계약 혜택은 무엇인가요?",
+        "answer": "박람회 현장 계약 시 제공되는 특별 할인 쿠폰과 업체별 단독 프로모션 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "상세 주차 안내는 안내 자료에서 확인되지 않으므로 주최 측에 확인해 주세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부나 효율적인 준비를 원하는 분들을 위한 박람회입니다. 웨딩홀 섭외부터 드레스 피팅, 혼수 가전 장만까지 한자리에서 비교하고 싶거나, 최신 웨딩 트렌드와 합리적인 견적을 확인하고 싶은 예비부부에게 권장합니다. 특히 예식 날짜를 잡은 후 스드메 업체 선정에 고민 중인 분들이라면 전문가의 1:1 스타일링 상담을 통해 본인들에게 가장 잘 어울리는 웨딩을 설계할 수 있습니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 전문 업체",
+      "스드메 토탈 패키지샵",
+      "프리미엄 예물 브랜드",
+      "맞춤형 한복 전문점",
+      "허니문 전문 여행사",
+      "혼수 가전 브랜드"
+    ],
+    "comparison_hooks": [
+      "광주 지역 1,300쌍이 선택한 검증된 박람회",
+      "1:1 개인별 맞춤 스타일링 상담 보장",
+      "사전 예약 시 즉시 사용 가능한 품목별 특전 쿠폰 지급"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩박람회 준비물",
+      "웨딩박람회 혜택 비교",
+      "결혼 준비 체크리스트",
+      "더베스트웨딩컴퍼니 후기",
+      "광주 스드메 가격",
+      "광주 웨딩홀 추천",
+      "박람회 상담 시 질문 리스트",
+      "결혼식 비용 절약 팁",
+      "예비부부 웨딩 상담 방법",
+      "광주 예물 투어"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩박람회 일정 전체보기",
+        "category": "gwangju_wedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예물",
+      "한복",
+      "신혼여행",
+      "웨딩드레스",
+      "결혼식준비",
+      "웨딩상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 스타일링 웨딩페어 | 결혼 준비 필수 코스",
+    "og_description": "11월 광주에서 열리는 특별한 웨딩 박람회! 사전 예약하고 상담 혜택과 경품을 모두 챙겨가세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#광주스드메",
+      "#더베스트웨딩컴퍼니",
+      "#광주웨딩홀",
+      "#예비부부",
+      "#결혼준비",
+      "#광주예물",
+      "#광주한복",
+      "#웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theBWSF01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_5XxJljGbmJTQ5b3Kf2TQZKEOhmb.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_FBFxcyymz7.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_nTWY1W12PiwNl63mCN2R6vux1ZHzo6W9.jpg"
+  },
+  "updated_at": "2026-11-10 20:00:48",
+  "revenue": 30000
+}
