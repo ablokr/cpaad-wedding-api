@@ -265,7 +265,7 @@
     "gather_name": "의정부 더셜리 허니문페어",
     "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
     "ad_year": "2026",
-    "ad_date": "11월 14일(토) ~ 11월 15일(일)",
+    "ad_date": "11월 14일(토) ~ 11월 15일(일) 12월 05일(토) ~ 12월 06일(일)",
     "ad_location": "경기 의정부시 평화로 525 ||(의정부동 168-54)||신세계백화점 의정부점 8층||LG전자베스트샵 특별행사장",
     "start_date": "2026-11-14",
     "end_date": "2026-11-15",
@@ -281,7 +281,7 @@
     "gather_name": "의정부 더셜리 웨딩페어",
     "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
     "ad_year": "2026",
-    "ad_date": "11월 14일(토) ~ 11월 15일(일)",
+    "ad_date": "11월 14일(토) ~ 11월 15일(일) 12월 05일(토) ~ 12월 06일(일)",
     "ad_location": "경기 의정부시 평화로 525 ||(의정부동 168-54)||신세계백화점 의정부점 8층||LG전자베스트샵 특별행사장",
     "start_date": "2026-11-14",
     "end_date": "2026-11-15",
@@ -2347,6 +2347,7 @@
     "revenue": 30000
   },
   "wedingcrowd01": {
+    "idx": 1068,
     "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_8y7CDeQb5Ojz.jpg",
     "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_k5YHKr4la4JaXLv96wPHtT2FO4yM9bET.jpg",
     "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_eAFcIDRM3wkTrKScldltAz7cjrjBKqX.jpg",
@@ -2358,7 +2359,8 @@
     "ad_date": "11월 21일(토) ~ 11월 22일(일)",
     "ad_location": "충남 아산시 순천향로 624||(장존동 185-7)||모나밸리 특별행사장",
     "start_date": "2026-11-21",
-    "end_date": "2026-11-22"
+    "end_date": "2026-11-22",
+    "revenue": 30000
   },
   "wedingcrowd07": {
     "idx": 1077,
@@ -2422,6 +2424,22 @@
     "ad_location": "강원특별자치도 강릉시 사임당로 88 1층||(홍제동 862-3)||벨리시모웨딩컨벤션 특별행사장",
     "start_date": "2026-11-21",
     "end_date": "2026-11-22",
+    "revenue": 30000
+  },
+  "charlesWedBusan08": {
+    "idx": 1437,
+    "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_y1p9kVO38V2XLi7pYOh8v5hf4s7FCYx2.jpg",
+    "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_qP7SeSGvYa5aG17K5jxcdcp7HkoU8nx.jpg",
+    "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_fZSFlDIeRG.jpg",
+    "ad_url": "https://ad.cpaad.co.kr/charlesWedBusan08/",
+    "region": "busan",
+    "gather_name": "부산 롯데백화점 광복점 웨딩엑스포",
+    "ad_info": "부산경남 결혼준비 완전정복 부산 스드메 최저가 보장",
+    "ad_year": "2026",
+    "ad_date": "11월 28일(토) ~ 11월 29일(일)",
+    "ad_location": "부산 중구 중앙대로 2||(중앙동6가 36-4)||롯데백화점 광복점 9층 특별전시장",
+    "start_date": "2026-11-28",
+    "end_date": "2026-11-29",
     "revenue": 30000
   }
 }

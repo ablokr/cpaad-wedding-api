@@ -1,0 +1,203 @@
+{
+  "idx": 1437,
+  "campaign_id": "charlesWedBusan08",
+  "gather_name": "부산 롯데백화점 광복점 웨딩엑스포",
+  "organizer_name": "부산 찰스 웨딩박람회",
+  "seo_metadata": {
+    "title": "부산 롯데백화점 웨딩엑스포 | 결혼준비 스드메 최대 100만원 혜택",
+    "meta_description": "11월 28일~29일, 부산 롯데백화점 광복점 웨딩엑스포 개최! 예비부부를 위한 스드메 최저가 보장 및 최대 100만원 페이백, 방문 상담 시 스타벅스 쿠폰 증정 등 특별 혜택을 지금 확인하세요.",
+    "keywords": [
+      "부산웨딩박람회",
+      "롯데백화점웨딩엑스포",
+      "부산결혼준비",
+      "부산스드메",
+      "신혼부부혜택",
+      "웨딩홀추천",
+      "부산예물",
+      "부산한복",
+      "결혼준비체크리스트",
+      "웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 설렘으로 바꿔드릴 부산 롯데백화점 광복점 웨딩엑스포가 11월 28일부터 29일까지 양일간 개최됩니다. 브랜드 신뢰도가 보장된 이번 행사에서 예비부부님들을 위한 맞춤형 웨딩 솔루션을 만나보세요.",
+    "benefits_description": "이번 웨딩엑스포는 합리적인 결혼 준비를 꿈꾸는 커플을 위해 파격적인 혜택을 준비했습니다. 방문만 해도 스타벅스 쿠폰을 증정하며, 상담 시 스드메 최저가 보장 혜택은 물론 최대 100만원 상당의 페이백 프로모션을 제공합니다. 예물, 예복, 한복 등 혼수 브랜드별 특별 할인과 함께 오직 박람회장에서만 누릴 수 있는 추가 사은품까지, 예산 절감과 퀄리티를 동시에 잡을 기회를 놓치지 마세요.",
+    "summary_for_search": "부산 롯데백화점 광복점에서 열리는 웨딩엑스포! 11월 28일-29일, 스드메 최저가 보장 및 최대 100만원 페이백 혜택을 경험하세요. 지금 사전 신청하고 풍성한 방문 선물도 챙겨가세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 등록하면 최대 100만원 페이백 혜택",
+    "secondary_headline": "부산 예비부부를 위한 스드메 최저가 보장 및 혼수 특별 할인전",
+    "urgency_text": "선착순 방문 상담 고객 대상 한정 제공",
+    "call_to_action_text": "무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 스타벅스 쿠폰 증정",
+      "선착순 방문객 특별 사은품 제공"
+    ],
+    "contract_benefits": [
+      "최대 100만원 페이백 혜택",
+      "스드메 최저가 보장",
+      "혼수(예물, 예복, 한복) 브랜드 추가 할인"
+    ],
+    "special_events": [
+      "웨딩 드레스 특별전",
+      "허니문 특별 프로모션",
+      "브랜드별 1:1 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "부산",
+      "sido_en": "busan",
+      "sigungu": "중구",
+      "sigungu_en": "jung",
+      "address": "부산 중구 중앙대로 2",
+      "venue": "롯데백화점 광복점 9층 특별전시장",
+      "parking_info": "백화점 내 주차 가능 (행사 상담 시 무료 주차권 제공)",
+      "region_code": "busan"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 전문가 상담 완료 시 지급",
+    "trust_indicators": [
+      "소비자가 뽑은 웨딩브랜드 대상 수상",
+      "롯데백화점 공식 파트너십",
+      "1:1 전문가 맞춤형 웨딩 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "부산 롯데백화점 광복점 웨딩엑스포",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "롯데백화점 광복점 9층 특별전시장",
+        "address": "부산광역시 중구 중앙대로 2"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "부산 찰스 웨딩박람회",
+        "url": "https://ad.cpaad.co.kr/charlesWedBusan08/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "웨딩박람회 방문은 무료인가요?",
+        "answer": "네, 사전 신청 시 무료로 입장 및 전문가 상담을 받으실 수 있습니다."
+      },
+      {
+        "question": "주차는 어떻게 하나요?",
+        "answer": "롯데백화점 광복점 주차장을 이용할 수 있으며, 상담 고객에게는 주차 지원 혜택이 제공됩니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메, 허니문, 예물, 예복, 한복, 가전 등 결혼 준비에 필요한 모든 카테고리의 엄선된 브랜드가 참여합니다."
+      },
+      {
+        "question": "스드메 비용은 얼마나 절약할 수 있나요?",
+        "answer": "박람회 전용 스드메 최저가 보장제와 최대 100만원 페이백 혜택을 통해 일반적인 준비보다 훨씬 합리적인 가격으로 진행 가능합니다."
+      },
+      {
+        "question": "예식 날짜가 확정되지 않았는데 가도 될까요?",
+        "answer": "네, 예식 예정일이 미정이시더라도 전문 플래너가 체계적인 결혼 준비 가이드를 제공해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "부산 지역에서 결혼을 준비 중인 예비부부라면 누구나 참여 대상입니다. 특히 결혼 준비를 어디서부터 시작해야 할지 막막한 초보 예비부부, 스드메 비용을 효율적으로 아끼고 싶은 신혼부부, 바쁜 일정 속에서 한자리에서 혼수까지 한꺼번에 해결하고 싶은 분들을 위한 최적의 행사입니다. 구체적인 예식장 정보부터 허니문, 예물까지 전문가의 1:1 맞춤형 컨설팅을 통해 시간과 비용을 획기적으로 줄여보세요.",
+    "exhibitor_highlights": [
+      "웨딩홀 큐레이션",
+      "웨딩 스튜디오 및 드레스샵",
+      "허니문 여행사",
+      "명품 예물 브랜드",
+      "맞춤 예복 및 한복 브랜드"
+    ],
+    "comparison_hooks": [
+      "소비자 만족도 대상 수상 브랜드의 검증된 서비스",
+      "타 박람회와 차별화된 최대 100만원 페이백",
+      "백화점 내 위치하여 접근성과 신뢰도가 높은 쾌적한 전시장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "부산 웨딩박람회 일정",
+      "결혼준비 체크리스트",
+      "부산 스드메 비용",
+      "웨딩박람회 혜택 비교",
+      "부산 웨딩홀 투어",
+      "신혼여행 준비",
+      "예물 예복 브랜드 추천",
+      "부산 한복 대여",
+      "웨딩플래너 상담 후기",
+      "박람회 방문 전 준비물"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "부산 웨딩홀 견적 비교하기",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "2026년 스드메 패키지 프로모션",
+        "category": "service_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "웨딩드레스",
+      "결혼예물",
+      "맞춤정장",
+      "웨딩플래너",
+      "부산웨딩"
+    ]
+  },
+  "social_meta": {
+    "og_title": "부산 롯데백화점 웨딩엑스포 | 최대 100만원 혜택",
+    "og_description": "11월 28일-29일! 부산 예비부부 필수 코스, 롯데백화점 웨딩엑스포에서 스드메 최저가로 결혼 준비 시작하세요.",
+    "hashtags": [
+      "#부산웨딩박람회",
+      "#롯데백화점웨딩엑스포",
+      "#부산결혼준비",
+      "#부산스드메",
+      "#신혼부부혜택",
+      "#부산웨딩홀",
+      "#부산예물",
+      "#결혼준비시작",
+      "#부산예비부부",
+      "#웨딩엑스포"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/charlesWedBusan08/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_y1p9kVO38V2XLi7pYOh8v5hf4s7FCYx2.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_qP7SeSGvYa5aG17K5jxcdcp7HkoU8nx.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202510/568762912459e51e2cbac9155f241418_fZSFlDIeRG.jpg"
+  },
+  "updated_at": "2026-11-10 13:01:12",
+  "revenue": 30000
+}
