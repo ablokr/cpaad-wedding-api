@@ -203,5 +203,203 @@
     },
     "updated_at": "2026-11-04 20:01:18",
     "revenue": 40000
+  },
+  {
+    "idx": 1774,
+    "campaign_id": "lamour03",
+    "gather_name": "포항 라모르 웨딩박람회",
+    "organizer_name": "라모르웨딩 주식회사",
+    "seo_metadata": {
+      "title": "포항 라모르 웨딩박람회 | LG전자베스트샵 상담 혜택 안내",
+      "meta_description": "2026년 11월 포항에서 열리는 라모르 웨딩박람회! 스드메 패키지부터 혼수, 허니문까지 전문 컨설팅을 제공합니다. 지금 무료 참가 신청하고 상담 혜택을 확인하세요.",
+      "keywords": [
+        "포항웨딩박람회",
+        "포항결혼준비",
+        "포항스드메",
+        "LG전자베스트샵롯데포항점",
+        "라모르웨딩박람회",
+        "포항웨딩컨설팅",
+        "포항혼수",
+        "포항예물",
+        "포항예복",
+        "포항신혼여행"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 막막함을 느끼고 계신 예비부부라면, 포항 라모르 웨딩박람회에서 그 해답을 찾아보세요. 11월 28일부터 29일까지 LG전자베스트샵 롯데포항점에서 진행되는 이번 행사는 복잡한 웨딩 과정을 한 번에 해결할 수 있는 전문 컨설팅을 제공합니다.",
+      "benefits_description": "이번 박람회는 스드메 패키지, 예물, 예복, 허니문, 가전 등 결혼의 전 과정을 아우르는 다양한 혜택을 준비했습니다. 특히 스드메 초특가 패키지부터 상담 시 제공되는 특별 쿠폰까지, 두 분의 예산에 맞춘 실속 있는 준비를 도와드립니다. 상세 혜택과 패키지 포함 내역은 현장 상담을 통해 구체적으로 안내받으실 수 있으니 방문 전 궁금한 항목을 미리 체크해 보세요.",
+      "summary_for_search": "포항 라모르 웨딩박람회가 11월 28일-29일 LG전자베스트샵 롯데포항점에서 개최됩니다. 스드메, 혼수, 가전 등 결혼 준비의 모든 것을 비교하고 전문 상담을 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 이제 포항 라모르 웨딩박람회에서 한 번에 해결하세요!",
+      "secondary_headline": "스드메부터 혼수까지, 전문 컨설턴트가 제안하는 1:1 맞춤형 웨딩 솔루션",
+      "urgency_text": "11월 28일~29일, 양일간 진행되는 특별 상담 기회",
+      "call_to_action_text": "박람회 무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [],
+      "contract_benefits": [
+        "스드메 초특가 패키지(드메, 프리미엄, VIP 패키지)",
+        "허니문 얼리버드 특가 프로모션",
+        "혼수(예물, 예복, 한복, 가전) 제휴 혜택",
+        "결혼 전 과정 스페셜 쿠폰 증정"
+      ],
+      "special_events": [
+        "전문 웨딩 컨설턴트 1:1 맞춤 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-28",
+        "end_date": "2026-11-29",
+        "display_date": "11월 28일(토) ~ 11월 29일(일)",
+        "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+      },
+      "location": {
+        "sido": "경북",
+        "sido_en": "gyeongbuk",
+        "sigungu": "포항시",
+        "sigungu_en": "pohang",
+        "address": "경북 포항시 북구 학산로 62 롯데백화점 포항점 8층",
+        "venue": "LG전자베스트샵 롯데포항점",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "방문 예정일"
+      ],
+      "gift_conditions": "상세 혜택 수령 조건 및 쿠폰 사용 범위는 현장 상담 시 안내받으실 수 있습니다.",
+      "trust_indicators": [
+        "전문 컨설턴트 1:1 상담",
+        "다양한 웨딩 카테고리 입점",
+        "웨딩컨설팅 현금거래 주의 안내 등 투명한 정보 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "포항 라모르 웨딩박람회",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 롯데포항점",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "포항시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "라모르웨딩 주식회사",
+          "url": "https://ad.cpaad.co.kr/lamour03/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "무료로 참가하실 수 있습니다. 사전에 온라인을 통해 무료 참가 신청을 해주세요."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메, 예물, 예복, 한복, 허니문, 가전 등 결혼 준비와 관련된 다양한 웨딩 관련 업체가 참여합니다."
+        },
+        {
+          "question": "방문 시 혜택은 무엇인가요?",
+          "answer": "결혼 준비 전 과정에 필요한 스페셜 쿠폰 혜택과 전문 컨설턴트의 1:1 맞춤 상담을 제공합니다."
+        },
+        {
+          "question": "스드메 패키지 구성은 어떻게 되나요?",
+          "answer": "드메, 프리미엄, VIP 패키지 등 다양한 구성이 준비되어 있으며, 자세한 포함 내역은 현장 상담을 통해 안내받으실 수 있습니다."
+        },
+        {
+          "question": "상담 시 무엇을 준비하면 좋을까요?",
+          "answer": "예식 예정일과 선호하는 스타일을 미리 생각해보시면 더욱 효과적인 컨설팅을 받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 포항 지역 예비부부, 스드메 패키지와 혼수 가전 비용을 비교 중인 신혼부부, 합리적인 웨딩 준비를 위해 전문가의 도움이 필요한 커플을 대상으로 합니다. 결혼 준비를 어디서부터 시작해야 할지 모르는 입문 단계부터, 구체적인 예산 설계를 원하는 커플까지 모두 방문하여 실질적인 정보를 얻으실 수 있습니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "허니문 여행사",
+        "웨딩 예물 및 예복 브랜드",
+        "혼수 가전 브랜드",
+        "한복 대여 및 맞춤"
+      ],
+      "comparison_hooks": [
+        "전문 컨설턴트의 1:1 맞춤형 웨딩 솔루션 제공",
+        "스드메부터 혼수, 가전까지 한자리에서 해결하는 원스톱 쇼핑",
+        "투명한 정보를 강조하는 안전한 웨딩 컨설팅 지향"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "포항 웨딩박람회 일정",
+        "스드메 비용 절약법",
+        "결혼 준비 체크리스트",
+        "포항 예식장 추천",
+        "신혼여행 패키지 비교",
+        "웨딩 박람회 혜택",
+        "포항 예물 투어",
+        "웨딩 촬영 스튜디오 추천",
+        "가전제품 혼수 준비",
+        "포항 웨딩 컨설팅"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "포항 웨딩박람회 전체 일정",
+          "category": "pohang_weddings"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "예물",
+        "예복",
+        "허니문",
+        "한복",
+        "혼수가전",
+        "웨딩컨설팅"
+      ]
+    },
+    "social_meta": {
+      "og_title": "포항 라모르 웨딩박람회 상담 예약",
+      "og_description": "11월 28일-29일 LG전자베스트샵 롯데포항점, 결혼 준비의 모든 것! 지금 무료 신청하고 특별 혜택을 확인하세요.",
+      "hashtags": [
+        "#포항웨딩박람회",
+        "#포항결혼준비",
+        "#라모르웨딩",
+        "#포항스드메",
+        "#포항혼수",
+        "#포항예물",
+        "#포항예복",
+        "#결혼준비",
+        "#신혼부부",
+        "#웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/lamour03/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_hrCKb4JGAT678COWr2TsyQH6mGyAUZ.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_R77T5YoLOHEws6XEEK.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_5OP3fCpHSbNGJ1t6gDVuIb6rhP.jpg"
+    },
+    "updated_at": "2026-11-11 14:01:26",
+    "revenue": 30000
   }
 ]
