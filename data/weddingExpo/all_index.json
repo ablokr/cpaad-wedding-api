@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 157,
+    "total_count": 159,
     "region_count": 16,
     "district_count": 52,
-    "updated_at": "2026-11-11 14:01:26"
+    "updated_at": "2026-11-11 20:01:07"
   },
   "items": [
     {
@@ -1225,25 +1225,12 @@
       "campaign_id": "withyouwedding21",
       "gather_name": "평택 위드유 웨딩박람회",
       "display_date": "11월 21일(토) ~ 11월 22일(일)",
-      "venue": "LG전자베스트샵 평택본점",
+      "venue": "LG전자베스트샵 평택고덕",
       "sido": "경기",
       "sigungu": "평택시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_zxUJaoLORXgtkMilAa4kNObmE429Pl.jpg",
-      "updated_at": "2026-11-02 20:02:40",
-      "revenue": 30000
-    },
-    {
-      "idx": 1589,
-      "campaign_id": "wedingcrowd76",
-      "gather_name": "안산 웨딩크라우드 웨딩박람회",
-      "display_date": "11월 14일(토) ~ 11월 15일(일)",
-      "venue": "호텔스퀘어 안산 특별행사장",
-      "sido": "경기",
-      "sigungu": "안산시",
-      "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_SjrORuks4MqF6ULg8htecY5srB.jpg",
-      "updated_at": "2026-11-02 20:02:55",
+      "updated_at": "2026-11-11 20:00:24",
       "revenue": 30000
     },
     {
@@ -2047,6 +2034,45 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_R77T5YoLOHEws6XEEK.jpg",
       "updated_at": "2026-11-11 14:01:26",
       "revenue": 30000
+    },
+    {
+      "idx": 1254,
+      "campaign_id": "bwc02",
+      "gather_name": "BWC 부산벡스코 웨딩박람회",
+      "display_date": "12월 11일(금) ~ 12월 13일(일)",
+      "venue": "벡스코 제2전시장 3층 5A 홀",
+      "sido": "부산",
+      "sigungu": "해운대구",
+      "region_en": "busan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202601/568762912459e51e2cbac9155f241418_gMyr8Ign2OCXywJ.jpg",
+      "updated_at": "2026-11-11 20:00:39",
+      "revenue": 30000
+    },
+    {
+      "idx": 1212,
+      "campaign_id": "knockWed04",
+      "gather_name": "광주 유스퀘어 웨딩박람회",
+      "display_date": "11월 14일(토) ~ 11월 15일(일)",
+      "venue": "광주 유스퀘어 2층 팝업스토어",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_PReDR2IDxBg84.jpg",
+      "updated_at": "2026-11-11 20:00:53",
+      "revenue": 50000
+    },
+    {
+      "idx": 1814,
+      "campaign_id": "knockWed18",
+      "gather_name": "광주 신세계웨딩 팝업스토어",
+      "display_date": "11월 21일(토) ~ 11월 22일(일)",
+      "venue": "신세계백화점 광주신세계점 8층",
+      "sido": "광주",
+      "sigungu": "서구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_LudtfLGTHCwQensy9I.jpg",
+      "updated_at": "2026-11-11 20:01:07",
+      "revenue": 50000
     }
   ]
 }
