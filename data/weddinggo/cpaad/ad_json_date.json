@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-11-10T19:00:03Z",
-  "total_ad_count": 151,
+  "last_updated": "2026-11-11T10:00:06Z",
+  "total_ad_count": 152,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_uI48paH7MggR.jpg",
@@ -1963,6 +1963,20 @@
       "ad_location": "경북 구미시 산동읍 첨단기업1로 49||(산동읍 봉산리 567-1)||구미코 특별행사장",
       "start_date": "2026-11-14",
       "end_date": "2026-11-15"
+    },
+    "lamour03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_hrCKb4JGAT678COWr2TsyQH6mGyAUZ.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_R77T5YoLOHEws6XEEK.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_5OP3fCpHSbNGJ1t6gDVuIb6rhP.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/lamour03/",
+      "region": "gyeongsang",
+      "gather_name": "포항 라모르 웨딩박람회",
+      "ad_info": "품격있는 웨딩준비, 프리미엄 웨딩샾",
+      "ad_year": "2026",
+      "ad_date": "11월 28일(토) ~ 11월 29일(일)",
+      "ad_location": "경북 포항시 북구 학산로 62 롯데백화점 포항점 8층||(학산동 127-9)||LG전자베스트샵 롯데포항점",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29"
     },
     "banhana13": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202603/568762912459e51e2cbac9155f241418_tGAU49qKbO8nbkRn9qoyFE.jpg",
