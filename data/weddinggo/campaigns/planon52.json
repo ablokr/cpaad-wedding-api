@@ -1,0 +1,211 @@
+{
+  "idx": 1608,
+  "campaign_id": "planon52",
+  "gather_name": "세텍 웨딩 페어",
+  "organizer_name": "주식회사 플랜온웨딩",
+  "seo_metadata": {
+    "title": "세텍 웨딩 페어 | 서울 강남 대규모 웨딩박람회 무료 초대장 신청",
+    "meta_description": "12월 5일~6일, 세텍(SETEC)에서 열리는 대규모 세텍 웨딩 페어! 스드메 패키지 특가부터 혼수 가전 추가 할인까지, 지금 무료 초대장 신청하고 예비부부를 위한 풍성한 계약 혜택을 모두 받아가세요.",
+    "keywords": [
+      "세텍웨딩박람회",
+      "서울웨딩박람회",
+      "결혼준비",
+      "강남웨딩박람회",
+      "스드메견적",
+      "혼수박람회",
+      "웨딩패키지할인",
+      "SETEC웨딩박람회",
+      "예비부부결혼준비",
+      "웨딩홀투어"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 12월 5일부터 6일까지 SETEC에서 개최되는 '세텍 웨딩 페어'는 예비부부를 위한 서울 최대 규모의 웨딩 축제입니다. 실력 있는 스드메 브랜드부터 혼수 가전까지 한자리에서 비교하고 합리적인 비용으로 완벽한 웨딩을 설계해보세요.",
+    "benefits_description": "이번 박람회에서는 현장 방문객을 위한 다양한 경품과 함께, 계약 시 파격적인 할인 혜택을 제공합니다. 스튜디오, 드레스, 메이크업 전문 브랜드의 1:1 상담을 통해 나만의 스타일을 찾고, 예복·예물·한복·신혼여행 등 혼수 전 품목에 걸친 특별 프로모션을 누려보세요. 특히 대치본점 웨딩가전 대전을 통해 가전 구매 시 최대 사은품 증정 및 포인트 혜택까지 더해져 예산 절감에 실질적인 도움을 드립니다.",
+    "summary_for_search": "12월 5일~6일 서울 SETEC에서 열리는 세텍 웨딩 페어! 스드메 패키지부터 혼수 가전 특가까지 예비부부를 위한 맞춤형 혜택을 확인하세요. 지금 무료 초대장을 신청하고 알뜰한 결혼 준비를 시작해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비 고민 끝! 세텍 웨딩 페어 최대 혜택 받고 시작하세요",
+    "secondary_headline": "스드메 패키지부터 프리미엄 가전까지, 서울 강남에서 만나는 역대급 웨딩 프로모션",
+    "urgency_text": "사전 신청 시 무료입장 및 현장 상담 우선권 제공",
+    "call_to_action_text": "지금 무료 초대장 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "무료 초대장 신청 시 입장료 무료",
+      "현장 상담 완료 시 다양한 사은품 증정"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 패키지 특가 제공",
+      "예물·예복·한복 계약 시 최대 20% 할인",
+      "대치본점 웨딩가전 구매 시 최대 사은품 및 포인트 증정",
+      "에스테틱 관리권 및 추가 사은품 증정"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "1:1 맞춤형 웨딩 플래닝 컨설팅",
+      "리뷰 작성 시 커피머신 증정 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 남부순환로 3104",
+      "venue": "SETEC 2층 전시실",
+      "parking_info": "SETEC 주차장 이용 가능 (유료)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부 구분",
+      "결혼 예정일",
+      "방문 예정 일자"
+    ],
+    "gift_conditions": "현장 상담 완료 후 QR코드 스캔 및 상담 이력 확인 시 증정",
+    "trust_indicators": [
+      "검증된 프리미엄 브랜드 대거 참여",
+      "고객들의 실제 계약 검증 후기 제공",
+      "웨딩 전문가의 1:1 맞춤 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "세텍 웨딩 페어",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "SETEC 2층 전시실",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서울 강남구 남부순환로",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 플랜온웨딩",
+        "url": "https://ad.cpaad.co.kr/planon52/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 유료인가요?",
+        "answer": "사전 신청을 통해 무료 초대장을 받으시면 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "SETEC 내 주차장이 마련되어 있어 자차 이용이 가능합니다."
+      },
+      {
+        "question": "스드메 패키지는 얼마나 할인되나요?",
+        "answer": "박람회 현장 계약 시 평소보다 합리적인 특가 혜택과 추가 사은품을 제공해 드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "유명 스튜디오, 드레스샵, 메이크업 샵은 물론 예물, 예복, 가전 등 결혼 준비에 필요한 모든 브랜드가 참여합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 걸리나요?",
+        "answer": "개인별 상담 내용에 따라 다르지만, 보통 업체당 30분에서 1시간 정도 소요됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 날짜를 잡고 본격적인 준비를 시작하려는 예비부부, 스드메(스튜디오·드레스·메이크업) 비용 비교로 고민 중인 커플, 그리고 혼수 가전부터 허니문까지 한 번에 실속 있게 준비하고 싶은 신혼부부를 대상으로 합니다. '결혼 준비 어떻게 시작하나요?'라는 질문을 가진 예비부부에게 전문 컨설턴트와의 1:1 매칭을 통해 최적의 솔루션을 제공합니다.",
+    "exhibitor_highlights": [
+      "스튜디오 (프리미엄 브랜드 다수)",
+      "드레스샵 (최신 트렌드 웨딩드레스)",
+      "메이크업 (전문 아티스트)",
+      "혼수 가전 (대치본점 특별전)",
+      "예물·예복 및 한복 브랜드"
+    ],
+    "comparison_hooks": [
+      "국내 최대 브랜드 입점 및 비교 상담 지원",
+      "현장에서 즉시 확인 가능한 계약 혜택 및 특가",
+      "검증된 후기 중심의 투명한 웨딩 상담"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 가격",
+      "웨딩홀 추천 지역",
+      "혼수 가전 저렴하게 사는 법",
+      "웨딩박람회 무료 초대권",
+      "강남 웨딩박람회 일정",
+      "결혼 예산 세우기",
+      "웨딩드레스 피팅 시 팁",
+      "신혼여행 패키지 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 일정 확인",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "스드메 특가 패키지 보기",
+        "category": "wedding_packages"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩플래너",
+      "결혼준비",
+      "예복",
+      "신혼가전",
+      "허니문",
+      "웨딩드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "세텍 웨딩 페어 | 결혼 준비 필수 혜택 받기",
+    "og_description": "12월 5일~6일 SETEC! 스드메 특가부터 혼수 가전 혜택까지, 지금 사전 신청하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#결혼준비",
+      "#세텍웨딩페어",
+      "#신혼부부혜택",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#예신",
+      "#결혼준비시작",
+      "#혼수준비",
+      "#강남웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon52/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_n1nlOFjM3jC.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_yM5psAIdfNXWcmpWs9WUa7OeF.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202605/568762912459e51e2cbac9155f241418_yTj1Irqxuvm.jpg"
+  },
+  "updated_at": "2026-11-16 13:01:56",
+  "revenue": 40000
+}
