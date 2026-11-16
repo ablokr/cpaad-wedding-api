@@ -209,5 +209,208 @@
     },
     "updated_at": "2026-11-16 13:35:23",
     "revenue": 30000
+  },
+  {
+    "idx": 1653,
+    "campaign_id": "banhanaH06",
+    "gather_name": "울산 반하나 허니문 박람회",
+    "organizer_name": "반하나웨딩 컨설팅",
+    "seo_metadata": {
+      "title": "울산 반하나 허니문 박람회 | 신혼여행 상담 시 최대 혜택 증정",
+      "meta_description": "11월 21일~22일, 울산 반하나투어 신선도원점 허니문 박람회 개최! 1:1 전문 상담, 현장 계약 할인, 여행자 보험 가입 등 신혼여행 준비의 모든 것을 확인하세요. 지금 사전등록하고 특별 혜택을 받아보세요.",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산허니문박람회",
+        "울산신혼여행",
+        "반하나투어울산",
+        "결혼준비",
+        "울산웨딩홀",
+        "허니문패키지",
+        "신혼여행박람회",
+        "울산결혼박람회",
+        "웨딩박람회일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설렘만큼이나 중요한 것이 바로 완벽한 신혼여행을 계획하는 일입니다. 이번 '울산 반하나 허니문 박람회'는 예비부부들이 고민하는 허니문의 모든 과정을 1:1 맞춤 상담으로 해결해 드립니다. 11월 21일부터 이틀간, 울산 신선도원점 반하나투어에서 특별한 혜택과 함께 여러분의 꿈꾸던 허니문을 실현해 보세요.",
+      "benefits_description": "이번 박람회에서는 현장 계약 고객을 대상으로 실질적인 혜택을 대폭 강화했습니다. 허니문 여행을 계약하는 모든 분께 현장 축하금 지급 및 고급 캐리어 증정 등 풍성한 선물 보따리가 준비되어 있습니다. 특히 반하나투어만의 프로모션과 제휴 할인을 더해 평균 10% 이상 저렴한 가격으로 고품질의 신혼여행 패키지를 이용하실 수 있습니다. 상담만 받아도 경품 기회가 주어지며, 무엇보다 안전을 고려한 고객 안심플랜과 여행자 보험까지 꼼꼼하게 설계해 드리니 안심하고 방문하시기 바랍니다.",
+      "summary_for_search": "11월 21일-22일 울산 신선도원점 반하나투어에서 열리는 허니문 박람회입니다. 현장 계약 할인과 여행 축하금 등 예비부부를 위한 파격적인 혜택을 놓치지 마세요. 사전등록 시 무료 입장이 가능합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "평균 10% 할인! 꿈꾸던 허니문, 지금 예약하고 최대 혜택 누리세요",
+      "secondary_headline": "울산 신선도원점 반하나투어 단독, 11월 특별 허니문 박람회",
+      "urgency_text": "11월 21일-22일 딱 이틀간 진행, 선착순 혜택 소진 시 종료",
+      "call_to_action_text": "지금 무료 참가 신청하고 상담받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 고객 대상 경품 증정",
+        "사전 등록 시 무료 입장"
+      ],
+      "contract_benefits": [
+        "현장 계약 시 축하금 지원",
+        "계약자 대상 고급 캐리어 증정",
+        "기존 대비 평균 10% 이상 할인된 가격 제공"
+      ],
+      "special_events": [
+        "허니문 지역(발리, 하와이, 코사무이, 유럽) 맞춤 컨설팅",
+        "전문가 1:1 상세 상담 진행"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "display_date": "11월 21일(토) ~ 11월 22일(일)",
+        "original_display_date": "11월 21일(토) ~ 11월 22일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "북구",
+        "sigungu_en": "buk",
+        "address": "울산 북구 진장17길 10 (진장동 705)",
+        "venue": "신선도원몰 1층 반하나투어",
+        "parking_info": "신선도원몰 내 주차 시설 이용 가능",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 고객 대상 (사전등록 필수)",
+      "trust_indicators": [
+        "소비자 만족도 1위 반하나투어",
+        "10억 영업 보증보험 가입 완료",
+        "실제 방문객들의 검증된 후기"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 반하나 허니문 박람회",
+        "startDate": "2026-11-21",
+        "endDate": "2026-11-22",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "신선도원몰 1층 반하나투어",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "울산 북구",
+            "addressLocality": "울산",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "반하나웨딩 컨설팅",
+          "url": "https://ad.cpaad.co.kr/banhanaH06/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전등록은 필수인가요?",
+          "answer": "무료 참가 및 원활한 상담 진행을 위해 사전등록을 권장드립니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "현장 방문 및 1:1 상담을 완료하신 분들을 대상으로 다양한 경품 이벤트가 진행됩니다."
+        },
+        {
+          "question": "어떤 지역의 신혼여행지를 볼 수 있나요?",
+          "answer": "발리, 하와이, 코사무이, 유럽 등 인기 있는 허니문 지역들에 대해 상세한 상담이 가능합니다."
+        },
+        {
+          "question": "현장 계약 시 혜택은 무엇인가요?",
+          "answer": "계약 축하금 지급, 고급 캐리어 증정, 평균 10% 이상의 특별 할인 등 다양한 혜택이 준비되어 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "신선도원몰 내 주차 시설을 편리하게 이용하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "본 박람회는 결혼을 앞두고 완벽한 신혼여행을 꿈꾸는 예비부부를 위한 행사입니다. 단순히 여행지를 선택하는 것을 넘어, 허니문 예산을 효율적으로 관리하고 싶은 커플, 혹은 스드메를 준비하며 허니문 패키지까지 합리적인 가격으로 비교하고 싶은 분들에게 최적화되어 있습니다. 결혼 준비가 막막한 예비부부라면 전문가의 1:1 맞춤 상담을 통해 여행지의 장단점과 실질적인 견적을 상세히 비교해 볼 수 있습니다.",
+      "exhibitor_highlights": [
+        "허니문 여행사(반하나투어)",
+        "신혼여행지별 전문 컨설팅 부스",
+        "여행자 보험 상담 부스"
+      ],
+      "comparison_hooks": [
+        "현장 계약 즉시 지원되는 축하금과 사은품 제공",
+        "평균 10% 이상의 압도적인 가격 경쟁력",
+        "10억 영업 보증보험 가입으로 신뢰할 수 있는 안심 여행 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "신혼여행 준비물",
+        "반하나투어 허니문 후기",
+        "울산 웨딩박람회 일정",
+        "허니문 견적 비교",
+        "코사무이 신혼여행 추천",
+        "신혼여행지 추천",
+        "허니문 여행자 보험",
+        "결혼 준비 체크리스트",
+        "신선도원몰 웨딩박람회",
+        "허니문 계약 혜택"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 웨딩박람회 전체 일정",
+          "category": "ulsan_wedding"
+        },
+        {
+          "anchor": "신혼여행 패키지 상품",
+          "category": "honeymoon_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "허니문",
+        "신혼여행",
+        "웨딩컨설팅",
+        "여행사",
+        "웨딩패키지",
+        "결혼준비",
+        "박람회"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 반하나 허니문 박람회 사전등록 오픈!",
+      "og_description": "신혼여행 준비 중이라면 주목! 현장 계약 시 여행 축하금과 캐리어 증정 혜택을 놓치지 마세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#울산허니문박람회",
+        "#결혼준비",
+        "#예비부부",
+        "#신혼여행지추천",
+        "#반하나투어",
+        "#신선도원몰",
+        "#허니문준비",
+        "#웨딩박람회",
+        "#울산결혼"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/banhanaH06/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_jHgIPr8xGTIJo1KmgVGiR7.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_mMXuJLOQSUmVRYLu6bLjlOZCZqH3St.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_LKyIEz7Zksfku3B1IGi.jpg"
+    },
+    "updated_at": "2026-11-16 19:38:27",
+    "revenue": 30000
   }
 ]
