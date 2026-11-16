@@ -1,0 +1,198 @@
+{
+  "idx": 1720,
+  "campaign_id": "wedingcrowd99",
+  "gather_name": "대전 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "대전 웨딩크라우드 웨딩박람회 | 삼성스토어 도안 상담 혜택",
+    "meta_description": "11월 28일~29일, 대전 삼성스토어 도안에서 열리는 웨딩크라우드 박람회. 스드메부터 혼수, 허니문까지 한자리에서 비교하고 계약자 100% 증정 및 경품 이벤트에 참여하세요.",
+    "keywords": [
+      "대전웨딩박람회",
+      "대전결혼준비",
+      "대전스드메",
+      "웨딩크라우드",
+      "대전웨딩홀",
+      "대전혼수",
+      "결혼준비박람회",
+      "대전예물",
+      "대전예복",
+      "삼성스토어도안"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 앞두고 어디서부터 무엇을 시작해야 할지 막막한 예비부부라면, 이번 대전 웨딩크라우드 웨딩박람회에 주목해 보세요. 삼성스토어 도안에서 열리는 이번 행사는 복잡한 웨딩 준비 과정을 한눈에 정리하고 실질적인 혜택을 챙길 수 있는 기회입니다.",
+    "benefits_description": "상담만 받아도 준비되는 실속 있는 혜택부터 계약자를 위한 100% 증정 선물까지 다양하게 구성되어 있습니다. 특히 웨딩패키지(스드메) 특가와 혼수 상담 시 제공되는 사은품은 예산 절감에 도움을 줍니다. 방문 시 캐스퍼 경품 이벤트 등 현장 특별 이벤트 응모 자격이 주어지며, 각 카테고리별 전문가와의 1:1 상담을 통해 두 분의 예산과 취향에 딱 맞는 맞춤형 웨딩 플랜을 제안받을 수 있습니다. 정확한 사은품 지급 조건과 추가 혜택 적용 대상은 현장 상담을 통해 꼭 확인하시기 바랍니다.",
+    "summary_for_search": "11월 28일~29일 대전 삼성스토어 도안에서 개최되는 웨딩크라우드 박람회. 스드메, 예물, 예복, 허니문 등 혼수 전 분야 비교 상담 및 계약자 100% 사은품 증정."
+  },
+  "marketing_hooks": {
+    "primary_headline": "대전 웨딩크라우드 웨딩박람회 - 계약자 100% 선물 증정",
+    "secondary_headline": "스드메부터 허니문까지 대전 예비부부를 위한 맞춤형 웨딩 솔루션",
+    "urgency_text": "11월 28일~29일, 이틀간 진행되는 특별 혜택",
+    "call_to_action_text": "무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "박람회 방문객 대상 캐스퍼 경품 추첨 기회"
+    ],
+    "contract_benefits": [
+      "웨딩(스드메) + 혼수 계약 시 사은품 증정",
+      "계약자 100% 증정 웨딩다이어리 등",
+      "웨딩패키지 특가(스드메)"
+    ],
+    "special_events": [
+      "삼성 AI 구독 페스티벌",
+      "현장 상담을 통한 1:1 맞춤형 웨딩 플랜"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "대전",
+      "sido_en": "daejeon",
+      "sigungu": "유성구",
+      "sigungu_en": "yuseong",
+      "address": "대전 유성구 도안대로 327",
+      "venue": "삼성스토어 도안 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일",
+      "관심지역"
+    ],
+    "gift_conditions": "상담 및 계약 완료 후 증정(상세 조건은 현장 안내)",
+    "trust_indicators": [
+      "전문가 1:1 맞춤 상담",
+      "스드메, 예물, 예복, 허니문, 혼수 가전 브랜드 입점",
+      "100% 계약 사은품 증정 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "대전 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 도안",
+        "address": "대전광역시 유성구"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd99/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 신청은 어떻게 하나요?",
+        "answer": "상단 또는 하단의 참가신청 양식에 이름, 연락처, 예식 예정일 등을 입력 후 제출하면 예약이 완료됩니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "상담 및 계약 내용에 따라 사은품 혜택이 다르며, 현장 상담 완료 후 상세 안내를 받으실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "스튜디오, 드레스, 메이크업 패키지가 준비되어 있으며, 현장에서 두 분의 예산에 맞춰 맞춤 상담이 가능합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메, 허니문, 예물, 예복, 혼수 가전 등 결혼 준비에 필요한 전 분야 업체가 참여합니다."
+      },
+      {
+        "question": "방문 시 복장 규정이 있나요?",
+        "answer": "특별한 복장 규정은 없으나, 편안한 복장으로 방문하여 원활한 상담을 받으시길 권장합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막연한 불안감을 느끼는 예비부부, 스드메 비용과 구성 비교에 어려움을 겪는 신혼부부, 대전 지역에서 효율적인 결혼 준비를 희망하는 분들을 위한 행사입니다. 결혼 준비의 전체적인 흐름을 파악하고 전문가의 1:1 상담을 통해 예산별 맞춤 전략을 짜고 싶은 분들에게 적합합니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오, 드레스, 메이크업) 패키지 업체",
+      "웨딩홀 추천 업체",
+      "혼수 가전 브랜드(삼성스토어)",
+      "예물 및 예복 브랜드",
+      "허니문 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "현장에서 바로 확인할 수 있는 1:1 맞춤형 웨딩 플랜 제안",
+      "혼수부터 스드메까지 원스톱 비교 가능한 대전 초대형 박람회",
+      "계약자 100% 증정 사은품 및 캐스퍼 경품 이벤트 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "대전 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 견적 비교",
+      "신혼여행 준비 팁",
+      "혼수 가전 준비",
+      "웨딩박람회 방문 후기",
+      "대전 예식장 추천",
+      "예물 예복 브랜드 순위",
+      "웨딩 박람회 계약 주의사항",
+      "2026 결혼 준비"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "대전 지역 웨딩박람회 일정 모아보기",
+        "category": "daejeon_wedding"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "예물",
+      "예복",
+      "결혼준비",
+      "웨딩컨설팅",
+      "혼수가전"
+    ]
+  },
+  "social_meta": {
+    "og_title": "대전 웨딩크라우드 웨딩박람회 | 계약자 100% 선물",
+    "og_description": "11월 대전 초대형 웨딩박람회! 스드메·혼수·허니문 한자리에서 비교하고 캐스퍼 경품 기회까지 잡으세요.",
+    "hashtags": [
+      "#대전웨딩박람회",
+      "#대전결혼준비",
+      "#웨딩크라우드",
+      "#대전스드메",
+      "#대전예식장",
+      "#예비부부",
+      "#결혼준비",
+      "#신혼부부",
+      "#혼수준비",
+      "#대전데이트"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd99/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_h6EYzeaaAjkkGQPEHKuklAPvYGzW.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_VFQK8jnbYZQAqjWOPUMWdjke.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_sBnNmZp4kPVTybXJtRMH6OyPOlH5.jpg"
+  },
+  "updated_at": "2026-11-16 20:06:24",
+  "revenue": 30000
+}

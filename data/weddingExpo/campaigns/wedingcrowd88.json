@@ -1,0 +1,211 @@
+{
+  "idx": 1655,
+  "campaign_id": "wedingcrowd88",
+  "gather_name": "광명 AK 대형 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "광명 AK 웨딩박람회 | 스드메 패키지 할인 및 방문 혜택",
+    "meta_description": "광명 AK플라자에서 열리는 대형 웨딩박람회! 12월 12일~13일 개최. 스드메 패키지 특가, 방문객 스타벅스 상품권 증정, 드레스 업그레이드 등 풍성한 혜택을 확인하세요.",
+    "keywords": [
+      "광명웨딩박람회",
+      "경기웨딩박람회",
+      "AK플라자웨딩박람회",
+      "결혼준비박람회",
+      "스드메패키지",
+      "웨딩홀할인",
+      "신혼여행박람회",
+      "광명결혼준비",
+      "웨딩드레스무료업그레이드",
+      "웨딩박람회방문혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면 광명 AK 대형 웨딩박람회에 주목해 보세요. 이번 박람회는 스드메부터 혼수, 허니문까지 한자리에서 비교하고 합리적인 비용으로 상담받을 수 있도록 구성되었습니다.",
+    "benefits_description": "상담만 받아도 현장 증정되는 스타벅스 상품권은 물론, 현장 계약 시 최대 150만 원 상당의 허니문 혜택과 웨딩드레스 블랙라벨 무료 업그레이드 등 파격적인 혜택을 누릴 수 있습니다. 특히 89만 원대의 알찬 스드메 패키지와 웨딩홀 할인 혜택은 예산 절감을 고민하는 분들께 실질적인 도움을 드릴 것입니다. 상세한 혜택 적용 범위는 현장에서 상담사와 꼼꼼히 비교하며 두 분의 예산에 맞게 조정해 보세요.",
+    "summary_for_search": "12월 12일-13일 광명 AK플라자 웨딩박람회 개최. 스드메 패키지 89만 원 특가 및 방문객 스타벅스 상품권, 드레스 블랙라벨 업그레이드 등 풍성한 혜택을 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "광명 AK 대형 웨딩박람회, 스드메 패키지 89만 원부터!",
+    "secondary_headline": "상담만 해도 스타벅스 상품권 증정, 예비부부를 위한 합리적인 결혼 준비 시작점",
+    "urgency_text": "이번 주말, 12월 12일~13일 딱 이틀간 개최",
+    "call_to_action_text": "무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담 시 스타벅스 상품권 증정",
+      "청첩장 15% 할인권 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 89만 원 특가",
+      "웨딩드레스 블랙라벨 무료 업그레이드",
+      "허니문 최대 150만 원 상당 혜택",
+      "신랑 예복 및 맞춤 한복 할인"
+    ],
+    "special_events": [
+      "웨딩홀 식대 할인 및 무료 섭외 서비스",
+      "신혼부부 재무 관리 컨설팅",
+      "웨딩 검진 프로그램 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "광명시",
+      "sigungu_en": "gwangmyeong",
+      "address": "경기 광명시 양지로 17",
+      "venue": "AK플라자 광명 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑신부 이름",
+      "결혼 예정일",
+      "상담 희망분야"
+    ],
+    "gift_conditions": "온라인 사전 신청 후 현장 상담 완료 시 증정",
+    "trust_indicators": [
+      "웨딩크라우드 주관",
+      "국내 당일 안심 보증제도 운영",
+      "1:1 맞춤형 전문 웨딩 플래닝 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광명 AK 대형 웨딩박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "AK플라자 광명 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "경기 광명시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd88/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "무료로 참가가 가능합니다. 사전 신청을 하시면 현장 상담 혜택을 더 수월하게 확인하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "예식 예정일과 대략적인 예산을 미리 논의하고 오시면 상담 시 더 구체적인 견적 비교가 가능합니다."
+      },
+      {
+        "question": "상담 혜택은 어떻게 받을 수 있나요?",
+        "answer": "사전 등록 후 방문하여 현장에서 상담을 진행하시면 스타벅스 상품권 등 안내된 혜택을 제공받으실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "스튜디오, 드레스, 메이크업 구성이며 세부적인 포함 항목과 추가금 발생 여부는 상담 시 꼼꼼히 확인해 주시기 바랍니다."
+      },
+      {
+        "question": "특정 업체와 꼭 계약해야 하나요?",
+        "answer": "박람회는 비교를 위한 자리이므로 자유롭게 상담받으시고 두 분의 조건에 맞는 곳을 선택하시면 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "이제 막 결혼 준비를 시작하여 예산 세우기가 막막한 예비부부, 스드메 패키지 구성과 가격을 한곳에서 비교하고 싶은 신혼부부, 신혼여행부터 예물, 예복, 가전까지 합리적인 비용으로 준비하고자 하는 커플들을 위한 행사입니다. 결혼 준비의 전체적인 로드맵을 잡고 전문가의 1:1 컨설팅을 통해 시행착오를 줄이고 싶다면 이번 박람회 방문을 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "드레스 샵",
+      "웨딩홀",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "맞춤 한복",
+      "폐백/웨딩 음식"
+    ],
+    "comparison_hooks": [
+      "스드메 패키지 89만 원부터 시작하는 합리적인 가격 정책",
+      "드레스 블랙라벨 업그레이드 등 현장 계약 특전 제공",
+      "웨딩홀 식대 할인부터 혼수까지 폭넓은 카테고리 입점"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 비용 절약법",
+      "웨딩홀 섭외 꿀팁",
+      "결혼 준비 체크리스트",
+      "허니문 패키지 할인",
+      "예복 맞춤 가격",
+      "웨딩박람회 사기 방지",
+      "결혼 예산 세우기",
+      "웨딩 촬영 스튜디오 추천",
+      "한복 대여 가격"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "결혼 준비 가이드",
+        "category": "planning"
+      },
+      {
+        "anchor": "웨딩홀 견적 비교",
+        "category": "venue"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩촬영",
+      "청첩장",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광명 AK 대형 웨딩박람회 | 혜택 가득",
+    "og_description": "광명에서 열리는 웨딩 페어! 스드메 특가와 방문 상담 선물까지, 결혼 준비의 모든 것을 확인하세요.",
+    "hashtags": [
+      "#광명웨딩박람회",
+      "#결혼준비",
+      "#예비부부",
+      "#스드메패키지",
+      "#웨딩박람회혜택",
+      "#결혼준비시작",
+      "#웨딩홀추천",
+      "#신혼여행준비",
+      "#광명웨딩",
+      "#웨딩드레스"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd88/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_OYJa299k2RK2Pm.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_CAPcBDlM8tfG6j6UD4mjgaR1siP9V.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_oY2OQS75aaHKnbYL8MngMuPr7n7Z.jpg"
+  },
+  "updated_at": "2026-11-16 20:08:58",
+  "revenue": 30000
+}
