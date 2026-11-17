@@ -1,0 +1,208 @@
+{
+  "idx": 946,
+  "campaign_id": "theBW01",
+  "gather_name": "광주 웨딩 페스타",
+  "organizer_name": "더베스트 웨딩페어",
+  "seo_metadata": {
+    "title": "광주 웨딩페스타 | 11월 신세계백화점 예비부부 필수 초대권 증정",
+    "meta_description": "2026 광주 웨딩페스타, 11월 28일~29일 신세계백화점 광주점 개최! 스드메 최대 25만원 할인 및 선착순 방문객 선물 증정. 예비부부를 위한 실속 있는 결혼 준비, 지금 바로 무료 초대권을 신청하세요.",
+    "keywords": [
+      "광주웨딩박람회",
+      "광주결혼준비",
+      "광주웨딩페스타",
+      "신세계백화점광주점웨딩",
+      "광주스드메",
+      "광주웨딩홀추천",
+      "예비부부혜택",
+      "결혼박람회일정",
+      "광주허니문",
+      "광주예물예복"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 막막함을 해결할 2026 광주 웨딩페스타가 신세계백화점 광주점에서 개최됩니다. 예비부부님들의 소중한 시간을 아껴드리고 합리적인 결혼 준비를 돕기 위해 업계 1위 전문가들이 모였습니다.",
+    "benefits_description": "방문만 하셔도 스타벅스 쿠폰과 결혼 준비 특별 쿠폰팩을 증정하며, 상담 시 다양한 가전 및 허니문 할인 혜택을 제공합니다. 스드메 패키지 최대 25만원 할인부터 예물, 예복, 한복까지 한자리에서 비교하고 계약 시 추가 경품까지 챙길 수 있는 기회를 놓치지 마세요.",
+    "summary_for_search": "광주 웨딩페스타가 11월 28일~29일 신세계백화점 광주점에서 열립니다. 스드메, 웨딩홀, 혼수까지 한 번에 해결하는 광주 최대 웨딩 행사! 무료 초대권 신청하고 최대 25만원 할인 혜택을 받아보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "11월, 광주 예비부부라면 꼭 가야 할 웨딩페스타",
+    "secondary_headline": "신세계백화점 광주점에서 만나는 스드메·혼수 원스톱 솔루션",
+    "urgency_text": "선착순 방문객 100% 선물 증정, 지금 바로 신청하세요!",
+    "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "선착순 방문객 스타벅스 기프티콘 증정",
+      "결혼 준비 특전 쿠폰북 제공"
+    ],
+    "contract_benefits": [
+      "스드메 패키지 최대 25만원 할인",
+      "계약 시 가전제품 및 허니문 여행권 혜택",
+      "방문 상담 시 웨딩 다이어리 증정"
+    ],
+    "special_events": [
+      "1:1 웨딩 전문가 무료 컨설팅",
+      "2026 신상 웨딩드레스 전시",
+      "현장 실시간 웨딩홀 예약 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+    },
+    "location": {
+      "sido": "광주",
+      "sido_en": "gwangju",
+      "sigungu": "서구",
+      "sigungu_en": "seo",
+      "address": "광주 서구 무진대로 932",
+      "venue": "신세계백화점 광주신세계점 8층",
+      "parking_info": "백화점 주차장 이용 가능 (무료 주차 지원 확인 요망)",
+      "region_code": "jeolla"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 후 상담 완료 시 증정",
+    "trust_indicators": [
+      "광주 웨딩박람회 1위 브랜드",
+      "연간 1,300쌍 이상 선택",
+      "검증된 1:1 전문 웨딩플래너 동행"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "광주 웨딩페스타",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-29",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 광주신세계점 8층",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "광주 서구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더베스트 웨딩페어",
+        "url": "https://ad.cpaad.co.kr/theBW01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문 예약은 필수인가요?",
+        "answer": "네, 혼잡 방지 및 원활한 상담을 위해 사전 예약제로 운영됩니다. 예약 시 방문 선물이 제공됩니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "신세계백화점 광주점 내 주차장을 이용하실 수 있으며, 방문 시 주차 안내를 도와드립니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "광주 지역 인기 웨딩홀, 스튜디오, 드레스샵, 예물, 예복, 한복 등 결혼 준비에 필요한 모든 카테고리 업체가 참여합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 박람회 현장에서 상담을 진행하시면 다양한 경품 및 쿠폰팩을 증정해 드립니다."
+      },
+      {
+        "question": "결혼 날짜가 정해지지 않아도 방문해도 되나요?",
+        "answer": "물론입니다. 결혼 준비의 첫 시작인 웨딩홀 투어부터 스드메 선택까지 전문가가 상세히 가이드를 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "광주광역시 및 인근 지역에서 결혼을 앞둔 예비부부, 스드메 비용과 웨딩홀 정보를 한눈에 비교하고 싶은 커플을 대상으로 합니다. 결혼 준비의 막연한 불안감을 가진 커플에게 전문가의 맞춤형 컨설팅을 제공하며, 합리적인 예산 설계가 필요한 신혼부부들에게 필수적인 정보를 제공합니다. 또한, 바쁜 일상 속에서 효율적으로 예식을 준비하고자 하는 커플에게 원스톱 웨딩 상담 솔루션을 제시합니다.",
+    "exhibitor_highlights": [
+      "광주 유명 웨딩홀 및 예식장",
+      "스드메 패키지 전문 업체",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "혼수 가전 브랜드",
+      "한복 대여 및 맞춤"
+    ],
+    "comparison_hooks": [
+      "광주 지역 유일의 1위 브랜드 박람회로 검증된 서비스 보장",
+      "현장 즉시 계약 시 최대 25만원 할인과 실속 있는 사은품 혜택 제공",
+      "1:1 밀착 상담으로 예비부부 맞춤형 예산 및 리스트 최적화"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "광주 웨딩홀 투어 예약",
+      "광주 스드메 가격대",
+      "결혼 준비 체크리스트",
+      "광주 신혼여행 추천",
+      "박람회 계약 혜택 확인",
+      "예물 예복 브랜드 순위",
+      "웨딩플래너 동행 비용",
+      "광주 웨딩박람회 후기",
+      "혼수 가전 할인 행사",
+      "결혼 예산 짜기 가이드"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "광주 웨딩홀 추천 리스트",
+        "category": "wedding_venue"
+      },
+      {
+        "anchor": "2026 스드메 패키지 정보",
+        "category": "sdeume"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예물",
+      "예복",
+      "허니문",
+      "결혼준비",
+      "신혼가전",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "광주 웨딩페스타 | 11월 신세계백화점",
+    "og_description": "결혼 준비 시작은 여기! 11월 광주 웨딩페스타, 1:1 상담받고 최대 25만원 할인과 선물까지 챙기세요.",
+    "hashtags": [
+      "#광주웨딩박람회",
+      "#광주결혼준비",
+      "#광주웨딩페스타",
+      "#광주스드메",
+      "#신세계백화점광주",
+      "#광주웨딩홀",
+      "#예비부부",
+      "#결혼준비",
+      "#광주예물",
+      "#광주허니문"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theBW01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_AIX4heN8W6sthCh5yTuZMCQg8ple8r.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_YGwGgZiHks7S5LLvPDSPAWt.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4HY7e8kQby6CjiL3Kx9D4MBAnA.jpg"
+  },
+  "updated_at": "2026-11-17 19:00:48",
+  "revenue": 30000
+}

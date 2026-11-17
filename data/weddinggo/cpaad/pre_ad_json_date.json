@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-11-17T16:00:03Z",
-  "total_ad_count": 148,
+  "last_updated": "2026-11-17T19:00:03Z",
+  "total_ad_count": 149,
   "advertisements": {
     "iniwedding05": {
       "idx": 128,
@@ -2801,6 +2801,32 @@
         }
       },
       "revenue": 40000
+    },
+    "theBW01": {
+      "idx": 946,
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_AIX4heN8W6sthCh5yTuZMCQg8ple8r.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_YGwGgZiHks7S5LLvPDSPAWt.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4HY7e8kQby6CjiL3Kx9D4MBAnA.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theBW01/",
+      "region": "jeolla",
+      "gather_name": "광주 웨딩 페스타",
+      "ad_info": "결혼준비도 한번에! 광주 웨딩 페스타에서 최고로 준비하세요.",
+      "ad_year": "2026",
+      "ad_date": "11월 28일(토) ~ 11월 29일(일)",
+      "ad_location": "광주 서구 무진대로 932||(광천동 49-1)||신세계백화점 광주신세계점 8층",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29",
+      "preprocessed": {
+        "location": {
+          "sido": "광주",
+          "sido_en": "gwangju",
+          "sigungu": "서구",
+          "sigungu_en": "seo",
+          "address": "광주 서구 무진대로 932",
+          "venue": "신세계백화점 광주신세계점 8층"
+        }
+      },
+      "revenue": 30000
     },
     "whw06": {
       "idx": 1647,
