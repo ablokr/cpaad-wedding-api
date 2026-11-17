@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-11-17T10:00:03Z",
-  "total_ad_count": 145,
+  "last_updated": "2026-11-17T13:00:03Z",
+  "total_ad_count": 148,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_2nq9jRAEXVQC3inhBizATFPoq9awws.jpg",
@@ -550,6 +550,20 @@
       "start_date": "2026-11-21",
       "end_date": "2026-11-22"
     },
+    "labelleellin04": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_TXmIJhEa6j1mgAYolh6LPtLbR.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_uZjACpWVUc7NZSxL97Llr.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_HDNcKQ5drf9Z6l7vm8cAu4VMAbaKm.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin04/",
+      "region": "gyeonggi",
+      "gather_name": "수원 웨딩박람회",
+      "ad_info": "경기도 최대규모의 프리미엄 드레스샵 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "11월 21일(토) ~ 11월 22일(일)",
+      "ad_location": "경기 수원시 팔달구 효원로 62||(매산로3가 72-18)||수원 결혼만들기 웨딩타운 전층",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-22"
+    },
     "withyouwedding21": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_vg9Zq5HrxLOrwCXWigbNv8QKy.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_zxUJaoLORXgtkMilAa4kNObmE429Pl.jpg",
@@ -647,6 +661,20 @@
       "ad_location": "경기 평택시 평택로 51 AK플라자 평택점 6층||(평택동 185-568)||LG전자베스트샵 AK PLAZA 평택점",
       "start_date": "2026-11-21",
       "end_date": "2026-11-22"
+    },
+    "labelleellin03": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_7lWlZIncG42ZnlQjd7ic5P2Uk1.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_JdO9joibt4T.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_NBCgOw5HeGVVm3j.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/labelleellin03/",
+      "region": "gyeonggi",
+      "gather_name": "수원 타임빌라스 웨딩박람회",
+      "ad_info": "타임빌라스에서 열리는 수원 웨딩박람회",
+      "ad_year": "2026",
+      "ad_date": "11월 28일(토) ~ 11월 29일(일)",
+      "ad_location": "경기 수원시 권선구 세화로 134||(서둔동 381)||타임빌라스 수원점 B1F LG베스트샵 특별행사장",
+      "start_date": "2026-11-28",
+      "end_date": "2026-11-29"
     },
     "wncowedding02": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_wkoIHrzPGHkncQZyx9ju3hjN9URA4.jpg",
@@ -899,6 +927,20 @@
       "ad_location": "부산 중구 중앙대로 2||(중앙동6가 36-4)||롯데백화점 광복점 9층 특별전시장",
       "start_date": "2026-11-28",
       "end_date": "2026-11-29"
+    },
+    "charlesWedBusan12": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_abwX5qGcITk6lMoIMUOPwuG8Axco.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_cMiQ1VVJe1P7L95dgmfM.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_VK4TsTxlgXinvFJomgIRBe.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/charlesWedBusan12/",
+      "region": "busan",
+      "gather_name": "KNN 부산 웨딩엑스포",
+      "ad_info": "부산경남 결혼준비 완전정복 부산 웨딩패키지 최저가 보장",
+      "ad_year": "2026",
+      "ad_date": "12월 05일(토) ~ 12월 06일(일)",
+      "ad_location": "부산 해운대구 센텀서로 30||(우동 1468)||KNN센텀신사옥 1층 특설웨딩박람회장",
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06"
     },
     "charlesWedBusan07": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202508/568762912459e51e2cbac9155f241418_hbuFRa1y7U3FMvJZVLu7pzSfVacECWO.jpg",
