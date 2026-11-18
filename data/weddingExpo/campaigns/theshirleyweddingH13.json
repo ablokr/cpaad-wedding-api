@@ -1,0 +1,207 @@
+{
+  "idx": 1886,
+  "campaign_id": "theshirleyweddingH13",
+  "gather_name": "일산 더셜리 허니문페어",
+  "organizer_name": "더셜리",
+  "seo_metadata": {
+    "title": "일산 더셜리 허니문페어 | 현대백화점 킨텍스점 신혼여행 혜택",
+    "meta_description": "12월 12일~13일, 일산 현대백화점 킨텍스에서 열리는 더셜리 허니문페어! 사전 예약하고 방문 선물부터 국가별 VVIP 특전까지 풍성한 혜택을 확인하세요.",
+    "keywords": [
+      "일산 웨딩박람회",
+      "일산 허니문페어",
+      "현대백화점 킨텍스 웨딩",
+      "신혼여행 준비",
+      "예비부부 박람회",
+      "더셜리 허니문",
+      "신혼여행 패키지 비교",
+      "웨딩박람회 방문선물",
+      "고양 웨딩박람회",
+      "2026 결혼 준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 설레는 신혼여행 계획을 고민 중인 예비부부라면 주목하세요. 12월 12일부터 13일까지 일산 현대백화점 킨텍스점에서 열리는 '더셜리 허니문페어'에서는 예비부부를 위한 맞춤형 여행 큐레이션과 특별한 계약 혜택을 한자리에서 만나보실 수 있습니다.",
+    "benefits_description": "이번 페어는 단순히 정보를 나열하는 박람회를 넘어, 각 여행지별 VVIP 특전을 제공하여 합리적인 선택을 돕습니다. 현장 방문 시 여행 필수템 5종(트래블 키트, 건강검진권, 캐리어, 샤워필터, 라면포트, 마스크팩)을 증정하며, 상담 및 계약 시에는 국가별로 차별화된 룸 업그레이드나 할인 등 실질적인 혜택을 제공합니다. 전문가의 1:1 상담을 통해 복잡한 허니문 일정을 투명하게 비교하고 두 분만의 로맨틱한 여정을 설계해 보세요.",
+    "summary_for_search": "12월 12일-13일, 일산 현대백화점 킨텍스에서 열리는 더셜리 허니문페어. 사전등록하고 방문 선물과 국가별 VVIP 허니문 특전을 누리세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "2026 하반기 마지막 할인 찬스, 일산 더셜리 허니문페어",
+    "secondary_headline": "한자리에서 모든 신혼여행지를 비교하고, 방문만 해도 100% 증정 선물을 받아보세요.",
+    "urgency_text": "단 2일간 진행되는 특별 할인 행사",
+    "call_to_action_text": "무료 초대권 신청하고 혜택 받기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "모튼브라운 헤어/바디 트래블 키트",
+      "전국 14곳 프리미엄 건강검진권",
+      "프리미엄 여행용 캐리어",
+      "여행용 샤워필터",
+      "여행용 라면포트",
+      "달바 마스크팩 1BOX"
+    ],
+    "contract_benefits": [
+      "국가별 VVIP 업그레이드 혜택",
+      "지역별(몰디브, 발리, 칸쿤, 푸켓/카오락 등) 전용 특전 제공"
+    ],
+    "special_events": [
+      "허니문 전문가 1:1 맞춤형 큐레이션 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "고양시",
+      "sigungu_en": "goyang",
+      "address": "경기 고양시 일산서구 호수로 817",
+      "venue": "현대백화점 (킨텍스점)",
+      "parking_info": "현대백화점 킨텍스점 주차장 이용",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "허니문지역",
+      "허니문예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "사전 등록 후 현장 방문 시 증정, 선착순 및 소진 시 조기 마감될 수 있음.",
+    "trust_indicators": [
+      "허니문 전문 여행사 상담",
+      "24시간 한국어 대응 서비스",
+      "10년 이상 경력 전문가 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "일산 더셜리 허니문페어",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "현대백화점 킨텍스점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "경기 고양시 일산서구 호수로 817",
+          "addressLocality": "고양시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더셜리",
+        "url": "https://ad.cpaad.co.kr/theshirleyweddingH13/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전등록은 어떻게 하나요?",
+        "answer": "공식 랜딩페이지의 신청 폼에 이름, 연락처, 예식 예정일 등 필수 정보를 입력하시면 사전등록이 완료됩니다."
+      },
+      {
+        "question": "방문 선물은 누구나 받을 수 있나요?",
+        "answer": "사전 예약 후 현장에 방문하시는 예비부부 대상으로 증정하며, 수량 소진 시 조기 마감될 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "허니문 전문 여행사들이 참여하여 신혼여행지별 맞춤 상담과 박람회 한정 특전을 제공합니다."
+      },
+      {
+        "question": "상담 시 무엇을 확인해야 하나요?",
+        "answer": "포함 내역과 추가 비용 항목, 국가별 VVIP 혜택 상세 조건을 꼼꼼히 질문하여 비교해 보시는 것이 좋습니다."
+      },
+      {
+        "question": "박람회 주차는 가능한가요?",
+        "answer": "현대백화점 킨텍스점 주차장을 이용할 수 있습니다. 자세한 주차 안내는 현장 상황을 확인해 주세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 신혼여행지 선정을 고민하는 예비부부를 위한 행사입니다. 휴양과 관광 중 취향에 맞는 여행지를 찾고 싶거나, 10년 이상 경력 전문가의 1:1 상담을 통해 투명한 비용으로 안전한 여행을 준비하고 싶은 분들께 권장합니다. 특히 국가별 VVIP 특전과 실질적인 여행 필수품 선물을 받으며 알뜰하게 결혼 준비를 마무리하려는 커플에게 적합합니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "신혼여행지 큐레이션 서비스",
+      "웨딩 여행 컨설팅 업체"
+    ],
+    "comparison_hooks": [
+      "10년 이상 경력 전문가의 투명한 1:1 비교 상담",
+      "여행지별 VVIP 특전 및 룸 업그레이드 제공",
+      "현장 방문만으로 증정되는 프리미엄 여행 필수템 6종"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "신혼여행지 추천",
+      "허니문 박람회 혜택",
+      "2026 신혼여행 트렌드",
+      "몰디브 신혼여행 비용",
+      "발리 신혼여행 추천",
+      "유럽 허니문 패키지",
+      "웨딩 박람회 방문 준비물",
+      "신혼여행 준비 시기",
+      "허니문 여행사 선택 기준",
+      "일산 가볼 만한 웨딩 박람회"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "신혼여행 준비 가이드",
+        "category": "honeymoon_guide"
+      },
+      {
+        "anchor": "웨딩홀 계약 체크리스트",
+        "category": "wedding_venue"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "허니문",
+      "신혼여행",
+      "웨딩페어",
+      "여행패키지",
+      "VVIP혜택",
+      "결혼준비",
+      "상담"
+    ]
+  },
+  "social_meta": {
+    "og_title": "일산 더셜리 허니문페어 12월 개최!",
+    "og_description": "12/12~13, 현대백화점 킨텍스! 지금 사전 신청하고 신혼여행 계약 혜택과 선물 모두 챙기세요.",
+    "hashtags": [
+      "#일산웨딩박람회",
+      "#허니문페어",
+      "#신혼여행준비",
+      "#결혼준비",
+      "#더셜리허니문",
+      "#예비부부",
+      "#신혼여행지추천",
+      "#웨딩박람회혜택",
+      "#킨텍스웨딩박람회",
+      "#신혼여행패키지"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleyweddingH13/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_oqSTGpFp.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_mMzmpmDzXu6TfintUHN.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_qXXITx9vZ6G7Px4qYUjZBDmEy6v.jpg"
+  },
+  "updated_at": "2026-11-18 20:01:40",
+  "revenue": 30000
+}

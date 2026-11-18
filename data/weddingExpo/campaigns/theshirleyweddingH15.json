@@ -1,0 +1,210 @@
+{
+  "campaign_id": "theshirleyweddingH15",
+  "gather_name": "하남 더셜리 허니문페어",
+  "organizer_name": "더셜리",
+  "seo_metadata": {
+    "title": "하남 더셜리 허니문페어 | 신세계백화점 스타필드하남 신혼여행 상담",
+    "meta_description": "12월 12일~13일 개최, 하남 더셜리 허니문페어! 신세계백화점 스타필드하남점에서 열리는 허니문 전문 박람회입니다. 방문 상담 시 여행 필수품 증정 및 국가별 특별 프로모션을 확인하세요.",
+    "keywords": [
+      "하남웨딩박람회",
+      "신혼여행박람회",
+      "스타필드하남웨딩",
+      "허니문페스타",
+      "결혼준비박람회",
+      "신혼여행상담",
+      "더셜리웨딩",
+      "허니문프로모션",
+      "결혼준비",
+      "신혼여행지추천"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘만큼이나 중요한 신혼여행, 어디서부터 어떻게 계획해야 할지 고민이 많으셨죠? 하남 더셜리 허니문페어는 신혼여행 전문 여행사들이 모여 두 분만의 특별한 여행을 완성할 수 있도록 1:1 맞춤 상담을 제공합니다.",
+    "benefits_description": "이번 페어에 방문하시는 예비부부님들께는 여행 필수 아이템인 여행용 캐리어, 샤워 필터기, 라면포트, 마스크팩 등 다양한 선물을 증정합니다. 또한 몰디브, 하와이, 발리 등 인기 신혼여행지별로 리조트 업그레이드, 단독 할인, 무료 스냅 촬영 등 현장 계약 고객을 위한 특별 프로모션이 준비되어 있습니다. 10년 이상의 경력을 가진 전문가가 투명하고 합리적인 비용으로 비교 상담을 도와드리니, 상담을 통해 두 분의 예산과 취향에 맞는 최고의 여행지를 찾아보세요.",
+    "summary_for_search": "12월 12일-13일, 신세계백화점 스타필드하남에서 열리는 허니문페어! 여행 전문가의 1:1 상담과 현장 계약 시 국가별 특별 혜택 및 여행 필수품을 증정합니다. 지금 사전등록하고 알뜰하게 신혼여행을 준비하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "단 2일! 2026 하반기 신혼여행 최대 할인 찬스",
+    "secondary_headline": "허니문 전문가와 함께하는 1:1 투명 견적 비교 상담",
+    "urgency_text": "12월 12일(토) ~ 12월 13일(일) 단 이틀간",
+    "call_to_action_text": "무료 초대권 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "몰튼브라운 바디 트래블 키트",
+      "프리미엄 건강검진권(전국 14곳)",
+      "프리미엄 여행용 캐리어",
+      "여행용 샤워 필터기",
+      "여행용 라면포트",
+      "달바 마스크팩 1BOX"
+    ],
+    "contract_benefits": [
+      "각 나라별 VVIP 업그레이드 혜택",
+      "현장 계약 시 국가별 추가 할인 및 특전 제공"
+    ],
+    "special_events": [
+      "1:1 허니문 전문가 맞춤 상담",
+      "투명한 견적 비교 서비스",
+      "테마별 신혼여행지 큐레이션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "하남시",
+      "sigungu_en": "hanam",
+      "address": "경기 하남시 미사대로 750",
+      "venue": "신세계백화점 스타필드하남점 B1 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일",
+      "허니문지역",
+      "허니문예정일",
+      "방문예정일"
+    ],
+    "gift_conditions": "사전 등록 후 현장 방문 상담 완료 시 증정 (수량 안내 자료에서 확인되지 않으므로 주최 측에 확인 요망)",
+    "trust_indicators": [
+      "10년 이상 경력 전문가 상담",
+      "24시간 한국어 대응 서비스",
+      "허니문 전문 여행사 다수 입점"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "하남 더셜리 허니문페어",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "신세계백화점 스타필드하남점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "미사대로 750",
+          "addressLocality": "경기 하남시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더셜리",
+        "url": "https://ad.cpaad.co.kr/theshirleyweddingH15/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 사전 등록은 필수인가요?",
+        "answer": "사전 등록 시 특별한 선물과 상담 혜택이 제공되므로 가급적 홈페이지를 통해 사전 신청 후 방문하시는 것을 권장합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "신혼여행 전문 여행사들이 참여하여 전 세계 인기 휴양지별 리조트와 패키지 상담을 진행합니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "결혼 예정일과 희망하는 여행지, 대략적인 예산을 미리 상의하고 오시면 훨씬 구체적인 맞춤 상담이 가능합니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 소요되나요?",
+        "answer": "개인별 상담 내용에 따라 다르지만 보통 한 곳당 30분~1시간 정도 소요됩니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것이 있나요?",
+        "answer": "현장 계약 고객에게는 여행지별 리조트 업그레이드, 추가 할인, 단독 특전 등이 제공됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 신혼여행지 선택과 비용 때문에 고민 중인 예비부부를 대상으로 합니다. 특히 어디로 떠날지, 혹은 항공권과 리조트 예약은 어떻게 해야 합리적인지 궁금한 분들께 최적입니다. 1:1 전문가 상담을 통해 자신들의 여행 스타일에 맞는 휴양지 큐레이션을 받고 싶은 커플, 여러 업체의 견적을 투명하게 비교하고 실속 있는 혜택까지 챙기고 싶은 신혼부부라면 이번 페어가 좋은 기회가 될 것입니다.",
+    "exhibitor_highlights": [
+      "허니문 전문 여행사",
+      "리조트 및 항공 예약 업체",
+      "신혼여행지 현지 투어 업체"
+    ],
+    "comparison_hooks": [
+      "10년 경력 전문가의 투명한 1:1 비교 견적 서비스",
+      "현장에서만 제공되는 국가별 VVIP 단독 프로모션",
+      "전문 여행사 비교를 통한 리조트 업그레이드 및 특별 혜택"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "허니문 박람회 방문 후기",
+      "신혼여행 예약 시기",
+      "자유여행 vs 패키지 신혼여행",
+      "신혼여행 비용 절약법",
+      "하와이 신혼여행 견적",
+      "몰디브 리조트 추천",
+      "신혼여행지 인기 순위",
+      "허니문페어 상담 준비물",
+      "결혼 준비 체크리스트",
+      "신혼여행 항공권 예약 팁"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "허니문 준비 체크리스트",
+        "category": "honeymoon_guide"
+      },
+      {
+        "anchor": "웨딩 박람회 일정 모음",
+        "category": "events"
+      }
+    ],
+    "semantic_keywords": [
+      "신혼여행",
+      "허니문",
+      "리조트",
+      "항공권",
+      "패키지",
+      "자유여행",
+      "스냅촬영",
+      "결혼준비",
+      "해외여행",
+      "예비부부"
+    ]
+  },
+  "social_meta": {
+    "og_title": "하남 허니문페어 | 신혼여행 혜택 총집합",
+    "og_description": "12월 12일-13일, 스타필드하남에서 만나는 허니문 프로모션! 상담만 받아도 선물이 쏟아집니다.",
+    "hashtags": [
+      "#허니문페어",
+      "#신혼여행준비",
+      "#하남웨딩박람회",
+      "#스타필드하남",
+      "#신혼여행지추천",
+      "#허니문",
+      "#결혼준비",
+      "#예비부부",
+      "#여행박람회",
+      "#결혼박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/theshirleyweddingH15/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_QEOx6qo5lpJGes9lojt.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_8QisWbxmJ3LVfTPQYmgl8yjVmLe.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_7yQ3I3BV5L4EOMU5.jpg"
+  },
+  "updated_at": "2026-11-18 20:00:52"
+}
