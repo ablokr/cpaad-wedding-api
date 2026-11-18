@@ -1,8 +1,8 @@
 {
   "description": "[배너] ad_mainvisual = 700x300, ad_thumbnail = 320x320, ad_thumbnail2 = 250x100 [지역] 서울 = capital, 경기도 = gyeonggi, 인천 = incheon, \t충청도 = chungcheong, 전라도 = jeolla, 강원도 = gangwon, 경상도 = gyeongsang, 부산 = busan, 제주 = jeju, 기타 = etc [정보] ad_url = 배너 클릭시 링크 URL (예 : //ad.cpaad.co.kr/광고아이디/홍보회원아이디), gather_name = 광고명, ad_info = 홍보문, ad_date = 행사일자, ad_location = 행사장소",
   "api_version": "1.0",
-  "last_updated": "2026-11-18T16:00:03Z",
-  "total_ad_count": 153,
+  "last_updated": "2026-11-18T19:00:03Z",
+  "total_ad_count": 157,
   "advertisements": {
     "iniwedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_2nq9jRAEXVQC3inhBizATFPoq9awws.jpg",
@@ -648,6 +648,20 @@
       "start_date": "2026-11-28",
       "end_date": "2026-11-29"
     },
+    "theshirleywedding13": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_MI9ohTwzl.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_MsFDhJykOjfjmcFNmgPwD79YQXUJlNJX.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_tCPk395Y.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding13/",
+      "region": "gyeonggi",
+      "gather_name": "일산 더셜리 웨딩페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "12월 12일(토) ~ 12월 13일(일)",
+      "ad_location": "경기 고양시 일산서구 호수로 817||(대화동 2602)||현대백화점 (킨텍스점)",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13"
+    },
     "theshirleywedding04": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_kZdrrRg1yqcNM7l1x1s6uFNpazcIT.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_z3qnFmBHWSa.jpg",
@@ -830,6 +844,34 @@
       "start_date": "2026-12-05",
       "end_date": "2026-12-06"
     },
+    "theshirleywedding15": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_s3FevEgFeY3lMLEdo.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_f5UmUotHl.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_RwEBLxoUi5I3NNd3.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleywedding15/",
+      "region": "gyeonggi",
+      "gather_name": "하남 더셜리 웨딩페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "12월 12일(토) ~ 12월 13일(일)",
+      "ad_location": "경기 하남시 미사대로 750||(신장동 616)||신세계백화점 스타필드하남점 B1 특별행사장",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13"
+    },
+    "theshirleyweddingH15": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_QEOx6qo5lpJGes9lojt.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_8QisWbxmJ3LVfTPQYmgl8yjVmLe.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_7yQ3I3BV5L4EOMU5.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleyweddingH15/",
+      "region": "gyeonggi",
+      "gather_name": "하남 더셜리 허니문페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "12월 12일(토) ~ 12월 13일(일)",
+      "ad_location": "경기 하남시 미사대로 750||(신장동 616)||신세계백화점 스타필드하남점 B1 특별행사장",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13"
+    },
     "withyouwedding12": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_eawYW7Vj.jpg",
       "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_tZE8YxGhR4n.jpg",
@@ -871,6 +913,20 @@
       "ad_location": "경기 수원시 영통구 광교중앙로 124||(하동 1017-2)||갤러리아 광교점 8층||LG전자베스트샵 특별전시장",
       "start_date": "2026-11-28",
       "end_date": "2026-11-29"
+    },
+    "theshirleyweddingH13": {
+      "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_oqSTGpFp.jpg",
+      "ad_thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_mMzmpmDzXu6TfintUHN.jpg",
+      "ad_thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_qXXITx9vZ6G7Px4qYUjZBDmEy6v.jpg",
+      "ad_url": "https://ad.cpaad.co.kr/theshirleyweddingH13/",
+      "region": "gyeonggi",
+      "gather_name": "일산 더셜리 허니문페어",
+      "ad_info": "나만의 맞춤형 웨딩 VIP 신랑, 신부님의 선택",
+      "ad_year": "2026",
+      "ad_date": "12월 12일(토) ~ 12월 13일(일)",
+      "ad_location": "경기 고양시 일산서구 호수로 817||(대화동 2602)||현대백화점 (킨텍스점)",
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13"
     },
     "wncowedding05": {
       "ad_mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_peAk7krRTYN9uKO3cYQVdTtQ3Lc3.jpg",
