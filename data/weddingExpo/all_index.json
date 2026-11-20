@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 160,
+    "total_count": 162,
     "region_count": 16,
     "district_count": 50,
-    "updated_at": "2026-11-20 14:01:15"
+    "updated_at": "2026-11-20 20:01:00"
   },
   "items": [
     {
@@ -20,6 +20,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1143,
       "campaign_id": "charlesWedBusan01",
       "gather_name": "부산 찰스 웨딩박람회",
       "display_date": "11월 28일(토) ~ 11월 29일(일)",
@@ -28,7 +29,8 @@
       "sigungu": "부산진구",
       "region_en": "busan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202302/ae1089f23c95805595f92637f5c9f8f0_gCVigwOBo1erfu54IqKL6dPDf.jpg",
-      "updated_at": "2026-11-20 14:00:48"
+      "updated_at": "2026-11-20 14:00:48",
+      "revenue": 30000
     },
     {
       "idx": 1221,
@@ -273,13 +275,13 @@
       "idx": 1283,
       "campaign_id": "hannawedding01",
       "gather_name": "한나 웨딩박람회",
-      "display_date": "11월 21일(토) 단 하루!",
+      "display_date": "12월 19일(토) 단 하루!",
       "venue": "한나웨딩",
       "sido": "서울",
       "sigungu": "강남구",
       "region_en": "seoul",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202610/568762912459e51e2cbac9155f241418_ulUWmUP4aYEPLovjD.jpg",
-      "updated_at": "2026-10-23 20:01:37",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_QTPRvEyptC1n1e.jpg",
+      "updated_at": "2026-11-20 20:00:19",
       "revenue": 30000
     },
     {
@@ -1812,8 +1814,8 @@
       "sido": "대구",
       "sigungu": "수성구",
       "region_en": "daegu",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_yNEgsZNG2plzQ2ras.jpg",
-      "updated_at": "2026-11-16 20:08:16",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_qachYKEaUUbkgjrrYUZ5F7.jpg",
+      "updated_at": "2026-11-20 20:00:47",
       "revenue": 30000
     },
     {
@@ -2012,6 +2014,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1906,
       "campaign_id": "theshirleyweddingH15",
       "gather_name": "하남 더셜리 허니문페어",
       "display_date": "12월 12일(토) ~ 12월 13일(일)",
@@ -2020,7 +2023,8 @@
       "sigungu": "하남시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_8QisWbxmJ3LVfTPQYmgl8yjVmLe.jpg",
-      "updated_at": "2026-11-18 20:00:52"
+      "updated_at": "2026-11-18 20:00:52",
+      "revenue": 30000
     },
     {
       "idx": 1886,
@@ -2049,6 +2053,7 @@
       "revenue": 50000
     },
     {
+      "idx": 1589,
       "campaign_id": "wedingcrowd76",
       "gather_name": "안산 웨딩크라우드 웨딩박람회",
       "display_date": "12월 05일(토) ~ 12월 06일(일)",
@@ -2057,7 +2062,8 @@
       "sigungu": "안산시",
       "region_en": "gyeonggi",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_rCOYrNK8gbBQRZ2ld.jpg",
-      "updated_at": "2026-11-19 20:00:42"
+      "updated_at": "2026-11-19 20:00:42",
+      "revenue": 30000
     },
     {
       "idx": 1896,
@@ -2084,6 +2090,30 @@
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_WL4Y1EHma2UFGzHCiwQFixEbZojYCs.jpg",
       "updated_at": "2026-11-19 20:01:12",
       "revenue": 30000
+    },
+    {
+      "idx": 1384,
+      "campaign_id": "wwedding10",
+      "gather_name": "울산 W웨딩박람회",
+      "display_date": "11월 28일(토) ~ 11월 29일(일)",
+      "venue": "W웨딩 울산지사",
+      "sido": "울산",
+      "sigungu": "남구",
+      "region_en": "ulsan",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_9Pds4AeibpEQ.png",
+      "updated_at": "2026-11-20 20:00:33",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "yeonwedding02",
+      "gather_name": "대구연웨딩 웨딩박람회",
+      "display_date": "01월 09일(토) ~ 01월 10일(일)",
+      "venue": "인터불고엑스코",
+      "sido": "대구",
+      "sigungu": "북구",
+      "region_en": "daegu",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_mLzmLSQejadYKp9cu.jpg",
+      "updated_at": "2026-11-20 20:01:00"
     }
   ]
 }

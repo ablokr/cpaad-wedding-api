@@ -402,5 +402,212 @@
     },
     "updated_at": "2026-11-16 20:08:02",
     "revenue": 30000
+  },
+  {
+    "idx": 1384,
+    "campaign_id": "wwedding10",
+    "gather_name": "울산 W웨딩박람회",
+    "organizer_name": "더리본 주식회사",
+    "seo_metadata": {
+      "title": "울산 W웨딩박람회 | 울산·경주 웨딩홀부터 스드메 최대 혜택",
+      "meta_description": "11월 28일~29일 개최, 울산 W웨딩박람회. 울산·경주 지역 최대 규모 웨딩홀 비교와 스드메 패키지 특가 혜택을 사전등록하고 확인하세요.",
+      "keywords": [
+        "울산웨딩박람회",
+        "울산결혼준비",
+        "울산웨딩홀",
+        "W웨딩",
+        "울산스드메",
+        "경주웨딩박람회",
+        "울산예식장",
+        "울산결혼박람회",
+        "결혼준비체크리스트",
+        "울산혼수"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부님, 복잡한 결혼 준비를 한곳에서 효율적으로 해결하고 싶으신가요? 11월 28일부터 29일까지 진행되는 울산 W웨딩박람회는 울산과 경주 지역의 인기 웨딩홀부터 스드메 패키지까지 한눈에 비교할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회에서는 현장 상담을 통해 다양한 웨딩 업체의 혜택을 직접 확인하실 수 있습니다. D102 예물 15% 할인, 해리슨테일러 맞춤 혜택, 봄날애한복 혼주 혜택 등 각 분야별 전문 브랜드의 특전이 마련되어 있습니다. 또한 가전·가구 구매 시 제공되는 추가 할인과 허니문 여행사별 특별 사은품까지 풍성하게 준비되어 있으니, 현장에서 상담받고 예비부부님에게 딱 맞는 혜택을 꼭 챙기시길 바랍니다.",
+      "summary_for_search": "11월 28일~29일, 울산 W웨딩 울산지사에서 개최되는 울산 W웨딩박람회. 웨딩홀, 스드메, 혼수, 예물 등 결혼 준비 전반에 걸친 최대 혜택과 상담 기회를 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "울산·경주 최대 규모, W웨딩박람회에서 준비하는 완벽한 결혼",
+      "secondary_headline": "20년 차 국내 웨딩 기업이 제안하는 신뢰할 수 있는 1:1 맞춤형 웨딩 플랜",
+      "urgency_text": "사전등록 시 웨딩 전문 플래너와 1:1 매칭 지원",
+      "call_to_action_text": "온라인 사전등록하고 혜택 확인하기"
+    },
+    "benefits": {
+      "visit_gifts": [],
+      "contract_benefits": [
+        "D102 예물 15% 할인 및 커플링 14K 증정",
+        "해리슨테일러 맞춤 정장 할인",
+        "봄날애한복 혼주 및 촬영 혜택",
+        "LG 가전 구매 시 특별 할인 및 혜택",
+        "허니문 여행사별 전용 혜택 제공"
+      ],
+      "special_events": [
+        "스드메 전문 플래너 1:1 매칭",
+        "부산·경남 인기 스튜디오 스타일링 전시",
+        "웨딩 드레스 특별전"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-11-28",
+        "end_date": "2026-11-29",
+        "display_date": "11월 28일(토) ~ 11월 29일(일)",
+        "original_display_date": "11월 28일(토) ~ 11월 29일(일)"
+      },
+      "location": {
+        "sido": "울산",
+        "sido_en": "ulsan",
+        "sigungu": "남구",
+        "sigungu_en": "nam",
+        "address": "울산 남구 월평로203번길 5 2층",
+        "venue": "W웨딩 울산지사",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeongsang"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전등록 후 현장 방문 및 전문 플래너 상담 시 혜택 적용",
+      "trust_indicators": [
+        "20년 차 국내 웨딩 기업",
+        "울산·경주 최대 규모 및 최다 업체 입점",
+        "1:1 웨딩 플래너 맞춤 상담 시스템"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "울산 W웨딩박람회",
+        "startDate": "2026-11-28",
+        "endDate": "2026-11-29",
+        "location": {
+          "@type": "Place",
+          "name": "W웨딩 울산지사",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "울산 남구"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "organizer": {
+          "@type": "Organization",
+          "name": "더리본 주식회사",
+          "url": "https://ad.cpaad.co.kr/wwedding10/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전등록은 필수인가요?",
+          "answer": "원활한 1:1 상담과 다양한 혜택 안내를 위해 온라인 사전등록을 권장합니다."
+        },
+        {
+          "question": "스드메 상담은 어떻게 진행되나요?",
+          "answer": "전문 웨딩 플래너가 배치되어 두 분의 예산과 취향에 맞춘 패키지를 1:1로 제안해 드립니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스튜디오, 드레스, 예물, 예복, 한복, 허니문, 가전 및 가구 등 결혼 준비 필수 업체들이 다수 참여합니다."
+        },
+        {
+          "question": "현장 계약 혜택이 따로 있나요?",
+          "answer": "상담 시 확인 가능한 각 업체별 계약 할인 및 사은품이 준비되어 있으며, 상세 조건은 상담 시 안내해 드립니다."
+        },
+        {
+          "question": "주차 및 방문 예약 방법은 무엇인가요?",
+          "answer": "사전등록을 완료하시면 안내 문자를 통해 자세한 방문 절차를 확인하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼식을 앞두고 웨딩홀 예약부터 스드메 패키지 구성까지, 무엇부터 시작할지 막막한 울산 및 경주 지역의 예비부부를 대상으로 합니다. 합리적인 가격으로 신뢰할 수 있는 업체와 계약하고 싶은 커플, 전문 플래너의 조언이 필요한 분들에게 적합합니다. 웨딩 준비 기간이 6개월 이내로 촉박하거나, 여러 업체를 발품 팔아 비교할 시간이 부족한 실속파 커플들에게 최적화된 행사입니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 컨벤션",
+        "인기 스튜디오 업체",
+        "웨딩 드레스샵",
+        "예물 브랜드",
+        "맞춤 정장 브랜드",
+        "한복 전문점",
+        "허니문 여행사",
+        "혼수 가전/가구"
+      ],
+      "comparison_hooks": [
+        "울산·경주 지역 최대 규모의 다양한 협력사 확보",
+        "20년 경력의 웨딩 기업이 운영하는 검증된 전문 상담",
+        "스드메 패키지부터 혼수까지 한자리에서 원스톱 상담 가능"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "울산 웨딩박람회 일정",
+        "울산 웨딩홀 추천",
+        "결혼 준비 체크리스트",
+        "스드메 비용 비교",
+        "울산 예물 잘하는 곳",
+        "울산 맞춤 정장",
+        "허니문 박람회",
+        "결혼 준비 비용 절약",
+        "웨딩 박람회 상담 질문",
+        "울산 웨딩플래너 추천"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "울산 웨딩홀 리스트",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 구성",
+          "category": "wedding_package"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "예식장",
+        "예물",
+        "예복",
+        "혼수",
+        "신혼여행",
+        "결혼 준비",
+        "웨딩드레스",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "울산 W웨딩박람회, 결혼 준비의 시작!",
+      "og_description": "울산·경주 최대 혜택! 지금 사전등록하고 전문 플래너와 함께 완벽한 웨딩 플랜을 세워보세요.",
+      "hashtags": [
+        "#울산웨딩박람회",
+        "#울산결혼준비",
+        "#W웨딩",
+        "#울산웨딩홀",
+        "#울산스드메",
+        "#결혼준비",
+        "#예비부부",
+        "#울산예식장",
+        "#경주웨딩박람회",
+        "#웨딩박람회일정"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wwedding10/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_8BLGRbUHUhviM4ZY.png",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_9Pds4AeibpEQ.png",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202404/2337ea9ac0ebeb271ae4fe609b8d7149_y3iCoyvuXtiCJ.png"
+    },
+    "updated_at": "2026-11-20 20:00:33",
+    "revenue": 30000
   }
 ]
