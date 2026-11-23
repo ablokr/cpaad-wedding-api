@@ -1,0 +1,211 @@
+{
+  "idx": 1497,
+  "campaign_id": "planon46",
+  "gather_name": "서울 신혼여행 박람회",
+  "organizer_name": "주식회사 플랜온웨딩",
+  "seo_metadata": {
+    "title": "서울 신혼여행 박람회 | 예비부부 맞춤 허니문 특가 및 스드메 혜택",
+    "meta_description": "12월 12일~13일 개최! 서울 강남 섬유센터에서 열리는 신혼여행 박람회. 유럽, 발리, 몰디브 등 인기 허니문 특전과 스드메 패키지 최대 할인 혜택을 지금 바로 확인하고 무료 초대장을 신청하세요.",
+    "keywords": [
+      "서울 웨딩박람회",
+      "신혼여행 박람회",
+      "결혼준비",
+      "허니문 패키지",
+      "스드메 견적",
+      "웨딩홀 상담",
+      "혼수 가전 할인",
+      "강남 웨딩박람회",
+      "예비부부 혜택",
+      "결혼 준비 비용"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설렘과 신혼여행의 낭만을 한곳에서 완성하세요. 이번 서울 신혼여행 박람회는 예비부부의 고민을 덜어줄 최적의 스드메 패키지와 전 세계 인기 허니문 지역의 단독 특전을 모두 담았습니다.",
+    "benefits_description": "이번 박람회에서는 현장 상담 고객을 위한 허니문 여행권 증정부터, 계약 시 최대 80만 포인트 제공 및 웨딩드레스 무료 피팅 체험까지 풍성한 혜택을 준비했습니다. 혼수 가전 최대 30% 할인과 예물/예복 패키지 계약 시 증정되는 특별 사은품 등 실질적인 비용 절감의 기회를 놓치지 마세요. 전문 플래너와의 1:1 상담을 통해 복잡한 결혼 준비를 투명하고 합리적으로 해결해 드립니다.",
+    "summary_for_search": "12월 12일부터 13일까지 서울 섬유센터에서 개최되는 서울 신혼여행 박람회. 스드메 패키지 할인부터 전 세계 허니문 특전, 혼수 가전 혜택까지 예비부부를 위한 원스톱 솔루션을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "지금 신청하면 허니문 여행권 증정 & 스드메 최대 80만 포인트 지원!",
+    "secondary_headline": "전 세계 인기 신혼여행지 단독 특가부터 혼수 가전 30% 할인까지, 2026년 예비부부를 위한 단 하나의 기회",
+    "urgency_text": "선착순 방문객 대상 특별 사은품 증정 및 한정 기간 혜택 제공",
+    "call_to_action_text": "지금 무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 특별 사은품 증정",
+      "전문 웨딩 플래너 1:1 맞춤 상담"
+    ],
+    "contract_benefits": [
+      "허니문 계약 시 여행권 및 단독 특전 제공",
+      "계약자 대상 최대 80만 포인트 지급",
+      "혼수 가전 최대 30% 할인",
+      "예물·예복 계약 시 특별 사은품 증정",
+      "에스테틱 관리 프로그램 할인"
+    ],
+    "special_events": [
+      "웨딩드레스 무료 피팅 체험",
+      "전 세계 인기 허니문 지역별 박람회 특별전",
+      "최신 웨딩 트렌드 및 예식장 큐레이션"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 테헤란로 518",
+      "venue": "섬유센터 2층",
+      "parking_info": "섬유센터 주차장 이용 가능 (상세 안내는 안내 데스크 확인)",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 시 증정 (선착순 수량 소진 시 조기 마감)",
+    "trust_indicators": [
+      "누적 방문객 10만 명 돌파",
+      "국내 최대 허니문 여행사 참여",
+      "1:1 전문 플래너 상담 보장",
+      "정찰제 기반 투명한 스드메 비용"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "서울 신혼여행 박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "eventStatus": "https://schema.org/EventScheduled",
+      "location": {
+        "@type": "Place",
+        "name": "섬유센터 2층",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "테헤란로 518",
+          "addressLocality": "서울 강남구",
+          "addressCountry": "KR"
+        }
+      },
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 플랜온웨딩",
+        "url": "https://ad.cpaad.co.kr/planon46/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "네, 공식 홈페이지를 통해 사전 예약 시 무료로 초대장을 발송해 드립니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "개최 장소인 섬유센터 내 주차 시설을 이용하실 수 있으며, 방문객께는 상담 시간 내 무료 주차를 지원합니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "스드메 패키지, 허니문 여행사, 예물, 예복, 혼수 가전 등 결혼 준비에 필요한 전 분야의 검증된 업체가 참여합니다."
+      },
+      {
+        "question": "방문하면 무엇을 받을 수 있나요?",
+        "answer": "현장 방문객 대상 특별 사은품을 증정하며, 상담 및 계약 진행 시 허니문 특전과 최대 80만 포인트 혜택을 드립니다."
+      },
+      {
+        "question": "상담 시간은 얼마나 소요되나요?",
+        "answer": "평균적으로 1시간 내외로 진행되며, 전문 플래너가 맞춤형 정보를 체계적으로 안내해 드립니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "본 박람회는 결혼 준비를 막 시작한 예비부부부터 효율적인 예산 계획을 세우는 신혼부부까지 모두를 대상으로 합니다. 막막한 스드메 업체 선정, 허니문 지역 고민, 혼수 가전 비교 등 결혼 과정의 모든 궁금증을 해결하고 싶으신 분들에게 적합합니다. 전문가의 도움을 통해 시간은 아끼고 혜택은 극대화하고 싶은 예비부부에게 최선의 선택지입니다.",
+    "exhibitor_highlights": [
+      "프리미엄 웨딩 드레스샵",
+      "스드메 토털 패키지 업체",
+      "전 세계 허니문 전문 여행사",
+      "예물·예복 명품 브랜드",
+      "혼수 가전 전문관"
+    ],
+    "comparison_hooks": [
+      "국내 최대 규모의 허니문 지역별 단독 특전 보유",
+      "현장 즉시 계약 시 최대 80만 포인트 페이백 보장",
+      "웨딩 전문가 1:1 밀착 관리를 통한 투명한 가격 서비스"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "결혼준비 체크리스트",
+      "스드메 평균 비용",
+      "허니문 여행지 추천",
+      "웨딩홀 투어 팁",
+      "결혼 박람회 예약 시 혜택",
+      "혼수가전 구매 시기",
+      "예물 예복 맞춤 후기",
+      "결혼식 예산 세우기",
+      "신혼여행 패키지 vs 자유여행"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정 확인",
+        "category": "events_list"
+      },
+      {
+        "anchor": "허니문 패키지 상세 보기",
+        "category": "honeymoon"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "허니문",
+      "신혼가전",
+      "예복",
+      "결혼식",
+      "웨딩플래너"
+    ]
+  },
+  "social_meta": {
+    "og_title": "서울 신혼여행 박람회 | 무료 초대장 신청",
+    "og_description": "예비부부를 위한 허니문 특전과 스드메 80만 포인트 혜택! 지금 신청하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#신혼여행박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#허니문",
+      "#결혼준비시작",
+      "#신혼여행지",
+      "#웨딩플래너"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/planon46/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_9LMt8nKOIPZqsKjG8qE2hWq.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_GrRrPl6WiMHdVs3QRjYvFxklSuLR.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202504/a0306c07cfce0aa955cf39a185c2ff26_fKnG7bSD35SfmbBgmXiw.jpg"
+  },
+  "updated_at": "2026-11-23 13:02:47",
+  "revenue": 40000
+}
