@@ -1,0 +1,205 @@
+{
+  "idx": 1536,
+  "campaign_id": "wncowedding01",
+  "gather_name": "청주웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "청주웨딩박람회 | 리움웨딩컨벤션 개최, 계약 및 방문 혜택 총정리",
+    "meta_description": "2026년 12월 12일~13일 개최되는 청주웨딩박람회 정보입니다. 리움웨딩컨벤션에서 진행되며, 방문 상담 시 선물 증정 및 스드메 계약 할인 등 실질적인 결혼 준비 혜택을 확인해보세요.",
+    "keywords": [
+      "청주웨딩박람회",
+      "리움웨딩컨벤션",
+      "청주결혼준비",
+      "청주스드메",
+      "충북웨딩박람회",
+      "웨딩박람회일정",
+      "결혼준비꿀팁",
+      "청주웨딩홀",
+      "스드메패키지",
+      "예물예복상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "이번 청주웨딩박람회 참가를 고민 중이시라면 아래 정보를 참고해보세요. 2026년 12월 12일부터 이틀간 리움웨딩컨벤션에서 진행되는 이번 박람회는 예비부부들에게 실질적인 도움을 줄 수 있는 다양한 브랜드가 참여합니다.",
+    "benefits_description": "박람회 현장 방문 시 상담만 받아도 선물을 증정하며, 계약 체결 시에는 식대 할인부터 웨딩 드레스 무료 피팅, 보정 사진 원본 제공 등 다채로운 특전이 기다리고 있습니다. 삼성 AI 가전 구독 혜택과 더불어 예물, 예복, 한복 등 혼수 준비 과정에서 누릴 수 있는 할인 혜택도 풍성합니다. 합리적인 결혼 준비를 원하신다면 이번 기회에 전문가와의 1:1 상담을 통해 나만의 웨딩 패키지를 구성해보시길 권장합니다.",
+    "summary_for_search": "2026년 12월 12일부터 13일까지 리움웨딩컨벤션에서 개최되는 청주웨딩박람회입니다. 방문 및 계약 시 드레스 피팅, 혼수 할인, 가전 구독 특전 등 예비부부를 위한 다양한 혜택을 제공합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "청주 그랜드 웨딩페어, 최대 규모의 결혼 준비 혜택",
+    "secondary_headline": "스드메부터 혼수까지, 예비부부를 위한 합리적인 웨딩 페어",
+    "urgency_text": "이번 주말까지만 진행되는 특별 한정 혜택을 놓치지 마세요.",
+    "call_to_action_text": "지금 무료 사전등록 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 상담 시 데일리 토스트기 증정",
+      "상담 고객 대상 100% 당첨 경품 이벤트"
+    ],
+    "contract_benefits": [
+      "웨딩홀 식대 및 대관료 할인",
+      "스드메 계약 시 최고급 웨딩패키지 할인",
+      "웨딩 드레스 무료 피팅권",
+      "보정 사진 원본 무료",
+      "한복/예물/맞춤정장 계약 특별 할인"
+    ],
+    "special_events": [
+      "삼성 AI 구독 페스티벌",
+      "스몰/하우스 웨딩 상담존 운영",
+      "허니문 여행지 특전 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 서원구 남이면 남이가좌1길 195 3동 1층",
+      "venue": "리움웨딩컨벤션",
+      "parking_info": "행사장 내 전용 주차장 완비 (방문 전 약도 확인 권장)",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 상담 완료 후 증정되며, 선착순 한정 수량으로 소진 시 마감될 수 있습니다.",
+    "trust_indicators": [
+      "검증된 우수 웨딩 업체 대거 참여",
+      "1:1 맞춤형 웨딩 컨설팅",
+      "투명한 웨딩 패키지 견적 공개"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "청주웨딩박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "리움웨딩컨벤션",
+        "address": "충북 청주시"
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding01/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "청주웨딩박람회는 사전등록 시 무료로 입장 및 상담이 가능합니다."
+      },
+      {
+        "question": "방문 상담만 받아도 선물을 주나요?",
+        "answer": "네, 현장 상담 고객을 대상으로 데일리 토스트기 등 다양한 사은품을 선착순으로 증정하고 있습니다."
+      },
+      {
+        "question": "스드메 계약 시 어떤 혜택이 있나요?",
+        "answer": "웨딩패키지 할인, 드레스 무료 피팅권, 보정 사진 원본 제공 등 다양한 계약 특전이 마련되어 있습니다."
+      },
+      {
+        "question": "박람회에서 혼수 준비도 가능한가요?",
+        "answer": "네, 한복, 예물, 예복, 허니문, 가전 등 결혼 준비에 필요한 전반적인 업체가 입점하여 한자리에서 비교 상담이 가능합니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "공식 페이지의 신청 양식에 이름과 연락처, 예식 예정일을 입력하시면 간편하게 사전등록이 완료됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용과 구성 비교에 어려움을 겪는 커플들을 위해 기획되었습니다. 특히 합리적인 예산으로 퀄리티 높은 웨딩을 준비하고자 하는 6개월 이내 예식 예정자들에게 적합합니다. 웨딩홀 섭외부터 혼수가전, 신혼여행까지 결혼 준비의 시작부터 끝까지 전문가의 1:1 상담을 통해 효율적인 동선을 확인하고 싶으신 분들께 추천합니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 컨벤션 업체",
+      "스드메 웨딩 패키지 스튜디오",
+      "명품 예물 및 맞춤 정장 브랜드",
+      "허니문 전문 여행사",
+      "한복 대여 및 맞춤 브랜드"
+    ],
+    "comparison_hooks": [
+      "현장 계약 시 즉시 할인 및 사은품 증정",
+      "청주 지역 최다 웨딩 브랜드 입점 및 1:1 비교",
+      "플래너와의 프라이빗한 맞춤형 상담 서비스 제공"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "청주 웨딩홀 추천",
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "결혼 준비 체크리스트",
+      "박람회 계약 후기",
+      "예물 예복 박람회 혜택",
+      "허니문 패키지 비용",
+      "청주 리움웨딩컨벤션 가격",
+      "웨딩드레스 피팅 팁",
+      "신혼가전 구매 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "충북 결혼 준비 가이드",
+        "category": "wedding_guide"
+      },
+      {
+        "anchor": "청주 지역 웨딩홀 리스트",
+        "category": "venue_info"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "웨딩드레스",
+      "혼수가전",
+      "신혼여행",
+      "맞춤정장",
+      "웨딩컨설팅",
+      "예물"
+    ]
+  },
+  "social_meta": {
+    "og_title": "청주웨딩박람회, 결혼 준비 혜택 한눈에 보기",
+    "og_description": "12월 청주 리움웨딩컨벤션 개최! 상담만 받아도 선물 증정, 스드메 특가 혜택을 지금 확인하세요.",
+    "hashtags": [
+      "#청주웨딩박람회",
+      "#청주결혼준비",
+      "#청주웨딩홀",
+      "#청주스드메",
+      "#예비부부",
+      "#결혼준비",
+      "#웨딩박람회",
+      "#리움웨딩컨벤션",
+      "#웨딩페어",
+      "#스드메추천"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding01/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_UsHgHXrJe9gnB7tQbjr1cxymKVDppFA.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_Pd17d89QZFwtGm2ihtXGdry6IQGc7yF3.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202506/892ab487ea3d4bc46f77994e7078533a_cO712pRmk9wdoGh.jpg"
+  },
+  "updated_at": "2026-11-23 19:35:55",
+  "revenue": 30000
+}
