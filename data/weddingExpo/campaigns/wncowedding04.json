@@ -1,0 +1,206 @@
+{
+  "campaign_id": "wncowedding04",
+  "gather_name": "원주 웨딩박람회",
+  "organizer_name": "더블유앤코",
+  "seo_metadata": {
+    "title": "원주 웨딩박람회 | AK플라자 원주 상담 혜택 및 스드메 정보",
+    "meta_description": "2026년 12월 5일~6일, AK플라자 원주에서 열리는 원주 웨딩박람회. 스드메 패키지, 웨딩홀, 예물, 한복 등 결혼 준비 필수 정보를 한자리에서 확인하고 상담 혜택을 챙겨보세요.",
+    "keywords": [
+      "원주웨딩박람회",
+      "강원도결혼준비",
+      "원주스드메",
+      "원주웨딩홀",
+      "원주예물",
+      "원주한복",
+      "원주맞춤정장",
+      "결혼준비체크리스트",
+      "AK플라자원주웨딩",
+      "2026결혼준비"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 12월 5일부터 6일까지 AK플라자 원주에서 개최되는 이번 웨딩박람회는 웨딩홀부터 스드메, 혼수까지 결혼 준비 전 과정을 한자리에서 비교하고 합리적으로 결정할 수 있는 기회입니다.",
+    "benefits_description": "이번 박람회에서는 방문만 하셔도 드리는 실용적인 선물부터 현장 계약 시 제공되는 특별한 혜택까지 다채롭게 준비되어 있습니다. 특히 스드메 계약 시 본식 원본 무료, 드레스 무료 피팅 등 실질적인 혜택을 누릴 수 있으며, 예물·한복·맞춤정장 등 혼수 브랜드별로 마련된 현장 특전도 놓치지 마세요. 각 항목별 구체적인 할인율과 추가 혜택은 현장에서 전문가와 1:1 상담을 통해 확인하시고 두 분의 예산에 딱 맞는 알뜰한 결혼 준비를 시작해 보세요.",
+    "summary_for_search": "12월 5일~6일, AK플라자 원주에서 원주 웨딩박람회가 열립니다. 스드메 패키지, 웨딩홀, 혼수 상담 및 계약 혜택을 확인하고 무료 상담 신청으로 결혼 준비를 알뜰하게 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 시작, AK플라자 원주 웨딩박람회에서 준비하세요",
+    "secondary_headline": "스드메부터 예물, 허니문까지 한자리에서 비교하고 실속 있는 계약 혜택을 확인하세요.",
+    "urgency_text": "12월 5일~6일 단 이틀간 진행되는 특별한 웨딩 페스티벌",
+    "call_to_action_text": "무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 실용적인 데일리 토스터기 증정",
+      "방문객 전원 대상 100% 경품 지급"
+    ],
+    "contract_benefits": [
+      "스드메 계약 시 본식 원본 무료 제공",
+      "드레스 무료 피팅 체험",
+      "계약 항목별 가전 및 생활용품 혜택 증정",
+      "허니문 예약 시 다양한 현장 특전 및 할인"
+    ],
+    "special_events": [
+      "스몰/하우스 웨딩 상담",
+      "웨딩홀 큐레이션 및 대관료 할인 상담",
+      "혼수(예물, 한복, 정장) 브랜드별 현장 특전 제공"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "원주시",
+      "sigungu_en": "wonju",
+      "address": "강원특별자치도 원주시 봉화로 1",
+      "venue": "AK플라자 원주 6층 특별행사장",
+      "parking_info": "상담 시 주차 관련 안내는 주최 측에 확인 바랍니다.",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "성함",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "박람회 현장 방문 및 상담 완료 후 제공되며, 구체적인 수령 방법은 상담 시 안내됩니다.",
+    "trust_indicators": [
+      "AK플라자 원주에서 개최되는 검증된 박람회",
+      "스드메·웨딩홀·혼수 전문 업체 대거 입점",
+      "1:1 맞춤형 웨딩 전문가 상담"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "원주 웨딩박람회",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "location": {
+        "@type": "Place",
+        "name": "AK플라자 원주 6층 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "원주시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "더블유앤코",
+        "url": "https://ad.cpaad.co.kr/wncowedding04/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 방문은 무료인가요?",
+        "answer": "네, 사전 신청을 통해 누구나 무료로 입장하여 상담받으실 수 있습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스튜디오, 드레스, 메이크업(스드메)을 비롯하여 허니문, 예물, 한복, 맞춤정장 등 결혼 준비 필수 업체들이 다양하게 참여합니다."
+      },
+      {
+        "question": "계약 혜택은 무엇이 있나요?",
+        "answer": "스드메 계약 시 본식 원본 무료, 드레스 무료 피팅권 등을 포함하며 각 혼수 업체별로 별도의 할인 및 증정 혜택이 마련되어 있습니다."
+      },
+      {
+        "question": "상담 시 준비해야 할 것이 있나요?",
+        "answer": "결혼 예정일과 대략적인 예산 범위를 생각해 오시면 보다 구체적인 상담이 가능합니다."
+      },
+      {
+        "question": "상담 후 반드시 계약해야 하나요?",
+        "answer": "아니요, 박람회는 정보를 비교하고 상담받는 자리이므로 자유롭게 둘러보신 후 결정하셔도 됩니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼 준비를 처음 시작하여 어디서부터 어떻게 알아봐야 할지 막막한 예비부부, 원주 지역에서 웨딩홀을 찾고 있는 커플, 스드메 패키지 가격을 비교하여 합리적인 선택을 하고 싶은 신혼부부, 바쁜 일정 중 혼수(예물, 한복, 정장)와 신혼여행까지 한 번에 효율적으로 해결하고 싶은 모든 분들이 방문 대상입니다. 결혼 준비의 전체 흐름을 파악하고 전문가의 1:1 컨설팅이 필요한 커플에게 최적화된 박람회입니다.",
+    "exhibitor_highlights": [
+      "웨딩홀 추천 및 대관료 할인 업체",
+      "스드메(스튜디오·드레스·메이크업) 패키지",
+      "허니문 여행사",
+      "예물 브랜드",
+      "한복 대여 및 맞춤 전문점",
+      "맞춤정장 및 예복 브랜드"
+    ],
+    "comparison_hooks": [
+      "원주 지역 결혼 준비 필수 항목을 한자리에서 비교 가능",
+      "상담만 받아도 제공되는 실속 있는 방문 선물",
+      "박람회 현장에서만 만날 수 있는 계약 특별 할인 및 특전"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "원주 웨딩박람회 일정",
+      "결혼 준비 순서",
+      "스드메 비용 비교",
+      "원주 웨딩홀 추천",
+      "웨딩박람회 방문 혜택",
+      "결혼 예물 고르는 법",
+      "맞춤 정장 가격대",
+      "신혼여행 패키지 추천",
+      "스몰웨딩 준비하기",
+      "박람회 계약 주의사항"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "원주 웨딩홀 리스트",
+        "category": "wedding_hall"
+      },
+      {
+        "anchor": "스드메 견적 비교",
+        "category": "sdm_package"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "웨딩홀",
+      "혼수",
+      "예물",
+      "한복",
+      "맞춤정장",
+      "허니문",
+      "결혼준비",
+      "웨딩드레스",
+      "본식스냅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "원주 웨딩박람회 | 12월 5일~6일 상담 혜택",
+    "og_description": "AK플라자 원주에서 만나는 실속 있는 결혼 준비. 방문 선물부터 계약 특전까지 모두 확인하세요!",
+    "hashtags": [
+      "#원주웨딩박람회",
+      "#원주결혼준비",
+      "#원주스드메",
+      "#원주웨딩홀",
+      "#강원도웨딩",
+      "#결혼준비시작",
+      "#신혼부부",
+      "#웨딩박람회혜택",
+      "#예비부부",
+      "#결혼준비체크리스트"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wncowedding04/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_BgAXbRSKqqYGsC.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_t6z57iBAfF8uY6nazzXdEPupIWSQoO.jpg"
+  },
+  "updated_at": "2026-11-23 20:06:27"
+}

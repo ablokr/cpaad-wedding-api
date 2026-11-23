@@ -1,0 +1,202 @@
+{
+  "campaign_id": "wedingcrowd02",
+  "gather_name": "춘천 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "춘천 웨딩크라우드 웨딩박람회 | 미래컨벤션센타 무료 초대권",
+    "meta_description": "12월 춘천 웨딩박람회 개최! 미래컨벤션센타에서 만나는 스드메, 허니문, 예물 최신 트렌드. 사전 등록 시 100% 증정 선물과 풍성한 계약 혜택을 지금 확인하세요.",
+    "keywords": [
+      "춘천웨딩박람회",
+      "강원도결혼준비",
+      "미래컨벤션센타",
+      "춘천스드메",
+      "춘천웨딩홀",
+      "춘천혼수",
+      "결혼준비체크리스트",
+      "웨딩박람회사전등록",
+      "춘천신혼여행",
+      "웨딩박람회혜택"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면, 춘천에서 열리는 웨딩크라우드 웨딩박람회에서 그 답을 찾아보세요. 스드메부터 혼수, 예물까지 한자리에서 비교하고 전문가의 조언을 통해 합리적인 결혼 준비를 도와드립니다.",
+    "benefits_description": "이번 박람회에서는 방문만 해도 100% 제공되는 선물과 함께, 상담 및 계약 시 받을 수 있는 다양한 혜택이 준비되어 있습니다. 특히 스드메와 혼수를 계약하시는 예비부부님들께는 감사의 마음을 담은 특별 사은품과 추가 할인 혜택이 적용됩니다. 경품 추첨 이벤트 또한 마련되어 있으니 상담 전 사전 신청을 통해 놓치지 말고 꼭 챙겨가시길 바랍니다. 각 업체별 혜택은 상담 시 상세히 안내받으실 수 있습니다.",
+    "summary_for_search": "12월 5일~6일, 미래컨벤션센타에서 열리는 춘천 웨딩크라우드 웨딩박람회! 방문객 100% 증정 사은품부터 스드메, 혼수 계약 혜택까지. 지금 사전 신청하고 알뜰한 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "춘천 웨딩크라우드 웨딩박람회, 지금 무료 신청하세요!",
+    "secondary_headline": "스드메부터 허니문까지, 춘천에서 만나는 결혼 준비의 모든 것",
+    "urgency_text": "12월 5일~6일 딱 이틀간 진행!",
+    "call_to_action_text": "무료참가신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "참가자 100% 증정 사은품",
+      "방문 상담 시 웨딩다이어리 증정"
+    ],
+    "contract_benefits": [
+      "스드메+혼수 계약 시 에어프라이어 증정",
+      "웨딩 패키지 특가 혜택",
+      "계약 시 최대 20만원 상당 상품권(지점별 확인)",
+      "청첩장 15% 할인권"
+    ],
+    "special_events": [
+      "방문객 경품 이벤트(캐스퍼 당첨 기회)",
+      "가전 제품 추첨 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+    },
+    "location": {
+      "sido": "강원",
+      "sido_en": "gangwon",
+      "sigungu": "춘천시",
+      "sigungu_en": "chuncheon",
+      "address": "강원특별자치도 춘천시 퇴계로 118 미래타워",
+      "venue": "미래컨벤션센타웨딩홀",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gangwon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "관심 분야"
+    ],
+    "gift_conditions": "상담 완료 및 현장 방문 확인 후 제공(상세 조건은 주최 측 안내 확인)",
+    "trust_indicators": [
+      "춘천 지역 대형 웨딩박람회",
+      "전문가 1:1 맞춤 상담",
+      "스드메 토탈 패키지 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "춘천 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "location": {
+        "@type": "Place",
+        "name": "미래컨벤션센타웨딩홀",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "춘천시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가비는 얼마인가요?",
+        "answer": "무료입니다. 다만 온라인 사전 신청을 통해 초대권을 확보하는 것이 원활한 상담을 위해 좋습니다."
+      },
+      {
+        "question": "어떤 업체들이 참여하나요?",
+        "answer": "웨딩홀, 스드메(스튜디오, 드레스, 메이크업), 허니문, 예물, 예복, 혼수가전, 재무설계 등 결혼 준비 전반에 필요한 업체들이 참여합니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 후 상담을 완료하시면 100% 증정 사은품을 받으실 수 있습니다."
+      },
+      {
+        "question": "계약 혜택은 어떤 것들이 있나요?",
+        "answer": "스드메와 혼수 계약 시 에어프라이어 증정 및 청첩장 할인권, 현장 특별 할인 등 다양한 혜택이 제공됩니다."
+      },
+      {
+        "question": "예식 날짜가 정해지지 않았는데 방문해도 되나요?",
+        "answer": "네, 방문하셔서 전문가와 함께 결혼 준비의 전체적인 흐름과 예산 계획을 상담받으실 수 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 시간을 활용해 웨딩홀부터 허니문까지 한 번에 비교하고 싶은 커플, 스드메 비용과 혼수 준비를 합리적으로 해결하고 싶은 신혼부부를 위한 행사입니다. 결혼 준비의 첫걸음을 떼는 커플부터 실속 있는 계약 혜택을 챙기려는 분들까지, 전문가의 맞춤 상담을 통해 본인들에게 딱 맞는 웨딩 플랜을 제안받을 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오/드레스/메이크업) 패키지",
+      "춘천 지역 인기 웨딩홀",
+      "허니문 여행사",
+      "예물 및 명품 주얼리",
+      "맞춤 정장 및 예복",
+      "신혼부부 재무설계"
+    ],
+    "comparison_hooks": [
+      "현장 전문가의 1:1 맞춤형 웨딩 플랜",
+      "박람회 특별가로 제공되는 스드메 패키지",
+      "방문 및 계약 시 100% 증정되는 풍성한 사은품"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "춘천 웨딩홀 추천",
+      "신혼여행지 추천",
+      "결혼준비 순서",
+      "웨딩박람회 혜택",
+      "예물 예복 준비",
+      "신혼가전 비교",
+      "웨딩 촬영 스튜디오",
+      "스몰 웨딩 준비"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "춘천 웨딩박람회 전체 일정",
+        "category": "local_wedding_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "허니문",
+      "결혼준비",
+      "웨딩박람회",
+      "신혼여행",
+      "예물",
+      "예복"
+    ]
+  },
+  "social_meta": {
+    "og_title": "춘천 웨딩크라우드 웨딩박람회",
+    "og_description": "예비부부 필독! 12월 춘천 웨딩박람회 방문하고 다양한 계약 혜택과 경품 기회를 확인하세요.",
+    "hashtags": [
+      "#웨딩박람회",
+      "#춘천웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#춘천웨딩홀",
+      "#신혼여행",
+      "#예비부부",
+      "#결혼박람회",
+      "#웨딩준비",
+      "#미래컨벤션센타"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_5jGiSRv4GYMIP.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_wX8OPX1uP9I.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_FwRUxd3NEfC.jpg"
+  },
+  "updated_at": "2026-11-23 20:06:11"
+}

@@ -1,0 +1,210 @@
+{
+  "idx": 1084,
+  "campaign_id": "wedingcrowd10",
+  "gather_name": "송도컨벤시아 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "송도컨벤시아 웨딩박람회 | 인천 예비부부 필수 결혼 준비 혜택",
+    "meta_description": "인천 송도컨벤시아 웨딩박람회에서 스드메, 웨딩홀, 혼수까지 한 번에 준비하세요. 상담 및 계약 시 증정되는 푸짐한 사은품과 특별 혜택을 놓치지 마세요.",
+    "keywords": [
+      "송도웨딩박람회",
+      "인천웨딩박람회",
+      "송도컨벤시아결혼박람회",
+      "인천결혼준비",
+      "인천스드메",
+      "웨딩패키지할인",
+      "인천웨딩홀추천",
+      "인천예물",
+      "인천혼수",
+      "결혼준비박람회"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부님들을 위해 송도컨벤시아에서 특별한 웨딩박람회가 열립니다. 스드메 패키지부터 허니문, 예물, 혼수까지 복잡한 준비 과정을 한곳에서 해결하고 전문가의 맞춤 컨설팅을 받아보세요.",
+    "benefits_description": "방문만 하셔도 드리는 스타벅스 쿠폰과 웨딩 필수품 사은품을 시작으로, 스드메와 혼수 상담 시 제공되는 특별 선물까지 알찬 혜택이 기다리고 있습니다. 계약 시에는 에어프라이어 등 실속 있는 사은품과 추가 할인 혜택이 적용되어 예산 절감에 도움을 드립니다. 현장에서 제공되는 다양한 브랜드의 혜택을 꼼꼼히 비교하여 두 분만의 합리적인 결혼 준비 계획을 세워보시길 바랍니다.",
+    "summary_for_search": "12월 12일~13일 송도컨벤시아에서 열리는 웨딩박람회! 방문 및 계약 혜택과 스드메 패키지 상담 기회를 놓치지 마세요. 인천 지역 예비부부를 위한 맞춤형 결혼 정보가 가득합니다."
+  },
+  "marketing_hooks": {
+    "primary_headline": "송도컨벤시아 웨딩박람회, 방문만 해도 100% 선물 증정",
+    "secondary_headline": "인천 최대 규모 웨딩 페어에서 스드메부터 예물까지 한 번에 끝내세요",
+    "urgency_text": "12월 12일(토) ~ 12월 13일(일), 주말 2일간 한정",
+    "call_to_action_text": "지금 무료 참가 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 스타벅스 쿠폰 증정",
+      "웨딩 필수품 사은품 1종 증정"
+    ],
+    "contract_benefits": [
+      "스드메+혼수 상담 시 사은품 증정",
+      "스드메+혼수 계약 시 에어프라이어 증정",
+      "웨딩 패키지 특가 69만원부터 제공",
+      "허니문 최대 150만원 할인",
+      "예물/예복/한복 계약 시 특별 사은품 및 할인"
+    ],
+    "special_events": [
+      "웨딩 스타일링 트렌드 컨설팅",
+      "웨딩홀 비교견적 서비스",
+      "맞춤정장 및 한복 특별 이벤트"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "인천",
+      "sido_en": "incheon",
+      "sigungu": "연수구",
+      "sigungu_en": "yeonsu",
+      "address": "인천 연수구 센트럴로 123",
+      "venue": "송도컨벤시아 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "incheon"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 상담 완료 및 계약 조건 충족 시 제공(자세한 내용은 현장에서 안내)",
+    "trust_indicators": [
+      "송도컨벤시아 대규모 웨딩 박람회",
+      "웨딩 스튜디오 브랜드 네트워크 보유",
+      "허니문 전문 상담사 상주",
+      "웨딩홀 비교견적 시스템 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "송도컨벤시아 웨딩박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "송도컨벤시아 특별행사장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "인천광역시 연수구 센트럴로 123",
+          "addressLocality": "인천",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd10/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 입장은 무료인가요?",
+        "answer": "사전 등록을 하시면 무료로 입장이 가능합니다. 신청 폼을 통해 미리 정보를 등록해 주세요."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 시 안내 데스크를 통해 상담 확인 후 수령하실 수 있습니다."
+      },
+      {
+        "question": "상담 시 소요 시간은 어느 정도인가요?",
+        "answer": "개별 상담 항목에 따라 다르지만, 보통 한 업체당 30분~1시간 정도 소요됩니다."
+      },
+      {
+        "question": "웨딩홀 비교견적 서비스란 무엇인가요?",
+        "answer": "원하시는 예식 조건에 맞는 인천 지역 웨딩홀들을 한자리에서 비교하고 견적을 받아볼 수 있는 서비스입니다."
+      },
+      {
+        "question": "계약 혜택은 상담 당일 계약에만 적용되나요?",
+        "answer": "네, 박람회 현장에서 상담 후 당일 계약 시 제공되는 혜택들이 많으니 현장 혜택 내용을 자세히 확인하시기 바랍니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "인천 및 인근 지역에서 결혼을 앞두고 있는 예비부부라면 필수적으로 방문해야 할 행사입니다. 결혼 준비를 막 시작해 무엇부터 해야 할지 고민인 커플, 스드메 비용을 합리적으로 비교하고 싶은 분, 예식장 대관료나 허니문 비용 절감을 원하는 신혼부부에게 최적화된 정보를 제공합니다. 업체별 1:1 맞춤 상담을 통해 두 분의 예산과 취향에 맞는 웨딩 플랜을 직접 설계할 수 있는 기회를 제공합니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오 및 드레스샵",
+      "웨딩홀 제휴 네트워크",
+      "허니문 여행사",
+      "맞춤 정장 및 예복 브랜드",
+      "한복 및 혼수 가전 업체"
+    ],
+    "comparison_hooks": [
+      "인천 지역 웨딩홀 비교견적 실시간 확인",
+      "스드메 패키지 특가 69만원부터 구성",
+      "전문 웨딩 플래너의 1:1 맞춤형 컨설팅 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 평균 비용",
+      "결혼식장 대관료 비교",
+      "허니문 자유여행 패키지 차이",
+      "예물 예복 상담 시 주의사항",
+      "인천 스드메 업체 순위",
+      "웨딩박람회 예약 방법",
+      "결혼 준비 체크리스트",
+      "웨딩홀 식대 확인법",
+      "신혼여행지 추천"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "인천 웨딩박람회 일정 전체보기",
+        "category": "incheon_wedding_events"
+      },
+      {
+        "anchor": "스드메 패키지 상담 가이드",
+        "category": "wedding_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "예복",
+      "한복",
+      "신혼여행",
+      "웨딩패키지",
+      "결혼상담",
+      "웨딩스타일링"
+    ]
+  },
+  "social_meta": {
+    "og_title": "송도컨벤시아 웨딩박람회 | 예비부부 상담/계약 혜택",
+    "og_description": "결혼 준비의 시작, 송도컨벤시아 웨딩박람회에서 상담받고 푸짐한 선물과 특가 혜택 챙기세요!",
+    "hashtags": [
+      "#송도웨딩박람회",
+      "#인천결혼준비",
+      "#웨딩박람회",
+      "#송도컨벤시아",
+      "#스드메",
+      "#웨딩홀투어",
+      "#예비부부",
+      "#결혼준비",
+      "#인천웨딩",
+      "#혼수준비"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd10/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_QvLYxqyJOgh4GLe9xOuVJMwINo9.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_wcI19YrQz9cL1axPg.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_oB1uxiTQfODiM.jpg"
+  },
+  "updated_at": "2026-11-23 20:04:41",
+  "revenue": 30000
+}

@@ -1,0 +1,211 @@
+{
+  "idx": 586,
+  "campaign_id": "weddingdc03",
+  "gather_name": "제이웨딩페어",
+  "organizer_name": "제이웨딩",
+  "seo_metadata": {
+    "title": "제이웨딩페어 서울 | 12월 웨딩 박람회 상담 및 계약 혜택 정보",
+    "meta_description": "12월 19일~20일 한국과학기술회관에서 열리는 제이웨딩페어! 사전등록으로 무료 입장하고 스드메 상담부터 신랑 예복, 혼수 혜택까지 한자리에서 비교하세요.",
+    "keywords": [
+      "제이웨딩페어",
+      "서울웨딩박람회",
+      "강남웨딩박람회",
+      "스드메상담",
+      "결혼준비박람회",
+      "웨딩홀추천",
+      "신혼여행준비",
+      "웨딩박람회혜택",
+      "예비부부결혼준비",
+      "한국과학기술회관웨딩"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 첫 단추를 어디서부터 끼워야 할지 고민인 예비부부를 위해 제이웨딩페어가 준비되었습니다. 12월 19일부터 20일까지 한국과학기술회관에서 열리는 이번 행사는 스드메부터 혼수까지 복잡한 준비 과정을 한곳에서 해결할 수 있는 기회입니다.",
+    "benefits_description": "상담만 받아도 준비된 다채로운 방문 선물과, 현장 계약 시 제공되는 특별 혜택을 놓치지 마세요. 스드메 패키지 상담은 물론, 신랑 예복 피팅과 메이크업 시연 등 직접 체험하며 나에게 맞는 서비스를 선택할 수 있습니다. 각 업체별로 마련된 추가 혜택과 이벤트까지 꼼꼼히 챙겨 실속 있는 결혼 준비를 시작해 보세요.",
+    "summary_for_search": "12월 19일~20일, 한국과학기술회관에서 개최되는 제이웨딩페어! 스드메, 예복, 혼수 업체별 상담 혜택과 현장 계약 이벤트를 확인하고 무료 사전등록하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "올해 마지막 혜택, 제이웨딩페어에서 결혼 준비 완벽하게!",
+    "secondary_headline": "사전등록 시 무료 입장, 상담만 받아도 쏟아지는 선물과 10만원 할인권까지.",
+    "urgency_text": "선착순 1,000쌍 한정, 이번 주말 단 이틀만 진행!",
+    "call_to_action_text": "무료 사전등록하고 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "뷰티플라겐 콜라겐 플러스 30정 증정",
+      "면상웰 마스크팩 10매",
+      "핫타임 포켓 커플 핫팩",
+      "스템프 투어 완료 시 추가 경품 제공"
+    ],
+    "contract_benefits": [
+      "상담 및 계약 시 업체별 할인 및 추가 증정품",
+      "현장 계약 시 최대 10만원 할인",
+      "행사 종료 후 20커플 선정, 희망 상품 1,000원 구매 이벤트"
+    ],
+    "special_events": [
+      "신랑 예복 피팅 체험",
+      "웨딩 메이크업 현장 시연",
+      "스탬프 투어 미션 수행"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "display_date": "12월 19일(토) ~ 12월 20일(일)",
+      "original_display_date": "12월 19일(토) ~ 12월 20일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "강남구",
+      "sigungu_en": "gangnam",
+      "address": "서울 강남구 테헤란로7길 22 신관 지하1층",
+      "venue": "한국과학기술회관 국제회의장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "신랑/신부 연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "온라인 사전등록 후 현장 방문 시 수령 가능하며, 경품은 현장 상황에 따라 변경될 수 있습니다.",
+    "trust_indicators": [
+      "제이웨딩 공식 카페를 통한 실시간 웨딩 스토리 공유",
+      "현장에서 직접 보고 결정하는 신뢰 기반 운영",
+      "업체별 상담 및 1:1 맞춤 서비스 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "제이웨딩페어",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "location": {
+        "@type": "Place",
+        "name": "한국과학기술회관 국제회의장",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서울 강남구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "제이웨딩",
+        "url": "https://ad.cpaad.co.kr/weddingdc03/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용은 얼마인가요?",
+        "answer": "온라인 사전등록 시 입장료는 무료입니다."
+      },
+      {
+        "question": "사전등록은 어떻게 하나요?",
+        "answer": "공식 홈페이지 내 온라인 사전등록 페이지에서 성함, 연락처, 예식 예정일을 입력하면 완료됩니다."
+      },
+      {
+        "question": "박람회에서 스드메 비교가 가능한가요?",
+        "answer": "다양한 스드메 업체가 입점해 있어 패키지 구성과 포함 항목을 1:1로 비교 상담받으실 수 있습니다."
+      },
+      {
+        "question": "현장 방문 시 선물을 바로 받을 수 있나요?",
+        "answer": "방문 혜택은 현장 상담을 완료하거나 정해진 미션을 수행한 경우 제공되며, 상세 조건은 현장에서 확인 가능합니다."
+      },
+      {
+        "question": "예복이나 메이크업 체험은 별도 예약이 필요한가요?",
+        "answer": "현장 상황에 따라 선착순으로 진행되므로 방문 후 안내 데스크에 문의하시기 바랍니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 패키지 구성과 비용을 합리적으로 비교하고 싶은 커플을 대상으로 합니다. 결혼 준비를 6개월 이내로 앞두고 있어 효율적인 업체 선정과 계약이 필요한 분들에게 적합합니다. 웨딩홀부터 신혼여행, 예물, 혼수 가전까지 결혼 준비의 전 과정을 전문가와 1:1 상담을 통해 체계적으로 계획하고자 하는 분들이라면 방문하여 도움을 받을 수 있습니다.",
+    "exhibitor_highlights": [
+      "스드메(스튜디오, 드레스, 메이크업) 패키지",
+      "신랑 예복 및 맞춤 정장",
+      "웨딩홀 및 예식 장소",
+      "허니문 여행사",
+      "예물 및 주얼리",
+      "혼수 가전"
+    ],
+    "comparison_hooks": [
+      "온라인 사전등록으로 무료 입장 및 상담 혜택 제공",
+      "실제 현장에서 보고 체험하는 1:1 맞춤 서비스",
+      "계약자 대상 특별 경품 및 1,000원 구매 이벤트 진행"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 가격",
+      "결혼준비 체크리스트",
+      "웨딩박람회 방문 혜택",
+      "웨딩박람회 계약 주의사항",
+      "제이웨딩 후기",
+      "12월 웨딩박람회 일정",
+      "강남 웨딩박람회 추천",
+      "신랑 예복 맞춤 가격",
+      "결혼 비용 절약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 전체 일정",
+        "category": "seoul_events"
+      },
+      {
+        "anchor": "스드메 패키지 구성 보기",
+        "category": "wedding_services"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "예복",
+      "신혼여행",
+      "예물",
+      "결혼준비",
+      "웨딩페어",
+      "박람회일정",
+      "부케"
+    ]
+  },
+  "social_meta": {
+    "og_title": "제이웨딩페어: 12월 예비부부를 위한 결혼 준비 혜택",
+    "og_description": "한국과학기술회관에서 열리는 제이웨딩페어! 지금 사전등록하고 상담 혜택과 경품을 모두 챙겨가세요.",
+    "hashtags": [
+      "#제이웨딩페어",
+      "#웨딩박람회",
+      "#결혼준비",
+      "#서울웨딩박람회",
+      "#스드메",
+      "#예비부부",
+      "#결혼준비체크리스트",
+      "#예신예랑",
+      "#웨딩혜택",
+      "#강남웨딩박람회"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingdc03/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_dSD777GZsLxke.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_t3mwf49xezE92CSzdN7HHaE3FtAVot9.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_1GCupy9qW9TLFuz1gjFh.jpg"
+  },
+  "updated_at": "2026-11-23 20:07:44",
+  "revenue": 40000
+}
