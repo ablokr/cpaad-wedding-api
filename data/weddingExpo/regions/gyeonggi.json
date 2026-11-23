@@ -7868,5 +7868,2282 @@
     },
     "updated_at": "2026-11-21 14:00:34",
     "revenue": 35000
+  },
+  {
+    "idx": 1581,
+    "campaign_id": "wncowedding10",
+    "gather_name": "성남/용인웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "성남/용인 웨딩박람회 | 신세계 사우스시티 상담 혜택 및 경품",
+      "meta_description": "2026년 12월 12일~13일, 신세계 사우스시티에서 열리는 성남/용인 웨딩박람회. 방문 시 100% 증정 경품과 스드메 계약 특별 혜택을 확인하세요.",
+      "keywords": [
+        "성남웨딩박람회",
+        "용인웨딩박람회",
+        "신세계사우스시티웨딩박람회",
+        "스드메견적비교",
+        "결혼준비박람회",
+        "웨딩홀추천",
+        "혼수박람회",
+        "웨딩박람회혜택",
+        "용인결혼준비",
+        "2026웨딩박람회"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부를 위해 성남/용인 웨딩박람회가 신세계 사우스시티에서 개최됩니다. 복잡한 스드메 구성부터 혼수, 허니문까지 한자리에서 전문가와 상담하며 두 분만의 합리적인 결혼 계획을 세워보세요.",
+      "benefits_description": "이번 박람회는 방문만 해도 드리는 100% 증정 경품과 계약 시 제공되는 특별 혜택이 준비되어 있습니다. 상담 과정에서 예식장 대관료 할인이나 스드메 패키지의 추가 포함 항목을 꼼꼼히 비교해 보시는 것을 권장합니다. 특히, 전문가의 1:1 상담을 통해 두 분의 예산에 맞춘 맞춤형 플랜을 확인하고, 상담 완료 후 제공되는 다양한 선물로 기분 좋은 시작을 경험해 보세요.",
+      "summary_for_search": "12월 12일~13일, 신세계 사우스시티에서 진행되는 성남/용인 웨딩박람회. 방문자 100% 선물 증정과 스드메/혼수 계약 특별 혜택을 제공합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 혜택의 시작은 지금! 성남/용인 웨딩박람회",
+      "secondary_headline": "방문만 해도 100% 경품 증정, 스드메부터 혼수까지 전문가 1:1 맞춤 상담",
+      "urgency_text": "이번 주말, 단 2일간만 진행되는 특별한 웨딩 혜택을 놓치지 마세요.",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 100% 증정 경품 제공",
+        "신세계 사우스시티 현장 상담 완료 선물"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩액자 증정",
+        "웨딩드레스 무료 피팅권",
+        "보석사진 원본 증정",
+        "웨딩홀 대관료 할인 및 식대 할인 혜택",
+        "허니문/예물/혼수 계약 시 제휴 특별 할인"
+      ],
+      "special_events": [
+        "삼성 AI 구독 페스티벌 연계 상담",
+        "스몰/하우스 웨딩 특별 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "용인시",
+        "sigungu_en": "yongin",
+        "address": "경기 용인시 수지구 포은대로 536 6층",
+        "venue": "신세계 사우스시티 6층 특별행사장",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 전문가 상담 완료 후 증정됩니다.",
+      "trust_indicators": [
+        "분야별 전문 웨딩 플래너 1:1 상담",
+        "스드메/혼수/허니문 브랜드 대거 입점",
+        "투명한 상담 및 추가 비용 확인 가능"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "성남/용인웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "신세계 사우스시티 6층",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기 용인시",
+            "addressLocality": "용인",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding10/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 방문 예약은 필수인가요?",
+          "answer": "안내 자료에서 확인되지 않으므로 주최 측의 사전 등록 페이지를 통해 확인 부탁드립니다."
+        },
+        {
+          "question": "박람회 상담 비용이 발생하나요?",
+          "answer": "상담은 무료로 진행되나, 계약 시 별도의 계약금이 발생할 수 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메 패키지 업체, 웨딩홀, 예물, 예복, 한복, 혼수 가전 및 여행사가 입점해 있습니다."
+        },
+        {
+          "question": "방문 선물은 어떻게 받나요?",
+          "answer": "현장에서 웨딩 전문가와 상담을 완료하시면 정해진 조건에 따라 선물을 수령하실 수 있습니다."
+        },
+        {
+          "question": "현장 계약을 바로 해야 하나요?",
+          "answer": "아닙니다. 상담을 통해 충분히 비교하신 후 두 분의 상황에 맞는 최선의 결정을 내리시길 권장합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼을 결심하고 준비의 첫 단추를 고민하는 예비부부, 또는 구체적인 스드메 비용과 혼수 정보를 비교하며 합리적인 예산을 계획 중인 커플을 위한 행사입니다. 결혼 준비의 전체적인 타임라인을 확인하고 싶거나, 웨딩홀부터 허니문까지 전문 플래너의 조언이 필요한 분들께 최적화된 기회입니다. 혼자 고민하기보다 검증된 업체들의 제안을 한자리에서 비교해 보고 싶다면 이번 박람회가 유용한 가이드가 될 것입니다.",
+      "exhibitor_highlights": [
+        "스드메 토탈 패키지 브랜드",
+        "용인/성남 지역 웨딩홀",
+        "예물 및 명품 주얼리",
+        "맞춤 정장 및 예복 전문점",
+        "허니문 여행사",
+        "결혼 한복 및 신혼 가전"
+      ],
+      "comparison_hooks": [
+        "신세계 사우스시티 내 개최로 접근성과 신뢰도 확보",
+        "방문만 해도 제공되는 100% 실속 경품 증정",
+        "분야별 전문 플래너의 1:1 맞춤형 컨설팅 지원"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "스드메 패키지 비용",
+        "용인 예식장 추천",
+        "웨딩박람회 방문 혜택",
+        "결혼식 예산 세우기",
+        "혼수 가전 저렴하게 사는 법",
+        "허니문 여행지 추천",
+        "웨딩플래너 상담 후기",
+        "박람회 계약 시 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "결혼 준비 체크리스트 전체 보기",
+          "category": "planning_guides"
+        },
+        {
+          "anchor": "성남/용인 웨딩홀 추천 리스트",
+          "category": "venues"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "결혼준비",
+        "웨딩플래너",
+        "예물",
+        "예복",
+        "신혼여행",
+        "한복"
+      ]
+    },
+    "social_meta": {
+      "og_title": "성남/용인 웨딩박람회 | 방문 시 경품 100% 증정",
+      "og_description": "신세계 사우스시티에서 만나는 2026 결혼 준비의 시작. 지금 사전 신청하고 특별 혜택을 챙겨보세요!",
+      "hashtags": [
+        "#웨딩박람회",
+        "#결혼준비",
+        "#성남웨딩박람회",
+        "#용인웨딩박람회",
+        "#신혼부부",
+        "#스드메",
+        "#웨딩홀",
+        "#결혼준비체크리스트",
+        "#예신",
+        "#예랑"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding10/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_qU1YhNx72W7vAM99u3K.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_oWbeLINXy7yS.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202501/a0306c07cfce0aa955cf39a185c2ff26_OsqHKKH5EK5bFUk.jpg"
+    },
+    "updated_at": "2026-11-23 20:01:41",
+    "revenue": 30000
+  },
+  {
+    "idx": 1648,
+    "campaign_id": "withyouwedding43",
+    "gather_name": "이천 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "이천 위드유 웨딩박람회 | 삼성스토어 이천증포 상담 혜택 안내",
+      "meta_description": "12월 5일~6일 삼성스토어 이천증포에서 열리는 이천 위드유 웨딩박람회. 스드메 패키지, 예물, 예복 특별 혜택과 웨딩 건강검진권 등 상담 시 다양한 선물을 확인하세요.",
+      "keywords": [
+        "이천웨딩박람회",
+        "이천결혼준비",
+        "이천스드메",
+        "삼성스토어이천증포",
+        "이천웨딩홀",
+        "이천예물",
+        "이천예복",
+        "결혼준비체크리스트",
+        "위드유웨딩",
+        "이천박람회일정"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막한 예비부부라면 이천 위드유 웨딩박람회를 주목해 보세요. 12월 5일부터 6일까지 삼성스토어 이천증포에서 열리는 이번 박람회는 스드메부터 예물, 예복, 허니문까지 한자리에서 비교하고 실속 있게 준비할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회에서는 상담과 계약만으로도 풍성한 혜택을 제공합니다. 현장 방문 시 식당 할인권, 웨딩 촬영 무료 쿠폰, 웨딩 건강검진권 등을 포함한 다양한 사은품을 받아보실 수 있습니다. 또한, 스드메 패키지와 예물, 예복 브랜드별로 박람회 특별 할인을 적용하며, 후기 이벤트 참여 시 추가 선물 증정 등 예비부부의 예산 절감을 돕는 실용적인 혜택들로 구성되어 있습니다. 상담 과정에서 각 항목의 구성과 추가 비용 여부를 꼼꼼히 확인하시면 더욱 효율적인 결혼 준비가 가능합니다.",
+      "summary_for_search": "12월 5일-6일, 삼성스토어 이천증포에서 이천 위드유 웨딩박람회가 열립니다. 스드메 패키지 할인, 웨딩 건강검진권, 방문 선물 등 다양한 혜택과 1:1 맞춤 상담을 제공합니다."
+    },
+    "marketing_hooks": {
+      "primary_headline": "이천에서 결혼 준비 시작? 위드유 웨딩박람회 혜택 총집합",
+      "secondary_headline": "삼성스토어 이천증포에서 만나는 스드메·예물·예복 상담 혜택과 푸짐한 선물",
+      "urgency_text": "",
+      "call_to_action_text": "무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식당 할인권",
+        "웨딩 촬영 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "웨딩 건강검진권",
+        "티파니앤코 목걸이(후기 이벤트)",
+        "네이버 페이 3만원권"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 박람회 특별 할인",
+        "예물 브랜드 할인(25%+10%)",
+        "상담 시 신세계 상품권 5만원/10만원권 증정 이벤트",
+        "허니문 박람회 특별 할인"
+      ],
+      "special_events": [
+        "위드유 알뜰신부 프로젝트",
+        "후기 이벤트 100% 선물 증정"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "이천시",
+        "sigungu_en": "icheon",
+        "address": "경기 이천시 증신로 130",
+        "venue": "삼성스토어 이천증포",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "상담 완료 후 각 조건에 따라 증정되며, 일부 경품은 후기 이벤트 참여 및 선착순 조건이 적용될 수 있습니다.",
+      "trust_indicators": [
+        "신뢰도 높은 실제 예비부부 후기 공개",
+        "분야별 전문 업체 1:1 맞춤 상담",
+        "삼성스토어 공동 진행"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "이천 위드유 웨딩박람회",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 이천증포",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "이천시",
+            "addressRegion": "경기",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding43/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장 신청은 어떻게 하나요?",
+          "answer": "안내된 페이지의 상담 신청 폼에 성함, 연락처, 예식 예정일을 입력하시면 신청이 완료됩니다."
+        },
+        {
+          "question": "상담 시 제공되는 혜택은 무엇인가요?",
+          "answer": "웨딩 건강검진권, 식당 할인권, 청첩장 쿠폰 등 방문 상담 시 다양한 선물이 준비되어 있으며, 계약 시 추가 할인 및 상품권 혜택이 제공됩니다."
+        },
+        {
+          "question": "결혼 준비가 처음인데 무엇을 상담받아야 할까요?",
+          "answer": "스드메 패키지 구성부터 예물, 예복, 허니문까지 예비부부의 예산에 맞춘 최적의 선택지를 1:1 상담을 통해 안내받으실 수 있습니다."
+        },
+        {
+          "question": "박람회 장소와 일정은 어떻게 되나요?",
+          "answer": "2026년 12월 5일부터 6일까지 삼성스토어 이천증포에서 진행됩니다."
+        },
+        {
+          "question": "후기 이벤트는 어떻게 참여하나요?",
+          "answer": "행사 참여 후 정해진 가이드에 따라 후기를 작성하시면 티파니앤코 목걸이 등 경품 증정 이벤트에 응모하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 합리적인 예산으로 스드메와 혼수를 준비하고 싶은 신혼부부에게 적합합니다. 특히 이천 지역에서 신뢰할 수 있는 웨딩 업체를 찾고 있거나, 1:1 맞춤 상담을 통해 결혼 준비 과정을 구체화하고 싶은 커플이라면 이번 박람회를 통해 유익한 정보를 얻을 수 있습니다. 결혼 준비 단계를 체크하고 싶거나 놓치고 있는 혜택이 있는지 궁금한 모든 분들을 환영합니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "웨딩 드레스샵",
+        "웨딩 메이크업 브랜드",
+        "예물 브랜드",
+        "맞춤 정장(예복) 브랜드",
+        "허니문 전문 여행사"
+      ],
+      "comparison_hooks": [
+        "삼성스토어와 함께하여 더욱 신뢰할 수 있는 현장 상담 보장",
+        "방문만 해도 챙겨주는 다양한 웨딩 필수 쿠폰 제공",
+        "스드메 패키지부터 허니문까지 원스톱 비교 및 견적 확인 가능"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 상담 준비물",
+        "이천 웨딩홀 추천",
+        "스드메 패키지 비용",
+        "결혼 준비 체크리스트",
+        "예물 투어 팁",
+        "맞춤 정장 예복 상담",
+        "허니문 박람회 혜택",
+        "박람회 계약 전 체크사항",
+        "신혼가전 삼성스토어 혜택",
+        "웨딩 박람회 후기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "이천 웨딩 준비 전체 일정",
+          "category": "wedding_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "예물",
+        "예복",
+        "허니문",
+        "혼수가전",
+        "청첩장",
+        "웨딩드레스",
+        "메이크업",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "이천 위드유 웨딩박람회 상담 혜택 안내",
+      "og_description": "삼성스토어 이천증포에서 만나는 특별한 웨딩 혜택! 상담만 받아도 쏟아지는 선물 확인하세요.",
+      "hashtags": [
+        "#이천웨딩박람회",
+        "#이천결혼준비",
+        "#이천스드메",
+        "#위드유웨딩",
+        "#이천예물",
+        "#이천예복",
+        "#결혼준비",
+        "#예비부부",
+        "#웨딩박람회",
+        "#삼성스토어이천"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding43/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4znTjzzHah.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_e4KqbyGW.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_UJcJBX7dKNDXtm5OM6H.jpg"
+    },
+    "updated_at": "2026-11-23 20:01:58",
+    "revenue": 30000
+  },
+  {
+    "idx": 1888,
+    "campaign_id": "wedingcrowd119",
+    "gather_name": "수원 스타필드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "수원 스타필드 웨딩박람회 | 결혼 준비 혜택 및 무료 상담 신청",
+      "meta_description": "12월 5일~6일, 수원 스타필드에서 열리는 웨딩박람회! 스드메 패키지 특가, 계약자 100% 증정 이벤트와 허니문 상담 혜택까지. 예비부부를 위한 실속 있는 결혼 준비 가이드를 확인하세요.",
+      "keywords": [
+        "수원 웨딩박람회",
+        "스타필드 웨딩박람회",
+        "수원 결혼 준비",
+        "스드메 패키지",
+        "웨딩 박람회 혜택",
+        "수원 웨딩홀",
+        "신혼여행 상담",
+        "결혼 예산 상담",
+        "웨딩 준비 체크리스트",
+        "웨딩박람회 무료입장"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부를 위해 수원 스타필드에서 특별한 웨딩박람회를 개최합니다. 복잡한 결혼 준비 과정을 한자리에서 해결하고, 전문가의 1:1 상담을 통해 두 분만의 합리적인 예식 계획을 세워보세요.",
+      "benefits_description": "이번 박람회는 방문만 해도 스타벅스 기프트 카드를 증정하며, 상담 및 계약 시 에어프라이어와 웨딩 다이어리 등 실속 있는 선물을 100% 제공합니다. 특히 캐스퍼 당첨 기회가 주어지는 현장 경품 이벤트와 스드메 특가 구성을 통해 예산 절감의 기회를 누려보세요. 계약 전 포함 항목과 추가 비용 발생 가능 여부를 상담 시 꼼꼼히 확인하시면 더욱 효율적인 준비가 가능합니다.",
+      "summary_for_search": "12월 5일~6일, 한샘 스타필드수원점에서 열리는 수원 스타필드 웨딩박람회. 스드메·혼수·허니문 상담과 계약자 전원 사은품 증정 혜택을 지금 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "수원 스타필드에서 만나는 특별한 웨딩박람회",
+      "secondary_headline": "스드메 특가부터 혼수, 허니문까지 한자리에서 비교하고 상담하세요.",
+      "urgency_text": "12월 5일~6일, 이번 주말 단 2일간 진행",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 스타벅스 기프트 카드 증정",
+        "방문객 대상 캐스퍼 경품 추첨 이벤트"
+      ],
+      "contract_benefits": [
+        "웨딩(스드메)+혼수 계약 시 사은품 증정",
+        "계약자 전원 100% 사은품 증정",
+        "웨딩 다이어리 및 추가 혜택 제공"
+      ],
+      "special_events": [
+        "웨딩 패키지 특가 프로모션",
+        "신혼부부 재무 설계 상담",
+        "허니문 최저가 직행 페어"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "수원시",
+        "sigungu_en": "suwon",
+        "address": "경기 수원시 장안구 수성로 175 6층",
+        "venue": "한샘 스타필드수원점",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "상담 완료 및 현장 방문 기준. 자세한 수령 조건은 상담 시 안내.",
+      "trust_indicators": [
+        "수원 스타필드 개최",
+        "전문가 1:1 맞춤형 상담",
+        "검증된 웨딩 업체 참여"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "수원 스타필드 웨딩박람회",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "한샘 스타필드수원점",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "경기 수원시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd119/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "해당 박람회는 사전 신청 시 무료로 입장 및 상담이 가능합니다."
+        },
+        {
+          "question": "상담 시 어떤 내용을 확인할 수 있나요?",
+          "answer": "스드메 패키지, 웨딩홀, 예물, 예복, 허니문, 혼수 가전 및 신혼부부 재무 설계까지 결혼 준비 전반에 관한 1:1 상담이 가능합니다."
+        },
+        {
+          "question": "사은품은 어떻게 받을 수 있나요?",
+          "answer": "방문 상담 및 계약 체결 등 단계별 기준에 따라 사은품이 증정되며, 상세 조건은 상담 현장에서 안내받으실 수 있습니다."
+        },
+        {
+          "question": "사전 신청은 필수인가요?",
+          "answer": "보다 원활한 상담과 혜택 적용을 위해 사전 신청 후 방문하시는 것을 권장합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "한샘 스타필드수원점 주차 시설을 이용 가능하며, 자세한 주차 지원 여부는 주최 측에 확인 부탁드립니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막한 예비부부, 스드메 비용과 구성 비교에 어려움을 겪는 커플, 효율적인 예산 배분과 혼수 준비를 고민 중인 신혼부부를 대상으로 합니다. 결혼 준비의 전체 프로세스를 한자리에서 체계적으로 점검하고, 실제 계약 시 혜택을 놓치고 싶지 않은 분들께 적합한 행사입니다.",
+      "exhibitor_highlights": [
+        "스드메(스튜디오, 드레스, 메이크업) 업체",
+        "웨딩홀 제휴처",
+        "허니문 여행사",
+        "웨딩 예물 브랜드",
+        "맞춤 정장 업체",
+        "한복 브랜드",
+        "신혼가전/가구 브랜드"
+      ],
+      "comparison_hooks": [
+        "수원 지역 접근성이 좋은 스타필드 개최",
+        "상담부터 계약까지 이어지는 단계별 혜택 구성",
+        "웨딩 패키지부터 재무 설계까지 통합 상담 서비스"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 방문 팁",
+        "스드메 패키지 가격대",
+        "결혼 준비 순서 체크리스트",
+        "수원 웨딩홀 비교",
+        "신혼여행지 추천",
+        "웨딩박람회 사은품 혜택",
+        "결혼 예산 세우기",
+        "웨딩 계약 시 주의사항",
+        "예복 한복 대여 정보",
+        "신혼부부 재무 관리"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "웨딩 준비 가이드 전체 보기",
+          "category": "wedding_guide"
+        },
+        {
+          "anchor": "수원 웨딩홀 정보 더보기",
+          "category": "wedding_halls"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "신혼여행",
+        "예물",
+        "예복",
+        "한복",
+        "웨딩패키지",
+        "상담사은품",
+        "재무설계"
+      ]
+    },
+    "social_meta": {
+      "og_title": "수원 스타필드 웨딩박람회 12월 초대",
+      "og_description": "결혼 준비, 어디서부터 시작할지 고민이라면? 수원 스타필드에서 상담받고 100% 증정 사은품도 챙기세요!",
+      "hashtags": [
+        "#수원웨딩박람회",
+        "#결혼준비",
+        "#예비부부",
+        "#웨딩박람회",
+        "#스드메",
+        "#신혼여행",
+        "#수원웨딩홀",
+        "#웨딩체크리스트",
+        "#수원결혼준비",
+        "#예비신부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd119/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_iupd1V56RJJzHoxxEicl.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_dWMqZCcaEZ.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_jNy6TzfVK9Z56jqHxfVHM5iGPlq.jpg"
+    },
+    "updated_at": "2026-11-23 20:02:14",
+    "revenue": 30000
+  },
+  {
+    "idx": 1287,
+    "campaign_id": "withyouwedding21",
+    "gather_name": "평택 위드유 웨딩박람회",
+    "organizer_name": "위드유 웨딩박람회",
+    "seo_metadata": {
+      "title": "평택 위드유 웨딩박람회 | 평택 고덕 결혼 준비 상담 및 혜택",
+      "meta_description": "12월 5일~6일, LG전자베스트샵 평택고덕에서 열리는 평택 위드유 웨딩박람회! 스드메 패키지, 예물, 예복 등 결혼 준비 필수 혜택과 상담 선물까지 한자리에서 확인하세요.",
+      "keywords": [
+        "평택웨딩박람회",
+        "평택결혼준비",
+        "고덕웨딩박람회",
+        "위드유웨딩",
+        "평택스드메",
+        "평택웨딩홀",
+        "평택예물",
+        "평택예복",
+        "결혼준비박람회",
+        "평택신혼여행"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 막막한 예비부부님들을 위해 평택 위드유 웨딩박람회가 열립니다. 스드메부터 혼수, 허니문까지 전문가의 1:1 상담을 통해 복잡한 예식 과정을 체계적으로 설계해보세요.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 드리는 식전 영상과 모바일 청첩장 등 실속 있는 선물과 함께, 상담 및 계약 시 제공되는 다양한 특별 혜택을 만나보실 수 있습니다. 특히 59만 원 촬영 스드메 패키지나 99만 원 드레스 패키지 등 합리적인 구성을 비교해보고, 예물 및 예복 제휴 업체의 추가 할인 혜택도 꼼꼼히 챙겨보세요. 모든 혜택은 상담 및 계약 조건에 따라 상이할 수 있으니 방문 시 현장에서 상세히 안내받으시길 권장합니다.",
+      "summary_for_search": "평택 위드유 웨딩박람회가 12월 5일부터 6일까지 LG전자베스트샵 평택고덕에서 개최됩니다. 스드메 패키지, 예물, 예복 등 결혼 준비 전반에 걸친 상담과 특별 혜택을 지금 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "평택 위드유 웨딩박람회, 결혼 준비의 모든 것을 한자리에",
+      "secondary_headline": "12월 5일~6일, 평택 고덕에서 만나는 스드메부터 예물·혼수까지 특별한 혜택",
+      "urgency_text": "이번 주말까지만 진행되는 특별 프로모션, 지금 사전등록하세요.",
+      "call_to_action_text": "무료 초대장 신청하고 혜택 받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "식전 영상 무료 쿠폰",
+        "모바일 청첩장 무료 쿠폰",
+        "종이 청첩장 할인 쿠폰",
+        "웨딩 다이어리",
+        "웨딩 건강검진권"
+      ],
+      "contract_benefits": [
+        "촬영 스드메 패키지 59만원부터",
+        "드레스 패키지 99만원부터",
+        "네이버 페이 3만원권",
+        "예물 브랜드 할인 25%+10%",
+        "상담 경품 추첨 및 사은품"
+      ],
+      "special_events": [
+        "현장 후기 이벤트",
+        "1:1 전문 웨딩 플래너 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "평택시",
+        "sigungu_en": "pyeongtaek",
+        "address": "경기 평택시 경기대로 1251 1-2층",
+        "venue": "LG전자베스트샵 평택고덕",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "상담 및 현장 이벤트 참여 완료 시 수령 가능하며, 구체적인 조건은 현장 상담을 통해 안내받으시기 바랍니다.",
+      "trust_indicators": [
+        "LG전자베스트샵 제휴",
+        "1:1 맞춤형 웨딩 플래닝",
+        "검증된 지역 전문 업체 입점"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "평택 위드유 웨딩박람회",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 평택고덕",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "평택시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "위드유 웨딩박람회",
+          "url": "https://ad.cpaad.co.kr/withyouwedding21/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 무료 입장 가능한가요?",
+          "answer": "네, 사전 신청을 통해 무료 초대장을 발급받으시면 입장이 가능합니다."
+        },
+        {
+          "question": "상담 시 어떤 혜택을 받을 수 있나요?",
+          "answer": "식전 영상, 모바일 청첩장 등 필수 준비물과 함께 패키지별 할인 및 예물·예복 제휴 할인 혜택이 제공됩니다."
+        },
+        {
+          "question": "스드메 패키지 구성은 어떻게 되나요?",
+          "answer": "촬영 패키지부터 드레스 패키지까지 다양한 예산대별 구성이 준비되어 있으며, 전문가 상담을 통해 개인 맞춤형으로 조정 가능합니다."
+        },
+        {
+          "question": "예물이나 혼수는 어떻게 비교하나요?",
+          "answer": "박람회장에 입점한 제휴 업체 상담 부스를 통해 상품군을 직접 확인하고 현장 추가 할인 혜택을 비교하실 수 있습니다."
+        },
+        {
+          "question": "방문 예약은 어떻게 하나요?",
+          "answer": "온라인 페이지에서 이름과 연락처, 예식 예정일을 기재하여 사전 신청하시면 됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "평택 및 인근 지역에서 결혼식을 준비 중인 예비부부를 대상으로 합니다. 결혼 준비를 처음 시작해 스드메 구성, 예물, 예복 등 무엇을 먼저 준비해야 할지 막막한 커플, 혹은 합리적인 예산으로 고퀄리티의 웨딩 서비스를 받고자 하는 신혼부부에게 최적화된 행사입니다. 혼수 가전부터 웨딩 촬영, 예식장 선정까지 전문가의 조언을 통해 시간을 절약하고 효율적인 결혼 준비를 하고 싶은 분들을 환영합니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "웨딩 드레스샵",
+        "혼수 가전",
+        "예물 및 예복 브랜드",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "다양한 브랜드가 입점하여 한자리에서 가격 비교 가능",
+        "1:1 전문가 상담을 통한 개인 맞춤형 웨딩 플래닝",
+        "현장 방문 및 계약 시 제공되는 풍성한 사은품 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "평택 결혼 준비",
+        "스드메 비용 절약법",
+        "웨딩박람회 사은품",
+        "결혼 박람회 상담 후기",
+        "평택 웨딩홀 추천",
+        "예물 예복 계약 시 팁",
+        "신혼여행 패키지 비교",
+        "웨딩 다이어리 받는 법",
+        "결혼식 예산 세우기"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "평택 웨딩 박람회 일정 확인",
+          "category": "events"
+        },
+        {
+          "anchor": "스드메 패키지 상세 보기",
+          "category": "service"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "예물",
+        "청첩장"
+      ]
+    },
+    "social_meta": {
+      "og_title": "평택 위드유 웨딩박람회 초대장",
+      "og_description": "평택 예비부부 필독! 결혼 준비 고민, 이번 박람회에서 한 번에 해결하고 풍성한 혜택까지 받아가세요.",
+      "hashtags": [
+        "#평택웨딩박람회",
+        "#위드유웨딩",
+        "#결혼준비",
+        "#평택결혼",
+        "#스드메",
+        "#예신예랑",
+        "#예물",
+        "#혼수",
+        "#평택고덕",
+        "#웨딩박람회혜택"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/withyouwedding21/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_2YA8RlvfYxOSfwHRppLgjE5Cmv1u1.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_yAyH2kMoOflZtBq3MqAdNWnL.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_keZdGMfpTUfH1XmbDI1h.jpg"
+    },
+    "updated_at": "2026-11-23 20:02:28",
+    "revenue": 30000
+  },
+  {
+    "idx": 1666,
+    "campaign_id": "wedingcrowd91",
+    "gather_name": "시흥 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "시흥 웨딩박람회 | 삼성스토어 신세계시흥프리미엄아울렛 웨딩 혜택",
+      "meta_description": "12월 12일~13일 시흥 웨딩박람회 개최! 삼성스토어 신세계시흥프리미엄아울렛에서 스드메, 혼수, 허니문 상담받고 경품 이벤트와 100% 증정 사은품을 확인하세요.",
+      "keywords": [
+        "시흥웨딩박람회",
+        "시흥결혼준비",
+        "경기웨딩박람회",
+        "스드메견적비교",
+        "신혼가전상담",
+        "웨딩박람회일정",
+        "시흥웨딩홀",
+        "웨딩패키지특가",
+        "결혼준비박람회",
+        "삼성스토어웨딩"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 어디서부터 손을 대야 할지 고민 중인 예비부부라면 주목해 주세요. 12월 12일부터 13일까지 삼성스토어 신세계시흥프리미엄아울렛에서 열리는 시흥 웨딩크라우드 웨딩박람회는 복잡한 결혼 과정을 체계적으로 정리할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회는 방문만 해도 스타벅스 기프트카드 등 참가자 전원에게 드리는 선물이 준비되어 있어 부담 없이 방문하시기 좋습니다. 스드메 패키지 특가부터 혼수, 허니문, 재무 설계까지 결혼의 모든 요소를 한곳에서 비교할 수 있습니다. 특히 상담 및 계약 시 제공되는 사은품과 캐스퍼 당첨 기회 등 풍성한 이벤트가 마련되어 있으니, 두 분의 예산에 맞춘 실속 있는 구성을 상담을 통해 확인해 보시기 바랍니다.",
+      "summary_for_search": "시흥 웨딩크라우드 웨딩박람회(12/12~12/13) 개최! 삼성스토어 신세계시흥프리미엄아울렛에서 스드메, 혼수, 허니문 상담하고 경품 혜택을 받아보세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "시흥 초대형 웨딩박람회, 캐스퍼 당첨의 기회를 잡으세요!",
+      "secondary_headline": "스드메부터 혼수, 허니문까지 한곳에서 비교하고 100% 증정 사은품까지 챙겨가세요.",
+      "urgency_text": "12월 12일~13일, 단 이틀간 진행되는 특별한 웨딩 페스티벌",
+      "call_to_action_text": "지금 무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "참가자 전원 스타벅스 기프트카드 증정",
+        "현장 상담 시 다양한 사은품 증정"
+      ],
+      "contract_benefits": [
+        "계약자 전원 100% 증정 사은품",
+        "스드메 상담 시 에어프라이어 제공(상담 사은품)",
+        "청첩장 15% 할인권 제공",
+        "삼성 가전 구매 시 특별 혜택"
+      ],
+      "special_events": [
+        "경품 이벤트: 캐스퍼 자동차 당첨 기회",
+        "가전, 가구, 허니문 상담 이벤트"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "시흥시",
+        "sigungu_en": "siheung",
+        "address": "경기 시흥시 서해안로 699 리빙관 2층",
+        "venue": "삼성스토어 신세계시흥프리미엄아울렛",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일",
+        "신랑/신부 이름"
+      ],
+      "gift_conditions": "박람회 현장 방문 및 상담 완료 고객 대상, 자세한 수령 조건은 현장 상담 시 안내",
+      "trust_indicators": [
+        "웨딩크라우드 주최",
+        "검증된 전문 업체 입점",
+        "1:1 맞춤형 웨딩 컨설팅"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "시흥 웨딩크라우드 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 신세계시흥프리미엄아울렛",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "경기 시흥시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd91/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "해당 박람회는 사전 신청 시 무료로 참가할 수 있습니다."
+        },
+        {
+          "question": "상담만 받아도 사은품을 주나요?",
+          "answer": "네, 참가 신청 후 현장 방문 및 상담을 진행하시는 분들께 드리는 혜택과 계약 시 제공되는 혜택이 구분되어 있습니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메 패키지, 웨딩홀, 예물, 예복, 허니문, 가전 등 결혼 준비에 필요한 전 품목 업체가 참여합니다."
+        },
+        {
+          "question": "캐스퍼 경품은 어떻게 응모하나요?",
+          "answer": "박람회 현장 방문 및 상담 완료 고객을 대상으로 하며, 자세한 응모 방법은 행사 당일 안내데스크에서 확인 가능합니다."
+        },
+        {
+          "question": "사전 등록은 어떻게 하나요?",
+          "answer": "공식 랜딩페이지의 참가 신청 양식에 성함과 연락처, 예식 예정일을 입력하면 신청이 완료됩니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메 패키지와 혼수 가전을 비교하고 싶은 신혼부부를 위한 행사입니다. 결혼 준비의 전체적인 흐름을 파악하고 싶거나, 전문가와 함께 예산에 맞는 합리적인 웨딩 플랜을 세우고 싶은 분들께 권장합니다. 특히 지역 내에서 신뢰할 수 있는 업체들을 직접 눈으로 확인하고 상담받고 싶은 예비 신랑, 신부님께 유용한 정보의 장이 될 것입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "웨딩 드레스 샵",
+        "웨딩 스튜디오",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "가전 전문 삼성스토어",
+        "재무 설계 컨설팅"
+      ],
+      "comparison_hooks": [
+        "현장 상담 고객 대상 경품 당첨 기회 제공",
+        "스드메부터 혼수까지 한곳에서 비교하는 초대형 박람회",
+        "계약자 전원 100% 사은품 증정 및 가격 투명성 강조"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 상담 준비물",
+        "스드메 패키지 포함 항목",
+        "혼수 가전 구매 팁",
+        "결혼 준비 체크리스트",
+        "허니문 박람회 혜택",
+        "예복 맞춤 가격대",
+        "스튜디오 촬영 준비",
+        "웨딩홀 투어 예약 방법",
+        "신혼 재무 설계 상담",
+        "웨딩박람회 계약 시 주의사항"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 웨딩박람회 일정",
+          "category": "gyeonggi_events"
+        },
+        {
+          "anchor": "스드메 패키지 구성 가이드",
+          "category": "wedding_info"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "예식장",
+        "신혼여행",
+        "웨딩패키지",
+        "예물",
+        "예복",
+        "혼수가전",
+        "재무설계"
+      ]
+    },
+    "social_meta": {
+      "og_title": "시흥 웨딩박람회 12월 초대형 혜택",
+      "og_description": "스드메, 혼수, 허니문 한곳에서 비교! 방문 상담만 해도 사은품 100% 증정, 캐스퍼 당첨 기회까지 확인하세요.",
+      "hashtags": [
+        "#시흥웨딩박람회",
+        "#웨딩박람회",
+        "#결혼준비",
+        "#시흥결혼준비",
+        "#스드메",
+        "#신혼가전",
+        "#예비부부",
+        "#웨딩패키지",
+        "#결혼박람회",
+        "#삼성스토어"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd91/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_aEdAJALszKaoeMtvYbUW2oIVRJ.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_GshZnxqAsXCE2GOgSIc.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_GYJwpON3Wf.jpg"
+    },
+    "updated_at": "2026-11-23 20:02:51",
+    "revenue": 30000
+  },
+  {
+    "idx": 1593,
+    "campaign_id": "wedingcrowd77",
+    "gather_name": "의정부 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "의정부 웨딩크라우드 웨딩박람회 | 경기 결혼 준비 상담 및 혜택",
+      "meta_description": "의정부 웨딩크라우드 웨딩박람회에서 스드메, 혼수, 예물을 한 번에 준비하세요. 12월 5일~6일 삼성스토어 신세계 의정부점 특별행사장에서 상담받고 다양한 방문 및 계약 혜택을 확인하세요.",
+      "keywords": [
+        "의정부 웨딩박람회",
+        "경기 웨딩박람회",
+        "결혼 준비",
+        "스드메 상담",
+        "웨딩홀 추천",
+        "혼수 준비",
+        "의정부 결혼 준비",
+        "웨딩 박람회 혜택",
+        "결혼 박람회 일정",
+        "신혼여행 상담"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 첫걸음, 어디서부터 시작해야 할지 고민인 예비부부를 위해 의정부 웨딩크라우드 웨딩박람회가 열립니다. 12월 5일부터 6일까지 삼성스토어 신세계 의정부점에서 개최되며, 스드메 패키지부터 혼수, 허니문까지 전문가의 1:1 맞춤 상담을 통해 효율적인 준비를 도와드립니다.",
+      "benefits_description": "이번 박람회에서는 방문만 하셔도 스타벅스 기프트카드 등 다양한 선물을 제공하며, 상담 및 계약 시 더욱 풍성한 혜택이 준비되어 있습니다. 특히 스드메와 혼수를 함께 계약하시는 예비부부께는 에어프라이어 등의 가전제품 증정 등 실질적인 혜택을 제공합니다. 또한 계약자 전원에게는 웨딩패키지 특가 혜택이 적용되며, 캐스퍼 경품 추첨 기회까지 주어집니다. 혜택의 구체적인 수량과 조건은 현장에서 상담을 통해 확인하시고 후회 없는 준비를 시작해 보세요.",
+      "summary_for_search": "의정부 웨딩크라우드 웨딩박람회(12/5~6)가 삼성스토어 신세계 의정부점에서 열립니다. 스드메, 혼수, 허니문 상담 및 방문·계약 경품 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "의정부 웨딩크라우드 웨딩박람회, 지금 무료 참가 신청하세요!",
+      "secondary_headline": "스드메부터 혼수까지, 결혼 준비의 모든 것을 한자리에 모았습니다.",
+      "urgency_text": "12월 5일~6일, 단 이틀간의 특별한 기회",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 상담 방문 시 스타벅스 기프트카드 증정",
+        "청첩장 15% 할인권 제공",
+        "선착순 경품 추첨 기회"
+      ],
+      "contract_benefits": [
+        "스드메+혼수 계약 시 에어프라이어 증정",
+        "스드메 계약 시 상담 사은품 제공",
+        "계약자 전원 웨딩 패키지 특가 적용",
+        "캐스퍼 경품 추첨 기회 제공"
+      ],
+      "special_events": [
+        "삼성 가전 상담 및 페스티벌",
+        "웨딩홀 무료 섭외 및 대관료 할인 서비스"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "의정부시",
+        "sigungu_en": "uijeongbu",
+        "address": "경기 의정부시 평화로 525",
+        "venue": "삼성스토어 신세계 의정부점 특별행사장",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일"
+      ],
+      "gift_conditions": "상담 완료 및 현장 이벤트 참여 조건에 따라 제공되며, 수량은 조기 소진될 수 있습니다.",
+      "trust_indicators": [
+        "전문가 1:1 맞춤 상담",
+        "믿을 수 있는 입점 업체 구성",
+        "삼성스토어 특별 행사장 개최"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "의정부 웨딩크라우드 웨딩박람회",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 신세계 의정부점 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기도 의정부시 평화로 525",
+            "addressLocality": "의정부시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd77/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "웨딩박람회 참가 비용은 얼마인가요?",
+          "answer": "해당 웨딩박람회는 무료로 참가하실 수 있습니다. 사전에 온라인을 통해 무료 참가 신청을 완료해 주세요."
+        },
+        {
+          "question": "상담을 받으려면 예약을 해야 하나요?",
+          "answer": "원활한 상담을 위해 온라인 무료 참가 신청 후 방문하시는 것을 권장합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메(스튜디오, 드레스, 메이크업) 업체를 비롯하여 예물, 예복, 혼수, 웨딩홀, 허니문 여행사 등 결혼 준비와 관련된 다양한 업체가 참여합니다."
+        },
+        {
+          "question": "방문 사은품은 어떻게 받을 수 있나요?",
+          "answer": "상세한 수령 조건은 행사 당일 현장 상담 완료 후 주최 측의 안내에 따라 지급됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사장 주변 주차 시설 이용이 가능하나, 정확한 주차 지원 여부는 안내 자료에 명시되어 있지 않으므로 당일 현장 문의를 권장합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적으로 스드메 패키지를 비교하고 싶은 커플, 혼수와 신혼여행 등 결혼 준비 항목을 한 번에 정리하고자 하는 분들을 위한 자리입니다. 결혼 준비의 전체적인 흐름을 파악하고 싶거나, 전문가의 1:1 컨설팅을 통해 예산 내 최적의 선택을 고민 중인 예비 신랑, 신부님께 유용한 정보와 다양한 혜택을 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메 웨딩 패키지 업체",
+        "허니문 여행 컨설팅",
+        "웨딩 주얼리 및 예물",
+        "맞춤 정장(예복)",
+        "웨딩 한복 전문점",
+        "가전 제품 및 재무 설계 상담"
+      ],
+      "comparison_hooks": [
+        "전문가의 1:1 맞춤 상담을 통한 예산 최적화",
+        "스드메와 혼수를 동시에 해결하는 원스톱 솔루션",
+        "계약자 대상 캐스퍼 경품 및 다양한 사은품 증정"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "스드메 박람회 가격대",
+        "웨딩박람회 예약하는 법",
+        "혼수 준비 시기",
+        "신혼여행지 추천",
+        "웨딩홀 상담 팁",
+        "예물 예복 준비",
+        "웨딩박람회 방문 혜택",
+        "의정부 결혼 준비"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 지역 웨딩박람회 일정",
+          "category": "gyeonggi_weddings"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "혼수가전",
+        "신혼여행",
+        "예물",
+        "예복",
+        "웨딩드레스"
+      ]
+    },
+    "social_meta": {
+      "og_title": "의정부 웨딩크라우드 박람회 혜택 확인!",
+      "og_description": "스드메, 혼수, 허니문 한곳에서 비교하고 경품 혜택까지 챙기세요. 지금 무료 신청 가능!",
+      "hashtags": [
+        "#의정부웨딩박람회",
+        "#결혼준비",
+        "#예비부부",
+        "#스드메",
+        "#웨딩박람회",
+        "#결혼준비시작",
+        "#의정부웨딩",
+        "#혼수준비",
+        "#신혼여행",
+        "#웨딩컨설팅"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd77/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_uylAHvVhijN3rJfqxH5GUJKdn2EC.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_tcjtvJav.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_UAQBIPGknunJjXkO.jpg"
+    },
+    "updated_at": "2026-11-23 20:03:07",
+    "revenue": 30000
+  },
+  {
+    "idx": 1881,
+    "campaign_id": "wantwedfair07",
+    "gather_name": "평택 원트웨딩 웨딩박람회",
+    "organizer_name": "패밀리투어",
+    "seo_metadata": {
+      "title": "평택 원트웨딩박람회 | LG전자베스트샵 AK플라자점 웨딩 혜택",
+      "meta_description": "12월 12일~13일, 평택 LG전자베스트샵 AK플라자점에서 열리는 원트웨딩박람회. 스드메 패키지, 혼수 가전 혜택 및 방문·계약 사은품을 확인하고 사전 등록하세요.",
+      "keywords": [
+        "평택웨딩박람회",
+        "평택결혼준비",
+        "평택스드메",
+        "LG전자베스트샵웨딩박람회",
+        "평택웨딩홀",
+        "원트웨딩",
+        "신혼가전혜택",
+        "평택예식장",
+        "평택혼수",
+        "2026결혼준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면 이번 평택 원트웨딩박람회를 주목해 보세요. LG전자베스트샵 AK플라자점에서 진행되는 이번 행사는 스드메부터 혼수 가전까지 결혼 준비의 전 과정을 한자리에서 효율적으로 비교할 수 있는 기회입니다.",
+      "benefits_description": "이번 박람회에서는 방문만 해도 드리는 로즈 핸드크림과 스타벅스 텀블러 등 다채로운 선물이 준비되어 있습니다. 또한, 계약 시에는 로봇청소기, 축하금 지원 등 파격적인 사은품과 함께 혼수 가전 특별 할인이 더해집니다. 예산과 취향에 맞는 맞춤형 웨딩을 설계할 수 있도록 1:1 전문 상담이 진행되니, 상담 시 포함 항목과 추가 비용 여부를 꼼꼼히 확인해 보시기 바랍니다.",
+      "summary_for_search": "12월 12일~13일, 평택 LG전자베스트샵 AK플라자에서 개최되는 원트웨딩박람회. 스드메 패키지 할인, 혼수 가전 특별 혜택 및 방문·계약 사은품을 제공합니다. 지금 사전 예약하고 결혼 준비를 시작하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 원트웨딩에서 한 번에 해결하세요!",
+      "secondary_headline": "스드메부터 혼수 가전까지, 평택 웨딩박람회 최대 혜택",
+      "urgency_text": "선착순 방문객 한정 사은품 증정",
+      "call_to_action_text": "무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 시 로즈 핸드크림 증정",
+        "방문 상담 시 스타벅스 텀블러 증정"
+      ],
+      "contract_benefits": [
+        "계약 시 로봇청소기 증정",
+        "드레스 대여 50% 할인",
+        "혼수 가전 제품 특별 할인 및 추가 사은품",
+        "예복 및 예물 할인 혜택"
+      ],
+      "special_events": [
+        "웨딩홀 1:1 맞춤 상담",
+        "허니문 여행지별 특전 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "평택시",
+        "sigungu_en": "pyeongtaek",
+        "address": "경기 평택시 평택로 51 AK플라자 평택점 6층",
+        "venue": "LG전자베스트샵 AK PLAZA 평택점",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "방문 상담 완료 후 주최 측 안내에 따라 수령",
+      "trust_indicators": [
+        "LG전자베스트샵 제휴 박람회",
+        "1:1 맞춤형 전문 웨딩 플래너 상담",
+        "투명한 스드메 패키지 구성"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "평택 원트웨딩 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 AK PLAZA 평택점",
+          "address": "경기 평택시"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "패밀리투어",
+          "url": "https://ad.cpaad.co.kr/wantwedfair07/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "사전 등록을 꼭 해야 하나요?",
+          "answer": "원활한 상담과 방문 혜택 제공을 위해 사전 신청 후 방문하시는 것을 권장합니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "개별 상담 항목에 따라 상이하며 보통 1시간 내외가 소요됩니다."
+        },
+        {
+          "question": "계약 시 혜택은 즉시 받을 수 있나요?",
+          "answer": "계약 혜택은 상담 및 계약 조건에 따라 다르므로 현장에서 상담사를 통해 확인 바랍니다."
+        },
+        {
+          "question": "박람회에서 드레스 피팅이 가능한가요?",
+          "answer": "이미지상에 드레스 전시 및 혜택이 명시되어 있으며, 피팅 가능 여부는 현장 상담 시 안내받으실 수 있습니다."
+        },
+        {
+          "question": "혼수 가전도 한곳에서 비교할 수 있나요?",
+          "answer": "네, LG전자베스트샵에서 진행되어 웨딩 가전 패키지를 함께 상담받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 평택 및 인근 지역 거주 예비부부. 스드메 업체 선정과 예산 계획 수립에 어려움을 겪고 있는 커플에게 적합합니다. 가전부터 웨딩홀, 허니문까지 한자리에서 비교하고 합리적인 패키지 구성을 찾는 신혼부부에게 실질적인 가이드를 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "웨딩 드레스 샵",
+        "허니문 여행사",
+        "예물 및 예복 브랜드",
+        "LG전자 혼수 가전"
+      ],
+      "comparison_hooks": [
+        "LG전자베스트샵 현장 진행으로 가전과 웨딩을 동시에 해결",
+        "계약 시 확실한 실물 사은품(로봇청소기 등) 증정",
+        "평택 지역 맞춤형 웨딩홀 및 스드메 업체 정보 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "평택 웨딩홀 추천",
+        "결혼 준비 순서",
+        "스드메 패키지 비용",
+        "신혼 가전 졸업 리스트",
+        "웨딩박람회 방문 혜택",
+        "허니문 여행지 추천",
+        "예복 예물 선택 팁",
+        "원트웨딩 후기",
+        "평택 예식장 가격"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 웨딩박람회 일정 전체보기",
+          "category": "kyunggi_wedding_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "웨딩홀",
+        "신혼여행",
+        "예식장",
+        "웨딩 드레스",
+        "예복",
+        "예물",
+        "신혼가전",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "평택 원트웨딩박람회 | 결혼 준비 혜택 총집합",
+      "og_description": "12월 평택에서 열리는 웨딩박람회! 스드메부터 가전까지 한 번에 끝내고 로봇청소기 등 푸짐한 선물도 받아가세요.",
+      "hashtags": [
+        "#평택웨딩박람회",
+        "#원트웨딩",
+        "#결혼준비",
+        "#평택결혼",
+        "#웨딩박람회",
+        "#스드메",
+        "#신혼가전",
+        "#예비부부",
+        "#평택웨딩홀",
+        "#결혼준비시작"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wantwedfair07/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_TRxCXx7GoO.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_6oHEdITUpKJeTXFQDQ.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_5ZpSe1f2Q76.jpg"
+    },
+    "updated_at": "2026-11-23 20:03:22",
+    "revenue": 30000
+  },
+  {
+    "idx": 1432,
+    "campaign_id": "wedingcrowd57",
+    "gather_name": "하남 웨딩크라우드 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "하남 웨딩크라우드 웨딩박람회 | 삼성스토어 신세계하남 상담 혜택",
+      "meta_description": "12월 12일~13일 삼성스토어 신세계하남에서 열리는 하남 웨딩크라우드 웨딩박람회. 스드메, 혼수, 허니문 최신 트렌드를 확인하고 방문자 및 계약자 혜택을 모두 챙기세요.",
+      "keywords": [
+        "하남웨딩박람회",
+        "경기웨딩박람회",
+        "삼성스토어신세계하남",
+        "결혼준비",
+        "스드메견적",
+        "허니문특가",
+        "하남결혼준비",
+        "웨딩박람회일정",
+        "신혼부부혼수",
+        "웨딩홀추천"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 막막함을 해소하고 두 분만의 특별한 예식을 설계하고 싶다면 하남 웨딩크라우드 웨딩박람회를 주목해 주세요. 12월 12일부터 13일까지 삼성스토어 신세계하남에서 열리는 이번 행사는 스드메부터 허니문까지 예식의 전 과정을 전문가와 함께 체계적으로 준비할 수 있는 최적의 기회입니다.",
+      "benefits_description": "이번 박람회는 예비부부를 위한 다채로운 방문 및 계약 혜택을 준비했습니다. 현장 방문만 해도 스타벅스 기프티콘 등 실속 있는 선물을 증정하며, 웨딩(스드메) 및 혼수 계약 시 에어프라이어 등 다양한 사은품을 추가로 제공합니다. 특히 캐스퍼 경품 추첨 기회와 더불어 웨딩 패키지 특가 프로모션까지 준비되어 있으니, 예산에 맞는 합리적인 선택을 도와드릴 것입니다. 구체적인 경품 수령 조건이나 추가 혜택 적용 여부는 현장 상담 시 담당 플래너에게 상세히 문의하여 꼼꼼히 확인해 보세요.",
+      "summary_for_search": "12월 12일~13일 삼성스토어 신세계하남에서 열리는 하남 웨딩크라우드 웨딩박람회. 스드메, 허니문, 혼수 상담 및 방문 혜택과 캐스퍼 경품 추첨 이벤트를 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "하남 대형 웨딩박람회, 삼성스토어 신세계하남에서 만나는 특별한 혜택",
+      "secondary_headline": "스드메, 허니문, 혼수까지 한자리에서! 상담만 받아도 쏟아지는 방문 사은품을 확인하세요.",
+      "urgency_text": "12월 12일 ~ 13일, 단 이틀간 진행되는 특별한 웨딩 페스티벌",
+      "call_to_action_text": "지금 무료 상담 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 시 스타벅스 기프티콘 증정",
+        "방문객 대상 캐스퍼 경품 추첨 기회 제공"
+      ],
+      "contract_benefits": [
+        "웨딩(스드메) 및 혼수 계약 시 사은품 증정",
+        "웨딩 패키지 특가 프로모션 적용",
+        "혼수 계약 시 추가 사은품 증정"
+      ],
+      "special_events": [
+        "삼성 AI 구독 페스티벌 동시 진행",
+        "웨딩홀 무료 비교 견적 서비스"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "하남시",
+        "sigungu_en": "hanam",
+        "address": "경기 하남시 미사대로 750 스타필드 하남 B1",
+        "venue": "삼성스토어 신세계하남",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일",
+        "개인정보 수집 동의"
+      ],
+      "gift_conditions": "경품 및 사은품은 박람회 현장 상담 및 계약 체결 여부에 따라 차등 지급되며, 자세한 조건은 현장 상담 시 안내됩니다.",
+      "trust_indicators": [
+        "삼성스토어 주관 신뢰도 높은 상담",
+        "검증된 업체 중심의 1:1 맞춤형 컨설팅",
+        "웨딩홀 무료 비교 견적 서비스 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "하남 웨딩크라우드 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 신세계하남",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기 하남시",
+            "addressLocality": "하남시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd57/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 신청은 어떻게 하나요?",
+          "answer": "상단 또는 하단의 무료 참가 신청 폼을 통해 이름과 연락처, 예식 예정일을 입력하신 후 제출하시면 상담 예약이 완료됩니다."
+        },
+        {
+          "question": "방문만 해도 혜택을 받을 수 있나요?",
+          "answer": "네, 사전 신청 후 현장 방문 시 스타벅스 기프티콘 등 방문 사은품을 받으실 수 있으며 캐스퍼 경품 추첨에도 자동 응모됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스튜디오, 드레스, 메이크업(스드메)을 포함하여 허니문, 혼수, 예물, 예복, 웨딩홀 등 결혼 준비에 필요한 전 분야 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시 별도의 비용이 발생하나요?",
+          "answer": "박람회 방문 및 상담은 무료로 진행됩니다. 다만, 상담 후 마음에 드는 상품을 계약하실 경우에만 별도의 상품 계약 비용이 발생합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "상세 주차 안내는 장소인 삼성스토어 신세계하남의 정책을 따르며, 행사 당일 혼잡할 수 있으니 방문 전 확인을 권장합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적인 준비를 위해 스드메 패키지 가격을 비교 중인 커플, 6개월 이내 예식을 앞두고 혼수와 신혼여행을 한 번에 해결하고 싶은 신혼부부를 위한 행사입니다. 전문 플래너와 1:1 상담을 통해 나만의 웨딩 콘셉트를 찾고, 합리적인 예산 안에서 완성도 높은 결혼을 준비하고 싶은 분들에게 유익한 정보를 제공합니다.",
+      "exhibitor_highlights": [
+        "스드메(스튜디오·드레스·메이크업) 전문업체",
+        "국내외 허니문 여행사",
+        "웨딩홀 견적 비교 업체",
+        "예물·예복 전문 브랜드",
+        "혼수가전 브랜드"
+      ],
+      "comparison_hooks": [
+        "삼성스토어 내 위치하여 혼수가전과 웨딩 패키지를 동시에 비교",
+        "웨딩홀 무료 비교 견적 및 맞춤형 큐레이션 제공",
+        "상담부터 계약까지 이어지는 투명하고 합리적인 비용 안내"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "스드메 패키지 가격",
+        "하남 웨딩홀 추천",
+        "신혼여행 패키지 비교",
+        "웨딩박람회 사은품",
+        "결혼 준비 체크리스트",
+        "스드메 박람회 차이",
+        "하남 결혼 준비",
+        "웨딩박람회 예약 방법",
+        "혼수 가전 할인"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 웨딩박람회 전체 일정",
+          "category": "gyeonggi_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "예물",
+        "예복",
+        "웨딩촬영",
+        "드레스",
+        "메이크업"
+      ]
+    },
+    "social_meta": {
+      "og_title": "하남 웨딩박람회 | 12월 삼성스토어 신세계하남",
+      "og_description": "결혼 준비, 어디서부터 시작할지 고민이라면? 상담만 받아도 선물이 쏟아지는 하남 웨딩박람회로 오세요!",
+      "hashtags": [
+        "#하남웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#웨딩박람회",
+        "#신혼부부",
+        "#삼성스토어신세계하남",
+        "#웨딩패키지",
+        "#허니문특가",
+        "#혼수가전",
+        "#예비부부"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd57/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_9uJncUXgWw5rkxPVFSavnnPeZWV9dilz.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_AjjhONVnEcGeImm2xeHTD.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_qGs1jeU8hRIWhy77vrzK87YutNLTelV.jpg"
+    },
+    "updated_at": "2026-11-23 20:03:38",
+    "revenue": 30000
+  },
+  {
+    "idx": 1282,
+    "campaign_id": "theshirleywedding02",
+    "gather_name": "안성/평택 더셜리 웨딩 페스타",
+    "organizer_name": "더셜리",
+    "seo_metadata": {
+      "title": "안성·평택 웨딩 페스타 | 스드메 30% 할인 및 방문 사은품 증정",
+      "meta_description": "12월 19일~20일, LG전자 베스트샵 남평택본점에서 열리는 안성·평택 웨딩 페스타! 스드메 최대 30% 할인, 혼수 40% 할인 혜택을 놓치지 마세요. 사전 예약 시 다양한 방문 사은품을 드립니다.",
+      "keywords": [
+        "안성웨딩박람회",
+        "평택웨딩박람회",
+        "결혼준비",
+        "스드메할인",
+        "웨딩페스타",
+        "혼수가전할인",
+        "안성결혼준비",
+        "평택결혼준비",
+        "웨딩박람회일정",
+        "예비부부혜택"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설렘과 막막함을 한 번에 해결하고 싶은 예비부부라면 주목하세요. 12월 19일부터 이틀간 안성·평택에서 열리는 더셜리 웨딩 페스타는 스드메부터 혼수까지 결혼 준비의 전 과정을 합리적인 가격과 혜택으로 비교할 수 있는 기회입니다.",
+      "benefits_description": "이번 웨딩 페스타에서는 스튜디오, 드레스, 메이크업 패키지를 최대 30% 할인된 가격으로 만나보실 수 있습니다. 특히 예물과 예복 등 혼수 품목은 최대 40% 할인 혜택이 적용되어 예산 부담을 크게 줄여드립니다. 상담을 진행하는 모든 분께는 실속 있는 웨딩 사은품이 증정되며, 현장 계약 시 추가적인 업그레이드 혜택까지 준비되어 있습니다. 혜택의 구체적인 적용 조건은 상담 시 전문가에게 직접 확인하여 두 분의 예산에 딱 맞는 계획을 세워보세요.",
+      "summary_for_search": "안성·평택 더셜리 웨딩 페스타가 12월 19일부터 20일까지 LG전자 베스트샵 남평택본점에서 개최됩니다. 스드메 최대 30%, 혼수 40% 할인 혜택을 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "안성·평택 더셜리 웨딩 페스타, 스드메 최대 30% 할인!",
+      "secondary_headline": "결혼 준비의 시작, 혼수부터 스드메까지 1:1 맞춤 상담으로 해결하세요.",
+      "urgency_text": "사전 예약자 대상 선착순 한정 사은품 증정",
+      "call_to_action_text": "무료 초대권 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문 상담 완료 시 선착순 사은품 증정(자료 확인 필요)",
+        "블랑보브 세트 등 실속 선물 제공"
+      ],
+      "contract_benefits": [
+        "스드메 패키지 최대 30% 할인",
+        "혼수·예물 최대 40% 할인",
+        "드레스 업그레이드 혜택",
+        "VIP 메이크업 업그레이드"
+      ],
+      "special_events": [
+        "1:1 전문 웨딩 플래너 맞춤 상담",
+        "허니문 여행지 특별 견적 제공"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-20",
+        "display_date": "12월 19일(토) ~ 12월 20일(일)",
+        "original_display_date": "12월 19일(토) ~ 12월 20일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "안성시",
+        "sigungu_en": "anseong",
+        "address": "경기 안성시 공도읍 진건중길 5",
+        "venue": "LG전자베스트샵 남평택본점 특별행사장",
+        "parking_info": "매장 전용 주차장 완비(무료주차)",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼 예정일",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 방문 상담 완료 시 증정 (안내 자료 내 상세 조건 확인 필요)",
+      "trust_indicators": [
+        "전문 웨딩 플래너 1:1 상담",
+        "다양한 브랜드 입점",
+        "투명한 견적 비교 보장"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "안성/평택 더셜리 웨딩 페스타",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 남평택본점 특별행사장",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "경기 안성시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더셜리",
+          "url": "https://ad.cpaad.co.kr/theshirleywedding02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가는 무료인가요?",
+          "answer": "네, 사전 등록을 하시면 무료로 입장이 가능합니다."
+        },
+        {
+          "question": "상담 예약은 어떻게 하나요?",
+          "answer": "행사 랜딩페이지의 신청 폼에 성함, 연락처, 예식 예정일을 입력하시면 예약이 완료됩니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "LG전자 베스트샵 남평택본점 내 전용 주차장이 마련되어 있어 무료 주차가 가능합니다."
+        },
+        {
+          "question": "계약 혜택은 어떤 것이 있나요?",
+          "answer": "스드메 패키지 할인, 드레스 및 메이크업 업그레이드, 혼수 품목 할인 등 다양한 혜택이 준비되어 있으며 상담 시 자세한 안내를 받으실 수 있습니다."
+        },
+        {
+          "question": "상담 시 준비물이 있나요?",
+          "answer": "특별한 준비물은 없으나, 평소 생각하셨던 예산 범위나 선호하는 웨딩 스타일을 메모해 오시면 더욱 효율적인 상담이 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 예비부부, 효율적이고 합리적인 비용으로 웨딩을 준비하고 싶은 커플을 위한 행사입니다. 아직 막연한 상태에서 무엇부터 해야 할지 고민인 분들, 스드메 구성과 혼수 예산을 비교하고 싶은 분, 신뢰할 수 있는 업체들을 한자리에서 만나보고 싶은 모든 커플들에게 유용한 정보를 제공합니다. 1:1 전문 상담을 통해 자신들만의 스타일을 찾아가고자 하는 예비부부라면 꼭 방문해보세요.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "드레스샵 브랜드",
+        "예물·예복 전문점",
+        "허니문 여행사",
+        "혼수가전 매장"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 비교 가능한 1:1 맞춤형 전문 상담",
+        "스드메 및 혼수 품목별 파격적인 할인 혜택",
+        "결혼 준비의 시작부터 끝까지 한자리에서 해결"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 박람회 가면 좋은 점",
+        "스드메 패키지 비용",
+        "평택 웨딩홀 추천",
+        "혼수가전 저렴하게 사는 법",
+        "웨딩박람회 상담 팁",
+        "결혼 준비 체크리스트",
+        "웨딩 플래너 상담 비용",
+        "신혼여행 패키지 비교",
+        "예복 예물 업체 리스트"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "웨딩박람회 일정 모아보기",
+          "category": "wedding_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "웨딩드레스",
+        "혼수가전",
+        "신혼여행",
+        "예복",
+        "예물",
+        "결혼 준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "안성/평택 더셜리 웨딩 페스타 | 최대 혜택 확인",
+      "og_description": "예비부부를 위한 최고의 결혼 준비 기회! 12월 19일~20일, 스드메·혼수 할인 혜택을 직접 확인하세요.",
+      "hashtags": [
+        "#안성웨딩박람회",
+        "#평택웨딩박람회",
+        "#결혼준비",
+        "#웨딩페스타",
+        "#스드메",
+        "#혼수준비",
+        "#예비부부",
+        "#웨딩혜택",
+        "#결혼박람회",
+        "#더셜리웨딩"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theshirleywedding02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ozte83NHOFN5Gdm.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4S8cInBanIUSo5.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_rCum4cs3Il7aIM3.jpg"
+    },
+    "updated_at": "2026-11-23 20:03:56",
+    "revenue": 30000
+  },
+  {
+    "campaign_id": "theshirleyweddingH02",
+    "gather_name": "안성/평택 더셜리 허니문 페스타",
+    "organizer_name": "더셜리",
+    "seo_metadata": {
+      "title": "안성·평택 더셜리 허니문 페스타 | 신혼여행 1:1 맞춤 상담 및 특전",
+      "meta_description": "12월 19일~20일, LG전자베스트샵 남평택본점에서 열리는 안성·평택 더셜리 허니문 페스타! 예비부부를 위한 허니문 특가와 VVIP 업그레이드 혜택, 선착순 증정 선물을 지금 사전등록으로 확인하세요.",
+      "keywords": [
+        "안성웨딩박람회",
+        "평택웨딩박람회",
+        "신혼여행박람회",
+        "허니문특가",
+        "결혼준비",
+        "신혼여행상담",
+        "더셜리허니문",
+        "평택결혼준비",
+        "안성신혼여행",
+        "LG전자베스트샵남평택본점"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 설렘만큼 중요한 것이 바로 신혼여행입니다. 안성·평택 더셜리 허니문 페스타는 복잡한 허니문 계획을 전문 상담을 통해 명확하게 정리하고, 예비부부 두 분만의 특별한 여행을 설계할 수 있는 기회입니다.",
+      "benefits_description": "이번 페스타에서는 방문만 하셔도 여행 필수품인 샤워필터기, 여행용 캐리어, 담은 마스크팩 등 다양한 선물을 증정합니다. 또한, 상담을 진행하시는 모든 분께는 비교 견적 최저가 도전 기회와 더불어 각 나라별 VVIP 업그레이드 혜택을 제공합니다. 10년 이상 경력 전문가들이 직접 1:1 맞춤 상담을 진행하니, 두 분의 예산과 취향에 딱 맞는 허니문을 실속 있게 준비해 보세요.",
+      "summary_for_search": "12월 19일-20일 안성/평택 더셜리 허니문 페스타 개최! 신혼여행 맞춤 상담과 VVIP 업그레이드 혜택, 방문객 전원 증정 선물까지 풍성한 혜택을 놓치지 마세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "안성/평택 신혼여행 페스타, 지금 사전 예약하고 VVIP 특전 받으세요",
+      "secondary_headline": "10년 경력 전문가의 1:1 맞춤 상담과 예비부부만을 위한 단독 허니문 프로모션",
+      "urgency_text": "이번 주말 12월 19일~20일, 이틀간 진행되는 특별 행사!",
+      "call_to_action_text": "무료 초대권 신청하고 혜택 확인하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "전원 100% 증정 여행용 라면포트",
+        "여행 필수품 여행용 샤워필터기",
+        "프리미엄 여행용 캐리어",
+        "담은 마스크팩 1BOX",
+        "멜튼브라운 헤어/바디 트래블 키트"
+      ],
+      "contract_benefits": [
+        "각 나라별 VVIP 업그레이드 혜택",
+        "비교 견적 최저가 도전",
+        "10년 이상 경력 전문가 1:1 상담",
+        "제휴처 프리미엄 건강검진 혜택"
+      ],
+      "special_events": [
+        "국가별 맞춤 신혼여행 큐레이션",
+        "전문가 1:1 맞춤 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-20",
+        "display_date": "12월 19일(토) ~ 12월 20일(일)",
+        "original_display_date": "12월 19일(토) ~ 12월 20일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "안성시",
+        "sigungu_en": "anseong",
+        "address": "경기 안성시 공도읍 진건중길 5",
+        "venue": "LG전자베스트샵 남평택본점 특별행사장",
+        "parking_info": "무료주차 가능",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "결혼예정일",
+        "허니문지역",
+        "허니문예정일",
+        "방문예정일"
+      ],
+      "gift_conditions": "사전 등록 후 현장 방문 상담 완료 시 제공 (일부 품목은 상담 및 계약 조건에 따라 상이할 수 있으니 현장 확인 권장)",
+      "trust_indicators": [
+        "10년 이상 경력의 허니문 전문가 배치",
+        "LG전자베스트샵 특별행사장 개최",
+        "24시간 한국어 대응 서비스 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "안성/평택 더셜리 허니문 페스타",
+        "startDate": "2026-12-19",
+        "endDate": "2026-12-20",
+        "location": {
+          "@type": "Place",
+          "name": "LG전자베스트샵 남평택본점",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "경기 안성시 공도읍 진건길 16-4",
+            "addressLocality": "안성시",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더셜리",
+          "url": "https://ad.cpaad.co.kr/theshirleyweddingH02/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 사전 신청은 필수인가요?",
+          "answer": "네, 사전 신청을 하시면 무료 초대권과 함께 현장에서 방문 혜택 및 상담 우선권을 받으실 수 있습니다."
+        },
+        {
+          "question": "상담 시 무엇을 준비해야 하나요?",
+          "answer": "예식 예정일과 원하는 신혼여행 후보지 또는 대략적인 예산을 미리 상의하고 오시면 더욱 정확한 상담이 가능합니다."
+        },
+        {
+          "question": "방문 사은품은 모든 사람에게 지급되나요?",
+          "answer": "행사 방문 및 상담 완료 고객을 대상으로 증정됩니다. 구체적인 수량과 조건은 행사 당일 주최 측에 확인하시기 바랍니다."
+        },
+        {
+          "question": "현장에서 바로 계약해야 하나요?",
+          "answer": "아니오, 페스타 현장에서는 전문가와 1:1 맞춤 상담을 진행하며 정보를 비교해보시는 자리입니다. 계약 여부는 충분히 고려하신 후 결정하실 수 있습니다."
+        },
+        {
+          "question": "주차가 가능한가요?",
+          "answer": "네, LG전자베스트샵 남평택본점 행사장 내 무료 주차가 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 신혼여행지 고민이 많은 예비부부, 스드메 준비와 함께 효율적인 허니문 패키지를 찾고 있는 신혼부부를 위한 행사입니다. 특히 막연한 여행 계획보다는 전문가의 1:1 큐레이션을 통해 합리적인 가격과 VVIP 업그레이드 혜택을 챙기고 싶은 커플에게 최적화되어 있습니다. 평택·안성 지역에서 결혼을 준비 중이며, 허니문뿐만 아니라 혼수 가전 등 결혼 준비 전반에 대한 신뢰할 수 있는 정보를 얻고 싶은 분들께 추천합니다.",
+      "exhibitor_highlights": [
+        "허니문 전문 여행사",
+        "허니문 패키지 구성 업체",
+        "LG전자 혼수 가전 상담"
+      ],
+      "comparison_hooks": [
+        "현장 1:1 맞춤 상담으로 신뢰도 높은 정보 제공",
+        "각 나라별 VVIP 업그레이드 등 페스타 단독 혜택 구성",
+        "비교 견적 최저가 도전을 통한 실질적인 비용 절감 제안"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "신혼여행지 추천",
+        "허니문 박람회 혜택",
+        "평택 웨딩 준비",
+        "신혼여행 패키지 비용",
+        "결혼 박람회 방문 후기",
+        "허니문 VVIP 업그레이드",
+        "안성 가볼 만한 웨딩 행사",
+        "신혼여행 상담 시 필수 질문",
+        "허니문 여행사 선택 기준",
+        "웨딩박람회 사기 예방법"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "경기 지역 웨딩박람회 일정",
+          "category": "gyeonggi_events"
+        },
+        {
+          "anchor": "신혼여행 준비 체크리스트",
+          "category": "honeymoon_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "허니문",
+        "신혼여행",
+        "결혼준비",
+        "스드메",
+        "예비부부",
+        "여행사",
+        "패키지",
+        "혼수",
+        "가전상담",
+        "웨딩상담"
+      ]
+    },
+    "social_meta": {
+      "og_title": "안성/평택 더셜리 허니문 페스타, 무료 사전 신청하기",
+      "og_description": "12/19-20 LG전자 남평택본점! 예비부부를 위한 신혼여행 특전과 방문 선물까지 모두 챙기세요.",
+      "hashtags": [
+        "#안성웨딩박람회",
+        "#평택웨딩박람회",
+        "#신혼여행박람회",
+        "#허니문준비",
+        "#더셜리허니문",
+        "#결혼준비",
+        "#예비부부",
+        "#신혼여행지추천",
+        "#평택데이트",
+        "#웨딩이벤트"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theshirleyweddingH02/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_vmFny2D1eSIcIPeQyLGtlKWKQl5GWCR.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_fKsZrMU2om.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_MFLgm2Gohh9f.jpg"
+    },
+    "updated_at": "2026-11-23 20:04:10"
+  },
+  {
+    "idx": 1549,
+    "campaign_id": "wncowedding05",
+    "gather_name": "수원 웨딩박람회",
+    "organizer_name": "더블유앤코",
+    "seo_metadata": {
+      "title": "수원 웨딩박람회 | 타임빌라스 수원 특별전 상담 혜택 안내",
+      "meta_description": "12월 5일~6일 타임빌라스 수원에서 열리는 수원 웨딩박람회. 스드메 패키지, 예물, 한복, 맞춤정장 상담 시 증정되는 다양한 선물과 특별 할인 혜택을 지금 확인하고 사전등록하세요.",
+      "keywords": [
+        "수원 웨딩박람회",
+        "타임빌라스 수원 웨딩",
+        "수원 결혼준비",
+        "수원 스드메",
+        "결혼박람회 일정",
+        "수원 예물",
+        "수원 맞춤정장",
+        "수원 한복",
+        "웨딩홀 추천",
+        "2026 결혼 준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼을 앞둔 예비부부라면 타임빌라스 수원에서 열리는 이번 특별 박람회를 주목해 주세요. 스드메 구성부터 예물, 혼수 가전까지 결혼 준비의 모든 과정을 한자리에서 비교하고 실속 있는 혜택을 챙기실 수 있습니다.",
+      "benefits_description": "박람회 현장에서는 방문만 하셔도 100% 증정되는 사은품과 상담 완료 시 제공되는 데일리 토스터기 등 풍성한 선물 보따리가 준비되어 있습니다. 또한 스드메 계약 시 최고급 웨딩액자, 웨딩드레스 무료 피팅권, 본식 사진 원본 무료 제공 등 예비부부의 예산 부담을 덜어줄 특별 혜택이 기다리고 있습니다. 계약 혜택은 상담 분야와 업체별 조건이 다를 수 있으니, 현장에서 상담받으실 때 포함 항목과 추가 비용 여부를 꼼꼼히 확인해 보시길 바랍니다.",
+      "summary_for_search": "12월 5일~6일 타임빌라스 수원에서 개최되는 수원 웨딩박람회. 스드메, 혼수, 예물 등 결혼 준비 전반에 걸친 상담 혜택과 사전등록 이벤트를 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "수원 웨딩박람회, 타임빌라스 수원 특별전 초대",
+      "secondary_headline": "결혼 준비의 모든 것, 현장 방문 및 계약 시 드리는 특별한 선물과 할인 혜택을 지금 확인하세요.",
+      "urgency_text": "12월 5일 ~ 6일, 주말 한정 개최",
+      "call_to_action_text": "무료 사전등록하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "상담 완료 시 데일리 토스터기 증정",
+        "방문 고객 100% 증정 사은품"
+      ],
+      "contract_benefits": [
+        "스드메 계약 시 최고급 웨딩액자 증정",
+        "웨딩드레스 무료 피팅권",
+        "본식 사진 원본 무료",
+        "가전 구매 등 계약 축하 사은품"
+      ],
+      "special_events": [
+        "웨딩홀 특별 이벤트",
+        "스몰하우스 웨딩 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "경기",
+        "sido_en": "gyeonggi",
+        "sigungu": "수원시",
+        "sigungu_en": "suwon",
+        "address": "경기 수원시 권선구 세화로 134",
+        "venue": "타임빌라스 수원 B1 특별행사장",
+        "parking_info": "현장 주차 이용 가능 (상세 확인 요망)",
+        "region_code": "gyeonggi"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "상담 완료 및 현장 이벤트 참여 조건 충족 시 증정",
+      "trust_indicators": [
+        "타임빌라스 수원 개최",
+        "주요 품목별 특별 할인 혜택",
+        "1:1 맞춤 상담 진행"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "수원 웨딩박람회",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "타임빌라스 수원",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "B1 특별행사장",
+            "addressLocality": "수원시",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "organizer": {
+          "@type": "Organization",
+          "name": "더블유앤코",
+          "url": "https://ad.cpaad.co.kr/wncowedding05/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전등록을 통해 무료로 관람 및 상담이 가능합니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메 업체, 웨딩홀, 예물, 한복, 맞춤정장, 가전 브랜드 등 다양한 웨딩 관련 업체가 참여합니다."
+        },
+        {
+          "question": "상담은 어떻게 진행되나요?",
+          "answer": "분야별 전문가와 1:1 상담을 통해 맞춤형 견적을 받아보실 수 있습니다."
+        },
+        {
+          "question": "사은품은 어떻게 받나요?",
+          "answer": "방문 및 상담 완료 등 정해진 조건을 충족하시면 현장에서 수령 가능합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "타임빌라스 수원 내 주차 시설을 이용하실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼 준비를 처음 시작하여 어디서부터 무엇을 해야 할지 고민인 예비부부, 효율적으로 스드메 예산을 비교하고 싶은 신혼부부, 그리고 믿을 수 있는 웨딩 업체 정보를 한곳에서 확인하고 싶은 분들에게 적합합니다. 박람회를 통해 결혼식 준비의 전체적인 흐름을 파악하고, 각 분야 전문가의 1:1 상담을 통해 나만의 웨딩 콘셉트를 구체화할 수 있습니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 업체",
+        "예물 브랜드",
+        "혼수 가전(삼성 AI 가전)",
+        "맞춤정장 전문점",
+        "한복 대여/맞춤 업체"
+      ],
+      "comparison_hooks": [
+        "복잡한 결혼 준비를 한 곳에서 해결하는 원스톱 솔루션",
+        "현장 상담 고객을 위한 가전 및 생활용품 사은품 제공",
+        "업체별 차별화된 특별 할인 및 부가 서비스 혜택"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "수원 웨딩홀 추천",
+        "수원 스드메 견적 비교",
+        "결혼 준비 체크리스트",
+        "수원 예물 투어",
+        "웨딩박람회 방문 혜택",
+        "수원 맞춤정장 가격",
+        "결혼 박람회 준비물",
+        "웨딩홀 계약 시 주의사항",
+        "스몰웨딩 비용",
+        "수원 웨딩박람회 일정"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "수원 웨딩홀 정보 확인",
+          "category": "wedding_venue"
+        },
+        {
+          "anchor": "스드메 패키지 상담 안내",
+          "category": "sdm_guide"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "웨딩홀",
+        "예물",
+        "혼수",
+        "한복",
+        "맞춤정장",
+        "결혼준비",
+        "웨딩박람회",
+        "본식스냅",
+        "예식장"
+      ]
+    },
+    "social_meta": {
+      "og_title": "수원 웨딩박람회 | 타임빌라스 수원 개최",
+      "og_description": "12월 5일-6일, 결혼 준비의 시작을 수원 웨딩박람회와 함께하세요. 현장 상담 혜택과 특별한 선물이 가득합니다.",
+      "hashtags": [
+        "#수원웨딩박람회",
+        "#수원결혼준비",
+        "#타임빌라스수원",
+        "#수원스드메",
+        "#결혼준비",
+        "#예비부부",
+        "#웨딩박람회혜택",
+        "#수원예물",
+        "#수원맞춤정장",
+        "#수원한복"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wncowedding05/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_peAk7krRTYN9uKO3cYQVdTtQ3Lc3.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_H35nrpVGxxYIrA.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202412/2337ea9ac0ebeb271ae4fe609b8d7149_SKTo9H2QyYirljcc.jpg"
+    },
+    "updated_at": "2026-11-23 20:04:25",
+    "revenue": 30000
   }
 ]
