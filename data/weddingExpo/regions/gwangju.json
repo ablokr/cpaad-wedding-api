@@ -421,5 +421,206 @@
     },
     "updated_at": "2026-11-17 20:00:24",
     "revenue": 30000
+  },
+  {
+    "idx": 1086,
+    "campaign_id": "theBWSF01",
+    "gather_name": "광주 스타일링 웨딩페어",
+    "organizer_name": "더베스트 웨딩페어",
+    "seo_metadata": {
+      "title": "광주 스타일링 웨딩페어 | 더베스트웨딩컴퍼니 박람회 혜택 안내",
+      "meta_description": "광주 동구 더베스트웨딩컴퍼니에서 열리는 광주 스타일링 웨딩페어! 사전 예약 시 증정품과 결혼준비 특전 쿠폰 등 예비부부를 위한 실속 있는 혜택을 확인하세요.",
+      "keywords": [
+        "광주웨딩박람회",
+        "광주결혼준비",
+        "광주웨딩홀",
+        "광주스드메",
+        "광주웨딩페어",
+        "더베스트웨딩컴퍼니",
+        "광주예물",
+        "광주허니문",
+        "광주한복",
+        "광주가전"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비를 시작하며 어디서부터 손을 대야 할지 막막한 예비부부님들을 위해 광주 스타일링 웨딩페어가 열립니다. 이번 행사는 예식장부터 스드메, 혼수 가전까지 결혼 준비의 전 과정을 한자리에서 비교하고 상담받을 수 있는 특별한 기회입니다.",
+      "benefits_description": "상담을 통해 스드메, 예물, 한복 등 각 분야별 특전 쿠폰을 활용해 합리적인 예산을 계획할 수 있습니다. 사전 예약 고객에게는 방문 선물과 함께 현장 상담 시 추가 혜택이 제공되니, 박람회 방문 전 필요한 상담 항목을 미리 체크해 보세요. 혜택의 적용 조건이나 포함 범위는 브랜드마다 상이할 수 있으니 상담 시 직접 확인하는 것이 가장 정확합니다.",
+      "summary_for_search": "광주 동구 더베스트웨딩컴퍼니에서 개최되는 광주 스타일링 웨딩페어! 예식장 상담부터 스드메 패키지, 혼수 가전 혜택까지 한자리에서 만나보세요. 사전 예약으로 다양한 상담 특전을 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "광주 예비부부를 위한 1:1 스타일링 웨딩페어",
+      "secondary_headline": "결혼 준비부터 허니문까지, 더베스트웨딩컴퍼니가 제안하는 완벽한 웨딩 솔루션",
+      "urgency_text": "이번 주말, 광주 동구에서 만나는 한정 상담 혜택",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "사전 예약 방문 고객 대상 증정품 제공",
+        "상담 완료 고객 대상 스타벅스 쿠폰 제공"
+      ],
+      "contract_benefits": [
+        "결혼준비 특전 쿠폰 팩 제공",
+        "브랜드별 최대 할인 혜택",
+        "웨딩홀 단독 특전 제공"
+      ],
+      "special_events": [
+        "1:1 전문 웨딩 플래너 상담",
+        "신상 드레스 전시 및 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-06",
+        "display_date": "12월 05일(토) ~ 12월 06일(일)",
+        "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+      },
+      "location": {
+        "sido": "광주",
+        "sido_en": "gwangju",
+        "sigungu": "동구",
+        "sigungu_en": "dong",
+        "address": "광주 동구 서석로 13-1 3층",
+        "venue": "더베스트웨딩컴퍼니 사옥",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "jeolla"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "연간 1,300쌍 이상의 커플 선택",
+        "광주 지역 전문 웨딩 페어",
+        "검증된 입점 업체 브랜드"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "광주 스타일링 웨딩페어",
+        "startDate": "2026-12-05",
+        "endDate": "2026-12-06",
+        "location": {
+          "@type": "Place",
+          "name": "더베스트웨딩컴퍼니 사옥",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "광주 동구",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "더베스트 웨딩페어",
+          "url": "https://ad.cpaad.co.kr/theBWSF01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 신청은 어떻게 하나요?",
+          "answer": "온라인 랜딩페이지를 통해 성함과 연락처, 예식 예정일을 입력하여 사전 예약 신청이 가능합니다."
+        },
+        {
+          "question": "방문 선물은 누구나 받을 수 있나요?",
+          "answer": "사전 예약 후 행사장에 방문하여 상담을 완료하신 고객님께 제공됩니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "웨딩홀, 스드메 패키지, 예물, 한복, 가전 등 결혼 준비에 필요한 전 카테고리 업체가 참여합니다."
+        },
+        {
+          "question": "상담 시 무엇을 준비해야 하나요?",
+          "answer": "예식 예정일과 대략적인 예산 범위를 생각하고 오시면 상담 시 더 구체적인 견적을 받으실 수 있습니다."
+        },
+        {
+          "question": "박람회 참가비는 있나요?",
+          "answer": "사전 등록 시 무료로 입장이 가능합니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "광주에서 결혼을 앞두고 예식장 섭외부터 스드메, 혼수까지 효율적인 준비를 원하는 모든 예비부부를 대상으로 합니다. 특히 어디서부터 무엇을 준비해야 할지 막막한 초보 예비부부, 바쁜 일상 속에서 여러 업체를 일일이 방문하기 어려운 직장인 커플, 그리고 전문가의 1:1 상담을 통해 나만의 스타일링을 찾고 싶은 분들에게 적합합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀",
+        "스드메 패키지",
+        "예물 브랜드",
+        "한복 업체",
+        "혼수 가전",
+        "허니문 여행사"
+      ],
+      "comparison_hooks": [
+        "광주 지역 1,300쌍이 선택한 검증된 웨딩페어",
+        "분야별 전문 플래너 1:1 밀착 상담 지원",
+        "사전 예약자 전용 특전 쿠폰 및 방문 혜택 제공"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "광주 웨딩박람회 일정",
+        "광주 스드메 추천",
+        "광주 웨딩홀 투어 팁",
+        "결혼 준비 체크리스트",
+        "웨딩박람회 방문 이유",
+        "스드메 패키지 가격대",
+        "광주 결혼 가전 가구",
+        "박람회 상담 예약 방법",
+        "예물 예복 준비 시기",
+        "허니문 여행사 비교"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "광주 웨딩박람회 일정 전체보기",
+          "category": "gwangju_wedding_event"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "결혼준비",
+        "혼수가전",
+        "신혼여행",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "광주 스타일링 웨딩페어 | 12월 사전 예약 진행",
+      "og_description": "광주 예비부부 주목! 지금 사전 예약하면 상담 특전과 방문 선물까지 모두 챙길 수 있습니다.",
+      "hashtags": [
+        "#광주웨딩박람회",
+        "#광주결혼준비",
+        "#광주웨딩홀",
+        "#광주스드메",
+        "#더베스트웨딩컴퍼니",
+        "#광주예비부부",
+        "#결혼준비",
+        "#웨딩페어",
+        "#광주결혼",
+        "#웨딩상담"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/theBWSF01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_KFo6sX8uzHo1OTKK3Dsau56FGkCsPr2.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_garyfqPnsNuORcdBG598K1NdcN.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_bByhNtTFmCD2YP924ueF3QF9TOjIdND.jpg"
+    },
+    "updated_at": "2026-11-24 14:00:19",
+    "revenue": 30000
   }
 ]
