@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 153,
+    "total_count": 159,
     "region_count": 16,
-    "district_count": 49,
-    "updated_at": "2026-11-23 19:06:40"
+    "district_count": 50,
+    "updated_at": "2026-11-24 10:02:22"
   },
   "items": [
     {
@@ -1967,6 +1967,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1653,
       "campaign_id": "banhanaH06",
       "gather_name": "울산 반하나 허니문 박람회",
       "display_date": "11월 28일(토) ~ 11월 29일(일)",
@@ -1975,7 +1976,8 @@
       "sigungu": "북구",
       "region_en": "ulsan",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_XnsNzCAhHO64XQPCVPWCoVcrmLc.jpg",
-      "updated_at": "2026-11-23 19:06:24"
+      "updated_at": "2026-11-23 19:06:24",
+      "revenue": 30000
     },
     {
       "idx": 1354,
@@ -1988,6 +1990,82 @@
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_589TgfzMXhXFoqSM5x61nfhtsiXK.jpg",
       "updated_at": "2026-11-23 19:06:40",
+      "revenue": 30000
+    },
+    {
+      "campaign_id": "wedingcrowd108",
+      "gather_name": "용산 아이파크몰 대형 웨딩박람회",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "롯데하이마트 용산아이파크몰",
+      "sido": "서울",
+      "sigungu": "용산구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_NfabT7aBZNRPVJJR656toBwfEfrCQ.jpg",
+      "updated_at": "2026-11-24 10:00:22"
+    },
+    {
+      "idx": 1888,
+      "campaign_id": "wedingcrowd119",
+      "gather_name": "수원 스타필드 웨딩박람회",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "한샘 스타필드수원점",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_dWMqZCcaEZ.jpg",
+      "updated_at": "2026-11-24 10:01:11",
+      "revenue": 30000
+    },
+    {
+      "idx": 1666,
+      "campaign_id": "wedingcrowd91",
+      "gather_name": "시흥 웨딩크라우드 웨딩박람회",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "venue": "삼성스토어 신세계시흥프리미엄아울렛",
+      "sido": "경기",
+      "sigungu": "시흥시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_GshZnxqAsXCE2GOgSIc.jpg",
+      "updated_at": "2026-11-24 10:01:28",
+      "revenue": 30000
+    },
+    {
+      "idx": 1593,
+      "campaign_id": "wedingcrowd77",
+      "gather_name": "의정부 웨딩크라우드 웨딩박람회",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "삼성스토어 신세계 의정부점 특별행사장",
+      "sido": "경기",
+      "sigungu": "의정부시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_tcjtvJav.jpg",
+      "updated_at": "2026-11-24 10:01:45",
+      "revenue": 30000
+    },
+    {
+      "idx": 1084,
+      "campaign_id": "wedingcrowd10",
+      "gather_name": "송도컨벤시아 웨딩박람회",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "venue": "송도컨벤시아 특별행사장",
+      "sido": "인천",
+      "sigungu": "연수구",
+      "region_en": "incheon",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_wcI19YrQz9cL1axPg.jpg",
+      "updated_at": "2026-11-24 10:02:06",
+      "revenue": 30000
+    },
+    {
+      "idx": 1068,
+      "campaign_id": "wedingcrowd01",
+      "gather_name": "천안아산 초대형웨딩박람회",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "모나밸리 특별행사장",
+      "sido": "충남",
+      "sigungu": "아산시",
+      "region_en": "chungnam",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_Gd6o39tNQLWAAv7pqK.jpg",
+      "updated_at": "2026-11-24 10:02:22",
       "revenue": 30000
     }
   ]
