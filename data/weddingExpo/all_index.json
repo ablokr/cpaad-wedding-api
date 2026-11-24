@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 153,
+    "total_count": 155,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-11-23 20:08:10"
+    "updated_at": "2026-11-24 14:00:35"
   },
   "items": [
     {
@@ -1650,6 +1650,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1777,
       "campaign_id": "wedingcrowd108",
       "gather_name": "용산 아이파크몰 대형 웨딩박람회",
       "display_date": "12월 05일(토) ~ 12월 06일(일)",
@@ -1658,7 +1659,8 @@
       "sigungu": "용산구",
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_NfabT7aBZNRPVJJR656toBwfEfrCQ.jpg",
-      "updated_at": "2026-11-23 20:00:38"
+      "updated_at": "2026-11-23 20:00:38",
+      "revenue": 30000
     },
     {
       "idx": 1329,
@@ -1893,6 +1895,7 @@
       "revenue": 30000
     },
     {
+      "idx": 1069,
       "campaign_id": "wedingcrowd02",
       "gather_name": "춘천 웨딩크라우드 웨딩박람회",
       "display_date": "12월 05일(토) ~ 12월 06일(일)",
@@ -1901,9 +1904,11 @@
       "sigungu": "춘천시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_wX8OPX1uP9I.jpg",
-      "updated_at": "2026-11-23 20:06:11"
+      "updated_at": "2026-11-23 20:06:11",
+      "revenue": 30000
     },
     {
+      "idx": 1545,
       "campaign_id": "wncowedding04",
       "gather_name": "원주 웨딩박람회",
       "display_date": "12월 05일(토) ~ 12월 06일(일)",
@@ -1912,7 +1917,8 @@
       "sigungu": "원주시",
       "region_en": "gangwon",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202411/2337ea9ac0ebeb271ae4fe609b8d7149_T1lvrj4bHb.jpg",
-      "updated_at": "2026-11-23 20:06:27"
+      "updated_at": "2026-11-23 20:06:27",
+      "revenue": 30000
     },
     {
       "idx": 1789,
@@ -1990,6 +1996,32 @@
       "region_en": "seoul",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_UyxMpiDeJuE88lnTYTuekTXc.jpg",
       "updated_at": "2026-11-23 20:08:10",
+      "revenue": 30000
+    },
+    {
+      "idx": 1086,
+      "campaign_id": "theBWSF01",
+      "gather_name": "광주 스타일링 웨딩페어",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "더베스트웨딩컴퍼니 사옥",
+      "sido": "광주",
+      "sigungu": "동구",
+      "region_en": "gwangju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_garyfqPnsNuORcdBG598K1NdcN.jpg",
+      "updated_at": "2026-11-24 14:00:19",
+      "revenue": 30000
+    },
+    {
+      "idx": 1801,
+      "campaign_id": "bwithk01",
+      "gather_name": "제주 MBC 웨딩페어",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "venue": "제주 드림타워 4층 특별행사장",
+      "sido": "제주",
+      "sigungu": "제주시",
+      "region_en": "jeju",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_A42t8hOynP8FIA3GgpPaLgial.jpg",
+      "updated_at": "2026-11-24 14:00:35",
       "revenue": 30000
     }
   ]
