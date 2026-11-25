@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 157,
+    "total_count": 160,
     "region_count": 16,
-    "district_count": 49,
-    "updated_at": "2026-11-25 14:01:04"
+    "district_count": 50,
+    "updated_at": "2026-11-25 20:04:39"
   },
   "items": [
     {
@@ -1104,17 +1104,15 @@
       "revenue": 30000
     },
     {
-      "idx": 1301,
       "campaign_id": "wedingcrowd37",
-      "gather_name": "현대백화점 판교점 웨딩박람회",
+      "gather_name": "판교 대형 웨딩박람회",
       "display_date": "12월 12일(토) ~ 12월 13일(일)",
       "venue": "현대백화점 판교점 7층 특별전시장",
       "sido": "경기",
       "sigungu": "성남시",
       "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202310/42635e34d702a842a5408bf099b3a49d_axxPd2uWDCItG9tP5X7KM.jpg",
-      "updated_at": "2026-11-16 20:03:39",
-      "revenue": 30000
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_sd76mHXbXd69uG17Nn.jpg",
+      "updated_at": "2026-11-25 20:03:43"
     },
     {
       "idx": 1836,
@@ -1754,19 +1752,6 @@
       "revenue": 30000
     },
     {
-      "idx": 1881,
-      "campaign_id": "wantwedfair07",
-      "gather_name": "평택 원트웨딩 웨딩박람회",
-      "display_date": "12월 12일(토) ~ 12월 13일(일)",
-      "venue": "LG전자베스트샵 AK PLAZA 평택점",
-      "sido": "경기",
-      "sigungu": "평택시",
-      "region_en": "gyeonggi",
-      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202609/568762912459e51e2cbac9155f241418_6oHEdITUpKJeTXFQDQ.jpg",
-      "updated_at": "2026-11-23 20:03:22",
-      "revenue": 30000
-    },
-    {
       "idx": 1432,
       "campaign_id": "wedingcrowd57",
       "gather_name": "하남 웨딩크라우드 웨딩박람회",
@@ -2048,6 +2033,58 @@
       "region_en": "chungbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_lt5gMFukM6Cgy1.jpg",
       "updated_at": "2026-11-25 14:00:35",
+      "revenue": 30000
+    },
+    {
+      "idx": 1604,
+      "campaign_id": "weddingplus12",
+      "gather_name": "웨딩더하기 영등포웨딩박람회",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "venue": "신세계 타임스퀘어점 3층 LG전자베스트샵",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_VuXBkhRzx1kq7V2i722go2XW6.jpg",
+      "updated_at": "2026-11-25 20:03:09",
+      "revenue": 30000
+    },
+    {
+      "idx": 1681,
+      "campaign_id": "weddingplus14",
+      "gather_name": "롯데백화점 안양평촌점 웨딩박람회",
+      "display_date": "12월 19일(토) ~ 12월 20일(일)",
+      "venue": "LG전자베스트샵 롯데백화점 평촌점 특별행사장",
+      "sido": "경기",
+      "sigungu": "안양시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_TOlpAMDiVuRO6.jpg",
+      "updated_at": "2026-11-25 20:03:27",
+      "revenue": 30000
+    },
+    {
+      "idx": 1887,
+      "campaign_id": "weddingan07",
+      "gather_name": "건대 웨딩박람회",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "venue": "LG전자베스트샵 건대스타시티점",
+      "sido": "서울",
+      "sigungu": "광진구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_YJjtVyknMc6xlZvxtFrPnr.jpg",
+      "updated_at": "2026-11-25 20:04:05",
+      "revenue": 30000
+    },
+    {
+      "idx": 1718,
+      "campaign_id": "weddingan04",
+      "gather_name": "영등포 웨딩박람회",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "venue": "LG전자베스트샵 롯데영등포점",
+      "sido": "서울",
+      "sigungu": "영등포구",
+      "region_en": "seoul",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_pra1dft1kRjxOF1.jpg",
+      "updated_at": "2026-11-25 20:04:39",
       "revenue": 30000
     }
   ]
