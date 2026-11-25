@@ -1,0 +1,209 @@
+{
+  "idx": 1887,
+  "campaign_id": "weddingan07",
+  "gather_name": "건대 웨딩박람회",
+  "organizer_name": "웨딩소담",
+  "seo_metadata": {
+    "title": "건대 웨딩박람회 | 서울 광진구 스드메 최저가 상담 및 방문 혜택",
+    "meta_description": "2026년 12월 5일~6일, LG전자베스트샵 건대스타시티점에서 열리는 건대 웨딩박람회. 스드메 최저가 보장, 블랙라벨 드레스 업그레이드 등 예비부부를 위한 특별 혜택을 확인하세요.",
+    "keywords": [
+      "건대 웨딩박람회",
+      "서울 웨딩박람회",
+      "광진구 결혼준비",
+      "스드메 최저가",
+      "웨딩홀 섭외",
+      "예물 예복 할인",
+      "신혼여행 상담",
+      "결혼 준비 박람회",
+      "LG전자베스트샵 건대스타시티점",
+      "스드메 패키지"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하셨나요? 어디서부터 무엇을 준비해야 할지 막막한 예비부부를 위해 건대 웨딩박람회가 특별한 솔루션을 제안합니다. 스드메 패키지부터 예물, 예복, 허니문까지 20년 차 웨딩 디렉터의 맞춤형 가이드를 통해 실속 있게 결혼을 준비해 보세요.",
+    "benefits_description": "이번 박람회는 방문만 해도 선물을 증정하며, 상담 시 스드메 국내 최저가 보장 혜택을 제공합니다. 특히 드레스 블랙라벨 무료 업그레이드 및 2부 드레스 서비스 등 예비 신부님을 위한 맞춤 혜택이 마련되어 있습니다. 예복 및 예물 브랜드의 특별 할인까지 더해져 예산 절감의 기회를 잡을 수 있으니, 상세 상담을 통해 나에게 맞는 구성을 확인해 보세요.",
+    "summary_for_search": "2026년 12월 5일~6일 LG전자베스트샵 건대스타시티점 건대 웨딩박람회 개최. 스드메 최저가 보장, 방문 선물 증정, 예복 및 예물 할인 혜택을 만나보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 시작, 건대 웨딩박람회에서 스드메 최저가 보장",
+    "secondary_headline": "20년 차 웨딩 디렉터의 맞춤 상담으로 예산에 맞춰 똑똑하게 준비하세요.",
+    "urgency_text": "하루 30쌍만 모십니다. 서둘러 사전등록하세요.",
+    "call_to_action_text": "무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "현장 방문 시 선물 증정"
+    ],
+    "contract_benefits": [
+      "스드메 국내 최저가 보장",
+      "블랙라벨 무료 업그레이드 및 2부 드레스 서비스",
+      "예복 및 예물 최대 할인"
+    ],
+    "special_events": [
+      "20년 차 웨딩 디렉터 1:1 맞춤 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-05",
+      "end_date": "2026-12-06",
+      "display_date": "12월 05일(토) ~ 12월 06일(일)",
+      "original_display_date": "12월 05일(토) ~ 12월 06일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "광진구",
+      "sigungu_en": "gwangjin",
+      "address": "서울 광진구 능동로 92 롯데백화점 9층",
+      "venue": "LG전자베스트샵 건대스타시티점",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "신랑/신부 구분",
+      "결혼 예정일",
+      "방문 예정일"
+    ],
+    "gift_conditions": "상세 수령 조건은 현장 상담 시 안내받으실 수 있습니다.",
+    "trust_indicators": [
+      "20년 차 웨딩 디렉터 상주",
+      "스드메 국내 최저가 보장제 운영",
+      "LG전자베스트샵 협력사"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "건대 웨딩박람회",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 건대스타시티점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "서울 광진구",
+          "addressLocality": "서울",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩소담",
+        "url": "https://ad.cpaad.co.kr/weddingan07/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가 비용이 있나요?",
+        "answer": "아니요, 사전 신청을 통해 무료로 입장하실 수 있습니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "네, 현장 방문 시 선물을 증정해 드리고 있습니다."
+      },
+      {
+        "question": "스드메 비용은 어떻게 확인하나요?",
+        "answer": "박람회 현장에서 20년 차 웨딩 디렉터와 1:1 상담을 통해 예산별 맞춤 견적을 확인하실 수 있습니다."
+      },
+      {
+        "question": "예약은 어떻게 하나요?",
+        "answer": "페이지 내 신청 폼에 이름, 연락처, 예식 예정일 등을 입력하여 무료 초대장을 신청하시면 됩니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "자세한 주차 정보는 안내 자료에서 확인되지 않으므로 주최 측에 문의해 주세요."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼식을 앞두고 스드메 패키지 구성과 비용 때문에 고민이 많은 예비부부를 대상으로 합니다. 막연한 결혼 준비 순서와 예산 수립에 어려움을 겪는 커플, 합리적인 가성비를 추구하면서도 퀄리티를 포기할 수 없는 신혼부부에게 적합합니다. 전문가의 조언을 통해 나만의 스타일을 찾고, 믿을 수 있는 업체를 한곳에서 비교하고 싶은 분들이 방문하면 좋습니다.",
+    "exhibitor_highlights": [
+      "웨딩 스튜디오",
+      "드레스 샵",
+      "웨딩 예물",
+      "맞춤 정장(예복)",
+      "허니문 여행사",
+      "웨딩홀 섭외"
+    ],
+    "comparison_hooks": [
+      "20년 차 웨딩 디렉터의 1:1 맞춤형 컨설팅 제공",
+      "스드메 국내 최저가 보장제 운영",
+      "하루 30쌍 한정 상담으로 프라이빗한 서비스 보장"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 패키지 구성 확인",
+      "결혼 준비 체크리스트",
+      "박람회 계약 전 주의사항",
+      "서울 웨딩박람회 일정",
+      "웨딩 디렉터 상담 팁",
+      "스드메 평균 비용",
+      "웨딩드레스 피팅 예약",
+      "결혼식 예산 짜는 법",
+      "신혼여행 박람회 혜택"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩홀 추천 리스트",
+        "category": "웨딩홀_정보"
+      },
+      {
+        "anchor": "최신 스드메 트렌드 보기",
+        "category": "스드메_정보"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "부케",
+      "혼수가전",
+      "신혼여행",
+      "예복",
+      "웨딩촬영",
+      "본식드레스"
+    ]
+  },
+  "social_meta": {
+    "og_title": "건대 웨딩박람회 | 스드메 최저가 보장",
+    "og_description": "예비부부를 위한 특별한 혜택! 이번 주말 건대 웨딩박람회에서 스드메 최저가 견적과 전문가 상담을 받아보세요.",
+    "hashtags": [
+      "#건대웨딩박람회",
+      "#서울웨딩박람회",
+      "#결혼준비",
+      "#스드메",
+      "#예비부부",
+      "#신혼부부",
+      "#예복",
+      "#웨딩드레스",
+      "#결혼준비시작",
+      "#웨딩디렉터",
+      "#스드메견적"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingan07/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_JzxCmR7oKMC2GTTbjTs39AvNhqcr5.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_YJjtVyknMc6xlZvxtFrPnr.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_OzehXdxGi9xT6MaZ6LA16BwgLq85Z.jpg"
+  },
+  "updated_at": "2026-11-25 20:04:05",
+  "revenue": 30000
+}

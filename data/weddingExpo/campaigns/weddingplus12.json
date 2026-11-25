@@ -1,0 +1,205 @@
+{
+  "idx": 1604,
+  "campaign_id": "weddingplus12",
+  "gather_name": "웨딩더하기 영등포웨딩박람회",
+  "organizer_name": "웨딩더하기",
+  "seo_metadata": {
+    "title": "웨딩더하기 영등포웨딩박람회 | 신세계 타임스퀘어점 방문 혜택",
+    "meta_description": "12월 12일~13일, 영등포 웨딩더하기 박람회 개최. LG전자 가전 혜택부터 스드메 패키지까지 한자리에서 확인하세요. 지금 사전 등록하고 방문 선물과 계약 혜택을 모두 받아가세요.",
+    "keywords": [
+      "영등포웨딩박람회",
+      "서울웨딩박람회",
+      "결혼준비",
+      "스드메패키지",
+      "LG전자베스트샵웨딩",
+      "웨딩더하기",
+      "신혼가전할인",
+      "결혼박람회일정",
+      "웨딩홀상담",
+      "예물예복상담"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작, 막막함을 해결할 영등포 웨딩더하기 박람회가 12월 12일부터 13일까지 신세계 타임스퀘어점 LG전자베스트샵에서 열립니다. 스드메 고민부터 혼수 가전 혜택까지, 예비부부님들이 가장 필요로 하는 정보만을 담아 1:1 맞춤 상담을 제공합니다.",
+    "benefits_description": "박람회 방문만 하셔도 스타벅스 쿠폰과 더불어 방문객 전원에게 드리는 웰컴 기프트 패키지를 받으실 수 있습니다. 또한, 스드메 특가 패키지와 예물, 예복 브랜드의 현장 특별 혜택이 준비되어 있어 알뜰한 결혼 준비가 가능합니다. 특히 가전 계약 시 최대 780만원 상당의 혜택과 금액대별 사은품 증정 이벤트가 마련되어 있어, 실속 있는 신혼 가전 마련을 계획하시는 예비부부님들께 더없는 기회가 될 것입니다. 상세한 혜택 적용 범위와 중복 적용 조건은 현장 상담을 통해 꼭 확인해 보세요.",
+    "summary_for_search": "12월 12일~13일 개최되는 영등포 웨딩더하기 박람회! LG전자 베스트샵 신세계 타임스퀘어점에서 스드메 특가와 가전 최대 780만원 혜택을 확인하세요. 방문 시 웰컴 기프트 증정."
+  },
+  "marketing_hooks": {
+    "primary_headline": "가전부터 스드메까지, 최대 780만원 혜택을 한 번에!",
+    "secondary_headline": "LG전자 베스트샵에서 준비하는 실속 있는 영등포 웨딩박람회",
+    "urgency_text": "이번 주말, 단 이틀간 진행되는 특별 행사!",
+    "call_to_action_text": "무료 초대장 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문객 전원 100% 증정 웰컴 기프트 패키지",
+      "스타벅스 쿠폰 증정 (방문 상담 시)",
+      "가전 2개 계약 시 스피커 증정"
+    ],
+    "contract_benefits": [
+      "스드메 특가 패키지 (최하 69만원부터)",
+      "혼수 가전 구매 시 최대 780만원 혜택",
+      "금액대별 가전 사은품 추가 증정",
+      "웨딩홀 상담 시 최대 500만원 할인 혜택"
+    ],
+    "special_events": [
+      "1:1 맞춤 웨딩 컨설팅",
+      "웨딩홀 투어 및 예약 지원"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "서울",
+      "sido_en": "seoul",
+      "sigungu": "영등포구",
+      "sigungu_en": "yeongdeungpo",
+      "address": "서울 영등포구 영중로 9",
+      "venue": "신세계 타임스퀘어점 3층 LG전자베스트샵",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "capital"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 후 제공되며, 가전 혜택은 제품 군과 계약 금액에 따라 차등 적용됩니다.",
+    "trust_indicators": [
+      "1:1 전문 맞춤 상담 제공",
+      "투명한 웨딩 비용 공개",
+      "다수의 대만족 후기 보유"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "웨딩더하기 영등포웨딩박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "LG전자베스트샵 신세계 타임스퀘어점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3층",
+          "addressLocality": "서울 영등포구",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩더하기",
+        "url": "https://ad.cpaad.co.kr/weddingplus12/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 신청은 어떻게 하나요?",
+        "answer": "상단에 기재된 이름, 연락처, 결혼 예정일을 입력하고 '초대장 신청하기' 버튼을 누르면 예약이 완료됩니다."
+      },
+      {
+        "question": "방문 혜택은 누구나 받을 수 있나요?",
+        "answer": "박람회에 사전 신청 후 방문하여 상담을 진행하시는 예비부부께 증정합니다. 상세 조건은 상담 시 안내드립니다."
+      },
+      {
+        "question": "스드메 패키지 구성은 어떻게 되나요?",
+        "answer": "스튜디오, 드레스, 메이크업 구성에 따라 다양한 옵션이 준비되어 있습니다. 박람회 현장에서 최저가 69만원부터 확인 가능합니다."
+      },
+      {
+        "question": "가전 구매 혜택은 어떤 것이 있나요?",
+        "answer": "LG전자 베스트샵 단독 혜택으로, 가전 제품 구매 시 최대 780만원 상당의 혜택과 금액대별 사은품이 준비되어 있습니다."
+      },
+      {
+        "question": "상담 시 무엇을 준비해야 하나요?",
+        "answer": "결혼 예정일과 대략적인 예산 범위를 생각해 오시면 보다 구체적인 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 비용과 혼수 가전을 한꺼번에 합리적으로 비교하고 싶은 커플을 위한 행사입니다. 결혼 준비 6개월 이내의 예비부부라면 웨딩홀 섭외부터 혼수까지 복잡한 과정을 전문가의 1:1 상담을 통해 체계적으로 계획할 수 있습니다. 특히 가전 구매를 앞두고 계시거나 비용 절감을 최우선으로 생각하는 예비 신혼부부에게 실질적인 가이드가 됩니다.",
+    "exhibitor_highlights": [
+      "스드메 패키지 업체",
+      "웨딩홀 예약 전문",
+      "허니문 여행사",
+      "예물 및 예복 브랜드",
+      "LG전자 혼수가전"
+    ],
+    "comparison_hooks": [
+      "현장 상담 시 100% 증정하는 웰컴 기프트",
+      "LG전자 베스트샵 가전 전용 파격 할인",
+      "전문 웨딩 플래너의 1:1 맞춤형 무료 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "영등포 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "스드메 패키지 비용",
+      "신혼가전 견적 비교",
+      "웨딩박람회 방문 혜택",
+      "웨딩홀 투어 예약",
+      "예물 예복 박람회 추천",
+      "웨딩더하기 박람회 후기",
+      "서울 웨딩박람회 장소",
+      "결혼 박람회 예약 방법"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "서울 웨딩박람회 일정 전체보기",
+        "category": "seoul_events"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "웨딩홀",
+      "신혼여행",
+      "웨딩패키지",
+      "결혼준비",
+      "예물",
+      "예복",
+      "가전혜택",
+      "웨딩컨설팅"
+    ]
+  },
+  "social_meta": {
+    "og_title": "영등포 웨딩박람회 사전 신청하고 혜택받기",
+    "og_description": "가전 최대 780만원 혜택부터 스드메 특가까지! 12월 12~13일 신세계 타임스퀘어점에서 만나요.",
+    "hashtags": [
+      "#웨딩더하기",
+      "#영등포웨딩박람회",
+      "#결혼준비",
+      "#신혼가전",
+      "#스드메",
+      "#웨딩박람회",
+      "#서울웨딩박람회",
+      "#예비부부",
+      "#웨딩홀",
+      "#신혼여행"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/weddingplus12/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_oZw4k1cQLzggMqXeF69KrhqfC.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_VuXBkhRzx1kq7V2i722go2XW6.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_tFzvQ62JdURBCcwr6C.jpg"
+  },
+  "updated_at": "2026-11-25 20:03:09",
+  "revenue": 30000
+}
