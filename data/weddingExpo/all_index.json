@@ -1,9 +1,9 @@
 {
   "stats": {
-    "total_count": 155,
+    "total_count": 157,
     "region_count": 16,
     "district_count": 49,
-    "updated_at": "2026-11-24 14:00:35"
+    "updated_at": "2026-11-25 14:01:04"
   },
   "items": [
     {
@@ -198,12 +198,12 @@
       "campaign_id": "jwc02",
       "gather_name": "청담스토리 웨딩&혼수 박람회",
       "display_date": "12월 05일(토) ~ 12월 06일(일)",
-      "venue": "청담스토리 사옥",
+      "venue": "더웨스틴헤라",
       "sido": "전북",
       "sigungu": "전주시",
       "region_en": "jeonbuk",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/6923e62565ab72369d5694a520a4d9e4_cKCbKOcDafWRf2th1ireK81EAx.jpg",
-      "updated_at": "2026-11-23 14:07:01",
+      "updated_at": "2026-11-25 14:01:04",
       "revenue": 45000
     },
     {
@@ -2022,6 +2022,32 @@
       "region_en": "jeju",
       "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_A42t8hOynP8FIA3GgpPaLgial.jpg",
       "updated_at": "2026-11-24 14:00:35",
+      "revenue": 30000
+    },
+    {
+      "idx": 1377,
+      "campaign_id": "revewedding02",
+      "gather_name": "수원 웨딩박람회",
+      "display_date": "12월 19일(토) ~ 12월 20일(일)",
+      "venue": "수원컨벤션센터 특별행사장",
+      "sido": "경기",
+      "sigungu": "수원시",
+      "region_en": "gyeonggi",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ww8jwcMg1xcjDGmGYMpBqlp.jpg",
+      "updated_at": "2026-11-25 14:00:20",
+      "revenue": 50000
+    },
+    {
+      "idx": 1428,
+      "campaign_id": "larawedding01",
+      "gather_name": "청주 라라웨딩박람회",
+      "display_date": "12월 19일(토) ~ 12월 20일(일)",
+      "venue": "라라웨딩페어",
+      "sido": "충북",
+      "sigungu": "청주시",
+      "region_en": "chungbuk",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_lt5gMFukM6Cgy1.jpg",
+      "updated_at": "2026-11-25 14:00:35",
       "revenue": 30000
     }
   ]
