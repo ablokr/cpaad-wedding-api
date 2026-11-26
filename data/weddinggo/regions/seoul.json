@@ -5405,5 +5405,416 @@
     },
     "updated_at": "2026-11-25 19:00:45",
     "revenue": 40000
+  },
+  {
+    "idx": 721,
+    "campaign_id": "howto01",
+    "gather_name": "하우투 대형 웨딩박람회",
+    "organizer_name": "하우투웨딩",
+    "seo_metadata": {
+      "title": "하우투 대형 웨딩박람회 | 서울 강남 SETEC 결혼 준비 혜택 총집합",
+      "meta_description": "2026년 12월 서울 SETEC에서 열리는 하우투 대형 웨딩박람회! 스드메 패키지 최대 할인부터 방문 상담 시 스타벅스 쿠폰, 미니 캐리어 증정까지. 지금 사전 등록하고 예비부부를 위한 최대 규모의 결혼 준비 혜택을 모두 확인하세요.",
+      "keywords": [
+        "서울웨딩박람회",
+        "강남웨딩박람회",
+        "하우투웨딩박람회",
+        "결혼준비",
+        "스드메패키지",
+        "웨딩홀추천",
+        "신혼부부혜택",
+        "결혼박람회일정",
+        "웨딩박람회추천",
+        "2026결혼준비"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 시작, 어디서부터 어떻게 해야 할지 막막하신가요? 12월 12일부터 13일까지 SETEC에서 열리는 '하우투 대형 웨딩박람회'는 예비부부의 고민을 한 번에 해결해 드립니다. 서울 최대 규모로 개최되는 이번 행사는 전문 플래너와의 1:1 상담부터 최신 웨딩 트렌드까지 한자리에서 경험하실 수 있는 특별한 기회입니다.",
+      "benefits_description": "이번 웨딩박람회는 방문만 해도 스타벅스 쿠폰과 미니 캐리어 등 풍성한 선물 보따리를 준비했습니다. 현장 상담 시 최대 5만원 상품권 증정은 물론, 계약자에게는 추가 지원금과 허니문 할인 등 파격적인 혜택을 제공합니다. 스드메 패키지부터 혼수, 예물, 가전까지 정직한 가격으로 합리적인 결혼 준비를 도와드립니다. 지금 사전 신청하고 예비부부만을 위한 프리미엄 혜택의 주인공이 되어보세요.",
+      "summary_for_search": "12월 12일-13일 서울 SETEC 하우투 대형 웨딩박람회 개최! 스드메 최저가 보장, 방문 시 스타벅스 쿠폰 및 미니 캐리어 증정. 예비부부를 위한 혼수·예물·웨딩홀 비교 상담을 지금 무료로 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 하우투 대형 웨딩박람회에서 끝내세요! 방문 시 100% 선물 증정",
+      "secondary_headline": "서울 강남 SETEC에서 만나는 최신 스드메 패키지 및 혼수 혜택",
+      "urgency_text": "선착순 방문객 대상 조기 마감 주의! 지금 바로 사전 등록하세요.",
+      "call_to_action_text": "무료 상담 신청하고 혜택받기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 스타벅스 쿠폰 증정",
+        "선착순 방문객 미니 캐리어 증정"
+      ],
+      "contract_benefits": [
+        "박람회 현장 계약 시 상품권 5만원 증정",
+        "계약자 대상 허니문, 한복, 예물, 가전 추가 할인 및 사은품 제공"
+      ],
+      "special_events": [
+        "웨딩 드레스 투어 및 피팅 체험",
+        "헤어 & 메이크업 시연 이벤트",
+        "전문 웨딩 플래너 1:1 맞춤 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "강남구",
+        "sigungu_en": "gangnam",
+        "address": "서울 강남구 남부순환로 3104",
+        "venue": "SETEC 2층 전시실",
+        "parking_info": "SETEC 주차장 이용 가능 (유료)",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "성함",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "방문/상담 완료 시 증정, 경품 수령은 현장 안내 데스크 확인 필수",
+      "trust_indicators": [
+        "서울 대규모 정기 웨딩 박람회",
+        "다양한 제휴 업체 입점",
+        "전문 웨딩 플래너의 정직한 1:1 맞춤 상담",
+        "웨딩 드레스 디자인 정보 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "하우투 대형 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "eventStatus": "https://schema.org/EventScheduled",
+        "location": {
+          "@type": "Place",
+          "name": "SETEC 2층 전시실",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "서울 강남구 남부순환로 3104",
+            "addressLocality": "서울",
+            "addressCountry": "KR"
+          }
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하우투웨딩",
+          "url": "https://ad.cpaad.co.kr/howto01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장료는 얼마인가요?",
+          "answer": "사전 신청 시 무료입장이 가능합니다. 별도의 현장 결제 없이 상담을 받아보실 수 있습니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "SETEC 내 주차장을 이용하실 수 있으며, 주차료는 이용 시간에 따라 상이할 수 있습니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "업체별 상담 내용에 따라 다르지만, 보통 한 상담당 30분~1시간 정도 소요됩니다."
+        },
+        {
+          "question": "이미 스드메 업체가 정해져 있어도 상담받을 수 있나요?",
+          "answer": "네, 물론입니다. 웨딩홀, 혼수, 신혼여행 등 필요한 부분만 상담받으실 수 있습니다."
+        },
+        {
+          "question": "방문 선물은 어떻게 받나요?",
+          "answer": "박람회 현장을 방문하여 상담을 완료하시면 QR 코드 확인 등을 통해 즉시 지급해 드립니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞둔 2030 예비부부, 스드메(스튜디오, 드레스, 메이크업) 업체 선정에 고민이 많은 커플, 합리적인 예산으로 고퀄리티 결혼식을 준비하고 싶은 분들을 대상으로 합니다. 막막한 결혼 준비의 순서를 정리하고 싶은 분, 최신 트렌드를 확인하고 예산 범위를 설정하고 싶은 신혼부부에게 실질적인 가이드를 제공합니다.",
+      "exhibitor_highlights": [
+        "웨딩홀 섭외 리스트",
+        "명품 웨딩 드레스 컬렉션",
+        "혼수 가전 및 예물 브랜드",
+        "허니문 여행사",
+        "한복 및 예복 맞춤"
+      ],
+      "comparison_hooks": [
+        "국내 최대 규모 업체 참여로 최저가 가격 비교 가능",
+        "현장 즉시 계약 혜택 및 추가 지원금 제공",
+        "웨딩 전문가 1:1 맞춤형 동행 상담 서비스 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "결혼 준비 체크리스트",
+        "스드메 평균 가격",
+        "웨딩홀 투어 팁",
+        "신혼여행 패키지 추천",
+        "웨딩박람회 예약 필수인가요",
+        "결혼 예물 고르는 법",
+        "혼수 가전 저렴하게 사는 법",
+        "웨딩플래너 상담비",
+        "예비부부 박람회 혜택 비교"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩박람회 전체 일정",
+          "category": "events"
+        },
+        {
+          "anchor": "합리적인 스드메 패키지",
+          "category": "products"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "신혼여행",
+        "맞춤정장",
+        "폐백",
+        "결혼식준비",
+        "웨딩드레스",
+        "예물반지"
+      ]
+    },
+    "social_meta": {
+      "og_title": "하우투 대형 웨딩박람회 | 예비부부라면 필수!",
+      "og_description": "지금 사전 등록하고 최대 혜택 확인하세요! 상담 시 스타벅스 쿠폰 & 캐리어 증정까지.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#결혼준비",
+        "#서울웨딩박람회",
+        "#하우투웨딩",
+        "#예신",
+        "#결혼식준비",
+        "#신혼부부혜택",
+        "#스드메",
+        "#웨딩홀추천",
+        "#SETEC웨딩박람회"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/howto01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_MyFZlEtG7PWcpUuEefBcN4Pa.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_jPeBpRcaxMJGnlfcb8SWB8LK5t.jpg"
+    },
+    "updated_at": "2026-11-26 16:00:59",
+    "revenue": 35000
+  },
+  {
+    "idx": 1755,
+    "campaign_id": "wedingcrowd103",
+    "gather_name": "서울 영등포 대형 웨딩박람회",
+    "organizer_name": "웨딩크라우드",
+    "seo_metadata": {
+      "title": "서울 영등포 웨딩박람회 | 삼성스토어 신세계타임스퀘어 단독 혜택",
+      "meta_description": "12월 12일~13일 서울 영등포 웨딩박람회 개최! 삼성스토어 신세계타임스퀘어에서 스드메 패키지, 혼수, 허니문 최저가 상담 받고 캐스퍼 경품과 100% 증정 방문 혜택을 놓치지 마세요.",
+      "keywords": [
+        "서울 웨딩박람회",
+        "영등포 웨딩박람회",
+        "신세계타임스퀘어 웨딩박람회",
+        "스드메 패키지",
+        "결혼준비 체크리스트",
+        "혼수가전 할인",
+        "허니문 박람회",
+        "삼성스토어 웨딩혜택",
+        "예비부부 박람회",
+        "결혼준비 비용"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 막막함을 단번에 해결해 줄 서울 영등포 대형 웨딩박람회가 삼성스토어 신세계타임스퀘어에서 개최됩니다. 12월 12일부터 13일까지 단 이틀간, 복잡한 결혼 준비를 전문가와 함께 효율적으로 시작할 수 있는 최적의 기회입니다.",
+      "benefits_description": "이번 박람회는 방문만 해도 스타벅스 기프트카드와 청첩장 15% 할인권 등 100% 당첨 경품을 드립니다. 현장 계약 시에는 신혼 가전 업그레이드 혜택과 캐스퍼 경품 이벤트 등 파격적인 사은품이 준비되어 있습니다. 스드메 패키지부터 혼수, 허니문, 재무 설계까지 전문가의 1:1 맞춤 상담으로 예산에 맞는 똑똑한 결혼 준비를 완성해 보세요.",
+      "summary_for_search": "12월 12일-13일 삼성스토어 신세계타임스퀘어에서 열리는 서울 영등포 웨딩박람회! 방문객 100% 사은품 증정 및 캐스퍼 경품 이벤트 등 최대 혜택을 제공합니다. 지금 무료 참가 신청하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "2026 서울 영등포 대형 웨딩박람회 개최! 지금 신청하고 캐스퍼 당첨 기회를 잡으세요",
+      "secondary_headline": "스드메부터 혼수, 허니문까지! 전문가 1:1 맞춤 상담으로 알뜰한 결혼 준비의 시작",
+      "urgency_text": "12월 12일~13일 단 이틀간, 선착순 사전 예약자 한정",
+      "call_to_action_text": "무료 참가 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "방문객 전원 100% 증정 사은품",
+        "스타벅스 기프트카드",
+        "청첩장 15% 할인권"
+      ],
+      "contract_benefits": [
+        "스드메+혼수 계약 시 에어프라이어 등 사은품 증정",
+        "웨딩 패키지 특가 혜택",
+        "삼성 가전 구독 할인 및 페스티벌 혜택",
+        "현장 계약자 전원 경품 추첨"
+      ],
+      "special_events": [
+        "캐스퍼 자동차 경품 이벤트",
+        "허니문 최저가 페어",
+        "신혼부부 맞춤 재무 설계 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "영등포구",
+        "sigungu_en": "yeongdeungpo",
+        "address": "서울 영등포구 영중로 9 리빙관 3층",
+        "venue": "삼성스토어 신세계타임스퀘어",
+        "parking_info": "신세계백화점 타임스퀘어점 주차장 이용 가능 (상세 정보 확인 필요)",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일",
+        "상담 희망 품목"
+      ],
+      "gift_conditions": "사전 예약 후 현장 방문 및 상담 완료 시 증정",
+      "trust_indicators": [
+        "삼성스토어 공식 인증 행사",
+        "1:1 전문가 맞춤 상담",
+        "검증된 업체별 스드메 패키지 제공",
+        "신혼부부 재무 설계 컨설팅 제공"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "서울 영등포 대형 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "삼성스토어 신세계타임스퀘어",
+          "address": "서울 영등포구"
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "웨딩크라우드",
+          "url": "https://ad.cpaad.co.kr/wedingcrowd103/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 참가 비용은 얼마인가요?",
+          "answer": "해당 웨딩박람회는 사전 신청 시 무료로 참가하실 수 있습니다."
+        },
+        {
+          "question": "방문만 해도 선물을 받을 수 있나요?",
+          "answer": "네, 사전 예약 후 방문하시는 모든 분께 100% 당첨되는 경품과 사은품을 드립니다."
+        },
+        {
+          "question": "어떤 업체들이 참여하나요?",
+          "answer": "스드메 패키지, 웨딩홀, 예물, 예복, 혼수가전, 허니문, 재무 설계 등 결혼 준비에 필요한 모든 분야의 전문 업체가 참여합니다."
+        },
+        {
+          "question": "주차는 가능한가요?",
+          "answer": "행사가 진행되는 신세계타임스퀘어 주차 시설을 이용하실 수 있습니다."
+        },
+        {
+          "question": "상담 시간은 얼마나 걸리나요?",
+          "answer": "개인별 맞춤 상담으로 진행되며, 보통 1시간 내외로 소요되나 상담 품목에 따라 달라질 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 스드메 패키지 비용과 퀄리티를 한 번에 비교하고 싶은 커플, 혼수 가전과 허니문까지 합리적인 비용으로 준비하고자 하는 6개월 이내 예식 예정 커플에게 적합합니다. 전문 플래너와 함께 체계적인 결혼 준비 체크리스트를 만들고, 신혼 재무 설계까지 종합적인 도움을 받고 싶은 모든 분을 위한 맞춤형 박람회입니다.",
+      "exhibitor_highlights": [
+        "스드메 패키지 전문 업체",
+        "웨딩홀 제휴처",
+        "허니문 전문 여행사",
+        "예물 및 예복 프리미엄 브랜드",
+        "삼성 가전 혼수 브랜드"
+      ],
+      "comparison_hooks": [
+        "현장 즉시 계약 시 추가 할인 및 가전 업그레이드 제공",
+        "백화점 내부 입점으로 믿을 수 있는 브랜드 라인업",
+        "웨딩홀부터 허니문까지 1:1 맞춤 컨설팅 보장"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "서울 웨딩홀 추천",
+        "스드메 패키지 가격",
+        "신혼가전 준비 리스트",
+        "웨딩박람회 사은품 혜택",
+        "허니문 인기 여행지",
+        "결혼준비 기간별 체크리스트",
+        "웨딩플래너 상담 비용",
+        "신혼부부 재무 설계 상담",
+        "영등포 인근 예식장"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩박람회 전체 일정 확인",
+          "category": "seoul_wedding_fair"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "허니문",
+        "혼수가전",
+        "예물",
+        "예복",
+        "청첩장",
+        "결혼준비"
+      ]
+    },
+    "social_meta": {
+      "og_title": "서울 영등포 웨딩박람회 | 12월 단독 초대",
+      "og_description": "방문만 해도 100% 당첨! 캐스퍼 경품까지? 12월 12-13일 신세계타임스퀘어에서 결혼 준비 시작하세요.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#서울웨딩박람회",
+        "#영등포웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#혼수준비",
+        "#예비부부",
+        "#신혼부부혜택",
+        "#허니문",
+        "#타임스퀘어웨딩"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/wedingcrowd103/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_OweOQwuZ6SsImDPWCguzp.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_D3FUWXtu1cyC4s8qAI.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_XiSSaJ1aFEGoFpicmt.jpg"
+    },
+    "updated_at": "2026-11-26 16:01:18",
+    "revenue": 30000
   }
 ]
