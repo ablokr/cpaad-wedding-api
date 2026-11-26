@@ -5377,5 +5377,212 @@
     },
     "updated_at": "2026-11-25 20:04:39",
     "revenue": 30000
+  },
+  {
+    "idx": 721,
+    "campaign_id": "howto01",
+    "gather_name": "하우투 대형 웨딩박람회",
+    "organizer_name": "하우투웨딩",
+    "seo_metadata": {
+      "title": "하우투 대형 웨딩박람회 | 서울 SETEC 웨딩 스드메 할인 혜택",
+      "meta_description": "12월 12일~13일 서울 SETEC에서 열리는 하우투 대형 웨딩박람회! 방문 및 상담만 받아도 스타벅스 쿠폰과 미니 캐리어 등 풍성한 선물 증정. 예비부부를 위한 맞춤형 스드메 패키지와 혼수 상담을 지금 확인하세요.",
+      "keywords": [
+        "서울웨딩박람회",
+        "하우투웨딩박람회",
+        "SETEC웨딩박람회",
+        "결혼준비",
+        "스드메견적",
+        "웨딩홀추천",
+        "혼수가전",
+        "예물예복",
+        "결혼준비체크리스트",
+        "웨딩패키지"
+      ]
+    },
+    "detailed_content": {
+      "intro_text": "결혼 준비의 첫 단추를 어디서부터 끼워야 할지 고민 중인 예비부부라면 주목해주세요. 12월 12일부터 13일까지 서울 SETEC에서 개최되는 하우투 대형 웨딩박람회는 스드메부터 혼수, 예물까지 한자리에서 비교하고 합리적인 결정을 내릴 수 있도록 돕는 프리미엄 웨딩 행사입니다.",
+      "benefits_description": "방문하시는 모든 분들을 위해 준비된 다채로운 혜택을 놓치지 마세요. 현장 방문 및 상담만 완료해도 스타벅스 기프티콘과 추첨을 통한 미니 캐리어를 증정하며, 계약 시 추가 축하금 지원 등 실속 있는 구성이 마련되어 있습니다. 무엇보다 전문가와의 1:1 상담을 통해 나만의 웨딩 예산과 컨셉에 맞는 맞춤형 패키지를 설계해 드립니다. 막연했던 결혼 준비를 구체적인 일정과 비용으로 바꾸고 싶은 두 분께 더없이 좋은 기회가 될 것입니다.",
+      "summary_for_search": "12월 12일~13일 SETEC 하우투 대형 웨딩박람회 개최. 스드메 패키지 상담부터 예물, 혼수, 신혼여행까지 다양한 웨딩 혜택과 방문 선물을 한자리에서 확인하세요."
+    },
+    "marketing_hooks": {
+      "primary_headline": "결혼 준비, 하우투 대형 웨딩박람회에서 최대 혜택 받고 시작하세요!",
+      "secondary_headline": "스드메 패키지부터 혼수까지, 서울 SETEC에서 만나는 실속 있는 1:1 웨딩 상담",
+      "urgency_text": "단 2일간 열리는 대형 박람회, 지금 무료 초대장을 신청하세요.",
+      "call_to_action_text": "무료 초대장 신청하기"
+    },
+    "benefits": {
+      "visit_gifts": [
+        "현장 방문 상담 시 스타벅스 쿠폰 증정",
+        "방문객 대상 추첨을 통한 미니 캐리어 증정"
+      ],
+      "contract_benefits": [
+        "상담 및 계약 시 축하금 최대 5만원 지원",
+        "스드메 패키지별 할인 혜택",
+        "혼수/예물/가전 브랜드별 제휴 할인 및 사은품"
+      ],
+      "special_events": [
+        "전문가와 함께하는 1:1 맞춤형 웨딩 상담",
+        "헤어 & 메이크업 시연 체험",
+        "웨딩드레스 전시 및 상담"
+      ]
+    },
+    "event_details": {
+      "event": {
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-13",
+        "display_date": "12월 12일(토) ~ 12월 13일(일)",
+        "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+      },
+      "location": {
+        "sido": "서울",
+        "sido_en": "seoul",
+        "sigungu": "강남구",
+        "sigungu_en": "gangnam",
+        "address": "서울 강남구 남부순환로 3104",
+        "venue": "SETEC 2층 전시실",
+        "parking_info": "대중교통 이용 권장 또는 현장 문의",
+        "region_code": "capital"
+      }
+    },
+    "conversion_and_trust": {
+      "required_form_fields": [
+        "이름",
+        "연락처",
+        "예식 예정일"
+      ],
+      "gift_conditions": "방문 및 상담 완료 시 현장에서 지급됩니다. 정확한 수령 조건은 현장 상담 시 안내받으시기 바랍니다.",
+      "trust_indicators": [
+        "검증된 전문 웨딩 플래너 1:1 상담",
+        "다양한 웨딩 업체 직접 비교 가능",
+        "투명한 스드메 패키지 구성 및 가격 공개"
+      ]
+    },
+    "structured_data": {
+      "event_schema": {
+        "@context": "https://schema.org",
+        "@type": "Event",
+        "name": "하우투 대형 웨딩박람회",
+        "startDate": "2026-12-12",
+        "endDate": "2026-12-13",
+        "location": {
+          "@type": "Place",
+          "name": "SETEC 2층 전시실",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "서울 강남구 남부순환로 3104",
+            "addressLocality": "서울",
+            "addressCountry": "KR"
+          }
+        },
+        "eventStatus": "https://schema.org/EventScheduled",
+        "offers": {
+          "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "KRW",
+          "availability": "https://schema.org/InStock"
+        },
+        "organizer": {
+          "@type": "Organization",
+          "name": "하우투웨딩",
+          "url": "https://ad.cpaad.co.kr/howto01/"
+        }
+      },
+      "faq_schema": [
+        {
+          "question": "박람회 입장은 무료인가요?",
+          "answer": "네, 사전 등록을 하시면 무료로 입장이 가능합니다. 본문에 안내된 링크를 통해 신청해 주세요."
+        },
+        {
+          "question": "상담 시간은 얼마나 소요되나요?",
+          "answer": "상담 분야에 따라 다르지만, 보통 한 업체당 30분에서 1시간 정도 소요됩니다. 여유 있게 일정을 잡고 오시는 것을 권장합니다."
+        },
+        {
+          "question": "스드메 패키지 견적은 바로 알 수 있나요?",
+          "answer": "네, 박람회 현장에서 웨딩 플래너를 통해 다양한 업체별 패키지 구성과 비용을 비교하고 견적을 바로 확인하실 수 있습니다."
+        },
+        {
+          "question": "혼수 상담도 함께 받을 수 있나요?",
+          "answer": "네, 예물, 예복, 가전, 신혼여행 등 결혼 준비에 필요한 모든 혼수 품목을 한자리에서 상담받으실 수 있습니다."
+        },
+        {
+          "question": "박람회 방문 시 필요한 준비물이 있나요?",
+          "answer": "특별한 준비물은 없으나, 예식 예정일과 대략적인 예산을 미리 생각하고 오시면 상담 시 더 정확한 제안을 받으실 수 있습니다."
+        }
+      ]
+    },
+    "content_depth": {
+      "target_audience_description": "이제 막 결혼 준비를 시작하여 무엇부터 해야 할지 막막한 예비부부, 스드메 업체의 종류가 너무 많아 선택에 어려움을 겪는 커플에게 적합합니다. 또한 결혼식 비용을 합리적으로 절감하고 싶거나, 하루 안에 웨딩홀부터 신혼여행, 예물까지 효율적으로 비교하고 결정하고 싶은 바쁜 직장인 예비부부들에게 추천합니다. 전문가의 조언을 통해 나만의 개성 있는 결혼식을 준비하고 싶은 분들이라면 반드시 방문해야 할 필수 코스입니다.",
+      "exhibitor_highlights": [
+        "웨딩 스튜디오",
+        "드레스 샵",
+        "메이크업 전문",
+        "웨딩홀 섭외 업체",
+        "허니문 여행사",
+        "예물 브랜드",
+        "예복 테일러샵",
+        "신혼 가전 및 가구"
+      ],
+      "comparison_hooks": [
+        "다양한 스드메 패키지를 한자리에서 비교하고 즉시 견적 확인",
+        "방문부터 상담까지 단계별로 제공되는 풍성한 경품 혜택",
+        "결혼 준비의 모든 과정을 원스톱으로 해결하는 전문 상담"
+      ]
+    },
+    "search_cluster": {
+      "related_queries": [
+        "웨딩박람회 준비물",
+        "웨딩박람회 혜택",
+        "스드메 패키지 가격",
+        "서울 웨딩박람회 추천",
+        "SETEC 웨딩박람회",
+        "결혼준비 순서",
+        "웨딩플래너 상담",
+        "박람회 계약 혜택",
+        "신혼여행 패키지 비교",
+        "웨딩홀 투어 예약"
+      ],
+      "internal_link_anchors": [
+        {
+          "anchor": "서울 웨딩박람회 일정 전체보기",
+          "category": "seoul_events"
+        }
+      ],
+      "semantic_keywords": [
+        "스드메",
+        "혼수",
+        "예식장",
+        "웨딩홀",
+        "부케",
+        "신혼여행",
+        "웨딩드레스",
+        "예복",
+        "예물",
+        "웨딩플래너"
+      ]
+    },
+    "social_meta": {
+      "og_title": "하우투 대형 웨딩박람회 in SETEC",
+      "og_description": "이번 주말 서울 SETEC에서 열리는 대형 웨딩박람회! 방문 상담만 해도 스타벅스 쿠폰과 경품 당첨의 기회를 드립니다.",
+      "hashtags": [
+        "#웨딩박람회",
+        "#서울웨딩박람회",
+        "#결혼준비",
+        "#스드메",
+        "#예비부부",
+        "#하우투웨딩",
+        "#SETEC박람회",
+        "#혼수준비",
+        "#결혼식준비",
+        "#웨딩패키지"
+      ]
+    },
+    "campaign_assets": {
+      "target_url": "https://ad.cpaad.co.kr/howto01/",
+      "mainvisual": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_QhyZF2eifChkqKm6W9qqcY4.jpg",
+      "thumbnail": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_MyFZlEtG7PWcpUuEefBcN4Pa.jpg",
+      "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202507/892ab487ea3d4bc46f77994e7078533a_jPeBpRcaxMJGnlfcb8SWB8LK5t.jpg"
+    },
+    "updated_at": "2026-11-26 20:21:32",
+    "revenue": 35000
   }
 ]
