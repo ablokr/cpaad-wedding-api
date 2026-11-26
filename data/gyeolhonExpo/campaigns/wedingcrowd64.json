@@ -1,0 +1,207 @@
+{
+  "idx": 1535,
+  "campaign_id": "wedingcrowd64",
+  "gather_name": "당진 웨딩크라우드 웨딩박람회",
+  "organizer_name": "웨딩크라우드",
+  "seo_metadata": {
+    "title": "당진 웨딩박람회 | 삼성스토어 당진본점 상담 혜택 및 방문 선물",
+    "meta_description": "12월 12일~13일 삼성스토어 당진본점에서 열리는 당진 웨딩박람회! 스드메 패키지 특가, 계약자 100% 증정 이벤트와 캐스퍼 경품 기회까지. 지금 바로 사전등록하고 결혼 준비의 혜택을 확인하세요.",
+    "keywords": [
+      "당진웨딩박람회",
+      "당진결혼준비",
+      "당진스드메",
+      "웨딩박람회일정",
+      "당진웨딩홀",
+      "충남웨딩박람회",
+      "결혼준비체크리스트",
+      "스드메패키지",
+      "신혼여행박람회",
+      "당진예식장"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비를 시작하며 막막함을 느끼는 예비부부라면 주목하세요. 이번 당진 웨딩크라우드 웨딩박람회는 복잡한 결혼 준비 과정을 한 번에 해결할 수 있도록 기획되었습니다. 삼성스토어 당진본점에서 진행되는 이번 행사에서 실속 있는 혜택을 확인해보시기 바랍니다.",
+    "benefits_description": "이번 박람회는 방문만 해도 스타벅스 기프트카드와 청첩장 15% 할인권을 제공하여 예비부부의 알뜰한 준비를 돕습니다. 현장 계약 시에는 100% 증정되는 추가 사은품과 함께 캐스퍼 자동차 경품 추첨의 기회까지 주어집니다. 스드메 패키지는 특가 구성을 통해 비용 부담을 대폭 낮췄으며, 예물, 예복, 한복 등 혼수 전반에 걸친 업체들이 참가하여 비교 상담이 가능합니다.",
+    "summary_for_search": "12월 12일부터 13일까지 삼성스토어 당진본점에서 열리는 당진 웨딩박람회. 스드메 패키지 특가와 방문객 전원 증정 사은품, 계약자 대상 캐스퍼 경품 추첨 등 풍성한 혜택을 지금 확인해보세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "당진 웨딩크라우드 웨딩박람회, 계약자 100% 증정 이벤트!",
+    "secondary_headline": "스드메부터 혼수까지, 전문가와 함께하는 합리적인 결혼 준비의 시작",
+    "urgency_text": "이번 주말 12월 12일~13일 단 이틀간 진행",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "방문 상담객 전원 스타벅스 기프트카드 증정",
+      "청첩장 15% 할인권 제공"
+    ],
+    "contract_benefits": [
+      "계약자 100% 사은품 증정",
+      "스드메 패키지 특가 제공",
+      "예물/예복/한복 계약 시 특별 할인"
+    ],
+    "special_events": [
+      "박람회 계약자 대상 캐스퍼 자동차 경품 추첨",
+      "웨딩(스드메)+혼수 상담 시 에어프라이어 증정"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "충남",
+      "sido_en": "chungnam",
+      "sigungu": "당진시",
+      "sigungu_en": "dangjin",
+      "address": "충남 당진시 동부로 200",
+      "venue": "삼성스토어 당진본점",
+      "parking_info": "매장 전용 주차장 이용 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "현장 방문 및 상담 완료 시 혜택이 제공되며, 경품은 추첨을 통해 지급됩니다.",
+    "trust_indicators": [
+      "삼성스토어 당진본점 공식 행사",
+      "검증된 스드메 업체 참가",
+      "전문 웨딩 플래너 1:1 맞춤 컨설팅"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "당진 웨딩크라우드 웨딩박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 당진본점",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충남 당진시",
+          "addressLocality": "당진시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "웨딩크라우드",
+        "url": "https://ad.cpaad.co.kr/wedingcrowd64/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 참가는 무료인가요?",
+        "answer": "네, 사전등록 시 누구나 무료로 참가하여 다양한 상담 혜택을 받으실 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 후 웨딩 상담을 진행하시면 전원에게 스타벅스 기프트카드를 증정합니다."
+      },
+      {
+        "question": "예식장 예약도 가능한가요?",
+        "answer": "박람회 현장에서 웨딩홀 제휴 혜택 및 무료 비교 서비스를 받아보실 수 있습니다."
+      },
+      {
+        "question": "주차는 가능한가요?",
+        "answer": "삼성스토어 당진본점 내 주차 시설을 이용하실 수 있습니다."
+      },
+      {
+        "question": "스드메 패키지는 얼마나 저렴한가요?",
+        "answer": "박람회 전용 특가 패키지가 준비되어 있으며, 일반 상담 대비 합리적인 비용으로 구성되어 있습니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "당진 지역에서 결혼을 앞두고 있는 예비부부, 결혼 준비 6개월 이내의 커플을 대상으로 합니다. 스드메 패키지 비용을 비교 중이거나, 웨딩홀 선택부터 혼수, 예물까지 한 번에 준비하고 싶은 분들께 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 예비부부들을 위해 전문 플래너가 1:1 맞춤 상담을 제공하며, 시간과 비용을 절약할 수 있는 최적의 솔루션을 제안합니다.",
+    "exhibitor_highlights": [
+      "스드메 토탈 패키지 업체",
+      "당진 지역 웨딩홀",
+      "예물 및 결혼 반지 브랜드",
+      "맞춤 예복 및 한복 전문점",
+      "신혼여행 전문 여행사"
+    ],
+    "comparison_hooks": [
+      "당진 내 최대 규모 웨딩박람회로 다양한 업체 비교 가능",
+      "현장 계약자 전원 100% 사은품 증정 보장",
+      "복잡한 결혼 준비를 단 한 번의 방문으로 해결하는 1:1 전문 상담 시스템"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "웨딩박람회 준비물",
+      "스드메 평균 비용",
+      "결혼 준비 체크리스트",
+      "당진 웨딩홀 추천",
+      "웨딩박람회 혜택",
+      "혼수 가전 준비",
+      "신혼여행지 추천",
+      "웨딩 플래너 상담",
+      "결혼 예산 세우기",
+      "스드메 업체 비교"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "충남 지역 웨딩박람회 일정",
+        "category": "local_wedding_info"
+      },
+      {
+        "anchor": "결혼 준비 가이드",
+        "category": "wedding_prep_guide"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "결혼준비",
+      "혼수가전",
+      "신혼여행",
+      "예물",
+      "예복",
+      "웨딩박람회"
+    ]
+  },
+  "social_meta": {
+    "og_title": "당진 웨딩박람회, 결혼 준비 혜택 가득!",
+    "og_description": "12월 12일-13일 삼성스토어 당진본점! 스드메 특가와 계약자 전원 사은품까지, 예비부부 필수 코스.",
+    "hashtags": [
+      "#당진웨딩박람회",
+      "#결혼준비",
+      "#당진웨딩",
+      "#스드메",
+      "#웨딩박람회",
+      "#예비부부",
+      "#당진예식장",
+      "#신혼여행",
+      "#웨딩준비",
+      "#결혼식"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/wedingcrowd64/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ZYHmKdiiSSrDu7bfdrDUZDGx8GI.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_uJfAjWu5n7kjLeCbBWqspegnOWKXk.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_Uu53Ivm8D4RZ4.jpg"
+  },
+  "updated_at": "2026-11-26 19:35:12",
+  "revenue": 30000
+}
