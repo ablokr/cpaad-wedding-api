@@ -1,0 +1,209 @@
+{
+  "idx": 722,
+  "campaign_id": "howto02",
+  "gather_name": "수원컨벤션 허니문 박람회",
+  "organizer_name": "하우투웨딩",
+  "seo_metadata": {
+    "title": "수원컨벤션 허니문 박람회 | 신혼여행 특가 및 스드메 혜택",
+    "meta_description": "수원컨벤션센터에서 열리는 허니문 웨딩 박람회! 신혼여행 특가 프로모션과 스드메 패키지 상담, 방문 및 계약 사은품 혜택을 지금 확인하고 사전등록하세요.",
+    "keywords": [
+      "수원웨딩박람회",
+      "수원신혼여행박람회",
+      "수원컨벤션웨딩",
+      "허니문특가",
+      "스드메패키지",
+      "결혼준비박람회",
+      "신혼여행상담",
+      "수원결혼준비",
+      "웨딩홀비교",
+      "허니문여행사"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 시작인 웨딩홀과 신혼여행, 스드메 구성을 한자리에서 해결하고 싶으신 예비부부님을 초대합니다. 수원컨벤션센터에서 개최되는 이번 박람회는 복잡한 결혼 준비를 효율적으로 마칠 수 있도록 다양한 전문가 상담과 실질적인 혜택을 준비했습니다.",
+    "benefits_description": "이번 박람회에서는 몰디브, 유럽, 코사무이, 발리 등 인기 허니문 지역의 특가 프로모션을 제공하며, 상담 및 계약 시 최대 10만원 상당의 신세계 상품권과 여행용 캐리어 등 푸짐한 선물을 준비했습니다. 또한, 예비부부를 위한 스튜디오 무료 촬영, 드레스 피팅, 가봉 스냅 촬영 등 특별 체험 기회와 스드메 패키지 상담을 통해 합리적인 가격으로 결혼식을 준비하실 수 있도록 돕습니다.",
+    "summary_for_search": "12월 12일~13일, 수원컨벤션센터에서 개최되는 허니문 웨딩 박람회입니다. 신혼여행 특가 상담, 스드메 패키지 혜택, 방문객 사은품 증정 등 풍성한 준비가 되어 있으니 지금 바로 사전등록하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "결혼 준비의 모든 것, 수원컨벤션 허니문 박람회",
+    "secondary_headline": "신혼여행 특가부터 스드메 패키지까지, 현장 상담 혜택을 놓치지 마세요.",
+    "urgency_text": "12월 12일~13일 단 이틀간 진행, 사전 예약 필수",
+    "call_to_action_text": "지금 무료 상담 신청하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "선착순 방문객 스타벅스 에코백 증정"
+    ],
+    "contract_benefits": [
+      "계약 시 신세계 상품권 10만원권 증정",
+      "계약 시 여행용 캐리어 2개 증정",
+      "최대 100만원 상당의 추가 할인 혜택"
+    ],
+    "special_events": [
+      "스튜디오 무료 촬영(10커플 추첨)",
+      "웨딩드레스 무료 피팅(30커플 추첨)",
+      "가봉 스냅 촬영(20커플 추첨)",
+      "메이크업 서비스(30커플 추첨)"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-13",
+      "display_date": "12월 12일(토) ~ 12월 13일(일)",
+      "original_display_date": "12월 12일(토) ~ 12월 13일(일)"
+    },
+    "location": {
+      "sido": "경기",
+      "sido_en": "gyeonggi",
+      "sigungu": "수원시",
+      "sigungu_en": "suwon",
+      "address": "경기 수원시 영통구 광교중앙로 140",
+      "venue": "수원컨벤션센터 특별행사장",
+      "parking_info": "대중교통 이용 권장 또는 현장 문의",
+      "region_code": "gyeonggi"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "결혼 예정일",
+      "방문 일시"
+    ],
+    "gift_conditions": "경품 및 혜택은 상담 완료 및 계약 조건에 따라 증정되며, 상세 조건은 현장에서 확인 바랍니다.",
+    "trust_indicators": [
+      "허니문 지역별 전문 상담",
+      "인기 웨딩홀 실시간 비교",
+      "300만원 상당 드레스 업그레이드 서비스 제공"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원컨벤션 허니문 박람회",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "location": {
+        "@type": "Place",
+        "name": "수원컨벤션센터",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "수원시",
+          "addressLocality": "수원시",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "하우투웨딩",
+        "url": "https://ad.cpaad.co.kr/howto02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "박람회 무료 입장이 가능한가요?",
+        "answer": "사전 등록을 통해 무료로 상담 및 입장이 가능합니다."
+      },
+      {
+        "question": "상담 시 추가 비용이 발생하나요?",
+        "answer": "상담은 무료이나, 실제 계약 시 상품 구성에 따른 계약금이 발생할 수 있습니다."
+      },
+      {
+        "question": "방문 사은품은 어떻게 받나요?",
+        "answer": "현장 방문 시 안내 데스크를 통해 선착순으로 증정됩니다."
+      },
+      {
+        "question": "박람회 참여 업체는 어떻게 알 수 있나요?",
+        "answer": "스드메 업체, 허니문 여행사, 웨딩홀 등 다양한 업체가 참여하며 현장에서 안내받으실 수 있습니다."
+      },
+      {
+        "question": "상담을 위해 무엇을 준비해야 하나요?",
+        "answer": "결혼 예정일과 대략적인 예산 범위를 생각하고 오시면 더 구체적인 상담이 가능합니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 막막함을 느끼는 예비부부, 효율적인 준비를 위해 웨딩홀과 신혼여행, 스드메 패키지를 한 번에 비교하고 싶은 커플들에게 최적화된 박람회입니다. 결혼 준비 6개월 이내의 커플부터 이제 막 준비를 시작하려는 예비부부까지, 전문 컨설턴트와의 1:1 상담을 통해 나만의 맞춤 웨딩을 설계하고자 하는 모든 분을 대상으로 합니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사(몰디브, 발리, 유럽 등)",
+      "스드메 패키지 업체",
+      "웨딩 드레스샵",
+      "스튜디오",
+      "메이크업 전문점",
+      "인기 웨딩홀"
+    ],
+    "comparison_hooks": [
+      "주요 인기 웨딩홀 실시간 가격 및 혜택 비교",
+      "허니문 지역별 맞춤형 특가 프로모션 단독 제공",
+      "예비부부를 위한 1:1 맞춤형 전문 웨딩 컨설팅"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "수원 웨딩박람회 일정",
+      "결혼 준비 체크리스트",
+      "허니문 여행지 추천",
+      "스드메 패키지 가격",
+      "수원 웨딩홀 비교",
+      "웨딩박람회 상담 꿀팁",
+      "신혼여행 특가 예약",
+      "스튜디오 촬영 비용",
+      "웨딩 드레스 투어",
+      "결혼식 예산 짜기"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "수원 웨딩홀 정보 더보기",
+        "category": "wedding_halls"
+      },
+      {
+        "anchor": "스드메 패키지 상담 안내",
+        "category": "wedding_packages"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "웨딩홀",
+      "신혼여행",
+      "웨딩드레스",
+      "스튜디오촬영",
+      "결혼준비",
+      "박람회사은품",
+      "허니문프로모션"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원컨벤션 허니문 박람회 | 신혼여행 특가 & 스드메 혜택",
+    "og_description": "결혼 준비, 어디서부터 시작할지 고민이라면? 수원컨벤션 허니문 박람회에서 상담받고 다양한 사은품과 할인 혜택을 챙겨가세요!",
+    "hashtags": [
+      "#수원웨딩박람회",
+      "#결혼준비",
+      "#신혼여행",
+      "#스드메",
+      "#웨딩홀",
+      "#수원결혼준비",
+      "#예비부부",
+      "#허니문특가",
+      "#웨딩박람회",
+      "#결혼식"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/howto02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_4SjkSCPfqLr5nH8kjcdK4VGOzy.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_7Ksr8ZddWGJI7CozSWP67.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_NQ8vXNIYU6d4tf.jpg"
+  },
+  "updated_at": "2026-11-26 20:11:57",
+  "revenue": 35000
+}

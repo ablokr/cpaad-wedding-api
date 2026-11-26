@@ -1,0 +1,210 @@
+{
+  "idx": 1548,
+  "campaign_id": "reveweddingH02",
+  "gather_name": "수원 허니문박람회",
+  "organizer_name": "주식회사 레브웨딩",
+  "seo_metadata": {
+    "title": "수원 허니문박람회 | 청주 삼성스토어 허니문 상담 및 계약 혜택",
+    "meta_description": "12월 19일~20일 개최되는 수원 허니문박람회(삼성스토어 청주) 안내. 신혼여행지별 특전과 현장 계약 고객 대상 다이슨, 마샬 스피커 등 프리미엄 선물을 확인하고 무료 초대권을 신청하세요.",
+    "keywords": [
+      "수원허니문박람회",
+      "청주웨딩박람회",
+      "신혼여행박람회",
+      "허니문상담",
+      "결혼준비",
+      "스드메",
+      "허니문특전",
+      "삼성스토어청주박람회",
+      "예비부부신혼여행",
+      "웨딩박람회일정"
+    ]
+  },
+  "detailed_content": {
+    "intro_text": "결혼 준비의 설레는 시작, 평생 기억에 남을 신혼여행을 계획하고 계신가요? 이번 수원 허니문박람회에서는 전문 플래너와 함께 유럽, 몰디브, 발리 등 인기 허니문 지역의 최신 정보와 합리적인 패키지를 비교해 볼 수 있습니다.",
+    "benefits_description": "방문만 해도 제공되는 다양한 상담 혜택은 물론, 현장 계약 시 다이슨 슈퍼소닉, 마샬 블루투스 스피커 등 신혼 가전 선물을 드리는 스페셜 이벤트가 준비되어 있습니다. 또한, 방문 고객을 위한 건강검진권, 혼수 할인권 등 실속 있는 구성이 마련되어 있어 예비부부의 예산 절감에 도움을 드립니다. 상세한 혜택 조건과 지역별 여행 특전은 현장 상담을 통해 두 분의 일정에 맞춰 확인해 보세요.",
+    "summary_for_search": "12월 19일~20일 삼성스토어 청주에서 열리는 수원 허니문박람회. 신혼여행 패키지 상담 및 계약 시 프리미엄 가전 증정 혜택을 제공합니다. 무료 초대권 신청하고 실속 있는 결혼 준비를 시작하세요."
+  },
+  "marketing_hooks": {
+    "primary_headline": "평생 단 한 번의 신혼여행, 고민은 최소화 혜택은 최대화!",
+    "secondary_headline": "프리미엄 허니문 패키지와 풍성한 계약 사은품을 지금 상담받아보세요.",
+    "urgency_text": "이번 주말까지만 진행되는 특별 프로모션",
+    "call_to_action_text": "무료 초대권 신청하고 혜택 확인하기"
+  },
+  "benefits": {
+    "visit_gifts": [
+      "상담 시 스타벅스 커피 쿠폰(후기 작성 조건)",
+      "방문 고객 건강검진권",
+      "혼수 할인권(가전/가구 등)",
+      "입체 시즌 촬영권",
+      "제휴처 3개 상담 시 미니 캐리어 증정",
+      "청첩장 할인 쿠폰"
+    ],
+    "contract_benefits": [
+      "현장 계약 고객 대상 다이슨 슈퍼소닉 증정",
+      "현장 계약 고객 대상 마샬 블루투스 스피커 증정",
+      "후기 작성 시 모바일 상품권 증정(2/5만원)"
+    ],
+    "special_events": [
+      "신혼여행지별(유럽, 몰디브, 발리, 하와이, 코사무이, 카오락) 맞춤 특전 제공",
+      "현장 전문 상담사 1:1 매칭 상담"
+    ]
+  },
+  "event_details": {
+    "event": {
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "display_date": "12월 19일(토) ~ 12월 20일(일)",
+      "original_display_date": "12월 19일(토) ~ 12월 20일(일)"
+    },
+    "location": {
+      "sido": "충북",
+      "sido_en": "chungbuk",
+      "sigungu": "청주시",
+      "sigungu_en": "cheongju",
+      "address": "충북 청주시 서원구 1순환로 1066",
+      "venue": "삼성스토어 청주",
+      "parking_info": "현장 방문 시 무료 주차 가능",
+      "region_code": "chungcheong"
+    }
+  },
+  "conversion_and_trust": {
+    "required_form_fields": [
+      "이름",
+      "연락처",
+      "예식 예정일"
+    ],
+    "gift_conditions": "상담 완료 후 QR코드 스캔 및 현장 조건 충족 시 제공(후기 작성 등 상세 조건은 상담 시 안내)",
+    "trust_indicators": [
+      "2,000+ 실제 고객 후기",
+      "4.03점 이상의 고객 만족도",
+      "1:1 맞춤 전문 상담 보장"
+    ]
+  },
+  "structured_data": {
+    "event_schema": {
+      "@context": "https://schema.org",
+      "@type": "Event",
+      "name": "수원 허니문박람회",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "location": {
+        "@type": "Place",
+        "name": "삼성스토어 청주",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "충북 청주시",
+          "addressLocality": "청주",
+          "addressCountry": "KR"
+        }
+      },
+      "eventStatus": "https://schema.org/EventScheduled",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "KRW",
+        "availability": "https://schema.org/InStock"
+      },
+      "organizer": {
+        "@type": "Organization",
+        "name": "주식회사 레브웨딩",
+        "url": "https://ad.cpaad.co.kr/reveweddingH02/"
+      }
+    },
+    "faq_schema": [
+      {
+        "question": "무료 초대권 신청은 꼭 해야 하나요?",
+        "answer": "네, 박람회 원활한 상담과 혜택 제공을 위해 사전 무료 초대권 신청을 권장합니다."
+      },
+      {
+        "question": "상담만 받아도 사은품을 주나요?",
+        "answer": "방문 상담 시 건강검진권, 혼수 할인권 등 다양한 혜택이 제공되며 상세 내용은 행사장에서 안내받으실 수 있습니다."
+      },
+      {
+        "question": "신혼여행 패키지 외에 스드메 상담도 가능한가요?",
+        "answer": "안내 자료상으로는 허니문 중심의 박람회이며, 입점 업체 구성은 현장 상담을 통해 정확히 확인하실 수 있습니다."
+      },
+      {
+        "question": "주차가 가능한가요?",
+        "answer": "네, 행사 장소인 삼성스토어 청주에서 무료 주차가 가능합니다."
+      },
+      {
+        "question": "계약 혜택인 가전은 어떻게 수령하나요?",
+        "answer": "현장 계약 조건 충족 시 제공되며, 구체적인 수령 방식은 상담 시 담당 플래너에게 문의해 주시기 바랍니다."
+      }
+    ]
+  },
+  "content_depth": {
+    "target_audience_description": "결혼을 앞두고 신혼여행지 선택에 고민이 많은 예비부부를 대상으로 합니다. 합리적인 가격으로 프리미엄 신혼여행 패키지를 찾거나, 결혼 준비 과정에서 가전, 예복, 혼수 등 다양한 품목을 한자리에서 비교하고 사은품 혜택까지 챙기고자 하는 알뜰한 신혼부부에게 적합합니다. 결혼 준비를 어디서부터 시작해야 할지 막막한 분들을 위해 1:1 맞춤형 컨설팅을 제공하며, 효율적인 동선을 원하는 예비부부의 요구를 만족시킵니다.",
+    "exhibitor_highlights": [
+      "허니문 여행사",
+      "신혼 가전(삼성스토어)",
+      "혼수·가구 브랜드",
+      "웨딩 촬영 및 스튜디오 관련 업체"
+    ],
+    "comparison_hooks": [
+      "현장 계약 시 다이슨 등 고가 프리미엄 가전 증정",
+      "여행지별 최적화된 맞춤형 특전 및 서비스 제공",
+      "상담부터 계약까지 전문 플래너 1:1 밀착 케어"
+    ]
+  },
+  "search_cluster": {
+    "related_queries": [
+      "허니문 박람회 혜택",
+      "청주 웨딩박람회 일정",
+      "신혼여행 패키지 추천",
+      "결혼 준비 체크리스트",
+      "허니문 여행사 비교",
+      "스드메 패키지 가격",
+      "웨딩박람회 방문 선물",
+      "삼성스토어 혼수 혜택",
+      "유럽 신혼여행 준비",
+      "신혼여행지 인기 순위"
+    ],
+    "internal_link_anchors": [
+      {
+        "anchor": "신혼여행 준비 가이드",
+        "category": "honeymoon_info"
+      },
+      {
+        "anchor": "웨딩 박람회 일정 더 보기",
+        "category": "expo_schedule"
+      }
+    ],
+    "semantic_keywords": [
+      "스드메",
+      "혼수",
+      "예식장",
+      "신혼여행",
+      "허니문",
+      "웨딩홀",
+      "예복",
+      "예물",
+      "결혼준비",
+      "박람회사은품"
+    ]
+  },
+  "social_meta": {
+    "og_title": "수원 허니문박람회 | 신혼여행 혜택 총집합",
+    "og_description": "예비부부 필수 코스! 청주 삼성스토어에서 열리는 허니문박람회. 계약 시 다이슨 증정 및 여행지별 특별 혜택을 놓치지 마세요.",
+    "hashtags": [
+      "#수원허니문박람회",
+      "#청주웨딩박람회",
+      "#결혼준비",
+      "#신혼여행",
+      "#예비부부",
+      "#허니문준비",
+      "#웨딩박람회사은품",
+      "#삼성스토어청주",
+      "#신혼가전",
+      "#스드메"
+    ]
+  },
+  "campaign_assets": {
+    "target_url": "https://ad.cpaad.co.kr/reveweddingH02/",
+    "mainvisual": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_57MSVggjvVBiltzMuKmgwoU.jpg",
+    "thumbnail": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_ae7mOP2v4FMbf4tNtUzXmtwMeek.jpg",
+    "thumbnail2": "https://ad.cpaad.co.kr/data/ad/202611/568762912459e51e2cbac9155f241418_IaZObUKby1hHWYi7m57V59.jpg"
+  },
+  "updated_at": "2026-11-26 20:12:57",
+  "revenue": 50000
+}
